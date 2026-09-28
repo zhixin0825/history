@@ -1,0 +1,36 @@
+{
+  "id": "zz-02-04",
+  "ruler_index": 2,
+  "ruler": "桓公",
+  "regnal_year": 4,
+  "year_bce": 708,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_eca558f6c783.aspx",
+  "fetched_utc": "2026-09-28T16:36:41.202008+00:00",
+  "raw_sha256": "e64d277781d8e7948eeeed53ef806e49bdda595af7825b80d6e5b5d75b7b6e63",
+  "text_sha256": "dc924f9f40f4236b14f42a28e0abf3d2bc71bfa8cb6744bc7a5c64ec4a4145c3",
+  "text": "【经】\n\n四年春正月，公狩于郎。\n\n夏，天王使宰渠伯纠来聘。\n\n【传】\n\n四年春正月，公狩于郎。书时，礼也。\n\n夏，周宰渠伯纠来聘。父在，故名。\n\n秋，秦师侵芮，败焉，小之也。\n\n冬，王师、秦师围魏，执芮伯以归。",
+  "layers": [
+    {
+      "kind": "jing",
+      "text": "四年春正月，公狩于郎。\n\n夏，天王使宰渠伯纠来聘。",
+      "raw_start": 3,
+      "raw_end": 32,
+      "scope": "jing"
+    },
+    {
+      "kind": "zhuan",
+      "text": "四年春正月，公狩于郎。书时，礼也。\n\n夏，周宰渠伯纠来聘。父在，故名。\n\n秋，秦师侵芮，败焉，小之也。\n\n冬，王师、秦师围魏，执芮伯以归。",
+      "raw_start": 35,
+      "raw_end": 106,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 68,
+  "punctuation_counts": {
+    "，": 11,
+    "。": 8,
+    "、": 1
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}

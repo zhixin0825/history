@@ -1,0 +1,38 @@
+{
+  "id": "zz-02-01",
+  "ruler_index": 2,
+  "ruler": "桓公",
+  "regnal_year": 1,
+  "year_bce": 711,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_889bd1d6e2ba.aspx",
+  "fetched_utc": "2026-09-28T16:36:36.917373+00:00",
+  "raw_sha256": "74aed243a675e81a519bdcf7de8d11ef966ff1e8be9cebb067b042c01862d931",
+  "text_sha256": "3637e259cc1eb8c8b68a260b44bf28ffbf521b09160f96b1df6933f75e96a9ba",
+  "text": "【经】\n\n元年春，王正月，公即位。\n\n三月，公会郑伯于垂，郑伯以璧假许田。\n\n夏四月丁未，公及郑伯盟于越。\n\n秋，大水。\n\n冬十月。\n\n【传】\n\n元年春，公即位，修好于郑。郑人请复祀周公，卒易祊田。公许之。三月，郑伯以璧假许田，为周公，祊故也。\n\n夏四月丁未，公及郑伯盟于越，结祊成也。盟曰：“渝盟无享国。”\n\n秋，大水。凡平原出水为大水。\n\n冬，郑伯拜盟。\n\n宋华父督见孔父之妻于路，目逆而送之，曰：“美而艳。”",
+  "layers": [
+    {
+      "kind": "jing",
+      "text": "元年春，王正月，公即位。\n\n三月，公会郑伯于垂，郑伯以璧假许田。\n\n夏四月丁未，公及郑伯盟于越。\n\n秋，大水。\n\n冬十月。",
+      "raw_start": 3,
+      "raw_end": 68,
+      "scope": "jing"
+    },
+    {
+      "kind": "zhuan",
+      "text": "元年春，公即位，修好于郑。郑人请复祀周公，卒易祊田。公许之。三月，郑伯以璧假许田，为周公，祊故也。\n\n夏四月丁未，公及郑伯盟于越，结祊成也。盟曰：“渝盟无享国。”\n\n秋，大水。凡平原出水为大水。\n\n冬，郑伯拜盟。\n\n宋华父督见孔父之妻于路，目逆而送之，曰：“美而艳。”",
+      "raw_start": 71,
+      "raw_end": 207,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 142,
+  "punctuation_counts": {
+    "，": 18,
+    "。": 15,
+    "：": 2,
+    "“": 2,
+    "”": 2
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}

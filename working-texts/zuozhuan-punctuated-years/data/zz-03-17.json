@@ -1,0 +1,36 @@
+{
+  "id": "zz-03-17",
+  "ruler_index": 3,
+  "ruler": "庄公",
+  "regnal_year": 17,
+  "year_bce": 677,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_a280b835a09d.aspx",
+  "fetched_utc": "2026-09-28T16:37:30.838462+00:00",
+  "raw_sha256": "bfb910c872e4f5620273752f7348b6954e3dec80af8572715ae8dc4926c6f764",
+  "text_sha256": "e97a98424ae6138add54aea9ce6b375501adaca1875c0346f25759720722ea0e",
+  "text": "【经】\n\n十有七年春，齐人执郑詹。\n\n夏，齐人歼于遂。\n\n秋，郑詹自齐逃来。\n\n冬，多麋。\n\n【传】\n\n十七年春，齐人执郑詹，郑不朝也。\n\n夏，遂因氏、颌氏、工娄氏、须遂氏飨齐戍，醉而杀之，齐人歼焉。",
+  "layers": [
+    {
+      "kind": "jing",
+      "text": "十有七年春，齐人执郑詹。\n\n夏，齐人歼于遂。\n\n秋，郑詹自齐逃来。\n\n冬，多麋。",
+      "raw_start": 3,
+      "raw_end": 47,
+      "scope": "jing"
+    },
+    {
+      "kind": "zhuan",
+      "text": "十七年春，齐人执郑詹，郑不朝也。\n\n夏，遂因氏、颌氏、工娄氏、须遂氏飨齐戍，醉而杀之，齐人歼焉。",
+      "raw_start": 50,
+      "raw_end": 100,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 64,
+  "punctuation_counts": {
+    "，": 9,
+    "。": 6,
+    "、": 3
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "zz-03-05",
+  "ruler_index": 3,
+  "ruler": "庄公",
+  "regnal_year": 5,
+  "year_bce": 689,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_02b650351c17.aspx",
+  "fetched_utc": "2026-09-28T16:37:10.740740+00:00",
+  "raw_sha256": "a85dacea4ca2520fa25fcb9747793a16703ae14ac074aaba73c2f799bdbae7f3",
+  "text_sha256": "9c6f48070dd385d38ece1f14e024d534404a1c6a9212d906df26d661873bb01a",
+  "text": "【经】\n\n五年春，王正月。\n\n夏，夫人姜氏如齐师。\n\n秋，郳犁来朝。\n\n冬，公会齐人、宋人、陈人、蔡人伐卫。\n\n【传】\n\n五年秋，郳犁来来朝，名，未王命也。\n\n冬，伐卫，纳惠公也。",
+  "layers": [
+    {
+      "kind": "jing",
+      "text": "五年春，王正月。\n\n夏，夫人姜氏如齐师。\n\n秋，郳犁来朝。\n\n冬，公会齐人、宋人、陈人、蔡人伐卫。",
+      "raw_start": 3,
+      "raw_end": 56,
+      "scope": "jing"
+    },
+    {
+      "kind": "zhuan",
+      "text": "五年秋，郳犁来来朝，名，未王命也。\n\n冬，伐卫，纳惠公也。",
+      "raw_start": 59,
+      "raw_end": 90,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 54,
+  "punctuation_counts": {
+    "，": 9,
+    "。": 6,
+    "、": 3
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}

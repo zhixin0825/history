@@ -1,0 +1,35 @@
+{
+  "id": "zz-03-29",
+  "ruler_index": 3,
+  "ruler": "庄公",
+  "regnal_year": 29,
+  "year_bce": 665,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_3aea0899e2b1.aspx",
+  "fetched_utc": "2026-09-28T16:37:50.058320+00:00",
+  "raw_sha256": "06e878d9d3bb2aec081f2db728b37cc26fffccb92912a153236561c01e90e4f9",
+  "text_sha256": "46bd30e1fe4c7303ac493370ef078594e0b3bbb4bd73a8ba5d6ed5411ccd857c",
+  "text": "【经】\n\n二十有九年春，新延厩。\n\n夏，郑人侵许。\n\n秋，有蜚。\n\n冬十有二月，纪叔姬卒。城诸及防。\n\n【传】\n\n二十九年春，新作延厩，书不时也。凡马日中而出，日中而入。\n\n夏，郑人侵许。凡师有钟鼓曰伐，无曰侵，轻曰袭。\n\n秋，有蜚。为灾也。凡物不为灾不书。\n\n冬十二月，城诸及防，书时也。凡土功，龙见而毕务，戒事也。火见而致用，水昏正而栽，日至而毕。\n\n樊皮叛王。",
+  "layers": [
+    {
+      "kind": "jing",
+      "text": "二十有九年春，新延厩。\n\n夏，郑人侵许。\n\n秋，有蜚。\n\n冬十有二月，纪叔姬卒。城诸及防。",
+      "raw_start": 3,
+      "raw_end": 52,
+      "scope": "jing"
+    },
+    {
+      "kind": "zhuan",
+      "text": "二十九年春，新作延厩，书不时也。凡马日中而出，日中而入。\n\n夏，郑人侵许。凡师有钟鼓曰伐，无曰侵，轻曰袭。\n\n秋，有蜚。为灾也。凡物不为灾不书。\n\n冬十二月，城诸及防，书时也。凡土功，龙见而毕务，戒事也。火见而致用，水昏正而栽，日至而毕。\n\n樊皮叛王。",
+      "raw_start": 55,
+      "raw_end": 183,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 126,
+  "punctuation_counts": {
+    "，": 17,
+    "。": 16
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}

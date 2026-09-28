@@ -1,0 +1,35 @@
+{
+  "id": "zz-03-30",
+  "ruler_index": 3,
+  "ruler": "庄公",
+  "regnal_year": 30,
+  "year_bce": 664,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_b379ef919175.aspx",
+  "fetched_utc": "2026-09-28T16:37:51.482945+00:00",
+  "raw_sha256": "896c9ac72ba24fd17e86dacf8f3dfe61e96011f221daff4adaf043b1b3ce74e2",
+  "text_sha256": "8386390bb04a2ff3f484c3bb21288ddb35a8548cee1ea744823934078891a195",
+  "text": "【经】\n\n三十年春，王正月。\n\n夏，次于成。\n\n秋七月，齐人降鄣。\n\n八月癸亥，葬纪叔姬。\n\n九月庚午朔，日有食之。鼓，用牲于社。\n\n冬，公及齐侯遇于鲁济。\n\n齐人伐山戎。\n\n【传】\n\n三十年春，王命虢公讨樊皮。\n\n夏四月丙辰，虢公入樊，执樊仲皮，归于京师。\n\n楚公子元归自伐郑而处王宫，鬥射师谏，则执而梏之。\n\n秋，申公鬥班杀子元。鬥穀於菟为令尹，自毁其家以纾楚国之难。\n\n冬，遇于鲁济，谋山戎也，以其病燕故也。",
+  "layers": [
+    {
+      "kind": "jing",
+      "text": "三十年春，王正月。\n\n夏，次于成。\n\n秋七月，齐人降鄣。\n\n八月癸亥，葬纪叔姬。\n\n九月庚午朔，日有食之。鼓，用牲于社。\n\n冬，公及齐侯遇于鲁济。\n\n齐人伐山戎。",
+      "raw_start": 3,
+      "raw_end": 88,
+      "scope": "jing"
+    },
+    {
+      "kind": "zhuan",
+      "text": "三十年春，王命虢公讨樊皮。\n\n夏四月丙辰，虢公入樊，执樊仲皮，归于京师。\n\n楚公子元归自伐郑而处王宫，鬥射师谏，则执而梏之。\n\n秋，申公鬥班杀子元。鬥穀於菟为令尹，自毁其家以纾楚国之难。\n\n冬，遇于鲁济，谋山戎也，以其病燕故也。",
+      "raw_start": 91,
+      "raw_end": 207,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 145,
+  "punctuation_counts": {
+    "，": 18,
+    "。": 14
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}
