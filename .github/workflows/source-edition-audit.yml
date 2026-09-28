@@ -1,0 +1,111 @@
+name: Chronology source edition audit
+on:
+  push:
+    branches: [work/source-edition-audit]
+    paths: [.github/workflows/source-edition-audit.yml]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - name: Structural audit and public edition samples
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import collections, hashlib, json, re, shutil, time, urllib.request, urllib.parse, urllib.error
+          from datetime import datetime, timezone
+          root=Path('.')
+          out=Path('audit-output'); out.mkdir(exist_ok=True)
+          def save(path,obj):
+              p=out/path; p.parent.mkdir(parents=True,exist_ok=True)
+              p.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          def stats(path):
+              b=path.read_bytes(); s=b.decode('utf-8-sig')
+              body='\n'.join(l for l in s.splitlines() if not l.startswith(('#','<pb:')))
+              body=body.replace('¶','').replace('/','')
+              depth=0; inner=0; opens=0; closes=0; neg=[]
+              for i,c in enumerate(body):
+                  if c=='(': depth+=1; opens+=1
+                  elif c==')':
+                      closes+=1; depth-=1
+                      if depth<0: neg.append(i); depth=0
+                  elif depth>0 and not c.isspace(): inner+=1
+              nonspace=sum(not c.isspace() and c not in '()' for c in body)
+              return {'path':str(path),'bytes':len(b),'sha256':hashlib.sha256(b).hexdigest(),
+                  'git_blob_sha':hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest(),
+                  'lines':len(s.splitlines()),'u_fffd':s.count('\ufffd'),
+                  'page_markers':s.count('<pb:'),'pilcrow_markers':s.count('¶'),
+                  'punctuation_marks':sum(s.count(c) for c in '。，、；：？！「」'),
+                  'parentheses_open':opens,'parentheses_close':closes,'parentheses_unmatched_end':depth,
+                  'parentheses_unmatched_close':len(neg),
+                  'inside_parentheses_nonspace':inner,'body_nonspace_without_parentheses':nonspace,
+                  'baseedition_values':re.findall(r'^#\+PROPERTY: BASEEDITION (.+)$',s,re.M),
+                  'page_edition_values':sorted(set(re.findall(r'<pb:KR2b0007_([^_]+)_',s)))}
+          paths=[Path('classics/ccdh/13_cq_mod.txt'),Path('classics/ccdh/13_zz_mod.txt')]
+          paths+=sorted(Path('zizhi-tongjian/kanripo').glob('KR2b0007_*.txt'))
+          rows=[stats(p) for p in paths]
+          for p in paths:
+              target=out/'originals'/p;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
+          for p in [Path('provenance/KANRIPO_SOURCE.txt'),Path('provenance/CCDH_README.txt')]:
+              target=out/'originals'/p;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
+          tj=[r for r in rows if 'KR2b0007_' in r['path'] and not r['path'].endswith('_000.txt')]
+          cq=Path('classics/ccdh/13_cq_mod.txt').read_text(encoding='utf-8-sig').splitlines()
+          hs=[(i,int(m[1]),int(m[2])) for i,l in enumerate(cq) if (m:=re.fullmatch(r'G\*(\d+)\*Y\*(\d+)',l))]
+          cqyears=[]
+          for j,(i,g,y) in enumerate(hs):
+              e=hs[j+1][0] if j+1<len(hs) else len(cq)
+              text=[l for l in cq[i+1:e] if l.strip() and not l.startswith('QS*') and not re.fullmatch(r'[元一二三四五六七八九十百有]+年。?',l)]
+              cqyears.append({'duke_id':g,'regnal_year':y,'start_line':i+1,'end_line':e,'has_body':bool(text),'text':'\n'.join(text)})
+          totals={k:sum(r[k] for r in tj) for k in ['bytes','lines','u_fffd','page_markers','pilcrow_markers','punctuation_marks','inside_parentheses_nonspace','body_nonspace_without_parentheses']}
+          totals['inside_parentheses_fraction']=totals['inside_parentheses_nonspace']/totals['body_nonspace_without_parentheses']
+          summary={'input_commit':'4d156ee7140a46e9e3979ed8ddea4242452a9528',
+              'audit_scope':'Structural scan, not a word-by-word textual correctness score',
+              'tj_body_files':len(tj),'tj_volume_ids':[int(Path(r['path']).stem[-3:]) for r in tj],
+              'tj_totals':totals,'tj_unbalanced_files':[r['path'] for r in tj if r['parentheses_unmatched_end'] or r['parentheses_unmatched_close']],
+              'chunqiu_year_labels':len(cqyears),'chunqiu_nonempty_years':sum(x['has_body'] for x in cqyears),
+              'chunqiu_empty_years':[x for x in cqyears if not x['has_body']],
+              'caveat':'Inside-parentheses count includes notes and header date-range descriptions; typography is not itself textual error.'}
+          save(Path('file-audit.json'),rows);save(Path('summary.json'),summary);save(Path('chunqiu-years.json'),cqyears)
+          print(json.dumps(summary,ensure_ascii=False,indent=2))
+          # Small public sample only. No account credentials; do not bypass denial or throttling.
+          titles=['春秋經/隱公','春秋經/哀公','春秋左氏傳/隱公','春秋左氏傳/哀公','資治通鑑/卷001','資治通鑑/卷007','資治通鑑/卷018','資治通鑑/卷294','資治通鑒 (胡三省音注)/卷007']
+          manifest=[]
+          for n,title in enumerate(titles,1):
+              params={'action':'parse','page':title,'prop':'text|wikitext|sections|revid','format':'json','maxlag':'5','redirects':'1'}
+              url='https://zh.wikisource.org/w/api.php?'+urllib.parse.urlencode(params)
+              rec={'title':title,'url':url,'retrieved_at':datetime.now(timezone.utc).isoformat()}
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'HistoryEditionAudit/1.0 (public-text comparison; limited nine-page sample)'})
+                  with urllib.request.urlopen(req,timeout=25) as response:
+                      b=response.read();rec['status']=response.status
+                  data=json.loads(b)
+                  if 'error' in data:
+                      rec['error']=data['error'];manifest.append(rec)
+                      if data['error'].get('code')=='maxlag': break
+                      continue
+                  parsed=data['parse'];rec['revid']=parsed.get('revid');rec['bytes']=len(b);rec['sha256']=hashlib.sha256(b).hexdigest()
+                  rec['resolved_title']=parsed.get('title');rec['fixed_url']='https://zh.wikisource.org/w/index.php?oldid='+str(parsed.get('revid'))
+                  rec['local_file']=f'wikisource/{n:02d}.json'
+                  save(Path(rec['local_file']),data)
+                  print('PUBLIC_SAMPLE',title,rec['revid'],len(b))
+              except urllib.error.HTTPError as e:
+                  rec['status']=e.code;rec['error']=str(e);manifest.append(rec)
+                  if e.code in (401,403,429): break
+                  continue
+              except Exception as e:
+                  rec['error']=str(e)
+              manifest.append(rec);time.sleep(1.2)
+          save(Path('public-sample-manifest.json'),manifest)
+          PY
+      - name: Verify no source files were changed
+        run: git diff --exit-code -- texts/ classics/ zizhi-tongjian/ provenance/ SHA256SUMS.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chronology-source-audit
+          path: audit-output/
+          retention-days: 7
+          if-no-files-found: error
