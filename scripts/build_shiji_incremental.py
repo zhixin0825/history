@@ -8,6 +8,7 @@ import argparse, bisect, collections, hashlib, json, re, shutil, tempfile
 from pathlib import Path
 import build_shiji_trial as legacy
 from shiji_first_appearance import plan_placements
+from shiji_sequence import order_units, check_pages
 
 NEW_CHAPTERS = [31,64,65,66]
 PUNCT_SNAPSHOT='a6576d718e55971fddf11e6c26023e8c241a9362'
@@ -134,7 +135,7 @@ def run(root:Path):
             if not m:return 99
             n={'正':1,'端':1,'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9,'十':10,'十一':11,'十二':12}[m[1]]
             return (n-10)%12 if 109<=y<=246 else n
-        rows.sort(key=month)
+        rows=order_units(rows,month)
         for n,u in enumerate(rows,1):text.append(render(u,'../appendix/sources.md',n))
         text += ['---',' · '.join(nav),'[人物背景与未确年材料](../appendix/unplaced.md) · [文献与评论](../appendix/documents.md)']
         (out/'years'/yearpage(y)).write_text('\n\n'.join(text)+'\n',encoding='utf-8')
@@ -181,6 +182,7 @@ def run(root:Path):
             assert target.exists(),(f,href)
             if frag:assert f'id="{frag}"' in target.read_text(encoding='utf-8'),(f,href)
     jwrite(out/'data/validation.json',{'source_preserved':True,'all_local_links_and_anchors_resolve':True,'old_record_ids_preserved':True,'old_dates_preserved':True,'reviewed_chapter_paragraph_coverage':True,'new_source_record_count':stats['new_review_records'],'no_semantic_accuracy_estimate':True})
+    check_pages(root)
     print(json.dumps(stats,ensure_ascii=False,indent=2));return stats
 if __name__=='__main__':
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--root',type=Path,default=Path('.'));run(p.parse_args().root.resolve())
