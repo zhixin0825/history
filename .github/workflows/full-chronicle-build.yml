@@ -1,0 +1,66 @@
+name: Build full chronology checkpoint
+on:
+  push:
+    branches: [work/full-chronicle-20260929]
+    paths:
+      - .github/workflows/full-chronicle-build.yml
+permissions:
+  contents: read
+jobs:
+  checkpoint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: work/full-chronicle-20260929
+      - name: Verify source record shapes and paragraph coverage
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, collections, hashlib
+          root=Path('.')
+          rows=[]; seen=set()
+          for p in sorted((root/'chronicle/chunqiu/batches').glob('*.psv')):
+              for n,s in enumerate(p.read_text(encoding='utf-8').splitlines(),1):
+                  if not s.strip() or s.startswith('#'): continue
+                  f=s.split('|'); assert len(f)==6,(p,n,len(f))
+                  g,y=map(int,f[0].split('.')); idx=int(f[1]); key=(g,y,idx)
+                  assert key not in seen,('duplicate paragraph',key);seen.add(key)
+                  src=json.loads((root/f'working-texts/zuozhuan-punctuated-years/data/zz-{g:02d}-{y:02d}.json').read_text())
+                  paras='\n\n'.join(z['text'] for z in src['layers'] if z['kind']=='jing').split('\n\n')
+                  assert 1<=idx<=len(paras),(key,len(paras))
+                  rows.append({'key':key,'type':f[2],'source':paras[idx-1],'plain':f[4],'source_file':str(p),'line':n})
+          complete=[];partial=[]
+          for p in sorted((root/'working-texts/zuozhuan-punctuated-years/data').glob('zz-*.json')):
+              d=json.loads(p.read_text());raw='\n\n'.join(z['text'] for z in d['layers'] if z['kind']=='jing')
+              if not raw.strip():continue
+              keys={(d['ruler_index'],d['regnal_year'],i) for i in range(1,len(raw.split('\n\n'))+1)}
+              if keys<=seen:complete.append(d['id'])
+              elif keys&seen:partial.append({'id':d['id'],'missing':sorted(keys-seen)})
+          for p in sorted((root/'chronicle/shiji-trial/batches/full').glob('*.psv')):
+              for n,s in enumerate(p.read_text(encoding='utf-8').splitlines(),1):
+                  if s.strip() and not s.startswith('#'):assert len(s.split('|'))==10,(p,n)
+          report={'chunqiu_source_paragraphs_drafted':len(rows),'complete_jing_years':len(complete),'partial_years':partial,'draft_types':dict(collections.Counter(r['type'] for r in rows)),'shiji_sha256':hashlib.sha256((root/'texts/01_shiji_full.txt').read_bytes()).hexdigest(),'semantic_independent_review':False}
+          Path('checkpoint-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: full-chronicle-draft-checkpoint
+          path: |
+            checkpoint-audit.json
+            chronicle/
+            scripts/
+            tests/
+            texts/01_shiji_full.txt
+            classics/ccdh/13_cq_mod.txt
+            classics/ccdh/13_zz_mod.txt
+            zizhi-tongjian/kanripo/
+            working-texts/zuozhuan-punctuated-years/
+            working-texts/chronology-punctuated/main/
+            working-texts/chronology-punctuated/manifest.json
+          retention-days: 14
+          if-no-files-found: error
