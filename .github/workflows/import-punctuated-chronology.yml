@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/import-punctuated-chronology.yml
       - scripts/import_punctuated_chronology.py
+      - scripts/refine_punctuated_chronology.py
 permissions:
   contents: write
 concurrency:
@@ -18,8 +19,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: work/punctuated-chronology
-      - name: Download public punctuated texts and preserve revision provenance
+      - name: Download or replay cached punctuated texts
         run: python scripts/import_punctuated_chronology.py --cached
+      - name: Render existing punctuation and quarantine rejected sources
+        run: python scripts/refine_punctuated_chronology.py
       - name: Check originals and prior chronology have not changed
         run: git diff --exit-code -- texts/ classics/ zizhi-tongjian/ chronicle/ SHA256SUMS.txt
       - name: Mark unpunctuated outputs as intermediate only
@@ -38,7 +41,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add working-texts/chronology-punctuated/ working-texts/chronology-clean/README.md
           if ! git diff --cached --quiet; then
-            git commit -m 'Store punctuated candidates with checks and mark unpunctuated files intermediate'
+            git commit -m 'Validate 294 punctuated Tongjian volumes and quarantine six Zuozhuan sections'
             git push origin HEAD:work/punctuated-chronology
           fi
       - uses: actions/upload-artifact@v4
@@ -48,5 +51,6 @@ jobs:
           path: |
             working-texts/chronology-punctuated/
             scripts/import_punctuated_chronology.py
+            scripts/refine_punctuated_chronology.py
           retention-days: 14
           if-no-files-found: warn
