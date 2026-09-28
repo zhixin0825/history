@@ -1,0 +1,49 @@
+{
+  "source_commit": "1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54",
+  "source_bytes": 2141992,
+  "source_blob": "e3fdd88dc0dad8e918fb99979f759cf4a17ff144",
+  "source_sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb",
+  "source_lines": 6859,
+  "chapter_count": 130,
+  "full_chapters_first_review": [
+    29,
+    48,
+    62,
+    63,
+    86
+  ],
+  "reviewed_substantive_source_lines": 117,
+  "review_records": 122,
+  "dated_records": 54,
+  "undated_records": 68,
+  "year_pages": 26,
+  "evidence_cards": 151,
+  "chunqiu_year_markers": 255,
+  "chunqiu_nonempty_years": 244,
+  "empty_year_markers": [
+    "鲁哀公17年",
+    "鲁哀公18年",
+    "鲁哀公19年",
+    "鲁哀公20年",
+    "鲁哀公21年",
+    "鲁哀公22年",
+    "鲁哀公23年",
+    "鲁哀公24年",
+    "鲁哀公25年",
+    "鲁哀公26年",
+    "鲁哀公27年"
+  ],
+  "table_candidate_rows": 635,
+  "empty_title_line_count": 3,
+  "pending_source_lines": 6596,
+  "kind_counts": {
+    "记载": 1,
+    "背景": 16,
+    "事件": 82,
+    "文献": 7,
+    "评论": 9,
+    "后补": 2,
+    "异说": 5
+  },
+  "status": "全书结构入库；5篇分流初审；绝非全书编年完成；未调用外部GPT批处理API"
+}
