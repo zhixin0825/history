@@ -1,0 +1,42 @@
+name: Shiji corpus audit
+on:
+  push:
+    branches: [work/shiji-chronicle-trial]
+    paths: [.github/workflows/shiji-corpus-audit.yml]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check structure and create private working corpus
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib, json, re, shutil
+          root = Path('.')
+          out = Path('trial-artifact')
+          paths = [Path('texts/01_shiji_full.txt'), Path('classics/ccdh/13_cq_mod.txt'), Path('classics/ccdh/13_zz_mod.txt')]
+          paths += sorted(Path('zizhi-tongjian/kanripo').glob('KR2b0007_*.txt'))[:24]
+          inventory = []
+          for p in paths:
+              b = p.read_bytes()
+              target = out / p
+              target.parent.mkdir(parents=True, exist_ok=True)
+              target.write_bytes(b)
+              inventory.append({'path': str(p), 'bytes': len(b), 'sha256': hashlib.sha256(b).hexdigest(), 'lines': len(b.decode('utf-8-sig').splitlines())})
+          text = Path('texts/01_shiji_full.txt').read_text(encoding='utf-8-sig')
+          headings = [{'line': i, 'marker': line} for i, line in enumerate(text.splitlines(), 1) if re.fullmatch(r'\*01-\d{3}\*', line.strip())]
+          (out / 'inventory.json').write_text(json.dumps(inventory, ensure_ascii=False, indent=2), encoding='utf-8')
+          (out / 'chapter_markers.json').write_text(json.dumps(headings, ensure_ascii=False, indent=2), encoding='utf-8')
+          print(json.dumps({'inventory': inventory, 'chapter_count': len(headings), 'first_markers': headings[:4], 'last_markers': headings[-4:]}, ensure_ascii=False, indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shiji-corpus-trial
+          path: trial-artifact/
+          retention-days: 3
+          if-no-files-found: error
