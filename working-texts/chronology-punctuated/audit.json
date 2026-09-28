@@ -1,0 +1,18 @@
+{
+  "requested": 306,
+  "received": 306,
+  "tongjian_requested": 294,
+  "zuozhuan_requested": 12,
+  "status_counts": {
+    "needs_structural_review": 306
+  },
+  "errors": [],
+  "fetch_time_utc": "2026-09-28T16:11:39.986698+00:00",
+  "limits": [
+    "Not a scholarly critical edition.",
+    "No translation, LLM punctuation, or silent character correction.",
+    "Markup checks cannot establish completeness or correctness of sentence interpretation.",
+    "Jing/Zhuan headings preserved; post-lin continuation not reclassified here.",
+    "Old raw sources and chronology citations are not replaced."
+  ]
+}
