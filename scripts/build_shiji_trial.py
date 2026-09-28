@@ -144,7 +144,7 @@ def run(root):
             pending.append({'chapter':ch['chapter'],'start_line':a,'end_line':min(a+7,ch['end_line']),'status':'待GPT逐段解读','must_check':['段内多事件','回叙预叙','书名缺损','世系论说','定年证据','同书重复和异说'],'instruction':'逐段阅读；每项保存原文片段和时间判断，未确年用null，不以著名事件或关键词搜索代替。'})
     jl('data/pending-review-queue.jsonl',pending)
     md=['# 《史记》编年试编｜第一轮实际结果',f'全书 **130篇** 建立原文行索引；逐段初审 **5篇**（河渠书、陈涉世家、管晏列传、老子韩非列传、刺客列传），另抽查相关本纪、世家、年表。形成 **{len(records)}条初审记录、{len(years)}张年份页**，其中 **{stats["dated_records"]}条暂系年、{stats["undated_records"]}条未确年或保留相对时间**。','**不是《史记》全书已经编年完成，也不是这些年份已经搜齐全书。** 结构入库与逐段解读分别计数；诗歌、长篇论说还没有逐句翻译完。','[问题与暂定办法](REPORT.md) · [原文卡片](appendix/sources.md) · [未确年材料](appendix/unplaced.md) · [文献与评论](appendix/documents.md) · [审计统计](data/audit.json)','## 已有年份页（非连续年表）','| 年条标签 | 本轮记录数 |\n|---|---:|']
-    md += [f'| [公元前{y}年](years/bce-{y:04d}.md) | {sum(r["year_bce"]==y for r in records)} |' for y in years]
+    md[-1] += '\n' + '\n'.join([f'| [公元前{y}年](years/bce-{y:04d}.md) | {sum(r["year_bce"]==y for r in records)} |' for y in years])
     md += ['## 骨架和完成度','《春秋》255个年标记中244个有正文。哀公十四年含获麟后续文，十五、十六年是续经；十七至二十七年为空标签。空标签不表示那年没有历史事件。','《十二诸侯年表》《六国年表》另生成635条年表行候选；不计入完成事件，各国空白列、段内回叙与纪年冲突仍待校对。卷十四最后一个年行跨两行，已合成一个候选。','严格以获麟为《春秋》终点时，前480—404年无法直接由这两部编年书提供连续年条。《左传》可补一部分；上古和其余缺口暂保留年表补轴来源，不冒称《通鉴》已有这些年条。','## 重建方法','仓库根目录运行 `python scripts/build_shiji_trial.py`。仅标准库，无模型API调用。`reviewed.psv` 是本轮GPT初审结果；程序检查输入哈希、原文去向、引用范围和页面链接，然后生成可读页面与全书待处理队列。','原始文本不改，引用固定到输入提交；更换底本必须重新核对行号。所有诗文、评论和不明年代的故事保留原文，不被静默删除。','[原有逐年读史入口](../README.md)']
     write('README.md','\n\n'.join(md))
     broken=[]
