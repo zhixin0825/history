@@ -5,6 +5,10 @@ on:
     paths:
       - .github/workflows/shiji-corpus-audit.yml
       - scripts/build_shiji_trial.py
+      - scripts/shiji_first_appearance.py
+      - tests/test_first_appearance.py
+      - chronicle/EDITORIAL_RULES.md
+      - chronicle/shiji-trial/first-appearance.json
       - chronicle/shiji-trial/reviewed.psv
       - chronicle/shiji-trial/REPORT.md
 permissions:
@@ -20,43 +24,50 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: work/shiji-chronicle-trial
-      - name: Apply idempotent index-renderer repair
+      - name: Enable first-appearance renderer and record confirmed rules
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
           p = Path('scripts/build_shiji_trial.py')
           original = p.read_text(encoding='utf-8')
-          lines = original.splitlines()
-          for i, s in enumerate(lines):
-              if s.startswith("    md += [f'| [公元前"):
-                  expression = s[len('    md += '):]
-                  lines[i] = "    md[-1] += '\\n' + '\\n'.join(" + expression + ")"
-          repaired = '\n'.join(lines) + '\n'
-          compile(repaired, str(p), 'exec')
-          if repaired != original:
-              p.write_text(repaired, encoding='utf-8')
+          hook = '    from shiji_first_appearance import apply_placements\n    stats = apply_placements(root, stats)\n'
+          if hook not in original:
+              assert original.count('    broken=[]') == 1
+              updated = original.replace('    broken=[]', hook + '    broken=[]', 1)
+              compile(updated, str(p), 'exec')
+              p.write_text(updated, encoding='utf-8')
+          p = Path('chronicle/shiji-trial/REPORT.md')
+          report = p.read_text(encoding='utf-8')
+          marker = '## 集中需决定的四项规则'
+          if marker in report:
+              note = '## 已确认的四项规则与新增登场补叙规则\n\n用户于2026-09-28同意首轮四项建议，并补充：人物登场前的经历可以在首次登场时交代。\n\n[已确认编写规则](../EDITORIAL_RULES.md) · [人物补叙入口](appendix/first-appearances.md)\n\n阅读位置和实际发生时间分开：前事展示于登场年份，原记录未确年的仍未确年；有确年的往事保留原年份，通过链接回顾。原文支持前后关系才补叙，不能把后来故事及后裔事迹全部挪进早年。当前登场位置基于已审材料暂定，发现更早有据事件后可调整。\n\n本次落实陈胜、管仲、韩非、曹沫、专诸、聂政六条既有前事。原122条记录、54条暂系年及68条未确年的口径不变，不把补叙算成新事件。此前各节保留首轮问题记录，最新编写规则以链接文件为准。\n'
+              p.write_text(report.split(marker, 1)[0] + note, encoding='utf-8')
           PY
       - name: Render and validate
         run: python scripts/build_shiji_trial.py
-      - name: Check original corpus is unchanged
-        run: git diff --exit-code -- texts/ classics/ zizhi-tongjian/ SHA256SUMS.txt
-      - name: Save derived files and renderer repair
+      - name: Test reading placement separately from historical dating
+        run: python -m unittest discover -s tests -v
+      - name: Check original corpus and historical records are unchanged
+        run: git diff --exit-code -- texts/ classics/ zizhi-tongjian/ SHA256SUMS.txt chronicle/shiji-trial/data/records.jsonl chronicle/shiji-trial/data/source-ledger.jsonl chronicle/shiji-trial/appendix/sources.md chronicle/shiji-trial/reviewed.psv
+      - name: Save generated reading pages and renderer hook
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add chronicle/shiji-trial/ scripts/build_shiji_trial.py
           if ! git diff --cached --quiet; then
-            git commit -m 'Generate and validate Shiji trial with readable year index'
+            git commit -m 'Render six first-appearance backstories without changing occurrence dates'
             git push origin HEAD:work/shiji-chronicle-trial
           fi
       - uses: actions/upload-artifact@v4
         with:
-          name: shiji-chronology-trial-results
+          name: shiji-first-appearance-results
           path: |
             chronicle/
             scripts/build_shiji_trial.py
+            scripts/shiji_first_appearance.py
+            tests/test_first_appearance.py
             README.md
             provenance/CCDH_README.txt
             provenance/KANRIPO_SOURCE.txt
