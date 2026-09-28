@@ -5,13 +5,14 @@
   "regnal_year": 26,
   "year_bce": 668,
   "source_url": "https://m.gushiwen.cn/guwen/bookv_c242a0ac6ba6.aspx",
-  "fetched_utc": "2026-09-28T16:37:45.388204+00:00",
+  "fetched_utc": "2026-09-28T16:45:53.738940+00:00",
   "raw_sha256": "7d4b0aefd1e96f2b7ed428ef93e0900bbdf7e7177e09fdeda7ad479852d16f65",
   "text_sha256": "60c0e63f261112a1f01252116231c5b796f38f83ff462f8d638fa70b85cded28",
   "text": "【经】\n\n二十有六年春，公伐戎。\n\n夏，公至自伐戎。\n\n曹杀其大夫。\n\n秋，公会宋人、齐人伐徐。\n\n冬十有二月癸亥朔，日有食之。\n\n【传】\n\n二十六年春，晋士蒍为大司空。\n\n夏，士蒍城绛，以深其宫。\n\n秋，虢人侵晋。\n\n冬，虢人又侵晋。",
   "layers": [
     {
       "kind": "jing",
+      "source_heading": "经",
       "text": "二十有六年春，公伐戎。\n\n夏，公至自伐戎。\n\n曹杀其大夫。\n\n秋，公会宋人、齐人伐徐。\n\n冬十有二月癸亥朔，日有食之。",
       "raw_start": 3,
       "raw_end": 66,
@@ -19,6 +20,7 @@
     },
     {
       "kind": "zhuan",
+      "source_heading": "传",
       "text": "二十六年春，晋士蒍为大司空。\n\n夏，士蒍城绛，以深其宫。\n\n秋，虢人侵晋。\n\n冬，虢人又侵晋。",
       "raw_start": 69,
       "raw_end": 118,

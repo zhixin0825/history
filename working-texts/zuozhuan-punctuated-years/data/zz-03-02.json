@@ -5,13 +5,14 @@
   "regnal_year": 2,
   "year_bce": 692,
   "source_url": "https://m.gushiwen.cn/guwen/bookv_a3a52f1e43f2.aspx",
-  "fetched_utc": "2026-09-28T16:37:06.260697+00:00",
+  "fetched_utc": "2026-09-28T16:45:53.700602+00:00",
   "raw_sha256": "0c9a70be691b1872a2e4ecddd0ccbdf838bf40b126bd27fbd0f1311739635423",
   "text_sha256": "e0eca339da0b100b68d668ed5ded67a7ca127fbc4496e7a4df772b1f1e13b75f",
   "text": "【经】\n\n二年春，王二月，葬陈庄公。\n\n夏，公子庆父帅师伐於馀丘。\n\n秋七月，齐王姬卒。\n\n冬十有二月，夫人姜氏会齐侯于禚。乙酉，宋公冯卒。\n\n【传】\n\n二年冬，夫人姜氏会齐侯于禚，书奸也。",
   "layers": [
     {
       "kind": "jing",
+      "source_heading": "经",
       "text": "二年春，王二月，葬陈庄公。\n\n夏，公子庆父帅师伐於馀丘。\n\n秋七月，齐王姬卒。\n\n冬十有二月，夫人姜氏会齐侯于禚。乙酉，宋公冯卒。",
       "raw_start": 3,
       "raw_end": 72,
@@ -19,6 +20,7 @@
     },
     {
       "kind": "zhuan",
+      "source_heading": "传",
       "text": "二年冬，夫人姜氏会齐侯于禚，书奸也。",
       "raw_start": 75,
       "raw_end": 95,

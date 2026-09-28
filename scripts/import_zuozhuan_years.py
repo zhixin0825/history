@@ -87,10 +87,11 @@ def run(limit=255):
             raw=fetch(url,OUT/'raw'/f'{stem}.html.gz');doc=parse(raw);text=original_text(doc)
             titles=[n.text() for n in doc.walk() if n.tag=='h1']
             if len(titles)!=1 or name not in titles[0].translate(TRANS):raise ValueError('Page heading does not match index')
-            markers=list(re.finditer(r'[〖【](经|經|传|傳)[〗】]',text));layers=[]
+            markers=list(re.finditer(r'[〖【](经传|经|經|传|傳)[〗】]',text));layers=[]
             for i,m in enumerate(markers):
                 end=markers[i+1].start() if i+1<len(markers) else len(text)
-                layers.append({'kind':'jing' if m[1] in '经經' else 'zhuan','text':text[m.end():end].strip(),'raw_start':m.end(),'raw_end':end})
+                layers.append({'kind':'jing' if m[1] in ('经','經') else 'zhuan','source_heading':m[1],'text':text[m.end():end].strip(),'raw_start':m.end(),'raw_end':end})
+            if any(x.get('source_heading')=='经传' for x in layers) and (g,y)!=(7,14):raise ValueError('Unexpected combined heading: needs explicit review')
             if not layers or any(not x['text'] for x in layers):raise ValueError('Missing or empty explicit textual layer')
             if len([x for x in layers if x['kind']=='zhuan'])!=1:raise ValueError('Missing or repeated Zhuan layer')
             if g<12 or y<=16:

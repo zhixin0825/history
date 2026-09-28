@@ -1,0 +1,33 @@
+{
+  "id": "zz-12-22",
+  "ruler_index": 12,
+  "ruler": "哀公",
+  "regnal_year": 22,
+  "year_bce": 473,
+  "source_url": "https://m.gushiwen.cn/guwen/bookv_344fe3961d9a.aspx",
+  "fetched_utc": "2026-09-28T16:48:58.682960+00:00",
+  "raw_sha256": "f648448782eb8d2d717811fd99218ef98a76efe3e706ba2bc7827bc578018bed",
+  "text_sha256": "818fea02f04f1a5d4e0f6a3dbbb6194dc5bc397b54018d9153e95abea590ff25",
+  "text": "【传】\n\n二十二年夏四月，邾隐公自齐奔越，曰：“吴为无道，执父立子。”越人归之，大子革奔越。\n\n冬十一月丁卯，越灭吴。请使吴王居甬东，辞曰：“孤老矣，焉能事君？”乃缢。越人以归。",
+  "layers": [
+    {
+      "kind": "zhuan",
+      "source_heading": "传",
+      "text": "二十二年夏四月，邾隐公自齐奔越，曰：“吴为无道，执父立子。”越人归之，大子革奔越。\n\n冬十一月丁卯，越灭吴。请使吴王居甬东，辞曰：“孤老矣，焉能事君？”乃缢。越人以归。",
+      "raw_start": 3,
+      "raw_end": 89,
+      "scope": "zhuan"
+    }
+  ],
+  "cjk_characters": 64,
+  "punctuation_counts": {
+    "，": 7,
+    "：": 2,
+    "“": 2,
+    "。": 5,
+    "”": 2,
+    "？": 1
+  },
+  "long_sentence_warnings": 0,
+  "status": "punctuated_structure_checked_not_critical_edition"
+}

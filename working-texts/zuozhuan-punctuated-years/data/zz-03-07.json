@@ -5,13 +5,14 @@
   "regnal_year": 7,
   "year_bce": 687,
   "source_url": "https://m.gushiwen.cn/guwen/bookv_0d2804415eab.aspx",
-  "fetched_utc": "2026-09-28T16:37:14.413063+00:00",
+  "fetched_utc": "2026-09-28T16:45:53.708184+00:00",
   "raw_sha256": "7cf760fff039314e42c2ec0f200392232edc4a8d171adaecb0dabbcc358e312e",
   "text_sha256": "585dead970c179fe4a790c3bd696271e0ce3284a14ea57c7a3a821a78c76b59d",
   "text": "【经】\n\n七年春，夫人姜氏会齐侯于防。\n\n夏四月辛卯，夜，恒星不见。夜中，星陨如雨。\n\n秋，大水。无麦、苗。\n\n冬，夫人姜氏会齐侯于穀。\n\n【传】\n\n七年春，文姜会齐侯于防，齐志也。\n\n夏，恒星不见，夜明也。星陨如雨，与雨偕也。\n\n秋，无麦、苗，不害嘉谷也。",
   "layers": [
     {
       "kind": "jing",
+      "source_heading": "经",
       "text": "七年春，夫人姜氏会齐侯于防。\n\n夏四月辛卯，夜，恒星不见。夜中，星陨如雨。\n\n秋，大水。无麦、苗。\n\n冬，夫人姜氏会齐侯于穀。",
       "raw_start": 3,
       "raw_end": 70,
@@ -19,6 +20,7 @@
     },
     {
       "kind": "zhuan",
+      "source_heading": "传",
       "text": "七年春，文姜会齐侯于防，齐志也。\n\n夏，恒星不见，夜明也。星陨如雨，与雨偕也。\n\n秋，无麦、苗，不害嘉谷也。",
       "raw_start": 73,
       "raw_end": 129,

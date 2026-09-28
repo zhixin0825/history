@@ -5,13 +5,14 @@
   "regnal_year": 7,
   "year_bce": 705,
   "source_url": "https://m.gushiwen.cn/guwen/bookv_77609ca85ea3.aspx",
-  "fetched_utc": "2026-09-28T16:36:46.033951+00:00",
+  "fetched_utc": "2026-09-28T16:45:53.680025+00:00",
   "raw_sha256": "a525fd03cb94fab3b692ab528910a9e79f1219eb165e84fbaead955422062b9d",
   "text_sha256": "4607e798418db47dc2cf4f99c01f2475df0d5277495658f4edc46c03f1ad6dd8",
   "text": "【经】\n\n七年春二月己亥，焚咸丘。\n\n夏，穀伯绥来朝。邓侯吾离来朝。\n\n【传】\n\n七年春，穀伯、邓侯来朝。名，贱之也。\n\n夏，盟、向求成于郑，既而背之。\n\n秋，郑人、齐人、卫人伐盟、向。王迁盟、向之民于郏。\n\n冬，曲沃伯诱晋小子侯，杀之。",
   "layers": [
     {
       "kind": "jing",
+      "source_heading": "经",
       "text": "七年春二月己亥，焚咸丘。\n\n夏，穀伯绥来朝。邓侯吾离来朝。",
       "raw_start": 3,
       "raw_end": 36,
@@ -19,6 +20,7 @@
     },
     {
       "kind": "zhuan",
+      "source_heading": "传",
       "text": "七年春，穀伯、邓侯来朝。名，贱之也。\n\n夏，盟、向求成于郑，既而背之。\n\n秋，郑人、齐人、卫人伐盟、向。王迁盟、向之民于郏。\n\n冬，曲沃伯诱晋小子侯，杀之。",
       "raw_start": 39,
       "raw_end": 119,

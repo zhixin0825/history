@@ -5,13 +5,14 @@
   "regnal_year": 15,
   "year_bce": 679,
   "source_url": "https://m.gushiwen.cn/guwen/bookv_c47052c10641.aspx",
-  "fetched_utc": "2026-09-28T16:37:27.821808+00:00",
+  "fetched_utc": "2026-09-28T16:45:53.720731+00:00",
   "raw_sha256": "9ea6e2ed9c56ba8effc869ae59af1099783138de7468f6d5e4f46f0e614ed909",
   "text_sha256": "92eb70cdfac7fc17e1760a7e3c75b4a953a53ce7872341325dd7ef37721d8940",
   "text": "【经】\n\n十有五年春，齐侯、宋公、陈侯、卫侯、郑伯会于鄄。\n\n夏，夫人姜氏如齐。\n\n秋，宋人、齐人、邾人伐郳。郑人侵宋。\n\n冬十月。\n\n【传】\n\n十五年春，复会焉，齐始霸也。\n\n秋，诸侯为宋伐郳。郑人间之而侵宋。",
   "layers": [
     {
       "kind": "jing",
+      "source_heading": "经",
       "text": "十有五年春，齐侯、宋公、陈侯、卫侯、郑伯会于鄄。\n\n夏，夫人姜氏如齐。\n\n秋，宋人、齐人、邾人伐郳。郑人侵宋。\n\n冬十月。",
       "raw_start": 3,
       "raw_end": 68,
@@ -19,6 +20,7 @@
     },
     {
       "kind": "zhuan",
+      "source_heading": "传",
       "text": "十五年春，复会焉，齐始霸也。\n\n秋，诸侯为宋伐郳。郑人间之而侵宋。",
       "raw_start": 71,
       "raw_end": 106,
