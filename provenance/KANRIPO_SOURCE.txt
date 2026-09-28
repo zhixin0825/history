@@ -1,0 +1,14 @@
+Title: 資治通鑑 / WYG
+Kanseki Repository ID: KR2b0007
+Source repository: https://github.com/kanripo/KR2b0007
+Source commit: 80174f61e491db29f9921d0d3e54a59649419aa9
+Source commit date: 2016-02-05
+Base edition metadata: SBCK / WYG
+Files mirrored: KR2b0007_000.txt through KR2b0007_294.txt
+
+The upstream repository also contains KR2b0007_295.txt, a 175-byte header-only
+stub whose volume metadata ends in the malformed string "卷二百九十5". It is
+not part of this mirror.
+
+Kanseki Repository states that content created by the project is provided
+under CC BY-SA: https://www.kanripo.org/

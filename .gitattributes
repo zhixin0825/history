@@ -1,4 +1,7 @@
 texts/*.txt -text
+classics/**/*.txt -text
+zizhi-tongjian/**/*.txt -text
+zizhi-tongjian/**/*.org -text
 provenance/*.txt -text
 *.md text eol=lf
 *.json text eol=lf

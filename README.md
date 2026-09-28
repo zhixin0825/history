@@ -1,8 +1,18 @@
-# 二十四史全文 TXT
+# 中国古籍 TXT 语料
 
-本仓库收录二十四史全文，共 24 个 UTF-8 TXT 文件。文本保持 Corpus of Chinese Dynastic Histories（CCDH）在 OSF 发布的原始字节，不进行繁简转换、断句重排或人工校改。
+本仓库收录二十四史、《资治通鉴》（胡三省音注）以及十三经与《庄子》的 UTF-8 文本。各文件保持上游发布的原始字节，不进行繁简转换、断句重排或无依据的人工校字；已知源文件问题单独记录。
 
-## 文件目录
+## 数据概览
+
+| 目录 | 内容 | 文件数 | 字节数 |
+|---|---|---:|---:|
+| `texts/` | 二十四史 | 24 | 85,181,157 |
+| `zizhi-tongjian/kanripo/` | 《资治通鉴》提要、序、进表及 294 卷正文（含胡三省音注） | 296 | 15,158,231 |
+| `classics/ccdh/` | 十三经与《庄子》 | 14 | 2,635,048 |
+
+《资治通鉴》目录的 296 个文件包括 295 个 TXT 文件和一份上游说明 `README_SOURCE.org`。
+
+## 二十四史
 
 | 编号 | 书名 | 文件 |
 |---:|---|---|
@@ -31,19 +41,48 @@
 | 23 | 元史 | `texts/23_yuanshi_full.txt` |
 | 24 | 明史 | `texts/24_mingshi_full.txt` |
 
+## 资治通鉴
+
+- 文件：`zizhi-tongjian/kanripo/KR2b0007_000.txt` 至 `KR2b0007_294.txt`。
+- `000` 为提要、序、进表等卷前资料，`001` 至 `294` 为正文。
+- 文本含胡三省音注，也保留 Kanripo/Mandoku 的页码、版本和文本标记，适合溯源；使用前可按研究目的另行清洗。
+- 上游另有一个 175 字节的 `KR2b0007_295.txt` 空壳，卷号元数据写成“卷二百九十5”，故未纳入。
+
+## 十三经与庄子
+
+| 文件 | 书名 |
+|---|---|
+| `13_cq_mod.txt` | 春秋经 |
+| `13_gongyang_mod.txt` | 春秋公羊传 |
+| `13_guliang_mod.txt` | 春秋谷梁传 |
+| `13_liji_mod.txt` | 礼记 |
+| `13_lunyu_mod.txt` | 论语 |
+| `13_mengzi_mod.txt` | 孟子 |
+| `13_shi_mod.txt` | 诗经 |
+| `13_shu_mod.txt` | 尚书 |
+| `13_xiaojing_mod.txt` | 孝经 |
+| `13_yili_mod.txt` | 仪礼 |
+| `13_zhouli_mod.txt` | 周礼 |
+| `13_zhouyi_mod.txt` | 周易 |
+| `13_zhuangzi_mod.txt` | 庄子 |
+| `13_zz_mod.txt` | 左传 |
+
 ## 来源与引用
 
-- 原始项目：[Chinese Dynastic Histories（OSF）](https://osf.io/tp729/)
+- 二十四史、十三经与《庄子》：[Chinese Dynastic Histories（OSF）](https://osf.io/tp729/)
 - 论文：Sergey Zinin and Yang Xu, [Corpus of Chinese Dynastic Histories: Gender Analysis over Two Millennia](https://aclanthology.org/2020.lrec-1.98/), LREC 2020, pp. 785-793.
 - CCDH 说明文本见 [`provenance/CCDH_README.txt`](provenance/CCDH_README.txt)。
-- OSF 文件下载清单见 [`provenance/osf_manifest.json`](provenance/osf_manifest.json)。
+- OSF 文件下载清单见 [`provenance/osf_manifest.json`](provenance/osf_manifest.json) 与 [`provenance/ccdh_13_classics_manifest.json`](provenance/ccdh_13_classics_manifest.json)。
+- 《资治通鉴》：[Kanseki Repository / Kanripo KR2b0007](https://github.com/kanripo/KR2b0007)，镜像自提交 `80174f61e491db29f9921d0d3e54a59649419aa9`；详情见 [`provenance/KANRIPO_SOURCE.txt`](provenance/KANRIPO_SOURCE.txt)。
 
-论文说明，CCDH 的底本取自 Wikisource，语料采用 Creative Commons 许可，可使用、再分发和修改。OSF 项目元数据没有标明具体的 CC 许可版本；本仓库不对原始语料主张额外权利。研究或发表时请引用上述论文。
+论文说明，CCDH 的底本取自 Wikisource，语料采用 Creative Commons 许可，可使用、再分发和修改。OSF 项目元数据没有标明具体的 CC 许可版本。Kanseki Repository 声明其制作的内容以 CC BY-SA 提供。本仓库不对原始语料主张额外权利；研究、发表或再分发时请同时遵守并引用相应上游来源。
 
 ## 完整性
 
-- 24 个文件合计 85,181,157 字节。
-- 所有文件均可按 UTF-8 解码，无 NUL 字节。
+- 二十四史 24 个文件合计 85,181,157 字节。
+- 《资治通鉴》295 个 TXT 文件合计 15,138,306 字节；另有 19,925 字节的上游说明。
+- 十三经与《庄子》14 个文件合计 2,635,048 字节。
+- 所有 TXT 文件均可按 UTF-8 解码，无 NUL 字节。
 - 文件保留原始 UTF-8 BOM 和换行，不由 Git 自动转换。
 - [`SHA256SUMS.txt`](SHA256SUMS.txt) 可用于逐文件校验。
 
@@ -63,3 +102,5 @@ OSF 原始文件中有 92 个 Unicode 替代字符 `U+FFFD`（`�`）。它们�
 | `24_mingshi_full.txt` | 3 |
 
 这些文件适合语料分析和检索，但不应在未经版本校勘的情况下作为严格的点校本使用。
+
+十三经与《庄子》中，`13_yili_mod.txt` 的 OSF 原始文件另有 5 个 `U+FFFD`；其余 13 个文件没有该字符。《资治通鉴》295 个 TXT 文件没有 `U+FFFD`。
