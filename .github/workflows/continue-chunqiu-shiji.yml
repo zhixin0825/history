@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/continue-chunqiu-shiji.yml
       - scripts/build_shiji_incremental.py
+      - scripts/shiji_sequence.py
       - tests/test_shiji_incremental.py
       - chronicle/shiji-trial/batches/round2.psv
 permissions:
@@ -28,6 +29,18 @@ jobs:
           a=json.loads(Path('working-texts/zuozhuan-punctuated-years/audit.json').read_text())
           assert a['complete_255_year_backbone'] and a['imported_years']==255
           PY
+      - name: Enable explicit within-year precedence
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/build_shiji_incremental.py');s=p.read_text()
+          if 'from shiji_sequence import' not in s:
+              s=s.replace('from shiji_first_appearance import plan_placements','from shiji_first_appearance import plan_placements\nfrom shiji_sequence import order_units, check_pages')
+          s=s.replace('        rows.sort(key=month)','        rows=order_units(rows,month)')
+          if '    check_pages(root)' not in s:
+              s=s.replace('    print(json.dumps(stats,ensure_ascii=False,indent=2));return stats','    check_pages(root)\n    print(json.dumps(stats,ensure_ascii=False,indent=2));return stats')
+          compile(s,str(p),'exec');p.write_text(s)
+          PY
       - name: Rebuild cumulative reviewed chronology
         run: python scripts/build_shiji_incremental.py
       - name: Verify quotations, dates, aliases and all original year texts
@@ -49,9 +62,9 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add chronicle/shiji-trial/ chronicle/PROGRESS.md
+          git add chronicle/shiji-trial/ chronicle/PROGRESS.md scripts/build_shiji_incremental.py
           if ! git diff --cached --quiet; then
-            git commit -m 'Publish nine reviewed Shiji chapters with punctuated sources and cumulative coverage'
+            git commit -m 'Publish reviewed Shiji batch with validated event order and preserved source evidence'
             git push origin HEAD:work/chunqiu-shiji-round2
           fi
       - uses: actions/upload-artifact@v4
