@@ -147,6 +147,8 @@ def run(root):
     md[-1] += '\n' + '\n'.join([f'| [公元前{y}年](years/bce-{y:04d}.md) | {sum(r["year_bce"]==y for r in records)} |' for y in years])
     md += ['## 骨架和完成度','《春秋》255个年标记中244个有正文。哀公十四年含获麟后续文，十五、十六年是续经；十七至二十七年为空标签。空标签不表示那年没有历史事件。','《十二诸侯年表》《六国年表》另生成635条年表行候选；不计入完成事件，各国空白列、段内回叙与纪年冲突仍待校对。卷十四最后一个年行跨两行，已合成一个候选。','严格以获麟为《春秋》终点时，前480—404年无法直接由这两部编年书提供连续年条。《左传》可补一部分；上古和其余缺口暂保留年表补轴来源，不冒称《通鉴》已有这些年条。','## 重建方法','仓库根目录运行 `python scripts/build_shiji_trial.py`。仅标准库，无模型API调用。`reviewed.psv` 是本轮GPT初审结果；程序检查输入哈希、原文去向、引用范围和页面链接，然后生成可读页面与全书待处理队列。','原始文本不改，引用固定到输入提交；更换底本必须重新核对行号。所有诗文、评论和不明年代的故事保留原文，不被静默删除。','[原有逐年读史入口](../README.md)']
     write('README.md','\n\n'.join(md))
+    from shiji_first_appearance import apply_placements
+    stats = apply_placements(root, stats)
     broken=[]
     for f in out.rglob('*.md'):
         for href in re.findall(r'\]\(([^)]+)\)',f.read_text(encoding='utf-8')):

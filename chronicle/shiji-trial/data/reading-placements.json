@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "source_records": "records.jsonl",
+  "description": "阅读位置与实际发生时间分开；不增加已定年计数。",
+  "placements": [
+    {
+      "record_id": "sj-048-L4206-01",
+      "entity_id": "person-chen-sheng",
+      "person_label": "陈胜（陈涉）",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "陈胜年轻时",
+      "reading_year_bce": 209,
+      "reading_anchor_record_id": "sj-048-L4207-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "原文先以“少时”叙述佣耕，下一段才进入二世元年七月戍役，支持这是此前经历，不支持佣耕发生于前209年。",
+      "basis_source_keys": [
+        "sj:4206"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中秦二世元年七月的大泽乡事件为首次登场；发现更早有据事件时调整阅读位置。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-062-L4591-01",
+      "entity_id": "person-guan-zhong",
+      "person_label": "管仲",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "管仲早年",
+      "reading_year_bce": 685,
+      "reading_anchor_record_id": "sj-062-L4591-02",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "原段先说少时与鲍叔来往、家贫及各事其主，继而写小白立和荐管仲；只把前半生涯作为此事以前的补叙，不移动有明确年份的任命。",
+      "basis_source_keys": [
+        "sj:4591"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中小白即位、公子纠死、鲍叔荐管仲的前685年事件为登场点；不宣称已搜齐全书较早任职。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-063-L4620-01",
+      "entity_id": "person-han-fei",
+      "person_label": "韩非",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "韩非早年",
+      "reading_year_bce": 233,
+      "reading_anchor_record_id": "sj-063-L4632-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "本传先叙身份、学术和与李斯师事荀卿，再叙韩国进谏著书及出使秦国；师承经历作为此前背景，不推算求学年份或年龄。",
+      "basis_source_keys": [
+        "sj:4620"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中前233年出使秦国的事件为登场点；同年作者预叙死亡的评论不算登场事件。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-086-L5381-01",
+      "entity_id": "person-cao-mo",
+      "person_label": "曹沫",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "柯盟以前",
+      "reading_year_bce": 681,
+      "reading_anchor_record_id": "sj-062-L4595-03",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "本传先说三次战败、献地求和并继续任将，继而说齐鲁会盟于柯；战败次数保留，不将三次战事压成前681年的一次事件。",
+      "basis_source_keys": [
+        "sj:5381"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审的前681年柯盟事件为登场点；跨篇合并事件的编号保留，不把曹沫与曹刿自动视作一人。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-086-L5385-01",
+      "entity_id": "person-zhuan-zhu",
+      "person_label": "专诸",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "专诸刺僚以前",
+      "reading_year_bce": 515,
+      "reading_anchor_record_id": "sj-086-L5387-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "伍子胥荐专诸、吴王位传递及公子光的主张位于春季谋事以前，是解释当事人关系的前因；多代世系不按登场年作发生年。",
+      "basis_source_keys": [
+        "sj:5385-5386"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审的前515年公子光与专诸商议行动为登场点，而不迟至同年四月行刺；更早有据荐举事件出现后可前移。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-086-L5396-01",
+      "entity_id": "person-nie-zheng",
+      "person_label": "聂政",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "聂政刺韩相以前",
+      "reading_year_bce": 397,
+      "reading_anchor_record_id": "sj-086-L5399-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "本传先写避仇、奉母、结交严仲子，待母卒服除后才决定行刺；这些前因可在登场处说明，不能据此把母丧和服丧都定为前397年。",
+      "basis_source_keys": [
+        "sj:5396-5398"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂按当前已审编年底本的前397年刺韩相事件登场，君年和称号冲突照旧保留，补叙规则不消除原有争议。",
+      "counts_as_new_event": false
+    }
+  ]
+}

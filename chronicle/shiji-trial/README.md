@@ -4,7 +4,13 @@
 
 **不是《史记》全书已经编年完成，也不是这些年份已经搜齐全书。** 结构入库与逐段解读分别计数；诗歌、长篇论说还没有逐句翻译完。
 
-[问题与暂定办法](REPORT.md) · [原文卡片](appendix/sources.md) · [未确年材料](appendix/unplaced.md) · [文献与评论](appendix/documents.md) · [审计统计](data/audit.json)
+[试做问题与已确认办法](REPORT.md) · [原文卡片](appendix/sources.md) · [未确年材料](appendix/unplaced.md) · [文献与评论](appendix/documents.md) · [审计统计](data/audit.json)
+
+## 已确认规则与登场前事
+
+[编写规则](../EDITORIAL_RULES.md)已按用户意见确认。人物首次登场时补叙此前经历；展示位置不等于发生年份。
+
+本轮将6条已初审往事，放到6个人的暂定首次登场处；原54条归年记录和68条未确年记录的口径不变。[查看人物与补叙入口](appendix/first-appearances.md)。这不是新增篇章的内容审读。
 
 ## 已有年份页（非连续年表）
 

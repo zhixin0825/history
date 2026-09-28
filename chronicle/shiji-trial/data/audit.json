@@ -45,5 +45,9 @@
     "后补": 2,
     "异说": 5
   },
-  "status": "全书结构入库；5篇分流初审；绝非全书编年完成；未调用外部GPT批处理API"
+  "status": "全书结构入库；5篇分流初审；绝非全书编年完成；未调用外部GPT批处理API",
+  "first_appearance_backstories": 6,
+  "people_with_first_appearance_backstories": 6,
+  "first_appearance_year_pages": 6,
+  "occurrence_dates_changed_by_backstory_placement": 0
 }
