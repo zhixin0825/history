@@ -1,12 +1,12 @@
-# 逐条原文与固定版本
+# 原文卡片与逐项出处
 
-原文由固定输入文件按行提取；《通鉴》的音注、页码标记也保留，不混称都是正文。
+引文由固定原文范围提取。新《左传》引用采用已有标点的逐年原文；旧引用保留，不将旧年表依据悄悄更换。
 
 <a id="ref-sj-2876"></a>
 
-## 《史记》卷29 河渠书 · 第2876—2876行
+## 《史记》卷29 河渠书 · sj:2876
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2876-L2876)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2876-L2876)
 
 ```text
 
@@ -16,9 +16,9 @@
 
 <a id="ref-sj-2877"></a>
 
-## 《史记》卷29 河渠书 · 第2877—2877行
+## 《史记》卷29 河渠书 · sj:2877
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2877-L2877)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2877-L2877)
 
 ```text
 
@@ -28,9 +28,9 @@
 
 <a id="ref-sj-2878"></a>
 
-## 《史记》卷29 河渠书 · 第2878—2878行
+## 《史记》卷29 河渠书 · sj:2878
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2878-L2878)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2878-L2878)
 
 ```text
 
@@ -40,9 +40,9 @@
 
 <a id="ref-sj-2879"></a>
 
-## 《史记》卷29 河渠书 · 第2879—2879行
+## 《史记》卷29 河渠书 · sj:2879
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2879-L2879)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2879-L2879)
 
 ```text
 
@@ -52,9 +52,9 @@
 
 <a id="ref-sj-1443"></a>
 
-## 《史记》卷15 六国年表 · 第1443—1443行
+## 《史记》卷15 六国年表 · sj:1443
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1443-L1443)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1443-L1443)
 
 ```text
 
@@ -64,9 +64,9 @@
 
 <a id="ref-tj006-343-361"></a>
 
-## 《资治通鉴》卷6 · 第343—361行
+## 《资治通鉴》卷6 · tj006:343-361
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L343-L361)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L343-L361)
 
 ```text
 
@@ -94,9 +94,9 @@
 
 <a id="ref-tj006-354-361"></a>
 
-## 《资治通鉴》卷6 · 第354—361行
+## 《资治通鉴》卷6 · tj006:354-361
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L354-L361)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L354-L361)
 
 ```text
 
@@ -113,9 +113,9 @@
 
 <a id="ref-sj-2880"></a>
 
-## 《史记》卷29 河渠书 · 第2880—2880行
+## 《史记》卷29 河渠书 · sj:2880
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2880-L2880)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2880-L2880)
 
 ```text
 
@@ -125,9 +125,9 @@
 
 <a id="ref-tj015-176-180"></a>
 
-## 《资治通鉴》卷15 · 第176—180行
+## 《资治通鉴》卷15 · tj015:176-180
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_015.txt#L176-L180)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_015.txt#L176-L180)
 
 ```text
 
@@ -141,9 +141,9 @@
 
 <a id="ref-sj-2881"></a>
 
-## 《史记》卷29 河渠书 · 第2881—2881行
+## 《史记》卷29 河渠书 · sj:2881
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2881-L2881)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2881-L2881)
 
 ```text
 
@@ -153,9 +153,9 @@
 
 <a id="ref-tj018-108-123"></a>
 
-## 《资治通鉴》卷18 · 第108—123行
+## 《资治通鉴》卷18 · tj018:108-123
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_018.txt#L108-L123)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_018.txt#L108-L123)
 
 ```text
 
@@ -180,9 +180,9 @@
 
 <a id="ref-tj018-117-123"></a>
 
-## 《资治通鉴》卷18 · 第117—123行
+## 《资治通鉴》卷18 · tj018:117-123
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_018.txt#L117-L123)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_018.txt#L117-L123)
 
 ```text
 
@@ -198,9 +198,9 @@
 
 <a id="ref-sj-2882"></a>
 
-## 《史记》卷29 河渠书 · 第2882—2882行
+## 《史记》卷29 河渠书 · sj:2882
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2882-L2882)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2882-L2882)
 
 ```text
 
@@ -210,9 +210,9 @@
 
 <a id="ref-tj018-351-354"></a>
 
-## 《资治通鉴》卷18 · 第351—354行
+## 《资治通鉴》卷18 · tj018:351-354
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_018.txt#L351-L354)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_018.txt#L351-L354)
 
 ```text
 
@@ -225,9 +225,9 @@
 
 <a id="ref-sj-2883"></a>
 
-## 《史记》卷29 河渠书 · 第2883—2883行
+## 《史记》卷29 河渠书 · sj:2883
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2883-L2883)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2883-L2883)
 
 ```text
 
@@ -237,9 +237,9 @@
 
 <a id="ref-sj-2884"></a>
 
-## 《史记》卷29 河渠书 · 第2884—2884行
+## 《史记》卷29 河渠书 · sj:2884
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2884-L2884)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2884-L2884)
 
 ```text
 
@@ -249,9 +249,9 @@
 
 <a id="ref-sj-2885"></a>
 
-## 《史记》卷29 河渠书 · 第2885—2885行
+## 《史记》卷29 河渠书 · sj:2885
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2885-L2885)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2885-L2885)
 
 ```text
 
@@ -261,9 +261,9 @@
 
 <a id="ref-sj-2886"></a>
 
-## 《史记》卷29 河渠书 · 第2886—2886行
+## 《史记》卷29 河渠书 · sj:2886
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2886-L2886)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2886-L2886)
 
 ```text
 
@@ -273,9 +273,9 @@
 
 <a id="ref-tj021-13-28"></a>
 
-## 《资治通鉴》卷21 · 第13—28行
+## 《资治通鉴》卷21 · tj021:13-28
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_021.txt#L13-L28)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_021.txt#L13-L28)
 
 ```text
 
@@ -300,9 +300,9 @@
 
 <a id="ref-sj-2887"></a>
 
-## 《史记》卷29 河渠书 · 第2887—2887行
+## 《史记》卷29 河渠书 · sj:2887
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2887-L2887)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2887-L2887)
 
 ```text
 
@@ -312,9 +312,9 @@
 
 <a id="ref-tj021-23-31"></a>
 
-## 《资治通鉴》卷21 · 第23—31行
+## 《资治通鉴》卷21 · tj021:23-31
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_021.txt#L23-L31)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_021.txt#L23-L31)
 
 ```text
 
@@ -332,9 +332,9 @@
 
 <a id="ref-sj-2888"></a>
 
-## 《史记》卷29 河渠书 · 第2888—2888行
+## 《史记》卷29 河渠书 · sj:2888
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2888-L2888)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2888-L2888)
 
 ```text
 
@@ -344,9 +344,9 @@
 
 <a id="ref-sj-2890"></a>
 
-## 《史记》卷29 河渠书 · 第2890—2890行
+## 《史记》卷29 河渠书 · sj:2890
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2890-L2890)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2890-L2890)
 
 ```text
 
@@ -356,9 +356,9 @@
 
 <a id="ref-sj-2892"></a>
 
-## 《史记》卷29 河渠书 · 第2892—2892行
+## 《史记》卷29 河渠书 · sj:2892
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2892-L2892)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2892-L2892)
 
 ```text
 
@@ -368,9 +368,9 @@
 
 <a id="ref-sj-4591"></a>
 
-## 《史记》卷62 管晏列传 · 第4591—4591行
+## 《史记》卷62 管晏列传 · sj:4591
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4591-L4591)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4591-L4591)
 
 ```text
 
@@ -380,9 +380,9 @@
 
 <a id="ref-cq-3-9"></a>
 
-## 《春秋》 鲁庄公9年 · 第474—488行
+## 《春秋》 鲁庄公9年 · cq:3.9
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L474-L488)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L474-L488)
 
 ```text
 
@@ -406,9 +406,9 @@ QS*4*QM*0
 
 <a id="ref-sj-3035-3036"></a>
 
-## 《史记》卷32 齐太公世家 · 第3035—3036行
+## 《史记》卷32 齐太公世家 · sj:3035-3036
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3035-L3036)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3035-L3036)
 
 ```text
 
@@ -419,9 +419,9 @@ QS*4*QM*0
 
 <a id="ref-sj-3161"></a>
 
-## 《史记》卷33 鲁周公世家 · 第3161—3161行
+## 《史记》卷33 鲁周公世家 · sj:3161
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3161-L3161)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3161-L3161)
 
 ```text
 
@@ -431,9 +431,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4592"></a>
 
-## 《史记》卷62 管晏列传 · 第4592—4592行
+## 《史记》卷62 管晏列传 · sj:4592
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4592-L4592)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4592-L4592)
 
 ```text
 
@@ -443,9 +443,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4593"></a>
 
-## 《史记》卷62 管晏列传 · 第4593—4593行
+## 《史记》卷62 管晏列传 · sj:4593
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4593-L4593)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4593-L4593)
 
 ```text
 
@@ -455,9 +455,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4594"></a>
 
-## 《史记》卷62 管晏列传 · 第4594—4594行
+## 《史记》卷62 管晏列传 · sj:4594
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4594-L4594)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4594-L4594)
 
 ```text
 
@@ -467,9 +467,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4595"></a>
 
-## 《史记》卷62 管晏列传 · 第4595—4595行
+## 《史记》卷62 管晏列传 · sj:4595
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4595-L4595)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4595-L4595)
 
 ```text
 
@@ -479,9 +479,9 @@ QS*4*QM*0
 
 <a id="ref-cq-5-4"></a>
 
-## 《春秋》 鲁僖公4年 · 第825—837行
+## 《春秋》 鲁僖公4年 · cq:5.4
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L825-L837)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L825-L837)
 
 ```text
 
@@ -503,9 +503,9 @@ QS*4*QM*12
 
 <a id="ref-sj-3044-3045"></a>
 
-## 《史记》卷32 齐太公世家 · 第3044—3045行
+## 《史记》卷32 齐太公世家 · sj:3044-3045
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3044-L3045)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3044-L3045)
 
 ```text
 
@@ -516,9 +516,9 @@ QS*4*QM*12
 
 <a id="ref-cq-3-30"></a>
 
-## 《春秋》 鲁庄公30年 · 第717—731行
+## 《春秋》 鲁庄公30年 · cq:3.30
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L717-L731)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L717-L731)
 
 ```text
 
@@ -542,9 +542,9 @@ QS*4*QM*10
 
 <a id="ref-sj-3041"></a>
 
-## 《史记》卷32 齐太公世家 · 第3041—3041行
+## 《史记》卷32 齐太公世家 · sj:3041
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3041-L3041)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3041-L3041)
 
 ```text
 
@@ -554,9 +554,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5382"></a>
 
-## 《史记》卷86 刺客列传 · 第5382—5382行
+## 《史记》卷86 刺客列传 · sj:5382
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5382-L5382)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5382-L5382)
 
 ```text
 
@@ -566,9 +566,9 @@ QS*4*QM*10
 
 <a id="ref-cq-3-13"></a>
 
-## 《春秋》 鲁庄公13年 · 第526—536行
+## 《春秋》 鲁庄公13年 · cq:3.13
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L526-L536)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L526-L536)
 
 ```text
 
@@ -588,9 +588,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4596"></a>
 
-## 《史记》卷62 管晏列传 · 第4596—4596行
+## 《史记》卷62 管晏列传 · sj:4596
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4596-L4596)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4596-L4596)
 
 ```text
 
@@ -600,9 +600,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4598"></a>
 
-## 《史记》卷62 管晏列传 · 第4598—4598行
+## 《史记》卷62 管晏列传 · sj:4598
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4598-L4598)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4598-L4598)
 
 ```text
 
@@ -612,9 +612,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4599"></a>
 
-## 《史记》卷62 管晏列传 · 第4599—4599行
+## 《史记》卷62 管晏列传 · sj:4599
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4599-L4599)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4599-L4599)
 
 ```text
 
@@ -624,9 +624,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4600"></a>
 
-## 《史记》卷62 管晏列传 · 第4600—4600行
+## 《史记》卷62 管晏列传 · sj:4600
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4600-L4600)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4600-L4600)
 
 ```text
 
@@ -636,9 +636,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4602-4603"></a>
 
-## 《史记》卷62 管晏列传 · 第4602—4603行
+## 《史记》卷62 管晏列传 · sj:4602-4603
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4602-L4603)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4602-L4603)
 
 ```text
 
@@ -649,9 +649,9 @@ QS*4*QM*0
 
 <a id="ref-sj-4604"></a>
 
-## 《史记》卷62 管晏列传 · 第4604—4604行
+## 《史记》卷62 管晏列传 · sj:4604
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4604-L4604)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4604-L4604)
 
 ```text
 
@@ -661,9 +661,9 @@ QS*4*QM*0
 
 <a id="ref-cq-9-25"></a>
 
-## 《春秋》 鲁襄公25年 · 第2180—2194行
+## 《春秋》 鲁襄公25年 · cq:9.25
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L2180-L2194)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L2180-L2194)
 
 ```text
 
@@ -687,9 +687,9 @@ QS*4*QM*12
 
 <a id="ref-sj-3076"></a>
 
-## 《史记》卷32 齐太公世家 · 第3076—3076行
+## 《史记》卷32 齐太公世家 · sj:3076
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3076-L3076)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3076-L3076)
 
 ```text
 
@@ -699,9 +699,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4606"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4606—4606行
+## 《史记》卷63 老子韩非列传 · sj:4606
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4606-L4606)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4606-L4606)
 
 ```text
 
@@ -711,9 +711,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4607"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4607—4607行
+## 《史记》卷63 老子韩非列传 · sj:4607
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4607-L4607)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4607-L4607)
 
 ```text
 
@@ -723,9 +723,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4608"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4608—4608行
+## 《史记》卷63 老子韩非列传 · sj:4608
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4608-L4608)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4608-L4608)
 
 ```text
 
@@ -735,9 +735,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4609-4610"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4609—4610行
+## 《史记》卷63 老子韩非列传 · sj:4609-4610
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4609-L4610)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4609-L4610)
 
 ```text
 
@@ -748,9 +748,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4611"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4611—4611行
+## 《史记》卷63 老子韩非列传 · sj:4611
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4611-L4611)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4611-L4611)
 
 ```text
 
@@ -760,9 +760,9 @@ QS*4*QM*12
 
 <a id="ref-sj-319"></a>
 
-## 《史记》卷5 秦本纪 · 第319—319行
+## 《史记》卷5 秦本纪 · sj:319
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L319-L319)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L319-L319)
 
 ```text
 
@@ -772,9 +772,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4612"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4612—4612行
+## 《史记》卷63 老子韩非列传 · sj:4612
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4612-L4612)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4612-L4612)
 
 ```text
 
@@ -784,9 +784,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4613"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4613—4613行
+## 《史记》卷63 老子韩非列传 · sj:4613
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4613-L4613)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4613-L4613)
 
 ```text
 
@@ -796,9 +796,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4615"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4615—4615行
+## 《史记》卷63 老子韩非列传 · sj:4615
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4615-L4615)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4615-L4615)
 
 ```text
 
@@ -808,9 +808,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4616"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4616—4616行
+## 《史记》卷63 老子韩非列传 · sj:4616
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4616-L4616)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4616-L4616)
 
 ```text
 
@@ -820,9 +820,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4618"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4618—4618行
+## 《史记》卷63 老子韩非列传 · sj:4618
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4618-L4618)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4618-L4618)
 
 ```text
 
@@ -832,9 +832,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4042"></a>
 
-## 《史记》卷45 韩世家 · 第4042—4042行
+## 《史记》卷45 韩世家 · sj:4042
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4042-L4042)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4042-L4042)
 
 ```text
 
@@ -844,9 +844,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1338"></a>
 
-## 《史记》卷15 六国年表 · 第1338—1338行
+## 《史记》卷15 六国年表 · sj:1338
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1338-L1338)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1338-L1338)
 
 ```text
 
@@ -856,9 +856,9 @@ QS*4*QM*12
 
 <a id="ref-tj002-249-267"></a>
 
-## 《资治通鉴》卷2 · 第249—267行
+## 《资治通鉴》卷2 · tj002:249-267
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_002.txt#L249-L267)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_002.txt#L249-L267)
 
 ```text
 
@@ -886,9 +886,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4620"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4620—4620行
+## 《史记》卷63 老子韩非列传 · sj:4620
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4620-L4620)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4620-L4620)
 
 ```text
 
@@ -898,9 +898,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4621"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4621—4621行
+## 《史记》卷63 老子韩非列传 · sj:4621
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4621-L4621)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4621-L4621)
 
 ```text
 
@@ -910,9 +910,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4622"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4622—4622行
+## 《史记》卷63 老子韩非列传 · sj:4622
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4622-L4622)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4622-L4622)
 
 ```text
 
@@ -922,9 +922,9 @@ QS*4*QM*12
 
 <a id="ref-tj006-647-687"></a>
 
-## 《资治通鉴》卷6 · 第647—687行
+## 《资治通鉴》卷6 · tj006:647-687
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L647-L687)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L647-L687)
 
 ```text
 
@@ -974,9 +974,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4623-4628"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4623—4628行
+## 《史记》卷63 老子韩非列传 · sj:4623-4628
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4623-L4628)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4623-L4628)
 
 ```text
 
@@ -991,9 +991,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4629"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4629—4629行
+## 《史记》卷63 老子韩非列传 · sj:4629
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4629-L4629)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4629-L4629)
 
 ```text
 
@@ -1003,9 +1003,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4630-4631"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4630—4631行
+## 《史记》卷63 老子韩非列传 · sj:4630-4631
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4630-L4631)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4630-L4631)
 
 ```text
 
@@ -1016,9 +1016,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4632"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4632—4632行
+## 《史记》卷63 老子韩非列传 · sj:4632
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4632-L4632)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4632-L4632)
 
 ```text
 
@@ -1028,9 +1028,9 @@ QS*4*QM*12
 
 <a id="ref-sj-356"></a>
 
-## 《史记》卷6 秦始皇本纪 · 第356—356行
+## 《史记》卷6 秦始皇本纪 · sj:356
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L356-L356)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L356-L356)
 
 ```text
 
@@ -1040,9 +1040,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4634"></a>
 
-## 《史记》卷63 老子韩非列传 · 第4634—4634行
+## 《史记》卷63 老子韩非列传 · sj:4634
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4634-L4634)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4634-L4634)
 
 ```text
 
@@ -1052,9 +1052,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4206"></a>
 
-## 《史记》卷48 陈涉世家 · 第4206—4206行
+## 《史记》卷48 陈涉世家 · sj:4206
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4206-L4206)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4206-L4206)
 
 ```text
 
@@ -1064,9 +1064,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4207"></a>
 
-## 《史记》卷48 陈涉世家 · 第4207—4207行
+## 《史记》卷48 陈涉世家 · sj:4207
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4207-L4207)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4207-L4207)
 
 ```text
 
@@ -1076,9 +1076,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1489"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1489—1489行
+## 《史记》卷16 秦楚之际月表 · sj:1489
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1489-L1489)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1489-L1489)
 
 ```text
 
@@ -1088,9 +1088,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4208"></a>
 
-## 《史记》卷48 陈涉世家 · 第4208—4208行
+## 《史记》卷48 陈涉世家 · sj:4208
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4208-L4208)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4208-L4208)
 
 ```text
 
@@ -1100,9 +1100,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4209"></a>
 
-## 《史记》卷48 陈涉世家 · 第4209—4209行
+## 《史记》卷48 陈涉世家 · sj:4209
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4209-L4209)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4209-L4209)
 
 ```text
 
@@ -1112,9 +1112,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1489-1490"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1489—1490行
+## 《史记》卷16 秦楚之际月表 · sj:1489-1490
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1489-L1490)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1489-L1490)
 
 ```text
 
@@ -1125,9 +1125,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4210"></a>
 
-## 《史记》卷48 陈涉世家 · 第4210—4210行
+## 《史记》卷48 陈涉世家 · sj:4210
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4210-L4210)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4210-L4210)
 
 ```text
 
@@ -1137,9 +1137,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1490-1491"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1490—1491行
+## 《史记》卷16 秦楚之际月表 · sj:1490-1491
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1490-L1491)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1490-L1491)
 
 ```text
 
@@ -1150,9 +1150,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1492"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1492—1492行
+## 《史记》卷16 秦楚之际月表 · sj:1492
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1492-L1492)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1492-L1492)
 
 ```text
 
@@ -1162,9 +1162,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1491"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1491—1491行
+## 《史记》卷16 秦楚之际月表 · sj:1491
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1491-L1491)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1491-L1491)
 
 ```text
 
@@ -1174,9 +1174,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4211"></a>
 
-## 《史记》卷48 陈涉世家 · 第4211—4211行
+## 《史记》卷48 陈涉世家 · sj:4211
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4211-L4211)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4211-L4211)
 
 ```text
 
@@ -1186,9 +1186,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1493"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1493—1493行
+## 《史记》卷16 秦楚之际月表 · sj:1493
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1493-L1493)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1493-L1493)
 
 ```text
 
@@ -1198,9 +1198,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4212"></a>
 
-## 《史记》卷48 陈涉世家 · 第4212—4212行
+## 《史记》卷48 陈涉世家 · sj:4212
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4212-L4212)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4212-L4212)
 
 ```text
 
@@ -1210,9 +1210,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1490"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1490—1490行
+## 《史记》卷16 秦楚之际月表 · sj:1490
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1490-L1490)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1490-L1490)
 
 ```text
 
@@ -1222,9 +1222,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4213"></a>
 
-## 《史记》卷48 陈涉世家 · 第4213—4213行
+## 《史记》卷48 陈涉世家 · sj:4213
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4213-L4213)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4213-L4213)
 
 ```text
 
@@ -1234,9 +1234,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4214"></a>
 
-## 《史记》卷48 陈涉世家 · 第4214—4214行
+## 《史记》卷48 陈涉世家 · sj:4214
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4214-L4214)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4214-L4214)
 
 ```text
 
@@ -1246,9 +1246,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1491-1492"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1491—1492行
+## 《史记》卷16 秦楚之际月表 · sj:1491-1492
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1491-L1492)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1491-L1492)
 
 ```text
 
@@ -1259,9 +1259,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1494"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1494—1494行
+## 《史记》卷16 秦楚之际月表 · sj:1494
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1494-L1494)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1494-L1494)
 
 ```text
 
@@ -1271,9 +1271,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4215"></a>
 
-## 《史记》卷48 陈涉世家 · 第4215—4215行
+## 《史记》卷48 陈涉世家 · sj:4215
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4215-L4215)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4215-L4215)
 
 ```text
 
@@ -1283,9 +1283,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4216"></a>
 
-## 《史记》卷48 陈涉世家 · 第4216—4216行
+## 《史记》卷48 陈涉世家 · sj:4216
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4216-L4216)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4216-L4216)
 
 ```text
 
@@ -1295,9 +1295,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4217"></a>
 
-## 《史记》卷48 陈涉世家 · 第4217—4217行
+## 《史记》卷48 陈涉世家 · sj:4217
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4217-L4217)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4217-L4217)
 
 ```text
 
@@ -1307,9 +1307,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4218"></a>
 
-## 《史记》卷48 陈涉世家 · 第4218—4218行
+## 《史记》卷48 陈涉世家 · sj:4218
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4218-L4218)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4218-L4218)
 
 ```text
 
@@ -1319,9 +1319,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4219"></a>
 
-## 《史记》卷48 陈涉世家 · 第4219—4219行
+## 《史记》卷48 陈涉世家 · sj:4219
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4219-L4219)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4219-L4219)
 
 ```text
 
@@ -1331,9 +1331,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4220"></a>
 
-## 《史记》卷48 陈涉世家 · 第4220—4220行
+## 《史记》卷48 陈涉世家 · sj:4220
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4220-L4220)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4220-L4220)
 
 ```text
 
@@ -1343,9 +1343,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1494-1495"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1494—1495行
+## 《史记》卷16 秦楚之际月表 · sj:1494-1495
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1494-L1495)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1494-L1495)
 
 ```text
 
@@ -1356,9 +1356,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4221"></a>
 
-## 《史记》卷48 陈涉世家 · 第4221—4221行
+## 《史记》卷48 陈涉世家 · sj:4221
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4221-L4221)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4221-L4221)
 
 ```text
 
@@ -1368,9 +1368,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4222"></a>
 
-## 《史记》卷48 陈涉世家 · 第4222—4222行
+## 《史记》卷48 陈涉世家 · sj:4222
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4222-L4222)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4222-L4222)
 
 ```text
 
@@ -1380,9 +1380,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1495-1496"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1495—1496行
+## 《史记》卷16 秦楚之际月表 · sj:1495-1496
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1495-L1496)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1495-L1496)
 
 ```text
 
@@ -1393,9 +1393,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4223"></a>
 
-## 《史记》卷48 陈涉世家 · 第4223—4223行
+## 《史记》卷48 陈涉世家 · sj:4223
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4223-L4223)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4223-L4223)
 
 ```text
 
@@ -1405,9 +1405,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1500"></a>
 
-## 《史记》卷16 秦楚之际月表 · 第1500—1500行
+## 《史记》卷16 秦楚之际月表 · sj:1500
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1500-L1500)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1500-L1500)
 
 ```text
 
@@ -1417,9 +1417,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4224"></a>
 
-## 《史记》卷48 陈涉世家 · 第4224—4224行
+## 《史记》卷48 陈涉世家 · sj:4224
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4224-L4224)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4224-L4224)
 
 ```text
 
@@ -1429,9 +1429,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4225"></a>
 
-## 《史记》卷48 陈涉世家 · 第4225—4225行
+## 《史记》卷48 陈涉世家 · sj:4225
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4225-L4225)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4225-L4225)
 
 ```text
 
@@ -1441,9 +1441,9 @@ QS*4*QM*12
 
 <a id="ref-sj-4226-4231"></a>
 
-## 《史记》卷48 陈涉世家 · 第4226—4231行
+## 《史记》卷48 陈涉世家 · sj:4226-4231
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4226-L4231)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4226-L4231)
 
 ```text
 
@@ -1458,9 +1458,9 @@ QS*4*QM*12
 
 <a id="ref-sj-5381"></a>
 
-## 《史记》卷86 刺客列传 · 第5381—5381行
+## 《史记》卷86 刺客列传 · sj:5381
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5381-L5381)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5381-L5381)
 
 ```text
 
@@ -1470,9 +1470,9 @@ QS*4*QM*12
 
 <a id="ref-sj-5383"></a>
 
-## 《史记》卷86 刺客列传 · 第5383—5383行
+## 《史记》卷86 刺客列传 · sj:5383
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5383-L5383)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5383-L5383)
 
 ```text
 
@@ -1482,9 +1482,9 @@ QS*4*QM*12
 
 <a id="ref-sj-5385-5386"></a>
 
-## 《史记》卷86 刺客列传 · 第5385—5386行
+## 《史记》卷86 刺客列传 · sj:5385-5386
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5385-L5386)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5385-L5386)
 
 ```text
 
@@ -1495,9 +1495,9 @@ QS*4*QM*12
 
 <a id="ref-sj-5387"></a>
 
-## 《史记》卷86 刺客列传 · 第5387—5387行
+## 《史记》卷86 刺客列传 · sj:5387
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5387-L5387)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5387-L5387)
 
 ```text
 
@@ -1507,9 +1507,9 @@ QS*4*QM*12
 
 <a id="ref-cq-10-27"></a>
 
-## 《春秋》 鲁昭公27年 · 第2614—2624行
+## 《春秋》 鲁昭公27年 · cq:10.27
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L2614-L2624)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L2614-L2624)
 
 ```text
 
@@ -1529,9 +1529,9 @@ QS*4*QM*10
 
 <a id="ref-sj-2974"></a>
 
-## 《史记》卷31 吴太伯世家 · 第2974—2974行
+## 《史记》卷31 吴太伯世家 · sj:2974
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2974-L2974)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2974-L2974)
 
 ```text
 
@@ -1541,9 +1541,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5388"></a>
 
-## 《史记》卷86 刺客列传 · 第5388—5388行
+## 《史记》卷86 刺客列传 · sj:5388
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5388-L5388)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5388-L5388)
 
 ```text
 
@@ -1553,9 +1553,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5389"></a>
 
-## 《史记》卷86 刺客列传 · 第5389—5389行
+## 《史记》卷86 刺客列传 · sj:5389
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5389-L5389)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5389-L5389)
 
 ```text
 
@@ -1565,9 +1565,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5391"></a>
 
-## 《史记》卷86 刺客列传 · 第5391—5391行
+## 《史记》卷86 刺客列传 · sj:5391
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5391-L5391)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5391-L5391)
 
 ```text
 
@@ -1577,9 +1577,9 @@ QS*4*QM*10
 
 <a id="ref-sj-1236"></a>
 
-## 《史记》卷15 六国年表 · 第1236—1236行
+## 《史记》卷15 六国年表 · sj:1236
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1236-L1236)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1236-L1236)
 
 ```text
 
@@ -1589,9 +1589,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5392"></a>
 
-## 《史记》卷86 刺客列传 · 第5392—5392行
+## 《史记》卷86 刺客列传 · sj:5392
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5392-L5392)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5392-L5392)
 
 ```text
 
@@ -1601,9 +1601,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5393"></a>
 
-## 《史记》卷86 刺客列传 · 第5393—5393行
+## 《史记》卷86 刺客列传 · sj:5393
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5393-L5393)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5393-L5393)
 
 ```text
 
@@ -1613,9 +1613,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5394"></a>
 
-## 《史记》卷86 刺客列传 · 第5394—5394行
+## 《史记》卷86 刺客列传 · sj:5394
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5394-L5394)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5394-L5394)
 
 ```text
 
@@ -1625,9 +1625,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5396-5398"></a>
 
-## 《史记》卷86 刺客列传 · 第5396—5398行
+## 《史记》卷86 刺客列传 · sj:5396-5398
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5396-L5398)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5396-L5398)
 
 ```text
 
@@ -1639,9 +1639,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5399"></a>
 
-## 《史记》卷86 刺客列传 · 第5399—5399行
+## 《史记》卷86 刺客列传 · sj:5399
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5399-L5399)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5399-L5399)
 
 ```text
 
@@ -1651,9 +1651,9 @@ QS*4*QM*10
 
 <a id="ref-sj-1292"></a>
 
-## 《史记》卷15 六国年表 · 第1292—1292行
+## 《史记》卷15 六国年表 · sj:1292
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1292-L1292)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1292-L1292)
 
 ```text
 
@@ -1663,9 +1663,9 @@ QS*4*QM*10
 
 <a id="ref-sj-4036"></a>
 
-## 《史记》卷45 韩世家 · 第4036—4036行
+## 《史记》卷45 韩世家 · sj:4036
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4036-L4036)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4036-L4036)
 
 ```text
 
@@ -1675,9 +1675,9 @@ QS*4*QM*10
 
 <a id="ref-tj001-447-472"></a>
 
-## 《资治通鉴》卷1 · 第447—472行
+## 《资治通鉴》卷1 · tj001:447-472
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_001.txt#L447-L472)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_001.txt#L447-L472)
 
 ```text
 
@@ -1712,9 +1712,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5400-5401"></a>
 
-## 《史记》卷86 刺客列传 · 第5400—5401行
+## 《史记》卷86 刺客列传 · sj:5400-5401
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5400-L5401)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5400-L5401)
 
 ```text
 
@@ -1725,9 +1725,9 @@ QS*4*QM*10
 
 <a id="ref-tj001-459-472"></a>
 
-## 《资治通鉴》卷1 · 第459—472行
+## 《资治通鉴》卷1 · tj001:459-472
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_001.txt#L459-L472)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_001.txt#L459-L472)
 
 ```text
 
@@ -1750,9 +1750,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5402"></a>
 
-## 《史记》卷86 刺客列传 · 第5402—5402行
+## 《史记》卷86 刺客列传 · sj:5402
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5402-L5402)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5402-L5402)
 
 ```text
 
@@ -1762,9 +1762,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5403"></a>
 
-## 《史记》卷86 刺客列传 · 第5403—5403行
+## 《史记》卷86 刺客列传 · sj:5403
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5403-L5403)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5403-L5403)
 
 ```text
 
@@ -1774,9 +1774,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5405-5407"></a>
 
-## 《史记》卷86 刺客列传 · 第5405—5407行
+## 《史记》卷86 刺客列传 · sj:5405-5407
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5405-L5407)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5405-L5407)
 
 ```text
 
@@ -1788,9 +1788,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5408-5409"></a>
 
-## 《史记》卷86 刺客列传 · 第5408—5409行
+## 《史记》卷86 刺客列传 · sj:5408-5409
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5408-L5409)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5408-L5409)
 
 ```text
 
@@ -1801,9 +1801,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5410"></a>
 
-## 《史记》卷86 刺客列传 · 第5410—5410行
+## 《史记》卷86 刺客列传 · sj:5410
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5410-L5410)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5410-L5410)
 
 ```text
 
@@ -1813,9 +1813,9 @@ QS*4*QM*10
 
 <a id="ref-tj006-688-693"></a>
 
-## 《资治通鉴》卷6 · 第688—693行
+## 《资治通鉴》卷6 · tj006:688-693
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L688-L693)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_006.txt#L688-L693)
 
 ```text
 
@@ -1830,9 +1830,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5411"></a>
 
-## 《史记》卷86 刺客列传 · 第5411—5411行
+## 《史记》卷86 刺客列传 · sj:5411
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5411-L5411)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5411-L5411)
 
 ```text
 
@@ -1842,9 +1842,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5412"></a>
 
-## 《史记》卷86 刺客列传 · 第5412—5412行
+## 《史记》卷86 刺客列传 · sj:5412
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5412-L5412)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5412-L5412)
 
 ```text
 
@@ -1854,9 +1854,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5413"></a>
 
-## 《史记》卷86 刺客列传 · 第5413—5413行
+## 《史记》卷86 刺客列传 · sj:5413
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5413-L5413)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5413-L5413)
 
 ```text
 
@@ -1866,9 +1866,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5414-5416"></a>
 
-## 《史记》卷86 刺客列传 · 第5414—5416行
+## 《史记》卷86 刺客列传 · sj:5414-5416
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5414-L5416)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5414-L5416)
 
 ```text
 
@@ -1880,9 +1880,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5417"></a>
 
-## 《史记》卷86 刺客列传 · 第5417—5417行
+## 《史记》卷86 刺客列传 · sj:5417
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5417-L5417)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5417-L5417)
 
 ```text
 
@@ -1892,9 +1892,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5418"></a>
 
-## 《史记》卷86 刺客列传 · 第5418—5418行
+## 《史记》卷86 刺客列传 · sj:5418
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5418-L5418)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5418-L5418)
 
 ```text
 
@@ -1904,9 +1904,9 @@ QS*4*QM*10
 
 <a id="ref-tj007-13-27"></a>
 
-## 《资治通鉴》卷7 · 第13—27行
+## 《资治通鉴》卷7 · tj007:13-27
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L13-L27)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L13-L27)
 
 ```text
 
@@ -1930,9 +1930,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5419"></a>
 
-## 《史记》卷86 刺客列传 · 第5419—5419行
+## 《史记》卷86 刺客列传 · sj:5419
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5419-L5419)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5419-L5419)
 
 ```text
 
@@ -1942,9 +1942,9 @@ QS*4*QM*10
 
 <a id="ref-tj007-28-33"></a>
 
-## 《资治通鉴》卷7 · 第28—33行
+## 《资治通鉴》卷7 · tj007:28-33
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L28-L33)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L28-L33)
 
 ```text
 
@@ -1959,9 +1959,9 @@ QS*4*QM*10
 
 <a id="ref-tj007-89-94"></a>
 
-## 《资治通鉴》卷7 · 第89—94行
+## 《资治通鉴》卷7 · tj007:89-94
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L89-L94)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L89-L94)
 
 ```text
 
@@ -1976,9 +1976,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5420"></a>
 
-## 《史记》卷86 刺客列传 · 第5420—5420行
+## 《史记》卷86 刺客列传 · sj:5420
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5420-L5420)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5420-L5420)
 
 ```text
 
@@ -1988,9 +1988,9 @@ QS*4*QM*10
 
 <a id="ref-tj007-138-145"></a>
 
-## 《资治通鉴》卷7 · 第138—145行
+## 《资治通鉴》卷7 · tj007:138-145
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L138-L145)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L138-L145)
 
 ```text
 
@@ -2007,9 +2007,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5421"></a>
 
-## 《史记》卷86 刺客列传 · 第5421—5421行
+## 《史记》卷86 刺客列传 · sj:5421
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5421-L5421)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5421-L5421)
 
 ```text
 
@@ -2019,9 +2019,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5423"></a>
 
-## 《史记》卷86 刺客列传 · 第5423—5423行
+## 《史记》卷86 刺客列传 · sj:5423
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5423-L5423)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5423-L5423)
 
 ```text
 
@@ -2031,9 +2031,9 @@ QS*4*QM*10
 
 <a id="ref-sj-5424"></a>
 
-## 《史记》卷86 刺客列传 · 第5424—5424行
+## 《史记》卷86 刺客列传 · sj:5424
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5424-L5424)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L5424-L5424)
 
 ```text
 
@@ -2043,9 +2043,9 @@ QS*4*QM*10
 
 <a id="ref-sj-3772"></a>
 
-## 《史记》卷42 郑世家 · 第3772—3772行
+## 《史记》卷42 郑世家 · sj:3772
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3772-L3772)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L3772-L3772)
 
 ```text
 
@@ -2055,9 +2055,9 @@ QS*4*QM*10
 
 <a id="ref-cq-1-1"></a>
 
-## 《春秋》 鲁隐公1年 · 第1—16行
+## 《春秋》 鲁隐公1年 · cq:1.1
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L1-L16)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/classics/ccdh/13_cq_mod.txt#L1-L16)
 
 ```text
 
@@ -2082,9 +2082,9 @@ QS*4*QM*12
 
 <a id="ref-sj-959"></a>
 
-## 《史记》卷14 十二诸侯年表 · 第959—959行
+## 《史记》卷14 十二诸侯年表 · sj:959
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L959-L959)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L959-L959)
 
 ```text
 
@@ -2094,9 +2094,9 @@ QS*4*QM*12
 
 <a id="ref-sj-960"></a>
 
-## 《史记》卷14 十二诸侯年表 · 第960—960行
+## 《史记》卷14 十二诸侯年表 · sj:960
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L960-L960)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L960-L960)
 
 ```text
 
@@ -2106,9 +2106,9 @@ QS*4*QM*12
 
 <a id="ref-sj-390"></a>
 
-## 《史记》卷6 秦始皇本纪 · 第390—390行
+## 《史记》卷6 秦始皇本纪 · sj:390
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L390-L390)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L390-L390)
 
 ```text
 
@@ -2118,9 +2118,9 @@ QS*4*QM*12
 
 <a id="ref-sj-1470"></a>
 
-## 《史记》卷15 六国年表 · 第1470—1470行
+## 《史记》卷15 六国年表 · sj:1470
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1470-L1470)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L1470-L1470)
 
 ```text
 
@@ -2130,9 +2130,9 @@ QS*4*QM*12
 
 <a id="ref-tj007-338-353"></a>
 
-## 《资治通鉴》卷7 · 第338—353行
+## 《资治通鉴》卷7 · tj007:338-353
 
-[完整原文件与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L338-L353)
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/zizhi-tongjian/kanripo/KR2b0007_007.txt#L338-L353)
 
 ```text
 
@@ -2152,5 +2152,3029 @@ QS*4*QM*12
 (曰餘刑見於市朝宫刑一百日隠於䕃室養之乃可故/曰隠宫下蠶室是也徒刑者有罪既加刑復罰作之也)¶
 乃分作阿房宫或作驪山發北山石椁寫蜀荆地材(康/曰)¶
 (寫四夜切舍車解馬為寫或作卸余謂此非/舍車解馬之卸即前寫放宫室之寫讀如字)皆至關中¶
+
+```
+
+<a id="ref-sj-2946"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2946
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2946-L2946)
+
+```text
+
+吳太伯，太伯弟仲雍，皆周太王之子，而王季曆之兄也。季曆賢，而有聖子昌，太王欲立季曆以及昌，於是太佰、仲雍二人乃犇荊蠻，文身斷髮，示不可用，以避季曆。季曆果立，是為王季，而昌為文王。太伯之犇荊蠻，自號句吳。荊蠻義之，從而歸之千餘家，立為吳太伯。
+
+```
+
+<a id="ref-sj-2947"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2947
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2947-L2947)
+
+```text
+
+太伯卒，無子，弟仲雍立，是為吳仲雍。仲雍卒，子季簡立。季簡卒，子叔達立。叔達卒，子周章立。是時周武王克殷，求太伯、仲雍之後，得周章。周章已君吳，因而封之。乃封周章弟虞仲於周之北故夏虛，是為虞仲，列為諸侯。
+
+```
+
+<a id="ref-sj-2948"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2948
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2948-L2948)
+
+```text
+
+周章卒，子熊遂立，熊遂卒，子柯相立。柯相卒，子彊鳩夷立。彊鳩夷卒，子餘橋疑吾立。餘橋疑吾卒，子柯盧立。柯盧卒，子周繇立。周繇卒，子屈羽立。屈羽卒，子夷吾立。夷吾卒，子禽處立。禽處卒，子轉立。轉卒，子頗高立。頗高卒，子句卑立。是時晉獻公滅周北虞公，以開晉伐虢也。句卑卒，子去齊立。去齊卒，子壽夢立。壽夢立而吳始益大，稱王。
+
+```
+
+<a id="ref-zz-5-5"></a>
+
+## 《春秋／左传》鲁僖公5年 · zz:5.5
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_267cb3c9e9d7.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0655.md)；原始网页SHA256：`b580d83cb4cea78e85e36d0747d53425e6d2146c172968c1c3ed941b9b18c065`。
+
+```text
+
+经（含续经时见原页）
+五年春，晋侯杀其世子申生。杞伯姬来，朝其子。
+
+夏，公孙兹如牟。
+
+公及齐侯、宋公、陈侯、卫侯、郑伯、许男、曹伯会王世子于首止。
+
+秋八月，诸侯盟于首止。
+
+郑伯逃归，不盟。
+
+楚人灭弦，弦子奔黄。
+
+九月戊申朔，日有食之。
+
+冬，晋人执虞公。
+
+传
+五年春，王正月辛亥朔，日南至。公既视朔，遂登观台以望。而书，礼也。凡分、至、启、闭，必书云物，为备故也。
+
+晋侯使以杀大子申生之故来告。初，晋侯使士蒍为二公子筑蒲与屈，不慎，寘薪焉。夷吾诉之。公使让之。士蒍稽首而对曰：“臣闻之，无丧而慼，忧必雠焉。无戎而城，雠必保焉。寇雠之保，又何慎焉！守官废命不敬，固雠之保不忠，失忠与敬，何以事君？《诗》云：‘怀德惟宁，宗子惟城。’君其修德而固宗子，何城如之？三年将寻师焉，焉用慎？”退而赋曰：“狐裘尨茸，一国三公，吾谁適从？”及难，公使寺人披伐蒲。重耳曰：“君父之命不校。”乃徇曰：“校者吾雠也。”逾垣而走。披斩其袪，遂出奔翟。
+
+夏，公孙兹如牟，娶焉。
+
+会于首止，会王大子郑，谋宁周也。
+
+陈辕宣仲怨郑申侯之反己于召陵，故劝之城其赐邑，曰：“美城之，大名也，子孙不忘。吾助子请。”乃为之请于诸侯而城之，美。遂谮诸郑伯曰：“美城其赐邑，将以叛也。”申侯由是得罪。
+
+秋，诸侯盟。王使周公召郑伯，曰：“吾抚女以从楚，辅之以晋，可以少安。”郑伯喜于王命而惧其不朝于齐也，故逃归不盟。孔叔止之曰：“国君不可以轻，轻则失亲。失亲患必至，病而乞盟，所丧多矣，君必悔之。”弗听，逃其师而归。
+
+楚鬥穀於菟灭弦，弦子奔黄。于是江、黄、道、柏方睦于齐，皆弦姻也，弦子恃之而不事楚，又不设备，故亡。
+
+晋侯复假道于虞以伐虢。宫之奇谏曰：“虢，虞之表也。虢亡，虞必从之。晋不可启，寇不可玩，一之谓甚，其可再乎？谚所谓‘辅车相依，唇亡齿寒’者，其虞、虢之谓也。”公曰：“晋，吾宗也。岂害我哉？”对曰：“大伯、虞仲，大王之昭也。大伯不从，是以不嗣。虢仲、虢叔，王季之穆也，为文王卿士，勋在王室，藏于盟府。将虢是灭，何爱于虞。且虞能亲于桓、庄乎，其爱之也？桓、庄之族何罪，而以为戮，不唯偪乎？亲以宠偪，犹尚害之，况以国乎？”公曰：“吾享祀丰絜，神必据我。”对曰：“臣闻之，鬼神非人实亲，惟德是依。故《周书》曰：‘皇天无亲，惟德是辅。’又曰：‘黍稷非馨，明德惟馨。’又曰：‘民不易物，惟德繄物。’如是，则非德民不和，神不享矣。神所冯依，将在德矣。若晋取虞而明德以荐馨香，神其吐之乎？”弗听，许晋使。宫之奇以其族行，曰：“虞不腊矣，在此行也，晋不更举矣。”
+
+八月甲午，晋侯围上阳。问于卜偃曰：“吾其济乎？”对曰：“克之。”公曰：“何时？”对曰：“童谣云：‘丙之晨，龙尾伏辰，均服振振，取虢之旂。鹑之贲贲，天策焞焞，火中成军，虢公其奔。’其九月、十月之交乎。丙子旦，日在尾，月在策，鹑火中，必是时也。”
+
+冬十二月丙子朔，晋灭虢，虢公醜奔京师。师还，馆于虞，遂袭虞，灭之，执虞公及其大夫井伯，以媵秦穆姬。而修虞祀，且归其职贡于王。故书曰：“晋人执虞公。”罪虞，且言易也。
+
+```
+
+<a id="ref-sj-2949"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2949
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2949-L2949)
+
+```text
+
+自太伯作吳，五世而武王克殷，封其後為二：其一虞，在中國；其一吳，在夷蠻。十二世而晉滅中國之虞。中國之虞滅二世，而夷蠻之吳興。大凡從太伯至壽夢十九世。
+
+```
+
+<a id="ref-sj-2951"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2951
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2951-L2951)
+
+```text
+
+王壽夢二年，楚之亡大夫申公巫臣怨楚將子反而犇晉，自晉使吳，教吳用兵乘車，令其子為吳行人，吳於是始通於中國。吳伐楚。十六年，楚共王伐吳，至衡山。
+
+```
+
+<a id="ref-zz-8-7"></a>
+
+## 《春秋／左传》鲁成公7年 · zz:8.7
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_94dd189001af.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0584.md)；原始网页SHA256：`aeb14778b8bcb9047bd3a72f54f3b8190944a176dd518a4a82db10dc9d87e6ba`。
+
+```text
+
+经（含续经时见原页）
+七年春，王正月，鼷鼠食郊牛角，改卜牛。
+
+鼷鼠又食其角，乃免牛。
+
+吴伐郯。
+
+夏五月，曹伯来朝。
+
+不郊，犹三望。
+
+秋，楚公子婴齐帅师伐郑。
+
+公会晋侯、齐侯、宋公、卫侯、曹伯、莒子、邾子、杞伯救郑。
+
+八月戊辰，同盟于马陵。
+
+公至自会。
+
+吴入州来。
+
+冬，大雩。
+
+卫孙林父出奔晋。
+
+传
+七年春，吴伐郯，郯成。季文子曰：“中国不振旅，蛮夷入伐，而莫之或恤，无吊者也夫！《诗》曰：‘不吊昊天，乱靡有定。’其此之谓乎！有上不吊，其谁不受乱？吾亡无日矣！”君子曰：“知惧如是，斯不亡矣。”
+
+郑子良相成公以如晋，见且拜师。
+
+夏，曹宣公来朝。
+
+秋，楚子重伐郑，师于氾。诸侯救郑。郑共仲、侯羽军楚师，囚郧公钟仪，献诸晋。八月，同盟于马陵，寻虫牢之盟，且莒服故也。晋人以钟仪归，囚诸军府。
+
+楚围宋之役，师还。子重请取于申、吕以为赏田，王许之。申公巫臣曰：“不可。此申、吕所以邑也，是以为赋，以御北方。若取之，是无申、吕也。晋、郑必至于汉。”王乃止。子重是以怨巫臣。子反欲取夏姬，巫臣止之，遂取以行。子反亦怨之。及共王即位，子重、子反杀巫臣之族子阎、子荡及清尹弗忌及襄老之子黑要，而分其室。子重取子阎之室，使沈尹与王子罢分子荡之室，子反取黑要与清尹之室。巫臣自晋遗二子书曰：“尔以谗慝贪惏事君，而多杀不辜。余必使尔罢于奔命以死。”
+
+巫臣请使于吴，晋侯许之。吴子寿梦说之。乃通吴于晋。以两之一卒適吴，舍偏两之一焉。与其射御，教吴乘车，教之战陈，教之叛楚。寘其子狐庸焉，使为行人于吴。吴始伐楚，伐巢，伐徐。子重奔命。马陵之会，吴入州来。子重自郑奔命。子重、子反于是乎一岁七奔命。蛮夷属于楚者，吴尽取之。是以始大，通吴于上国。卫定公恶孙林父。
+
+冬，孙林父出奔晋。卫侯如晋，晋反戚焉。
+
+```
+
+<a id="ref-sj-2952"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2952
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2952-L2952)
+
+```text
+
+二十五年，王壽夢卒。壽夢有子四人，長曰諸樊，次曰餘祭，次曰餘眛，次曰季札。季札賢，而壽夢欲立之，季札讓不可，於是乃立長子諸樊，攝行事當國。
+
+```
+
+<a id="ref-zz-9-12"></a>
+
+## 《春秋／左传》鲁襄公12年 · zz:9.12
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_a27a245730b7.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0561.md)；原始网页SHA256：`6bffb3bac58a3825e10bb299415d345cf921875eee03b17bebf2a51c619697bb`。
+
+```text
+
+经（含续经时见原页）
+十有二年春，王二月，莒人伐我东鄙，围台。
+
+季孙宿帅师救台，遂入郓。
+
+夏，晋侯使士鲂来聘。
+
+秋九月，吴子乘卒。
+
+冬，楚公子贞帅师侵宋。
+
+公如晋。
+
+传
+十二年春，莒人伐我东鄙，围台。季武子救台，遂入郓，取其钟以为公盘。
+
+夏，晋士鲂来聘，且拜师。
+
+秋，吴子寿梦卒。临于周庙，礼也。凡诸侯之丧，异姓临于外，同姓于宗庙，同宗于祖庙，同族于祢庙。是故鲁为诸姬，临于周庙。为邢、凡、蒋、茅、胙、祭，临于周公之庙。
+
+冬，楚子囊、秦庶长无地伐宋，师于扬梁，以报晋之取郑也。
+
+灵王求后于齐。齐侯问对于晏桓子，桓子对曰：“先王之礼辞有之，天子求后于诸侯，诸侯对曰：‘夫妇所生若而人。妾妇之子若而人。’无女而有姊妹及姑姊妹，则曰：‘先守某公之遗女若而人。’”齐侯许昏，王使阴里结之。
+
+公如晋，朝，且拜士鲂之辱，礼也。
+
+秦嬴归于楚。楚司马子庚聘于秦，为夫人宁，礼也。
+
+```
+
+<a id="ref-sj-2954"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2954
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2954-L2954)
+
+```text
+
+王諸樊元年，諸樊已除喪，讓位季札。季札謝曰：「曹宣公之卒也，諸侯與曹人不義曹君，將立子臧，子臧去之，以成曹君，君子曰『能守節矣』。君義嗣，誰敢幹君！有國，非吾節也。劄雖不材，原附於子臧之義。」吳人固立季札，季札棄其室而耕，乃舍之。秋，吳伐楚，楚敗我師。四年，晉平公初立。
+
+```
+
+<a id="ref-zz-9-13"></a>
+
+## 《春秋／左传》鲁襄公13年 · zz:9.13
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_eded59070645.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0560.md)；原始网页SHA256：`ec97c3f5cd01e70d0ac0e96b173a49eb496163fe1f7eed12cca84f83dc3ee4ee`。
+
+```text
+
+经（含续经时见原页）
+十有三年春，公至自晋。
+
+夏，取邿。
+
+秋九月庚辰，楚子审卒。
+
+冬，城防。
+
+传
+十三年春，公至自晋，孟献子书劳于庙，礼也。
+
+夏，邿乱，分为三。师救邿，遂取之。凡书“取”，言易也。用大师焉曰“灭”。弗地曰“入”。
+
+荀罃、士鲂卒。晋侯蒐于绵上以治兵，使士匄将中军，辞曰：“伯游长。昔臣习于知伯，是以佐之，非能贤也。请从伯游。”荀偃将中军，士匄佐之。使韩起将上军，辞以赵武。又使栾黡，辞曰：“臣不如韩起。韩起愿上赵武，君其听之！”使赵武将上军，韩起佐之。栾黡将下军，魏绛佐之。新军无帅，晋侯难其人，使其什吏，率其卒乘官属，以从于下军，礼也。晋国之民，是以大和。诸侯遂睦。君子曰：“让，礼之主也。范宣子让，其下皆让。栾黡为汰，弗敢违也。晋国以平，数世赖之。刑善也夫！一人刑善，百姓休和，可不务乎？《书》曰：‘一人有庆，兆民赖之，其宁惟永。’其是之谓乎？周之兴也，其《诗》曰：‘仪刑文王，万邦作孚。’言刑善也。及其衰也，其《诗》曰：‘大夫不均，我从事独贤。’言不让也。世之治也，君子尚能而让其下，小人农力以事其上，是以上下有礼，而谗慝黜远，由不争也。谓之懿德。及其乱也，君子称其功以加小人，小人伐其技以冯君子，是以上下无礼，乱虐并生，由争善也。谓之昏德。国家之敝，恒必由之。”
+
+楚子疾，告大夫曰：“不穀不德，少主社稷，生十年而丧先君，未及习师保之教训，而应受多福。是以不德，而亡师于鄢，以辱社稷，为大夫忧，其弘多矣。若以大夫之灵，获保首领以殁于地，唯是春秋窀穸之事，所以从先君于祢庙者，请为‘灵’若‘厉’。大夫择焉！”莫对。及五命乃许。
+
+秋，楚共王卒。子囊谋谥。大夫曰：“君有命矣。”子囊曰：“君命以共，若之何毁之？赫赫楚国，而君临之，抚有蛮夷，奄征南海，以属诸夏，而知其过，可不谓共乎？请谥之‘共’。”大夫从之。
+
+吴侵楚，养由基奔命，子庚以师继之。养叔曰：“吴乘我丧，谓我不能师也，必易我而不戒。子为三覆以待我，我请诱之。”子庚从之。战于庸浦，大败吴师，获公子党。君子以吴为不吊。《诗》曰：“不吊昊天，乱靡有定。”
+
+冬，城防，书事时也。于是将早城，臧武仲请俟毕农事，礼也。
+
+郑良霄、大宰石犹在楚。石毚言于子囊曰：“先王卜征五年，而岁习其祥，祥习则行。不习则增，修德而改卜。今楚实不竞，行人何罪？止郑一卿，以除其偪，使睦而疾楚，以固于晋，焉用之？使归而废其使，怨其君以疾其大夫，而相牵引也，不犹愈乎？”楚人归之。
+
+```
+
+<a id="ref-sj-2955"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2955
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2955-L2955)
+
+```text
+
+十三年，王諸樊卒。有命授弟餘祭，欲傳以次，必致國於季札而止，以稱先王壽夢之意，且嘉季札之義，兄弟皆欲致國，令以漸至焉。季札封於延陵，故號曰延陵季子。
+
+```
+
+<a id="ref-zz-9-25"></a>
+
+## 《春秋／左传》鲁襄公25年 · zz:9.25
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_2e532a924d7c.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0548.md)；原始网页SHA256：`53d2f8f4c055284b63890cde52756e370acd90b5a73bd24fef1e81816dca5205`。
+
+```text
+
+经（含续经时见原页）
+二十有五年春，齐崔杼帅师伐我北鄙。
+
+夏五月乙亥，齐崔杼弑其君光。
+
+公会晋侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子于夷仪。
+
+六月壬子，郑公孙舍之帅师入陈。
+
+秋八月己巳，诸侯同盟于重丘。
+
+公至自会。
+
+卫侯入于夷仪。
+
+楚屈建帅师灭舒鸠。
+
+冬，郑公孙夏帅师伐陈。
+
+十有二月，吴子遏伐楚，门于巢，卒。
+
+传
+二十五年春，齐崔杼帅师伐我北鄙，以报孝伯之师也。公患之，使告于晋。孟公绰曰：“崔子将有大志，不在病我，必速归，何患焉！其来也不寇，使民不严，异于他日。”齐师徒归。
+
+齐棠公之妻，东郭偃之姊也。东郭偃臣崔武子。棠公死，偃御武子以吊焉。见棠姜而美之，使偃取之。偃曰：“男女辨姓，今君出自丁，臣出自桓，不可。”武子筮之，遇《困》之《大过》。史皆曰：“吉。”示陈文子，文子曰：“夫从风，风陨，妻不可娶也。且其《繇》曰： ‘困于石，据于蒺藜，入于其宫，不见其妻，凶。’困于石，往不济也。据于蒺藜，所恃伤也。入于其宫，不见其妻，凶，无所归也。”崔子曰：“嫠也何害？先夫当之矣。”遂取之。庄公通焉，骤如崔氏。以崔子之冠赐人，侍者曰：“不可。”公曰：“不为崔子，其无冠乎？”崔子因是，又以其间伐晋也，曰：“晋必将报。”欲弑公以说于晋，而不获间。公鞭侍人贾举而又近之，乃为崔子间公。
+
+夏五月，莒为且于之役故，莒子朝于齐。甲戌，飨诸北郭。崔子称疾不视事。乙亥，公问崔子，遂从姜氏。姜入于室，与崔子自侧户出。公拊楹而歌。侍人贾举止众从者，而入闭门。甲兴。公登台而请，弗许。请盟，弗许。请自刃于庙，弗许。皆曰：“君之臣杼疾病，不能听命。近于公宫，陪臣干掫有淫者，不知二命。”公踰墙。又射之，中股，反队。遂弑之。贾举、州绰、邴师、公孙敖、封具、铎父、襄伊、偻堙皆死。祝佗父祭于高唐，至，复命。不说弁而死于崔氏。申蒯，侍渔者，退谓其宰曰：“尔以帑免，我将死。”其宰曰：“免，是反子之义也。”与之皆死。崔氏杀鬷蔑于平阴。
+
+晏子立于崔氏之门外，其人曰：“死乎？”曰：“独吾君也乎哉？吾死也。”曰：“行乎？”曰：“吾罪也乎哉？吾亡也。”曰：“归乎？”曰：“君死安归？君民者，岂以陵民？社稷是主。臣君者，岂为其口实？社稷是养。故君为社稷死，则死之；为社稷亡，则亡之。若为己死而为己亡，非其私暱，谁敢任之？且人有君而弑之，吾焉得死之，而焉得亡之？将庸何归？”门启而入，枕尸股而哭，兴，三踊而出。人谓崔子：“必杀之！”崔子曰：“民之望也！舍之得民。”卢蒲癸奔晋，王何奔莒。
+
+叔孙宣伯之在齐也，叔孙还纳其女于灵公。嬖，生景公。丁丑，崔杼立而相之。庆封为左相。盟国人于大宫，曰：“所不与崔、庆者。”晏子仰天叹曰：“婴所不唯忠于君利社稷者是与，有如上帝。”乃歃。辛巳，公与大夫及莒子盟。大史书曰：“崔杼弑其君。”崔子杀之。其弟嗣书而死者二人。其弟又书，乃舍之。南史氏闻大史尽死，执简以往。闻既书矣，乃还。
+
+闾丘婴以帷縳其妻而载之，与申鲜虞乘而出。鲜虞推而下之，曰：“君昏不能匡，危不能救，死不能死，而知匿其暱，其谁纳之？”行及弇中，将舍。婴曰：“崔、庆其追我！”鲜虞曰：“一与一，谁能惧我？”遂舍，枕辔而寝，食马而食。驾而行，出弇中，谓婴曰：“速驱之！崔、庆之众，不可当也。”遂来奔。
+
+崔氏侧庄公于北郭。丁亥，葬诸士孙之里，四翣，不跸，下车七乘，不以兵甲。
+
+晋侯济自泮，会于夷仪，伐齐，以报朝歌之役。齐人以庄公说，使隰鉏请成。庆封如师，男女以班。赂晋侯以宗器、乐器。自六正、五吏、三十帅、三军之大夫、百官之正长、师旅及处守者，皆有赂。晋侯许之。使叔向告于诸侯。公使子服惠伯对曰：“君舍有罪，以靖小国，君之惠也。寡君闻命矣！”
+
+晋侯使魏舒、宛没逆卫侯，将使卫与之夷仪。崔子止其帑，以求五鹿。
+
+初，陈侯会楚子伐郑，当陈隧者，井堙木刊。郑人怨之。六月，郑子展、子产帅车七百乘伐陈，宵突陈城，遂入之。陈侯扶其大子偃师奔墓，遇司马桓子，曰：“载余！”曰：“将巡城。”遇贾获，载其母妻，下之而授公车。公曰：“舍而母！”辞曰：“不祥。”与其妻扶其母以奔墓，亦免。子展命师无入公宫，与子产亲御诸门。陈侯使司马桓子赂以宗器。陈侯免，拥社。使其众，男女别而累，以待于朝。子展执絷而见，再拜稽首，承饮而进献。子美入，数俘而出。祝祓社，司徒致民，司马致节，司空致地，乃还。
+
+秋七月己巳，同盟于重丘，齐成故也。
+
+赵文子为政，令薄诸侯之币而重其礼。穆叔见之。谓穆叔曰：“自今以往，兵其少弭矣！齐崔、庆新得政，将求善于诸侯。武也知楚令尹。若敬行其礼，道之以文辞，以靖诸侯，兵可以弭。”
+
+楚薳子冯卒，屈建为令尹。屈荡为莫敖。舒鸠人卒叛。楚令尹子木伐之，及离城。吴人救之，子木遽以右师先，子彊、息桓、子捷、子骈、子盂帅左师以退。吴人居其间七日。子彊曰：“久将垫隘，隘乃禽也。不如速战！请以其私卒诱之，简师陈以待我。我克则进，奔则亦视之，乃可以免。不然，必为吴禽。”从之。五人以其私卒先击吴师。吴师奔，登山以望，见楚师不继，复逐之，傅诸其军。简师会之，吴师大败。遂围舒鸠，舒鸠溃。八月，楚灭舒鸠。
+
+卫献公入于夷仪。
+
+郑子产献捷于晋，戎服将事。晋人问陈之罪，对曰：“昔虞阏父为周陶正，以服事我先王。我先王赖其利器用也，与其神明之后也，庸以元女大姬配胡公，而封诸陈，以备三恪。则我周之自出，至于今是赖。桓公之乱，蔡人欲立其出。我先君庄公奉五父而立之，蔡人杀之。我又与蔡人奉戴厉公，至于庄、宣，皆我之自立。夏氏之乱，成公播荡，又我之自入，君所知也。今陈忘周之大德，蔑我大惠，弃我姻亲，介恃楚众，以冯陵我敝邑，不可亿逞。我是以有往年之告。未获成命，则有我东门之役。当陈隧者，井堙木刊。敝邑大惧不竞，而耻大姬。天诱其衷，启敝邑心。陈知其罪，授手于我。用敢献功！”晋人曰：“何故侵小？”对曰：“先王之命，唯罪所在，各致其辟。且昔天子之地一圻，列国一同，自是以衰。今大国多数圻矣！若无侵小，何以至焉？”晋人曰：“何故戎服？”对曰：“我先君武、庄，为平、桓卿士。城濮之役，文公布命曰： ‘各复旧职！’命我文公戎服辅王，以授楚捷，不敢废王命故也。”士庄伯不能诘，复于赵文子。文子曰：“其辞顺，犯顺不祥。”乃受之。
+
+冬十月，子展相郑伯如晋，拜陈之功。子西复伐陈，陈及郑平。仲尼曰：“《志》有之： ‘言以足志，文以足言。’不言，谁知其志。言之无文，行而不远。晋为伯，郑入陈，非文辞不为功。慎辞哉！”
+
+楚蒍掩为司马。子木使庀赋，数甲兵。甲午，蒍掩书土田，度山林，鸠薮泽，辨京陵，表淳卤，数疆潦，规偃豬，町原防，牧隰皋，井衍沃，量入修赋。赋车籍马，赋车兵、徒兵、甲楯之数。既成，以授子木，礼也。
+
+十二月，吴子诸樊伐楚，以报舟师之役。门于巢。巢牛臣曰：“吴王勇而轻，若启之，将亲门。我获射之，必殪。是君也死，疆其少安！”从之。吴子门焉，牛臣隐于短墙以射之，卒。
+
+楚子以灭舒鸠赏子木。辞曰：“先大夫 子之功也。”以与掩。
+
+晋程郑卒。子产始知然明，问为政焉。对曰：“视民如子。见不仁者诛之，如鹰鹯之逐鸟雀也。”子产喜，以语子大叔，且曰：“他日吾见蔑之面而已，今吾见其心矣。”子大叔问政于子产。子产曰：“政如农功，日夜思之，思其始而成其终。朝夕而行之，行无越思，如农之有畔。其过鲜矣。”
+
+卫献公自夷仪使与甯喜言，甯喜许之。大叔文子闻之，曰：“乌乎！《诗》所谓‘我躬不说，皇恤我后’者，甯子可谓不恤其后矣。将可乎哉？殆必不可。君子之行，思其终也，思其复也。《书》曰： ‘慎始而敬终，终以不困。’《诗》曰： ‘夙夜匪懈，以事一人。’今甯子视君不如弈棋，其何以免乎？弈者举棋不定，不胜其耦。而况置君而弗定乎？必不免矣。九世之卿族，一举而灭之。可哀也哉！”
+
+会于夷仪之岁，齐人城郏。其五月，秦、晋为成。晋韩起如秦涖盟，秦伯车如晋涖盟，成而不结。
+
+```
+
+<a id="ref-sj-2957"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2957
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2957-L2957)
+
+```text
+
+王餘祭三年，齊相慶封有罪，自齊來犇吳。吳予慶封硃方之縣，以為奉邑，以女妻之，富於在齊。
+
+```
+
+<a id="ref-zz-9-28"></a>
+
+## 《春秋／左传》鲁襄公28年 · zz:9.28
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_73cba2400c2c.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0545.md)；原始网页SHA256：`ae292e3be5b57afb1ee90f3eda103f5696e982b8ced772e71d1d7c822e597824`。
+
+```text
+
+经（含续经时见原页）
+二十有八年春，无冰。
+
+夏，卫石恶出奔晋。
+
+邾子来朝。
+
+秋八月，大雩。
+
+仲孙羯如晋。
+
+冬，齐庆封来奔。
+
+十有一月，公如楚。
+
+十有二月甲寅，天王崩。
+
+乙未，楚子昭卒。
+
+传
+二十八年春，无冰。梓慎曰：“今兹宋、郑其饥乎？岁在星纪，而淫于玄枵，以有时菑，阴不堪阳。蛇乘龙。龙，宋、郑之星也，宋、郑必饥。玄枵，虚中也。枵，耗名也。土虚而民耗，不饥何为？”
+
+夏，齐侯、陈侯、蔡侯、北燕伯、杞伯、胡子、沈子、白狄朝于晋，宋之盟故也。齐侯将行，庆封曰： “我不与盟，何为于晋？”陈文子曰：“先事后贿，礼也。小事大，未获事焉，从之如志，礼也。虽不与盟，敢叛晋乎？重丘之盟，未可忘也。子其劝行！”
+
+卫人讨甯氏之党，故石恶出奔晋。卫人立其从子圃以守石氏之祀，礼也。
+
+邾悼公来朝，时事也。
+
+秋八月，大雩，旱也。
+
+蔡侯归自晋，入于郑。郑伯享之，不敬。子产曰：“蔡侯其不免乎？日其过此也，君使子展迋劳于东门之外，而傲。吾曰： ‘犹将更之。’今还，受享而惰，乃其心也。君小国事大国，而惰傲以为己心，将得死乎？若不免，必由其子。其为君也，淫而不父。侨闻之，如是者，恒有子祸。”
+
+孟孝伯如晋，告将为宋之盟故如楚也。
+
+蔡侯之如晋也，郑伯使游吉如楚。及汉，楚人还之，曰：“宋之盟，君实亲辱。今吾子来，寡君谓吾子姑还！吾将使驲奔问诸晋而以告。”子大叔曰：“宋之盟，君命将利小国，而亦使安定其社稷，镇抚其民人，以礼承天之休，此君之宪令，而小国之望也。寡君是故使吉奉其皮币，以岁之不易，聘于下执事。今执事有命曰，女何与政令之有？必使而君弃而封守，跋涉山川，蒙犯霜露，以逞君心。小国将君是望，敢不唯命是听。无乃非盟载之言，以阙君德，而执事有不利焉，小国是惧。不然，其何劳之敢惮？”
+
+子大叔归，复命，告子展曰：“楚子将死矣！不修其政德，而贪昧于诸侯，以逞其愿，欲久得乎？《周易》有之，在《复》之《颐》，曰： ‘迷复，凶。’其楚子之谓乎？欲复其愿，而弃其本，复归无所，是谓迷复。能无凶乎？君其往也！送葬而归，以快楚心。楚不几十年，未能恤诸侯也。吾乃休吾民矣。”裨竈曰：“今兹周王及楚子皆将死。岁弃其次，而旅于明年之次，以害鸟帑。周、楚恶之。”
+
+九月，郑游吉如晋，告将朝于楚，以从宋之盟。子产相郑伯以如楚，舍不为坛。外仆言曰：“昔先大夫相先君，適四国，未尝不为坛。自是至今，亦皆循之。今子草舍，无乃不可乎？”子产曰：“大適小，则为坛。小適大，苟舍而已，焉用坛？侨闻之，大適小有五美： 宥其罪戾，赦其过失，救其菑患，赏其德刑，教其不及。小国不困，怀服如归。是故作坛以昭其功，宣告后人，无怠于德。小適大有五恶： 说其罪戾，请其不足，行其政事，共其职贡，从其时命。不然，则重其币帛，以贺其福而吊其凶，皆小国之祸也。焉用作坛以昭其祸。所以告子孙，无昭祸焉可也。”
+
+齐庆封好田而耆酒，与庆舍政。则以其内实迁于卢蒲嫳氏，易内而饮酒。数日，国迁朝焉。使诸亡人得贼者，以告而反之。故反卢蒲癸。癸臣子之，有宠，妻之。庆舍之士谓卢蒲癸曰：“男女辨姓。子不辟宗，何也？”曰：“宗不余辟，余独焉辟之？赋诗断章，余取所求焉，恶识宗？”癸言王何而反之，二人皆嬖。使执寝戈，而先后之。
+
+公膳，日双鸡。饔人窃更之以鹜。御者知之，则去其肉而以其洎馈。子雅、子尾怒。庆封告卢蒲嫳。卢蒲嫳曰：“譬之如禽兽，吾寝处之矣。”使析归父告晏平仲。平仲曰：“婴之众不足用也，知无能谋也。言弗敢出，有盟可也。”子家曰：“子之言云，又焉用盟？”告北郭子车。子车曰：“人各有以事君，非佐之所能也。”陈文子谓桓子曰：“祸将作矣！吾其何得？”对曰：“得庆氏之木百车于庄。”文子曰：“可慎守也已！”
+
+卢蒲癸、王何卜攻庆氏，示子之兆，曰：“或卜攻仇，敢献其兆。”子之曰：“克，见血。”冬十月，庆封田于莱，陈无宇从。丙辰，文子使召之。请曰：“无宇之母疾病，请归。”庆季卜之，示之兆，曰：“死。”奉龟而泣。乃使归。庆嗣闻之，曰：“祸将作矣！”谓子家：“速归！祸作必于尝，归犹可及也。”子家弗听，亦无悛志。子息曰：“亡矣！幸而获在吴、越。”陈无宇济水而戕舟发梁。卢蒲姜谓癸曰：“有事而不告我，必不捷矣。”癸告之。姜曰：“夫子愎，莫之止，将不出，我请止之。”癸曰：“诺。”十一月乙亥，尝于大公之庙，庆舍涖事。卢蒲姜告之，且止之。弗听，曰：“谁敢者！”遂如公。麻婴为尸，庆为上献。卢蒲癸、王何执寝戈。庆氏以其甲环公宫。陈氏、鲍氏之圉人为优。庆氏之马善惊，士皆释甲束马而饮酒，且观优，至于鱼里。栾、高、陈、鲍之徒介庆氏之甲。子尾抽桷击扉三，卢蒲癸自后刺子之。王何以戈击之，解其左肩。犹援庙桷，动于甍，以俎壶投杀人而后死。遂杀庆绳、麻婴。公惧。鲍国曰：“群臣为君故也。”陈须无以公归，税服而如内宫。
+
+庆封归，遇告乱者。丁亥，伐西门，弗克。还伐北门，克之。入伐内宫，弗克。反陈于岳，请战，弗许。遂来奔。献车于季武子，美泽可以鉴。展庄叔见之，曰：“车甚泽，人必瘁，宜其亡也。”叔孙穆子食庆封，庆封氾祭。穆子不说，使工为之诵《茅鸱》。亦不知。既而齐人来让，奔吴。吴句馀予之朱方，聚其族焉而居之，富于其旧。子服惠伯谓叔孙曰：“天殆富淫人，庆封又富矣。”穆子曰：“善人富谓之赏。淫人富谓之殃。天其殃之也，其将聚而歼旃？”
+
+癸巳，天王崩。未来赴，亦未书，礼也。
+
+崔氏之乱，丧群公子。故鉏在鲁，叔孙还在燕，贾在句渎之丘。及庆氏亡，皆召之，具其器用而反其邑焉。与晏子邶殿，其鄙六十。弗受。子尾曰：“富，人之所欲也，何独弗欲？”对曰：“庆氏之邑足欲，故亡。吾邑不足欲也，益之以邶殿，乃足欲。足欲，亡无日矣。在外，不得宰吾一邑。不受邶殿，非恶富也，恐失富也。且夫富如布帛之有幅焉，为之制度，使无迁也。夫民生厚而用利，于是乎正德以幅之，使无黜嫚，谓之幅利。利过则为败。吾不敢贪多，所谓幅也。”与北郭佐邑六十，受之。与子雅邑，辞多受少。与子尾邑，受而稍致之。公以为忠，故有宠。
+
+释卢蒲嫳于北竟。求崔杼之尸，将戮之，不得。叔孙穆子曰：“必得之。武王有乱臣十人，崔杼其有乎？不十人，不足以葬。”既，崔氏之臣曰：“与我其拱璧，吾献其柩。”于是得之。十二月乙亥朔，齐人迁庄公，殡于大寝。以其棺尸崔杼于市。国人犹知之，皆曰：“崔子也。”
+
+为宋之盟故，公及宋公、陈侯、郑伯、许男如楚。公过郑，郑伯不在。伯有迋劳于黄崖，不敬。穆叔曰：“伯有无戾于郑，郑必有大咎。敬，民之主也，而弃之，何以承守。郑人不讨，必受其辜。济泽之阿，行潦之苹藻，寘诸宗室，季兰尸之，敬也。敬可弃乎？”及汉，楚康王卒。公欲反，叔仲昭伯曰：“我楚国之为，岂为一人行也。”子服惠伯曰：“君子有远虑，小人从迩。饥寒之不恤，谁遑其后？不如姑归也。”叔孙穆子曰：“叔仲子专之矣，子服子始学者也。”荣成伯曰：“远图者，忠也。”公遂行。宋向戌曰：“我一人之为，非为楚也。饥寒之不恤，谁能恤楚？姑归而息民，待其立君而为之备。”宋公遂反。
+
+楚屈建卒。赵文子丧之如同盟，礼也。
+
+王人来告丧。问崩日，以甲寅告。故书之，以征过也。
+
+```
+
+<a id="ref-sj-2958"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2958
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2958-L2958)
+
+```text
+
+四年，吳使季札聘於魯，請觀周樂。為歌周南、召南。曰：「美哉，始基之矣，猶未也。然勤而不怨。」歌邶、鄘、衛。曰：「美哉，淵乎，憂而不困者也。吾聞衛康叔、武公之德如是，是其衛風乎？」歌王。曰：「美哉，思而不懼，其周之東乎？」歌鄭。曰：「其細已甚，民不堪也，是其先亡乎？」歌齊。曰：「美哉，泱泱乎大風也哉。表東海者，其太公乎？國未可量也。」歌豳。曰：「美哉，蕩蕩乎，樂而不淫，其周公之東乎？」歌秦。曰：「此之謂夏聲。夫能夏則大，大之至也，其周之舊乎？」歌魏。曰：「美哉，渢渢乎，大而婉，儉而易，行以德輔，此則盟主也。」歌唐。曰：「思深哉，其有陶唐氏之遺風乎？不然，何憂之遠也？非令德之後，誰能若是！」歌陳。曰：「國無主，其能久乎？」自鄶以下，無譏焉。歌小雅。曰：「美哉，思而不貳，怨而不言，其周德之衰乎？猶有先王之遺民也。」歌大雅。曰：「廣哉，熙熙乎，曲而有直體，其文王之德乎？」歌頌。曰：「至矣哉，直而不倨，曲而不詘，近而不偪，遠而不攜，而遷不淫，複而不厭，哀而不愁，樂而不荒，用而不匱，廣而不宣，施而不費，取而不貪，處而不厎，行而不流。五聲和，八風平，節有度，守有序，盛德之所同也。」見舞象箾、南籥者，曰：「美哉，猶有感。」見舞大武，曰：「美哉，周之盛也其若此乎？」見舞韶護者，曰：「聖人之弘也，猶有慚德，聖人之難也！」見舞大夏，曰：「美哉，勤而不德！非禹其誰能及之？」見舞招箾，曰：「德至矣哉，大矣，如天之無不燾也，如地之無不載也，雖甚盛德，無以加矣。觀止矣，若有他樂，吾不敢觀。」
+
+```
+
+<a id="ref-zz-9-29"></a>
+
+## 《春秋／左传》鲁襄公29年 · zz:9.29
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_ba177e411291.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0544.md)；原始网页SHA256：`61e381da9d5e82e986659fd9d23a04050658908ae6281258a82b5ddf5945af6b`。
+
+```text
+
+经（含续经时见原页）
+二十有九年春，王正月，公在楚。
+
+夏五月，公至自楚。
+
+庚午，卫侯衎卒。
+
+阍弑吴子馀祭。
+
+仲孙羯会晋荀盈、齐高止、宋华定、卫世叔仪、郑公孙段、曹人、莒人、滕人、薛人、小邾人城杞。
+
+晋侯使士鞅来聘。
+
+杞子来盟。
+
+吴子使札来聘。
+
+秋九月，葬卫献公。
+
+齐高止出奔北燕。
+
+冬，仲孙羯如晋。
+
+传
+二十九年春，王正月，公在楚，释不朝正于庙也。楚人使公亲襚，公患之。穆叔曰：“祓殡而襚，则布币也。”乃使巫以桃茢先祓殡。楚人弗禁，既而悔之。
+
+二月癸卯，齐人葬庄公于北郭。
+
+夏四月，葬楚康王。公及陈侯、郑伯、许男送葬，至于西门之外。诸侯之大夫皆至于墓。楚郏敖即位。王子围为令尹。郑行人子羽曰：“是谓不宜，必代之昌。松柏之下，其草不殖。”
+
+公还，及方城。季武子取卞，使公冶问，玺书追而与之曰：“闻守卞者将叛，臣帅徒以讨之，既得之矣，敢告。”公冶致使而退，及舍而后闻取卞。公曰：“欲之而言叛，只见疏也。”公谓公冶曰：“吾可以入乎？”对曰：“君实有国，谁敢违君！”公与公冶冕服。固辞。强之而后受。公欲无入，荣成伯赋《式微》，乃归。
+
+五月，公至自楚。公冶致其邑于季氏，而终不入焉。曰：“欺其君，何必使余？”季孙见之，则言季氏如他日。不见，则终不言季氏。及疾，聚其臣，曰：“我死，必无以冕服敛，非德赏也。且无使季氏葬我。”
+
+葬灵王。郑上卿有事，子展使印段往。伯有曰：“弱，不可。”子展曰：“与其莫往，弱不犹愈乎？《诗》云：‘王事靡盬，不遑启处。’东西南北，谁敢宁处？坚事晋、楚，以蕃王室也。王事无旷，何常之有？”遂使印段如周。
+
+吴人伐越，获俘焉，以为阍，使守舟。吴子馀祭观舟，阍以刀弑之。
+
+郑子展卒，子皮即位。于是郑饥，而未及麦，民病。子皮以子展之命，饩国人粟，户一钟，是以得郑国之民。故罕氏常掌国政，以为上卿。宋司城子罕闻之，曰：“邻于善，民之望也。”宋亦饥，请于平公，出公粟以贷。使大夫皆贷。司城氏贷而不书，为大夫之无者贷。宋无饥人。叔向闻之，曰：“郑之罕，宋之乐，其后亡者也！二者其皆得国乎！民之归也，施而不德，乐氏加焉，其以宋升降乎？”
+
+晋平公，杞出也，故治杞。六月，知悼子合诸侯之大夫以城杞，孟孝伯会之。郑子大叔与伯石往。子大叔见大叔文子，与之语。文子曰：“甚乎！其城杞也。”子大叔曰：“若之何哉？晋国不恤周宗之阙，而夏肄是屏。其弃诸姬，亦可知也已。诸姬是弃，其谁归之？吉也闻之，弃同即异，是谓离德。《诗》曰：‘协比其邻，昏姻孔云。’晋不邻矣，其谁云之？”
+
+齐高子容与宋司徒见知伯，女齐相礼。宾出，司马侯言于知伯曰：“二子皆将不免。子容专，司徒侈，皆亡家之主也。”知伯曰：“何如？”对曰：“专则速及，侈将以其力毙，专则人实毙之，将及矣。”
+
+范献子来聘，拜城杞也。公享之，展庄叔执币。射者三耦，公臣不足，取于家臣。家臣：展瑕、展玉父为一耦。公臣：公巫召伯、仲颜庄叔为一耦，鄫鼓父、党叔为一耦。
+
+晋侯使司马女叔侯来治杞田，弗尽归也。晋悼夫人愠曰：“齐也取货。先君若有知也，不尚取之！”公告叔侯，叔侯曰：“虞、虢、焦、滑、霍、扬、韩、魏，皆姬姓也，晋是以大。若非侵小，将何所取？武、献以下，兼国多矣，谁得治之？杞，夏馀也，而即东夷。鲁，周公之后也，而睦于晋。以杞封鲁犹可，而何有焉？鲁之于晋也，职贡不乏，玩好时至，公卿大夫相继于朝，史不绝书，府无虚月。如是可矣！何必瘠鲁以肥杞？且先君而有知也，毋宁夫人，而焉用老臣？”杞文公来盟。书曰“子”，贱之也。
+
+吴公子札来聘，见叔孙穆子，说之。谓穆子曰：“子其不得死乎？好善而不能择人。吾闻‘君子务在择人’。吾子为鲁宗卿，而任其大政，不慎举，何以堪之？祸必及子！”
+
+请观于周乐。使工为之歌《周南》《召南》，曰：“美哉！始基之矣，犹未也。然勤而不怨矣。”为之歌《邶》《鄘》《卫》，曰：“美哉，渊乎！忧而不困者也。吾闻卫康叔、武公之德如是，是其《卫风》乎？”为之歌《王》，曰：“美哉！思而不惧，其周之东乎？”为之歌《郑》，曰：“美哉！其细已甚，民弗堪也，是其先亡乎！”为之歌《齐》，曰：“美哉，泱泱乎，大风也哉！表东海者，其大公乎！国未可量也。”为之歌《豳》，曰：“美哉，荡乎！乐而不淫，其周公之东乎？”为之歌《秦》，曰：“此之谓夏声。夫能夏则大，大之至也，其周之旧乎？”为之歌《魏》，曰：“美哉，沨沨乎！大而婉，险而易行，以德辅此，则明主也。”为之歌《唐》，曰：“思深哉！其有陶唐氏之遗民乎？不然，何忧之远也。非令德之后，谁能若是？”为之歌《陈》，曰：“国无主，其能久乎？”自《郐》以下无讥焉。为之歌《小雅》，曰：“美哉！思而不贰，怨而不言，其周德之衰乎？犹有先王之遗民焉。”为之歌《大雅》，曰：“广哉，熙熙乎！曲而有直体，其文王之德乎？”为之歌《颂》，曰：“至矣哉！直而不倨，曲而不屈，迩而不偪，远而不携，迁而不淫，复而不厌，哀而不愁，乐而不荒，用而不匮，广而不宣，施而不费，取而不贪，处而不底，行而不流，五声和，八风平，节有度，守有序，盛德之所同也。”见舞《象箾》《南籥》者，曰：“美哉！犹有憾。”见舞《大武》者，曰：“美哉！周之盛也，其若此乎？”见舞《韶濩》者，曰：“圣人之弘也，而犹有惭德，圣人之难也。”见舞《大夏》者，曰：“美哉！勤而不德，非禹其谁能修之？”见舞《韶箾》者，曰：“德至矣哉！大矣，如天之无不帱也，如地之无不载也，虽甚盛德，其蔑以加于此矣。观止矣！若有他乐，吾不敢请已！”
+
+其出聘也，通嗣君也。故遂聘于齐，说晏平仲，谓之曰：“子速纳邑与政！无邑无政，乃免于难。齐国之政，将有所归，未获所归，难未歇也。”故晏子因陈桓子以纳政与邑，是以免于栾、高之难。
+
+聘于郑，见子产，如旧相识，与之缟带，子产献纻衣焉。谓子产曰：“郑之执政侈，难将至矣！政必及子。子为政，慎之以礼。不然，郑国将败。”
+
+適卫，说蘧瑗、史狗、史、公子荆、公叔发、公子朝，曰：“卫多君子，未有患也。”
+
+自卫如晋，将宿于戚。闻钟声焉，曰：“异哉！吾闻之也：‘辩而不德，必加于戮。’夫子获罪于君以在此，惧犹不足，而又何乐？夫子之在此也，犹燕之巢于幕上。君又在殡，而可以乐乎？”遂去之。文子闻之，终身不听琴瑟。
+
+適晋，说赵文子、韩宣子、魏献子，曰：“晋国其萃于三族乎！”说叔向，将行，谓叔向曰：“吾子勉之！君侈而多良，大夫皆富，政将在家。吾子好直，必思自免于难。”
+
+秋九月，齐公孙虿、公孙竈放其大夫高止于北燕。乙未，出。书曰：“出奔。”罪高止也。高止好以事自为功，且专，故难及之。
+
+冬，孟孝伯如晋，报范叔也。
+
+为高氏之难故，高竖以卢叛。十月庚寅，闾丘婴帅师围卢。高竖曰：“苟使高氏有后，请致邑。”齐人立敬仲之曾孙酀，良敬仲也。十一月乙卯，高竖致卢而出奔晋，晋人城绵而寘旃。
+
+郑伯有使公孙黑如楚，辞曰：“楚、郑方恶，而使余往，是杀余也。”伯有曰：“世行也。”子晳曰：“可则往，难则已，何世之有？”伯有将强使之。子晳怒，将伐伯有氏，大夫和之。十二月己巳，郑大夫盟于伯有氏。裨谌曰：“是盟也，其与几何？《诗》曰：‘君子屡盟，乱是用长。’今是长乱之道也。祸未歇也，必三年而后能纾。”然明曰：“政将焉往？”裨谌曰：“善之代不善，天命也，其焉辟子产？举不踰等，则位班也。择善而举，则世隆也。天又除之，夺伯有魄。子西即世，将焉辟之？天祸郑久矣，其必使子产息之，乃犹可以戾。不然，将亡矣。”
+
+```
+
+<a id="ref-sj-2959"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2959
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2959-L2959)
+
+```text
+
+去魯，遂使齊。說晏平仲曰：「子速納邑與政。無邑無政，乃免於難。齊國之政將有所歸；未得所歸，難未息也。」故晏子因陳桓子以納政與邑，是以免於欒高之難。
+
+```
+
+<a id="ref-sj-2960"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2960
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2960-L2960)
+
+```text
+
+去齊，使於鄭。見子產，如舊交。謂子產曰：「鄭之執政侈，難將至矣，政必及子。子為政，慎以禮。不然，鄭國將敗。」去鄭，適衛。說蘧瑗、史狗、史、公子荊、公叔發、公子朝曰：「衛多君子，未有患也。」
+
+```
+
+<a id="ref-sj-2961"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2961
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2961-L2961)
+
+```text
+
+自衛如晉，將舍於宿，聞鍾聲，曰：「異哉！吾聞之，辯而不德，必加於戮。夫子獲罪於君以在此，懼猶不足，而又可以畔乎？夫子之在此，猶燕之巢於幕也。君在殯而可以樂乎？」遂去之。文子聞之，終身不聽琴瑟。
+
+```
+
+<a id="ref-sj-2962"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2962
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2962-L2962)
+
+```text
+
+適晉，說趙文子、韓宣子、魏獻子曰：「晉國其萃於三家乎！」將去，謂叔向曰：「吾子勉之！君侈而多良，大夫皆富，政將在三家。吾子直，必思自免於難。」
+
+```
+
+<a id="ref-sj-2963"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2963
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2963-L2963)
+
+```text
+
+季札之初使，北過徐君。徐君好季札劍，口弗敢言。季札心知之，為使上國，未獻。還至徐，徐君已死，於是乃解其寶劍，系之徐君塚樹而去。從者曰：「徐君已死，尚誰予乎？」季子曰：「不然。始吾心已許之，豈以死倍吾心哉！」
+
+```
+
+<a id="ref-sj-2964"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2964
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2964-L2964)
+
+```text
+
+七年，楚公子圍弑其王夾敖而代立，是為靈王。十年，楚靈王會諸侯而以伐吳之硃方，以誅齊慶封。吳亦攻楚，取三邑而去。十一年，楚伐吳，至雩婁。十二年，楚複來伐，次於乾谿，楚師敗走。
+
+```
+
+<a id="ref-zz-10-1"></a>
+
+## 《春秋／左传》鲁昭公1年 · zz:10.1
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_dbcfa4b56ac6.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0541.md)；原始网页SHA256：`865778c7a5ecca8dfbf7264dce4775faab9487b3bd22a12d34d0d9ca859ee73a`。
+
+```text
+
+经（含续经时见原页）
+元年春，王正月，公即位。
+
+叔孙豹会晋赵武、楚公子围、齐国弱、宋向戌、卫齐恶、陈公子招、蔡公孙归生、郑罕虎、许人、曹人于虢。
+
+三月，取郓。
+
+夏，秦伯之弟鍼出奔晋。
+
+六月丁巳，邾子华卒。
+
+晋荀吴帅师败狄于大卤。
+
+秋，莒去疾自齐入于莒。
+
+莒展舆出奔吴。
+
+叔弓帅师疆郓田。
+
+葬邾悼公。
+
+冬十有一月己酉，楚子麇卒。
+
+楚公子比出奔晋。
+
+传
+元年春，楚公子围聘于郑，且娶于公孙段氏，伍举为介。将入馆，郑人恶之。使行人子羽与之言，乃馆于外。既聘，将以众逆。子产患之，使子羽辞曰：“以敝邑褊小，不足以容从者，请墠听命！”令尹命大宰伯州犁对曰：“君辱贶寡大夫围，谓围：‘将使豐氏抚有而室。’围布几筵，告于庄、共之庙而来。若野赐之，是委君贶于草莽也！是寡大夫不得列于诸卿也！不宁唯是，又使围蒙其先君，将不得为寡君老，其蔑以复矣。唯大夫图之！”子羽曰：“小国无罪，恃实其罪。将恃大国之安靖己，而无乃包藏祸心以图之。小国失恃而惩诸侯，使莫不憾者，距违君命，而有所壅塞不行是惧！不然，敝邑，馆人之属也，其敢爱豐氏之祧？”伍举知其有备也，请垂櫜而入。许之。正月乙未，入逆而出，遂会于虢，寻宋之盟也。
+
+祁午谓赵文子曰：“宋之盟，楚人得志于晋。今令尹之不信，诸侯之所闻也。子弗戒，惧又如宋。子木之信称于诸侯，犹诈晋而驾焉，况不信之尤者乎？楚重得志于晋，晋之耻也。子相晋国以为盟主，于今七年矣！再合诸侯，三合大夫，服齐、狄，宁东夏，平秦乱，城淳于，师徒不顿，国家不罢，民无谤讟，诸侯无怨，天无大灾，子之力也。有令名矣，而终之以耻，午也是惧。吾子其不可以不戒！”文子曰：“武受赐矣！然宋之盟，子木有祸人之心，武有仁人之心，是楚所以驾于晋也。今武犹是心也，楚又行僭，非所害也。武将信以为本，循而行之。譬如农夫，是穮是蓘，虽有饥馑，必有丰年。且吾闻之：‘能信不为人下。’吾未能也。《诗》曰：‘不僭不贼，鲜不为则。’信也。能为人则者，不为人下矣。吾不能是难，楚不为患。”
+
+楚令尹围请用牲，读旧书，加于牲上而已。晋人许之。三月甲辰，盟。楚公子围设服离卫。叔孙穆子曰：“楚公子美矣，君哉！”郑子皮曰：“二执戈者前矣！”蔡子家曰：“蒲宫有前，不亦可乎？”楚伯州犁曰：“此行也，辞而假之寡君。”郑行人挥曰：“假不反矣！”伯州犁曰：“子姑忧子晳之欲背诞也。”子羽曰：“当璧犹在，假而不反，子其无忧乎？”齐国子曰：“吾代二子愍矣！”陈公子招曰：“不忧何成，二子乐矣。”卫齐子曰：“苟或知之，虽忧何害？”宋合左师曰：“大国令，小国共。吾知共而已。”晋乐王鲋曰：“《小旻》之卒章善矣，吾从之。”
+
+退会，子羽谓子皮曰：“叔孙绞而婉，宋左师简而礼，乐王鲋字而敬，子与子家持之，皆保世之主也。齐、卫、陈大夫其不免乎？国子代人忧，子招乐忧，齐子虽忧弗害。夫弗及而忧，与可忧而乐，与忧而弗害，皆取忧之道也，忧必及之。《大誓》曰：‘民之所欲，天必从之。’三大夫兆忧，忧能无至乎？言以知物，其是之谓矣。”
+
+季武子伐莒，取郓，莒人告于会。楚告于晋曰：“寻盟未退，而鲁伐莒，渎齐盟，请戮其使。”乐桓子相赵文子，欲求货于叔孙而为之请，使请带焉。弗与。梁其踁曰：“货以藩身，子何爱焉？”叔孙曰：“诸侯之会，卫社稷也。我以货免，鲁必受师。是祸之也，何卫之为？人之有墙，以蔽恶也。墙之隙坏，谁之咎也？卫而恶之，吾又甚焉。虽怨季孙，鲁国何罪？叔出季处，有自来矣，吾又谁怨？然鲋也贿，弗与不已。”召使者，裂裳帛而与之，曰：“带其褊矣。”
+
+赵孟闻之，曰：“临患不忘国，忠也。思难不越官，信也。图国忘死，贞也。谋主三者，义也。有是四者，又可戮乎？”乃请诸楚曰：“鲁虽有罪，其执事不辟难，畏威而敬命矣。子若免之，以劝左右可也。若子之群吏处不辟污，出不逃难，其何患之有？患之所生，污而不治，难而不守，所由来也。能是二者，又何患焉？不靖其能，其谁从之？鲁叔孙豹可谓能矣，请免之以靖能者。子会而赦有罪，又赏其贤，诸侯其谁不欣焉望楚而归之，视远如迩？疆埸之邑，一彼一此，何常之有？王伯之令也，引其封疆，而树之官。举之表旗，而著之制令。过则有刑，犹不可壹。于是乎虞有三苗，夏有观、扈，商有姺、邳，周有徐、奄。自无令王，诸侯逐进，狎主齐盟，其又可壹乎？恤大舍小，足以为盟主，又焉用之？封疆之削，何国蔑有？主齐盟者，谁能辩焉？吴、濮有衅，楚之执事，岂其顾盟？莒之疆事，楚勿与知。诸侯无烦，不亦可乎？莒、鲁争郓，为日久矣，苟无大害于其社稷，可无亢也。去烦宥善，莫不竞劝。子其图之！”固请诸楚，楚人许之，乃免叔孙。
+
+令尹享赵孟，赋《大明》之首章。赵孟赋《小宛》之二章。事毕，赵孟谓叔向曰：“令尹自以为王矣，何如？”对曰：“王弱，令尹强，其可哉！虽可，不终。”赵孟曰：“何故？”对曰：“强以克弱而安之，强不义也。不义而强，其毙必速。《诗》曰：‘赫赫宗周，褒姒灭之。’强不义也。令尹为王，必求诸侯。晋少懦矣，诸侯将往。若获诸侯，其虐滋甚。民弗堪也，将何以终？夫以强取，不义而克，必以为道。道以淫虐，弗可久已矣！”
+
+夏四月，赵孟、叔孙豹、曹大夫入于郑，郑伯兼享之。子皮戒赵孟，礼终，赵孟赋《瓠叶》。子皮遂戒穆叔，且告之。穆叔曰：“赵孟欲一献，子其从之！”子皮曰：“敢乎？”穆叔曰：“夫人之所欲也，又何不敢。”及享，具五献之笾豆于幕下。赵孟辞，私于子产曰：“武请于冢宰矣。”乃用一献。赵孟为客，礼终乃宴。穆叔赋《鹊巢》。赵孟曰：“武不堪也。”又赋《采蘩》，曰：“小国为蘩，大国省穑而用之，其何实非命。”子皮赋《野有死麕》之卒章。赵孟赋《常棣》，且曰：“吾兄弟比以安，尨也可使无吠。”穆叔、子皮及曹大夫兴，拜，举兕爵曰：“小国赖子，知免于戾矣。”饮酒乐。赵孟出，曰：“吾不复此矣。”
+
+天王使刘定公劳赵孟于颍，馆于雒汭。刘子曰：“美哉禹功，明德远矣。微禹，吾其鱼乎！吾与子弁冕端委，以治民临诸侯，禹之力也。子盍亦远绩禹功，而大庇民乎？”对曰：“老夫罪戾是惧，焉能恤远？吾侪偷食，朝不谋夕，何其长也？”刘子归以语王曰：“谚所谓老将至而耄及之者，其赵孟之谓乎！为晋正卿，以主诸侯，而侪于隶人，朝不谋夕，弃神人矣。神怒民叛，何以能久？赵孟不复年矣。神怒，不歆其祀；民叛，不即其事。祀事不从，又何以年？”
+
+叔孙归，曾夭御季孙以劳之。旦及日中不出。曾夭谓曾阜曰：“旦及日中，吾知罪矣。鲁以相忍为国也，忍其外不忍其内，焉用之？”阜曰：“数月于外，一旦于是，庸何伤？贾而欲赢，而恶嚣乎？”阜谓叔孙曰：“可以出矣！”叔孙指楹曰：“虽恶是，其可去乎？”乃出见之。
+
+郑徐吾犯之妹美，公孙楚聘之矣，公孙黑又使强委禽焉。犯惧，告子产。子产曰：“是国无政，非子之患也。唯所欲与。”犯请于二子，请使女择焉。皆许之。子晳盛饰入，布币而出。子南戎服入，左右射，超乘而出。女自房观之，曰：“子晳信美矣，抑子南夫也。夫夫妇妇，所谓顺也。”適子南氏。子晳怒。既而櫜甲以见子南，欲杀之而取其妻。子南知之，执戈逐之。及冲，击之以戈。子晳伤而归，告大夫曰：“我好见之，不知其有异志也，故伤。”
+
+大夫皆谋之。子产曰：“直钧，幼贱有罪。罪在楚也。”乃执子南而数之，曰：“国之大节有五，女皆奸之。畏君之威，听其政，尊其贵，事其长，养其亲，五者所以为国也。今君在国，女用兵焉，不畏威也。奸国之纪，不听政也。子晳上大夫，女嬖大夫，而弗下之，不尊贵也。幼而不忌，不事长也。兵其从兄，不养亲也。君曰：‘余不女忍杀，宥女以远。’勉速行乎，无重而罪！”五月庚辰，郑放游楚于吴。将行子南，子产咨于大叔。大叔曰：“吉不能亢身，焉能亢宗？彼国政也，非私难也。子图郑国，利则行之，又何疑焉？周公杀管叔而蔡蔡叔，夫岂不爱？王室故也。吉若获戾，子将行之，何有于诸游？”
+
+秦后子有宠于桓，如二君于景。其母曰：“弗去，惧选。”癸卯，鍼適晋，其车千乘。书曰：“秦伯之弟鍼出奔晋。”罪秦伯也。后子享晋侯，造舟于河，十里舍车，自雍及绛。归取酬币，终事八反。司马侯问焉，曰：“子之车，尽于此而已乎？”对曰：“此之谓多矣！若能少此，吾何以得见？”女叔齐以告公，且曰：“秦公子必归。臣闻君子能知其过，必有令图。令图，天所赞也。”
+
+后子见赵孟。赵孟曰：“吾子其曷归？”对曰：“鍼惧选于寡君，是以在此，将待嗣君。”赵孟曰：“秦君何如？”对曰：“无道。”赵孟曰：“亡乎？”对曰：“何为？一世无道，国未艾也。国于天地，有与立焉。不数世淫，弗能毙也。”赵孟曰：“天乎？”对曰：“有焉。”赵孟曰：“其几何？”对曰：“鍼闻之，国无道而年穀和熟，天赞之也。鲜不五稔。”赵孟视荫曰：“朝夕不相及，谁能待五？”后子出而告人曰：“赵孟将死矣。主民，翫岁而愒日，其与几何？”
+
+郑为游楚乱故，六月丁巳，郑伯及其大夫盟于公孙段氏。罕虎、公孙侨、公孙段、印段、游吉、驷带私盟于闺门之外，实薰隧。公孙黑强与于盟，使大史书其名，且曰七子。子产弗讨。
+
+晋中行穆子败无终及群狄于大原，崇卒也。将战，魏舒曰：“彼徒我车，所遇又阨，以什共车必克。困诸阨，又克。请皆卒，自我始。”乃毁车以为行，五乘为三伍。荀吴之嬖人不肯即卒，斩以徇。为五陈以相离，两于前，伍于后，专为右角，参为左角，偏为前拒，以诱之。翟人笑之。未陈而薄之，大败之。
+
+莒展舆立，而夺群公子秩。公子召去疾于齐。秋，齐公子鉏纳去疾，展舆奔吴。
+
+叔弓帅师疆郓田，因莒乱也。于是莒务娄、瞀胡及公子灭明以大厖与常仪靡奔齐。君子曰：“莒展之不立，弃人也夫！人可弃乎？《诗》曰：‘无竞维人。’善矣。”
+
+晋侯有疾，郑伯使公孙侨如晋聘，且问疾。叔向问焉，曰：“寡君之疾病，卜人曰：‘实沈、台骀为祟。’史莫之知，敢问此何神也？”子产曰：“昔高辛氏有二子，伯曰阏伯，季曰实沈，居于旷林，不相能也。日寻干戈，以相征讨。后帝不臧，迁阏伯于商丘，主辰。商人是因，故辰为商星。迁实沈于大夏，主参。唐人是因，以服事夏。商，其季世曰唐叔虞。当武王邑姜方震大叔，梦帝谓己：‘余命而子曰虞，将与之唐，属诸参，而蕃育其子孙。’及生，有文在其手曰‘虞’，遂以命之。及成王灭唐而封大叔焉，故参为晋星。由是观之，则实沈，参神也。昔金天氏有裔子曰昧，为玄冥师，生允格、台骀。台骀能业其官，宣汾、洮，障大泽，以处大原。帝用嘉之，封诸汾川。沈、姒、蓐、黄，实守其祀。今晋主汾而灭之矣。由是观之，则台骀，汾神也。抑此二者，不及君身。山川之神，则水旱疠疫之灾，于是乎禜之。日月星辰之神，则雪霜风雨之不时，于是乎禜之。若君身，则亦出入饮食哀乐之事也。山川星辰之神，又何为焉？侨闻之，君子有四时： 朝以听政，昼以访问，夕以修令，夜以安身。于是乎节宣其气，勿使有所壅闭湫底，以露其体。兹心不爽，而昏乱百度。今无乃壹之，则生疾矣。侨又闻之，内官不及同姓，其生不殖。美先尽矣，则相生疾，君子是以恶之。故《志》曰：‘买妾不知其姓，则卜之。’违此二者，古之所慎也。男女辨姓，礼之大司也。今君内实有四姬焉，其无乃是也乎？若由是二者，弗可为也已。四姬有省犹可，无则必生疾矣。”叔向曰：“善哉！肸未之闻也。此皆然矣。”
+
+叔向出，行人挥送之。叔向问郑故焉，且问子晳。对曰：“其与几何？无礼而好陵人，怙富而卑其上，弗能久矣。”
+
+晋侯闻子产之言，曰：“博物君子也。”重贿之。
+
+晋侯求医于秦。秦伯使医和视之，曰：“疾不可为也。是谓：‘近女室，疾如蛊。非鬼非食，惑以丧志。良臣将死，天命不祐。’”公曰：“女不可近乎？”对曰：“节之。先王之乐，所以节百事也，故有五节，迟速本末以相及，中声以降，五降之后，不容弹矣。于是有烦手淫声，慆堙心耳，乃忘平和，君子弗听也。物亦如之，至于烦，乃舍也已，无以生疾。君子之近琴瑟，以仪节也，非以慆心也。天有六气，降生五味，发为五色，徵为五声，淫生六疾。六气曰阴、阳、风、雨、晦、明也。分为四时，序为五节。过则为菑，阴淫寒疾，阳淫热疾，风淫末疾，雨淫腹疾，晦淫惑疾，明淫心疾。女，阳物而晦时，淫则生内热惑蛊之疾。今君不节不时，能无及此乎？”
+
+出告赵孟。赵孟曰：“谁当良臣？”对曰：“主是谓矣！主相晋国，于今八年，晋国无乱，诸侯无阙，可谓良矣。和闻之，国之大臣，荣其宠禄，任其大节，有菑祸兴而无改焉，必受其咎。今君至于淫以生疾，将不能图恤社稷，祸孰大焉！主不能御，吾是以云也。”赵孟曰：“何谓蛊？”对曰：“淫溺惑乱之所生也。于文，皿虫为蛊，穀之飞亦为蛊；在《周易》，女惑男，风落山，谓之《蛊》。皆同物也。”赵孟曰：“良医也。”厚其礼而归之。
+
+楚公子围使公子黑肱、伯州犁城犫、栎、郏，郑人惧。子产曰：“不害。令尹将行大事，而先除二子也。祸不及郑，何患焉？”
+
+冬，楚子围将聘于郑，伍举为介。未出竟，闻王有疾而还。伍举遂聘。十一月己酉，公子围至，入问王疾，缢而弑之。遂杀其二子幕及平夏。右尹子干出奔晋。宫廐尹子晳出奔郑。杀大宰伯州犁于郏。葬王于郏，谓之郏敖。使赴于郑，伍举问应为后之辞焉。对曰：“寡大夫围。”伍举更之曰：“共王之子围为长。”
+
+子干奔晋，从车五乘。叔向使与秦公子同食，皆百人之饩。赵文子曰：“秦公子富。”叔向曰：“厎禄以德，德钧以年，年同以尊。公子以国，不闻以富。且夫以千乘去其国，强御已甚。《诗》曰：‘不侮鳏寡，不畏强御。’秦、楚，匹也。”使后子与子干齿。辞曰：“鍼惧选，楚公子不获，是以皆来，亦唯命。且臣与羇齿，无乃不可乎？史佚有言曰：‘非羇何忌？’”
+
+楚灵王即位，薳罢为令尹，薳启彊为大宰。郑游吉如楚，葬郏敖，且聘立君。归，谓子产曰：“具行器矣！楚王汰侈而自说其事，必合诸侯。吾往无日矣。”子产曰：“不数年，未能也。”
+
+十二月，晋既烝。赵孟適南阳，将会孟子馀。甲辰朔，烝于温。庚戌卒。郑伯如晋吊，及雍乃复。
+
+```
+
+<a id="ref-zz-10-4"></a>
+
+## 《春秋／左传》鲁昭公4年 · zz:10.4
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_2c945560639d.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0538.md)；原始网页SHA256：`a6c5a5ab9c761ada5ea38e0319634f78d407bb05751adcdc2fd4fccc69a9f507`。
+
+```text
+
+经（含续经时见原页）
+四年春，王正月，大雨雹。
+
+夏，楚子、蔡侯、陈侯、郑伯、许男、徐子、滕子、顿子、胡子、沈子、小邾子、宋世子佐、淮夷会于申。
+
+楚人执徐子。
+
+秋七月，楚子、蔡侯、陈侯、许男、顿子、胡子、沈子、淮夷伐吴。
+
+执齐庆封杀之。
+
+遂灭赖。
+
+九月，取鄫。
+
+冬十有二月乙卯，叔孙豹卒。
+
+传
+四年春，王正月，许男如楚，楚子止之，遂止郑伯，复田江南，许男与焉。使椒举如晋求诸侯，二君待之。椒举致命曰：“寡君使举曰，日君有惠，赐盟于宋曰，晋、楚之从，交相见也。以岁之不易，寡人愿结欢于二三君。使举请间。君若苟无四方之虞，则愿假宠以请于诸侯。”
+
+晋侯欲勿许。司马侯曰：“不可。楚王方侈，天或者欲逞其心，以厚其毒而降之罚，未可知也。其使能终，亦未可知也。晋、楚唯天所相，不可与争。君其许之，而修德以待其归。若归于德，吾犹将事之，况诸侯乎？若適淫虐，楚将弃之，吾又谁与争？”公曰：“晋有三不殆，其何敌之有？国险而多马，齐、楚多难。有是三者，何乡而不济？”对曰：“恃险与马，而虞邻国之难，是三殆也。四岳、三涂、阳城、大室、荆山、中南，九州之险也，是不一姓。冀之北土，马之所生，无兴国焉。恃险与马，不可以为固也，从古以然。是以先王务修德音以亨神人，不闻其务险与马也。邻国之难，不可虞也。或多难以固其国，启其疆土；或无难以丧其国，失其守宇。若何虞难。齐有仲孙之难而获桓公，至今赖之。晋有里、丕之难而获文公，是以为盟主。卫、邢无难，敌亦丧之。故人之难，不可虞也。恃此三者，而不修政德，亡于不暇，又何能济？君其许之！纣作淫虐，文王惠和，殷是以陨，周是以兴，夫岂争诸侯？”乃许楚使。使叔向对曰：“寡君有社稷之事，是以不获春秋时见。诸侯，君实有之，何辱命焉。”椒举遂请昏，晋侯许之。
+
+楚子问于子产曰：“晋其许我诸侯乎？”对曰：“许君。晋君少安，不在诸侯。其大夫多求，莫匡其君。在宋之盟，又曰如一，若不许君，将焉用之？”王曰：“诸侯其来乎？”对曰：“必来。从宋之盟，承君之欢，不畏大国，何故不来？不来者，其鲁、卫、曹、邾乎？曹畏宋，邾畏鲁，鲁、卫偪于齐而亲于晋，唯是不来。其馀，君之所及也，谁敢不至？”王曰：“然则吾所求者，无不可乎？”对曰：“求逞于人，不可。与人同欲，尽济。”
+
+大雨雹。季武子问于申豐曰：“雹可御乎？”对曰：“圣人在上，无雹，虽有，不为灾。古者，日在北陆而藏冰；西陆，朝觌而出之。其藏冰也，深山穷穀，固阴冱寒，于是乎取之。其出之也，朝之禄位，宾食丧祭，于是乎用之。其藏之也，黑牡、秬黍，以享司寒。其出之也，桃弧、棘矢，以除其灾。其出入也时，食肉之禄，冰皆与焉。大夫命妇，丧浴用冰。祭寒而藏之，献羔而启之，公始用之。火出而毕赋。自命夫、命妇，至于老疾，无不受冰。山人取之，县人传之，舆人纳之，隶人藏之。夫冰以风壮，而以风出。其藏之也周，其用之也徧，则冬无愆阳，夏无伏阴，春无凄风，秋无苦雨，雷出不震，无菑霜雹，疠疾不降，民不夭札。今藏川池之冰，弃而不用。风不越而杀，雷不发而震。雹之为菑，谁能御之？《七月》之卒章，藏冰之道也。”
+
+夏，诸侯如楚，鲁、卫、曹、邾不会。曹、邾辞以难，公辞以时祭，卫侯辞以疾。郑伯先待于申。六月丙午，楚子合诸侯于申。椒举言于楚子曰：“臣闻诸侯无归，礼以为归。今君始得诸侯，其慎礼矣。霸之济否，在此会也。夏启有钧台之享，商汤有景亳之命，周武有孟津之誓，成有岐阳之蒐，康有酆宫之朝，穆有涂山之会，齐桓有召陵之师，晋文有践土之盟。君其何用？宋向戌、郑公孙侨在，诸侯之良也，君其选焉。”王曰：“吾用齐桓。”
+
+王使问礼于左师与子产。左师曰：“小国习之，大国用之，敢不荐闻？”献公合诸侯之礼六。子产曰：“小国共职，敢不荐守？”献伯、子、男会公之礼六。君子谓合左师善守先代，子产善相小国。王使椒举侍于后，以规过。卒事，不规。王问其故，对曰：“礼，吾所未见者有六焉，又何以规？”
+
+宋大子佐后至，王田于武城，久而弗见。椒举请辞焉。王使往曰：“属有宗祧之事于武城，寡君将堕币焉，敢谢后见。”徐子，吴出也，以为贰焉，故执诸申。
+
+楚子示诸侯侈，椒举曰：“夫六王、二公之事，皆所以示诸侯礼也。诸侯所由用命也。夏桀为仍之会，有缗叛之。商纣为黎之蒐，东夷叛之。周幽为大室之盟，戎狄叛之。皆所以示诸侯汰也，诸侯所由弃命也。今君以汰，无乃不济乎？”王弗听。
+
+子产见左师曰：“吾不患楚矣，汰而愎谏，不过十年。”左师曰：“然。不十年侈，其恶不远，远恶而后弃。善亦如之，德远而后兴。”
+
+秋七月，楚子以诸侯伐吴。宋大子、郑伯先归。宋华费遂、郑大夫从。使屈申围朱方，八月甲申，克之。执齐庆封而尽灭其族。
+
+将戮庆封。椒举曰：“臣闻无瑕者可以戮人。庆封唯逆命，是以在此，其肯从于戮乎？播于诸侯，焉用之？”王弗听，负之斧钺，以徇于诸侯，使言曰：“无或如齐庆封，弑其君，弱其孤，以盟其大夫。”庆封曰：“无或如楚共王之庶子围，弑其君兄之子麇而代之，以盟诸侯。”王使速杀之。
+
+遂以诸侯灭赖。赖子面缚衔璧，士袒，舆榇从之，造于中军。王问诸椒举。对曰：“成王克许，许僖公如是，王亲释其缚，受其璧，焚其榇。”王从之。迁赖于鄢。楚子欲迁许于赖，使鬥韦龟与公子弃疾城之而还。申无宇曰：“楚祸之首，将在此矣。召诸侯而来，伐国而克，城竟莫校。王心不违，民其居乎？民之不处，其谁堪之？不堪王命，乃祸乱也。”
+
+九月，取鄫，言易也。莒乱，著丘公立而不抚鄫，鄫叛而来，故曰取。凡克邑不用师徒曰取。
+
+郑子产作丘赋。国人谤之曰：“其父死于路，己为虿尾。以令于国，国将若之何？”子宽以告。子产曰：“何害？苟利社稷，死生以之。且吾闻为善者不改其度，故能有济也。民不可逞，度不可改。《诗》曰：‘礼义不愆，何恤于人言。’吾不迁矣。”浑罕曰：“国氏其先亡乎！君子作法于凉，其敝犹贪，作法于贪，敝将若之何？姬在列者，蔡及曹、滕其先亡乎！偪而无礼。郑先卫亡，偪而无法。政不率法，而制于心；民各有心，何上之有？”
+
+冬，吴伐楚，入棘、栎、麻，以报朱方之役。楚沈尹射奔命于夏汭，箴尹宜咎城钟离，薳启彊城巢，然丹城州来。东国水，不可以城，彭生罢赖之师。
+
+初，穆子去叔孙氏，及庚宗，遇妇人，使私为食而宿焉。问其行，告之故，哭而送之。適齐，娶于国氏，生孟丙、仲壬。梦天压己，弗胜。顾而见人，黑而上偻，深目而豭喙，号之曰“牛助余”，乃胜之。旦而皆召其徒，无之。且曰：“志之。”及宣伯奔齐，馈之。宣伯曰：“鲁以先子之故，将存吾宗，必召女。召女何如？”对曰：“愿之久矣。”鲁人召之，不告而归。既立，所宿庚宗之妇人，献以雉。问其姓。对曰：“余子长矣，能奉雉而从我矣。”召而见之，则所梦也。未问其名，号之曰“牛”，曰“唯”。皆召其徒，使视之，遂使为竖。有宠，长使为政。公孙明知叔孙于齐，归，未逆国姜，子明取之。故怒其子，长而后使逆之。田于丘莸，遂遇疾焉。竖牛欲乱其室而有之，强与孟盟，不可。叔孙为孟钟，曰：“尔未际，飨大夫以落之。”既具，使竖牛请日。入，弗谒。出，命之日。及宾至，闻钟声。牛曰：“孟有北妇人之客。”怒，将往。牛止之。宾出，使拘而杀诸外。牛又强与仲盟，不可。仲与公御莱书观于公，公与之环，使牛入示之。入，不示。出，命佩之。牛谓叔孙：“见仲而何？”叔孙曰：“何为？”曰：“不见。既自见矣，公与之环而佩之矣。”遂逐之，奔齐。疾急，命召仲，牛许而不召。
+
+杜洩见，告之饥渴，授之戈。对曰：“求之而至，又何去焉？”竖牛曰：“夫子疾病，不欲见人。”使寘馈于个而退。牛弗进，则置虚，命彻。十二月癸丑，叔孙不食。乙卯卒。牛立昭子而相之。
+
+公使杜洩葬叔孙。竖牛赂叔仲昭子与南遗，使恶杜洩于季孙而去之。杜洩将以路葬，且尽卿礼。南遗谓季孙曰：“叔孙未乘路，葬焉用之？且冢卿无路，介卿以葬，不亦左乎？”季孙曰：“然。”使杜洩舍路。不可。曰：“夫子受命于朝，而聘于王。王思旧勋而赐之路。复命而致之君。君不敢逆王命而后赐之，使三官书之。吾子为司徒，实书名。夫子为司马，与工正书服。孟孙为司空，以书勋，今死而弗以，是弃君命也。书在公府而弗以，是废三官也。若命服，生弗敢服，死又不以，将焉用之？”乃使以葬。
+
+季孙谋去中军，竖牛曰：“夫子固欲去之。”
+
+```
+
+<a id="ref-zz-10-5"></a>
+
+## 《春秋／左传》鲁昭公5年 · zz:10.5
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_cfae86a48fdf.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0537.md)；原始网页SHA256：`b23e8b03d98bf5a864db3b39814f0bbdc9c3d864cb55526a99f71a0f0059e7cc`。
+
+```text
+
+经（含续经时见原页）
+五年春，王正月，舍中军。
+
+楚杀其大夫屈申。
+
+公如晋。
+
+夏，莒牟夷以牟娄及防兹来奔。
+
+秋七月，公至自晋。
+
+戊辰，叔弓帅师败莒师于蚡泉。
+
+秦伯卒。
+
+冬，楚子、蔡侯、陈侯、许男、顿子、沈子、徐人、越人伐吴。
+
+传
+五年春，王正月，舍中军，卑公室也。毁中军于施氏，成诸臧氏。初作中军，三分公室而各有其一。季氏尽征之，叔孙氏臣其子弟，孟氏取其半焉。及其舍之也，四分公室，季氏择二，二子各一。皆尽征之，而贡于公。以书使杜洩告于殡，曰：“子固欲毁中军，既毁之矣，故告。”杜洩曰：“夫子唯不欲毁也，故盟诸僖闳，诅诸五父之衢。”受其书而投之，帅士而哭之。叔仲子谓季孙曰：“带受命于子叔孙曰，葬鲜者自西门。”季孙命杜洩。杜洩曰：“卿丧自朝，鲁礼也。吾子为国政，未改礼，而又迁之。群臣惧死，不敢自也。”既葬而行。
+
+仲至自齐，季孙欲立之。南遗曰：“叔孙氏厚则季氏薄。彼实家乱，子勿与知，不亦可乎？”南遗使国人助竖牛以攻诸大库之庭。司宫射之，中目而死。竖牛取东鄙三十邑，以与南遗。
+
+昭子即位，朝其家众，曰：“竖牛祸叔孙氏，使乱大从，杀適立庶，又披其邑，将以赦罪，罪莫大焉。必速杀之。”竖牛惧，奔齐。孟仲之子杀诸塞关之外，投其首于宁风之棘上。
+
+仲尼曰：“叔孙昭子之不劳，不可能也。周任有言曰：‘为政者不赏私劳，不罚私怨。’《诗》云：‘有觉德行，四国顺之。’”
+
+初，穆子之生也，庄叔以《周易》筮之，遇《明夷》[插图]之《谦》[插图]，以示卜楚丘。曰：“是将行，而归为子祀。以谗人入，其名曰牛，卒以馁死。《明夷》，日也。日之数十，故有十时，亦当十位。自王已下，其二为公，其三为卿。日上其中，食日为二，旦日为三。《明夷》之《谦》，明而未融，其当旦乎。故曰为子祀。日之《谦》当鸟，故曰明夷于飞。明而未融，故曰垂其翼。象日之动，故曰君子于行。当三在旦，故曰三日不食。《离》，火也。《艮》，山也。《离》为火，火焚山，山败。于人为言，败言为谗。故曰有攸往。主人有言，言必谗也。纯《离》为牛。世乱谗胜，胜将適《离》，故曰其名曰牛。《谦》不足，飞不翔，垂不峻，翼。故曰其为子后乎。吾子，亚卿也，抑少不终。”
+
+楚子以屈申为贰于吴，乃杀之。以屈生为莫敖，使与令尹子荡如晋逆女。过郑，郑伯劳子荡于氾，劳屈生于菟氏。晋侯送女于邢丘。子产相郑伯，会晋侯于邢丘。
+
+公如晋，自郊劳至于赠贿，无失礼。晋侯谓女叔齐曰：“鲁侯不亦善于礼乎？”对曰：“鲁侯焉知礼！”公曰：“何为？自郊劳至于赠贿，礼无违者，何故不知？”对曰：“是仪也，不可谓礼。礼所以守其国，行其政令，无失其民者也。今政令在家，不能取也。有子家羁，弗能用也。奸大国之盟，陵虐小国。利人之难，不知其私。公室四分，民食于他。思莫在公，不图其终。为国君，难将及身，不恤其所。礼之本末，将于此乎在，而屑屑焉习仪以亟。言善于礼，不亦远乎？”君子谓：“叔侯于是乎知礼。”
+
+晋韩宣子如楚送女，叔向为介。郑子皮、子大叔劳诸索氏。大叔谓叔向曰：“楚王汏侈已甚，子其戒之。”叔向曰：“汏侈已甚，身之灾也，焉能及人？若奉吾币帛，慎吾威仪，守之以信，行之以礼，敬始而思终，终无不复。从而不失仪，敬而不失威，道之以训辞，奉之以旧法，考之以先王，度之以二国，虽汏侈，若我何？”
+
+及楚，楚子朝其大夫曰：“晋，吾仇敌也。苟得志焉，无恤其他。今其来者，上卿、上大夫也。若吾以韩起为阍，以羊舌肸为司宫，足以辱晋，吾亦得志矣，可乎？”大夫莫对。薳启彊曰：“可。苟有其备，何故不可？耻匹夫不可以无备，况耻国乎？是以圣王务行礼，不求耻人。朝聘有珪，享[插图]有璋，小有述职，大有巡功，设机而不倚，爵盈而不饮，宴有好货，飧有陪鼎，入有郊劳，出有赠贿，礼之至也。国家之败，失之道也，则祸乱兴。城濮之役，晋无楚备，以败于邲。邲之役，楚无晋备，以败于鄢。自鄢以来，晋不失备，而加之以礼，重之以睦，是以楚弗能报而求亲焉。既获姻亲，又欲耻之，以召寇仇，备之若何？谁其重此？若有其人，耻之可也。若其未有，君亦图之。晋之事君，臣曰可矣。求诸侯而麇至，求昏而荐女，君亲送之，上卿及上大夫致之。犹欲耻之，君其亦有备矣。不然，奈何？韩起之下，赵成、中行吴、魏舒、范鞅、知盈；羊舌肸之下，祁午、张趯、籍谈、女齐、梁丙、张骼、辅跞、苗贲皇，皆诸侯之选也。韩襄为公族大夫，韩须受命而使矣。箕襄、邢带、叔禽、叔椒、子羽，皆大家也。韩赋七邑，皆成县也。羊舌四族，皆强家也。晋人若丧韩起、杨肸，五卿、八大夫辅韩须、杨石，因其十家九县，长毂九百，其馀四十县，遗守四千，奋其武怒，以报其大耻，伯华谋之，中行伯、魏舒帅之，其蔑不济矣。君将以亲易怨，实无礼以速寇，而未有其备，使群臣往遗之禽，以逞君心，何不可之有？”王曰：“不穀之过也，大夫无辱。”厚为韩子礼。王欲敖叔向以其所不知，而不能。亦厚其礼。
+
+韩起反，郑伯劳诸圉。辞不敢见，礼也。
+
+郑罕虎如齐，娶于子尾氏。晏子骤见之。陈桓子问其故，对曰：“能用善人，民之主也。”
+
+夏，莒牟夷以牟娄及防兹来奔。非卿而书，尊地也。莒人愬于晋。晋侯欲止公。范献子曰：“不可。人朝而执之，诱也。讨不以师，而诱以成之，惰也。为盟主而犯此二者，无乃不可乎？请归之，间而以师讨焉。”乃归公。
+
+秋七月，公至自晋。
+
+莒人来讨，不设备。戊辰，叔弓败诸蚡泉，莒未陈也。
+
+冬十月，楚子以诸侯及东夷伐吴，以报棘、栎、麻之役。薳射以繁扬之师，会于夏汭。越大夫常寿过帅师会楚子于琐。闻吴师出，薳启彊帅师从之，遽不设备，吴人败诸鹊岸。
+
+楚子以驲至于罗汭。吴子使其弟蹶由犒师，楚人执之，将以衅鼓。王使问焉，曰：“女卜来吉乎？”对曰：“吉。寡君闻君将治兵于敝邑，卜之以守龟，曰，余亟使人犒师，请行以观王怒之疾徐，而为之备，尚克知之。龟兆告吉，曰，克可知也。君若[插图]焉，好逆使臣，滋敝邑休怠，而忘其死，亡无日矣。今君奋焉震电冯怒，虐执使臣，将以衅鼓，则吴知所备矣。敝邑虽羸，若早修完，其可以息师。难易有备，可谓吉矣。且吴社稷是卜，岂为一人。使臣获衅军鼓，而敝邑知备，以御不虞，其为吉孰大焉。国之守龟，其何事不卜？一臧一否，其谁能常之？城濮之兆，其报在邲。今此行也，其庸有报志。”乃弗杀。
+
+楚师济于罗汭，沈尹赤会楚子，次于莱山。薳射帅繁扬之师，先入南怀，楚师从之。及汝清，吴不可入。楚子遂观兵于坻箕之山。是行也，吴早设备，楚无功而还，以蹶由归。楚子惧吴，使沈尹射待命于巢，薳启彊待命于雩娄，礼也。
+
+秦后子复归于秦，景公卒故也。
+
+```
+
+<a id="ref-zz-10-6"></a>
+
+## 《春秋／左传》鲁昭公6年 · zz:10.6
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_9d59e02c2204.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0536.md)；原始网页SHA256：`537bfc083e00714ab9818b6e08cca134d1af612382add37532e9c64d9f6d1f27`。
+
+```text
+
+经（含续经时见原页）
+六年春，王正月，杞伯益姑卒。
+
+葬秦景公。
+
+夏，季孙宿如晋。
+
+葬杞文公。
+
+宋华合比出奔卫。
+
+秋九月，大雩。
+
+楚薳罢帅师伐吴。
+
+冬，叔弓如楚。
+
+齐侯伐北燕。
+
+传
+六年春，王正月，杞文公卒，吊如同盟，礼也。大夫如秦，葬景公，礼也。
+
+三月，郑人铸刑书。叔向使诒子产书曰：“始吾有虞于子，今则已矣。昔先王议事以制，不为刑辟，惧民之有争心也。犹不可禁御，是故闲之以义，纠之以政，行之以礼，守之以信，奉之以仁，制为禄位以劝其从，严断刑罚以威其淫。惧其未也，故诲之以忠，耸之以行，教之以务，使之以和，临之以敬，涖之以强，断之以刚。犹求圣哲之上，明察之官，忠信之长，慈惠之师，民于是乎可任使也，而不生祸乱。民知有辟，则不忌于上，并有争心，以征于书，而徼幸以成之，弗可为矣。夏有乱政而作《禹刑》，商有乱政而作《汤刑》，周有乱政而作《九刑》，三辟之兴，皆叔世也。今吾子相郑国，作封洫，立谤政，制参辟，铸刑书，将以靖民，不亦难乎？《诗》曰：‘仪式刑文王之德，日靖四方。’又曰：‘仪刑文王，万邦作孚。’如是，何辟之有？民知争端矣，将弃礼而征于书。锥刀之末，将尽争之。乱狱滋丰，贿赂并行，终子之世，郑其败乎！肸闻之，国将亡，必多制，其此之谓乎！”复书曰：“若吾子之言。侨不才，不能及子孙，吾以救世也。既不承命，敢忘大惠？”
+
+士文伯曰：“火见，郑其火乎。火未出而作火以铸刑器，藏争辟焉。火如象之，不火何为？”
+
+夏，季孙宿如晋，拜莒田也。晋侯享之，有加笾。武子退，使行人告曰：“小国之事大国也，苟免于讨，不敢求贶。得贶不过三献。今豆有加，下臣弗堪，无乃戾也。”韩宣子曰：“寡君以为驩也。”对曰：“寡君犹未敢，况下臣，君之隶也，敢闻加贶？”固请彻加而后卒事。晋人以为知礼，重其好货。
+
+宋寺人柳有宠，大子佐恶之。华合比曰：“我杀之。”柳闻之，乃坎用牲埋书，而告公曰：“合比将纳亡人之族，既盟于北郭矣。”公使视之，有焉，遂逐华合比。合比奔卫。于是华亥欲代右师，乃与寺人柳比，从为之征曰：“闻之久矣。”公使代之。见于左师，左师曰：“女夫也，必亡！女丧而宗室，于人何有？人亦于女何有？《诗》曰：‘宗子维城，毋俾城坏，毋独斯畏。’女其畏哉！”
+
+六月丙戌，郑灾。
+
+楚公子弃疾如晋，报韩子也。过郑，郑罕虎、公孙侨、游吉从郑伯以劳诸柤。辞不敢见。固请见之，见，如见王，以其乘马八匹私面。见子皮如上卿，以马六匹。见子产，以马四匹。见子大叔，以马二匹。禁刍牧采樵，不入田，不樵树，不采蓺，不抽屋，不强匄。誓曰：“有犯命者，君子废，小人降。”舍不为暴，主不慁宾。往来如是。郑三卿皆知其将为王也。
+
+韩宣子之適楚也，楚人弗逆。公子弃疾及晋竟，晋侯将亦弗逆。叔向曰：“楚辟我衷，若何效辟？《诗》曰：‘尔之教矣，民胥效矣。’从我而已，焉用效人之辟？《书》曰：‘圣作则。’无宁以善人为则，而则人之辟乎？匹夫为善，民犹则之，况国君乎？”晋侯说，乃逆之。
+
+秋九月，大雩，旱也。
+
+徐仪楚聘于楚。楚子执之，逃归。惧其叛也，使薳洩伐徐。吴人救之。令尹子荡帅师伐吴，师于豫章，而次于乾谿。吴人败其师于房钟，获宫厩尹弃疾。子荡归罪于薳洩而杀之。
+
+冬，叔弓如楚聘，且吊败也。
+
+十一月，齐侯如晋，请伐北燕也。士匄相士鞅，逆诸河，礼也。晋侯许之。十二月，齐侯遂伐北燕，将纳简公。晏子曰：“不入。燕有君矣，民不贰。吾君贿，左右谄谀，作大事不以信，未尝可也。”
+
+```
+
+<a id="ref-sj-2965"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2965
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2965-L2965)
+
+```text
+
+十七年，王餘祭卒，弟餘眛立。
+
+```
+
+<a id="ref-sj-2967"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2967
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2967-L2967)
+
+```text
+
+王餘眛二年，楚公子棄疾弑其君靈王代立焉。
+
+```
+
+<a id="ref-zz-10-13"></a>
+
+## 《春秋／左传》鲁昭公13年 · zz:10.13
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_1f9cf7f243e1.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0529.md)；原始网页SHA256：`9c63500b9bb572ebd9329ea1898cd2258d3d8849baa4149feba37a0418a94dd2`。
+
+```text
+
+经（含续经时见原页）
+十有三年春，叔弓帅师围费。
+
+夏四月，楚公子比自晋归于楚，弑其君虔于乾谿。
+
+楚公子弃疾杀公子比。
+
+秋，公会刘子、晋侯、齐侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子于平丘。
+
+八月甲戌，同盟于平丘。
+
+公不与盟。
+
+晋人执季孙意如以归。公至自会。
+
+蔡侯庐归于蔡。陈侯吴归于陈。
+
+冬十月，葬蔡灵公。
+
+公如晋，至河乃复。
+
+吴灭州来。
+
+传
+十三年春，叔弓围费，弗克，败焉。平子怒，令见费人执之以为囚俘。冶区夫曰：“非也。若见费人，寒者衣之，饥者食之。为之令主，而共其乏困。费来如归，南氏亡矣。民将叛之，谁与居邑？若惮之以威，惧之以怒，民疾而叛，为之聚也。若诸侯皆然，费人无归，不亲南氏，将焉入矣？”平子从之。费人叛南氏。
+
+楚子之为令尹也，杀大司马薳掩而取其室。及即位，夺薳居田。迁许而质许围。蔡洧有宠于王，王之灭蔡也，其父死焉，王使与于守而行。申之会，越大夫戮焉。王夺鬥韦龟中犫，又夺成然邑而使为郊尹。蔓成然故事蔡公。故薳氏之族及薳居、许围、蔡洧、蔓成然，皆王所不礼也。因群丧职之族，启越大夫常寿过作乱，围固城，克息舟，城而居之。
+
+观起之死也，其子从在蔡，事朝吴，曰：“今不封蔡，蔡不封矣。我请试之。”以蔡公之命召子干、子晳，及郊而告之情，强与之盟，入袭蔡。蔡公将食，见之而逃。观从使子干食，坎用牲，加书，而速行。己徇于蔡曰：“蔡公召二子，将纳之，与之盟而遣之矣，将师而从之。”蔡人聚，将执之。辞曰：“失贼成军，而杀余何益？”乃释之。朝吴曰：“二三子若能死亡，则如违之，以待所济。若求安定，则如与之，以济所欲。且违上，何適而可。”众曰：“与之。”乃奉蔡公，召二子而盟于邓，依陈、蔡人以国。楚公子比、公子黑肱、公子弃疾、蔓成然、蔡朝吴帅陈、蔡、不羹、许、叶之师，因四族之徒，以入楚。及郊，陈、蔡欲为名，故请为武军。蔡公知之曰：“欲速。且役病矣，请藩而已。”乃藩为军。蔡公使须务牟与史猈先入，因正仆人杀大子禄及公子罢敌。公子比为王，公子黑肱为令尹，次于鱼陂。公子弃疾为司马，先除王宫。使观从从师于乾谿，而遂告之。且曰：“先归复所，后者劓。”师及訾梁而溃。
+
+王闻群公子之死也，自投于车下曰：“人之爱其子也，亦如余乎？”侍者曰：“甚焉，小人老而无子，知挤于沟壑矣。”王曰：“余杀人子多矣，能无及此乎？”右尹子革曰：“请待于郊，以听国人。”王曰：“众怒不可犯也。”曰：“若入于大都而乞师于诸侯。”王曰：“皆叛矣。”曰：“若亡于诸侯，以听大国之图君也。”王曰：“大福不再，祇取辱焉。”然丹乃归于楚。
+
+王沿夏，将欲入鄢。芋尹无宇之子申亥曰：“吾父再奸王命，王弗诛，惠孰大焉？君不可忍，惠不可弃，吾其从王。”乃求王，遇诸棘闱以归。夏五月癸亥，王缢于芋尹申亥氏。申亥以其二女殉而葬之。
+
+观从谓子干曰：“不杀弃疾，虽得国，犹受祸也。”子干曰：“余不忍也。”子玉曰：“人将忍子，吾不忍俟也。”乃行。国每夜骇曰：“王入矣！”乙卯夜，弃疾使周走而呼曰：“王至矣！”国人大惊。使蔓成然走告子干、子晳曰：“王至矣！国人杀君司马，将来矣！君若早自图也，可以无辱。众怒如水火焉，不可为谋。”又有呼而走至者曰：“众至矣！”二子皆自杀。丙辰，弃疾即位，名曰熊居。葬子干于訾，实訾敖。杀囚，衣之王服而流诸汉，乃取而葬之，以靖国人。使子旗为令尹。
+
+楚师还自徐，吴人败诸豫章，获其五帅。
+
+平王封陈、蔡，复迁邑，致群赂，施舍宽民，宥罪举职。召观从，王曰：“唯尔所欲。”对曰：“臣之先，佐开卜。”乃使为卜尹。使枝如子躬聘于郑，且致犫、栎之田。事毕，弗致。郑人请曰：“闻诸道路，将命寡君以犫、栎，敢请命。”对曰：“臣未闻命。”既复，王问犫、栎。降服而对曰：“臣过失命，未之致也。”王执其手曰：“子毋勤。姑归，不穀有事，其告子也。”他年芋尹申亥以王柩告，乃改葬之。
+
+初，灵王卜，曰：“余尚得天下。”不吉，投龟诟天而呼曰：“是区区者而不余畀，余必自取之。”民患王之无厌也，故从乱如归。
+
+初，共王无冢適，有宠子五人，无適立焉。乃大有事于群望，而祈曰：“请神择于五人者，使主社稷。”乃徧以璧见于群望曰：“当璧而拜者，神所立也，谁敢违之？”既乃与巴姬密埋璧于大室之庭，使五人齊，而长入拜。康王跨之。灵王肘加焉。子干、子晳皆远之。平王弱，抱而入，再拜，皆厌纽。鬥韦龟属成然焉，且曰：“弃礼违命，楚其危哉。”
+
+子干归，韩宣子问于叔向曰：“子干其济乎？”对曰：“难。”宣子曰：“同恶相求，如市贾焉，何难？”对曰：“无与同好，谁与同恶？取国有五难： 有宠而无人，一也；有人而无主，二也；有主而无谋，三也；有谋而无民，四也；有民而无德，五也。子干在晋十三年矣，晋、楚之从，不闻达者，可谓无人。族尽亲叛，可谓无主。无衅而动，可谓无谋。为羇终世，可谓无民。亡无爱征，可谓无德。王虐而不忌，楚君子干涉五难以弑旧君，谁能济之？有楚国者，其弃疾乎！君陈、蔡，城外属焉。苛慝不作，盗贼伏隐，私欲不违，民无怨心。先神命之，国民信之，芈姓有乱，必季实立，楚之常也。获神，一也。有民，二也。令德，三也。宠贵，四也。居常，五也。有五利以去五难，谁能害之？子干之官，则右尹也。数其贵宠，则庶子也。以神所命，则又远之。其贵亡矣，其宠弃矣，民无怀焉，国无与焉，将何以立？”宣子曰：“齐桓、晋文，不亦是乎？”对曰：“齐桓，卫姬之子也，有宠于僖。有鲍叔牙、宾须无、隰朋以为辅佐，有莒、卫以为外主，有国、高以为内主。从善如流，下善齐肃，不藏贿，不从欲，施舍不倦，求善不厌，是以有国，不亦宜乎？我先君文公，狐季姬之子也，有宠于献。好学而不贰，生十七年，有士五人。有先大夫子馀、子犯以为腹心，有魏犫、贾佗以为股肱，有齐、宋、秦、楚以为外主，有栾、郤、狐、先以为内主。亡十九年，守志弥笃。惠、怀弃民，民从而与之。献无异亲，民无异望，天方相晋，将何以代文？此二君者，异于子干。共有宠子，国有奥主。无施于民，无援于外，去晋而不送，归楚而不逆，何以冀国？”
+
+晋成虒祁，诸侯朝而归者，皆有贰心。为取郠故，晋将以诸侯来讨。叔向曰：“诸侯不可以不示威。”乃并征会，告于吴。秋，晋侯会吴子于良。水道不可，吴人辞，乃还。
+
+七月丙寅，治兵于邾南，甲车四千乘，羊舌鲋摄司马，遂合诸侯于平丘。子产、子大叔相郑伯以会。子产以幄幕九张行。子大叔以四十，既而悔之，每舍损焉。及会，亦如之。
+
+次于卫地，叔鲋求货于卫，淫刍荛者。卫人使屠伯馈叔向羹与一箧锦，曰：“诸侯事晋，未敢携贰，况卫在君之宇下，而敢有异志？刍荛者异于他日，敢请之。”叔向受羹反锦，曰：“晋有羊舌鲋者，渎货无厌，亦将及矣。为此役也，子若以君命赐之，其已。”客从之。未退，而禁之。
+
+晋人将寻盟，齐人不可。晋侯使叔向告刘献公曰：“抑齐人不盟，若之何？”对曰：“盟以厎信。君苟有信，诸侯不贰，何患焉？告之以文辞，董之以武师，虽齐不许，君庸多矣。天子之老，请帅王赋，元戎十乘，以先启行。迟速唯君。”叔向告于齐曰：“诸侯求盟，已在此矣。今君弗利，寡君以为请。”对曰：“诸侯讨贰，则有寻盟。若皆用命，何盟之寻？”叔向曰：“国家之败，有事而无业，事则不经。有业而无礼，经则不序。有礼而无威，序则不共。有威而不昭，共则不明。不明弃共，百事不终，所由倾覆也。是故明王之制，使诸侯岁聘以志业，间朝以讲礼，再朝而会以示威，再会而盟以显昭明。志业于好，讲礼于等，示威于众，昭明于神，自古以来，未之或失也。存亡之道，恒由是兴。晋礼主盟，惧有不治，奉承齐牺，而布诸君，求终事也。君曰：‘余必废之，何齐之有？’唯君图之，寡君闻命矣！”齐人惧，对曰：“小国言之，大国制之，敢不听从？既闻命矣，敬共以往，迟速唯君。”叔向曰：“诸侯有间矣，不可以不示众。”八月辛未，治兵，建而不旆。壬申，复旆之。诸侯畏之。
+
+邾人、莒人愬于晋曰：“鲁朝夕伐我，几亡矣。我之不共，鲁故之以。”晋侯不见公，使叔向来辞曰：“诸侯将以甲戌盟，寡君知不得事君矣，请君无勤。”子服惠伯对曰：“君信蛮夷之诉，以绝兄弟之国，弃周公之后，亦唯君。寡君闻命矣。”叔向曰：“寡君有甲车四千乘在，虽以无道行之，必可畏也。况其率道，其何敌之有？牛虽瘠，偾于豚上，其畏不死？南蒯、子仲之忧，其庸可弃乎？若奉晋之众，用诸侯之师，因邾、莒、杞、鄫之怒，以讨鲁罪，间其二忧，何求而弗克？”鲁人惧，听命。
+
+甲戌，同盟于平丘，齐服也。令诸侯日中造于除。癸酉，退朝。子产命外仆速张于除，子大叔止之，使待明白。及夕，子产闻其未张也，使速往，乃无所张矣。
+
+及盟，子产争承曰：“昔天子班贡，轻重以列，列尊贡重，周之制也，卑而贡重者，甸服也。郑，伯男也。而使从公侯之贡，惧弗给也。敢以为请。诸侯靖兵，好以为事。行理之命，无月不至。贡之无艺，小国有阙，所以得罪也。诸侯修盟，存小国也。贡献无极，亡可待也。存亡之制，将在今矣。”自日中以争，至于昏，晋人许之。既盟，子大叔咎之曰：“诸侯若讨，其可渎乎？”子产曰：“晋政多门，贰偷之不暇，何暇讨？国不竞亦陵，何国之为？”
+
+公不与盟。晋人执季孙意如，以幕蒙之，使狄人守之。司铎射怀锦，奉壶饮冰，以蒲伏焉。守者御之，乃与之锦而入。晋人以平子归，子服湫从。
+
+子产归，未至，闻子皮卒，哭，且曰：“吾已无为为善矣，唯夫子知我。”仲尼谓：“子产于是行也，足以为国基矣。《诗》曰：‘乐旨君子，邦家之基。’子产，君子之求乐者也。”且曰：“合诸侯，艺贡事，礼也。”
+
+鲜虞人闻晋师之悉起也，而不警边，且不修备。晋荀吴自著雍以上军侵鲜虞，及中人，驱冲竞，大获而归。
+
+楚之灭蔡也，灵王迁许、胡、沈、道、房、申于荆焉。平王即位，既封陈、蔡，而皆复之，礼也。隐大子之子庐归于蔡，礼也。悼大子之子吴归于陈，礼也。
+
+冬十月，葬蔡灵公，礼也
+
+公如晋。荀吴谓韩宣子曰：“诸侯相朝，讲旧好也。执其卿而朝其君，有不好焉，不如辞之。”乃使士景伯辞公于河。
+
+吴灭州来。令尹子期请伐吴，王弗许，曰：“吾未抚民人，未事鬼神，未修守备，未定国家，而用民力，败不可悔。州来在吴，犹在楚也。子姑待之。”
+
+季孙犹在晋，子服惠伯私于中行穆子曰：“鲁事晋何以不如夷之小国？鲁，兄弟也，土地犹大，所命能具。若为夷弃之，使事齐、楚，其何瘳于晋？亲亲与大，赏共罚否，所以为盟主也。子其图之。谚曰：‘臣一主二。’吾岂无大国？”穆子告韩宣子，且曰：“楚灭陈、蔡，不能救，而为夷执亲，将焉用之？”乃归季孙。惠伯曰：“寡君未知其罪，合诸侯而执其老。若犹有罪，死命可也。若曰无罪而惠免之，诸侯不闻，是逃命也，何免之为？请从君惠于会。”宣子患之，谓叔向曰：“子能归季孙乎？”对曰：“不能。鲋也能。”乃使叔鱼。叔鱼见季孙曰：“昔鲋也得罪于晋君，自归于鲁君。微武子之赐，不至于今。虽获归骨于晋，犹子则肉之，敢不尽情？归子而不归，鲋也闻诸吏，将为子除馆于西何，其若之何？”且泣。平子惧，先归。惠伯待礼。
+
+```
+
+<a id="ref-sj-2968"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2968
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2968-L2968)
+
+```text
+
+四年，王餘眛卒，欲授弟季札。季札讓，逃去。於是吳人曰：「先王有命，兄卒弟代立，必致季子。季子今逃位，則王餘眛後立。今卒，其子當代。」乃立王餘眛之子僚為王。
+
+```
+
+<a id="ref-sj-2970"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2970
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2970-L2970)
+
+```text
+
+王僚二年，公子光伐楚，敗而亡王舟。光懼，襲楚，複得王舟而還。
+
+```
+
+<a id="ref-zz-10-17"></a>
+
+## 《春秋／左传》鲁昭公17年 · zz:10.17
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_9b94c2f40705.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0525.md)；原始网页SHA256：`68e5d607cf87385e2fd780a12217bfc9a38000db1630c208824164fef9cf124c`。
+
+```text
+
+经（含续经时见原页）
+十有七年春，小邾子来朝。
+
+夏六月甲戌朔，日有食之。
+
+秋，郯子来朝。
+
+八月，晋荀吴帅师灭陆浑之戎。
+
+冬，有星孛于大辰。
+
+楚人及吴战于长岸。
+
+传
+十七年春，小邾穆公来朝，公与之燕。季平子赋《采叔》，穆公赋《菁菁者莪》。昭子曰：“不有以国，其能久乎？”
+
+夏六月甲戌朔，日有食之。祝史请所用币。昭子曰：“日有食之，天子不举，伐鼓于社；诸侯用币于社，伐鼓于朝。礼也。”平子御之，曰：“止也。唯正月朔，慝未作，日有食之，于是乎有伐鼓用币，礼也。其馀则否。”大史曰：“在此月也。日过分而未至，三辰有灾。于是乎百官降物，君不举，辟移时，乐奏鼓，祝用币，史用辞。故《夏书》曰：‘辰不集于房，瞽奏鼓，啬夫驰，庶人走。’此月朔之谓也。当夏四月，是谓孟夏。”平子弗从。昭子退曰：“夫子将有异志，不君君矣。”
+
+秋，郯子来朝，公与之宴。昭子问焉，曰：“少皞氏鸟名官，何故也？”郯子曰：“吾祖也，我知之。昔者黄帝氏以云纪，故为云师而云名。炎帝氏以火纪，故为火师而火名。共工氏以水纪，故为水师而水名。大皞氏以龙纪，故为龙师而龙名。我高祖少皞挚之立也，凤鸟適至，故纪于鸟，为鸟师而鸟名。凤鸟氏，历正也。玄鸟氏，司分者也。伯赵氏，司至者也。青鸟氏，司启者也。丹鸟氏，司闭者也。祝鸠氏，司徒也。鴡鸠氏，司马也。鸤鸠氏，司空也。爽鸠氏，司寇也。鹘鸠氏，司事也。五鸠，鸠民者也。五雉，为五工正，利器用，正度量，夷民者也。九扈，为九农正，扈民无淫者也。自颛顼以来，不能纪远，乃纪于近。为民师而命以民事，则不能故也。”仲尼闻之，见于郯子而学之。既而告人曰：“吾闻之，天子失官，学在四夷，犹信。”
+
+晋侯使屠蒯如周，请有事于雒与三涂。苌弘谓刘子曰：“客容猛，非祭也。其伐戎乎？陆浑氏甚睦于楚，必是故也。君其备之！”乃警戎备。九月丁卯，晋荀吴帅师涉自棘津，使祭史先用牲于雒。陆浑人弗知，师从之。庚午，遂灭陆浑，数之以其贰于楚也。陆浑子奔楚，其众奔甘鹿。周大获。宣子梦文公携荀吴而授之陆浑，故使穆子帅师，献俘于文宫。
+
+冬，有星孛于大辰，西及汉。申须曰：“彗所以除旧布新也。天事恒象，今除于火，火出必布焉。诸侯其有火灾乎？”梓慎曰：“往年吾见之，是其征也，火出而见。今兹火出而章，必火入而伏。其居火也久矣，其与不然乎？火出，于夏为三月，于商为四月，于周为五月。夏数得天，若火作，其四国当之，在宋、卫、陈、郑乎？宋，大辰之虚也；陈，大皞之虚也；郑，祝融之虚也；皆火房也。星孛及汉，汉，水祥也。卫，颛顼之虚也，故为帝丘。其星为大水，水，火之牡也。其以丙子若壬午作乎？水火所以合也。若火入而伏，必以壬午，不过其见之月。”郑裨竈言于子产曰：“宋、卫、陈、郑将同日火，若我用瓘斝玉瓒，郑必不火。”子产弗与。
+
+吴伐楚。阳匄为令尹，卜战，不吉。司马子鱼曰：“我得上流，何故不吉？且楚故，司马令龟，我请改卜。”令曰：“鲂也以其属死之，楚师继之，尚大克之。”吉。战于长岸。子鱼先死，楚师继之，大败吴师，获其乘舟馀皇。使随人与后至者守之，环而堑之，及泉，盈其隧炭，陈以待命。
+
+吴公子光请于其众曰：“丧先王之乘舟，岂唯光之罪，众亦有焉。请藉取之，以救死。”众许之。使长鬣者三人，潜伏于舟侧，曰：“我呼馀皇，则对。”师夜从之。三呼，皆迭对。楚人从而杀之，楚师乱。吴人大败之，取馀皇以归。
+
+```
+
+<a id="ref-sj-2971"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2971
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2971-L2971)
+
+```text
+
+五年，楚之亡臣伍子胥來奔，公子光客之。公子光者，王諸樊之子也。常以為吾父兄弟四人，當傳至季子。季子即不受國，光父先立。即不傳季子，光當立。陰納賢士，欲以襲王僚。
+
+```
+
+<a id="ref-zz-10-20"></a>
+
+## 《春秋／左传》鲁昭公20年 · zz:10.20
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_46ed9f951e58.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0522.md)；原始网页SHA256：`c4755609d07873e79c0e82760eaf1f5c044245df7c598367897729d645630e03`。
+
+```text
+
+经（含续经时见原页）
+二十年春，王正月。
+
+夏，曹公孙会自鄸出奔宋。
+
+秋，盗杀卫侯之兄絷。
+
+冬十月，宋华亥、向宁、华定出奔陈。
+
+十有一月辛卯，蔡侯庐卒。
+
+传
+二十年春，王二月己丑，日南至。梓慎望氛曰：“今兹宋有乱，国几亡，三年而后弭。蔡有大丧。”叔孙昭子曰：“然则戴、桓也！汰侈无礼已甚，乱所在也。”
+
+费无极言于楚子曰：“建与伍奢将以方城之外叛。自以为犹宋、郑也，齐、晋又交辅之，将以害楚。其事集矣。”王信之，问伍奢。伍奢对曰：“君一过多矣，何信于谗？”王执伍奢。使城父司马奋扬杀大子，未至，而使遣之。三月，大子建奔宋。王召奋扬。奋扬使城父人执己以至。王曰：“言出于余口，入于尔耳，谁告建也？”对曰：“臣告之。君王命臣曰：‘事建如事余。’臣不佞，不能苟贰。奉初以还，不忍后命，故遣之。既而悔之，亦无及已。”王曰：“而敢来，何也？”对曰：“使而失命，召而不来，是再奸也。逃无所入。”王曰：“归。”从政如他日。
+
+无极曰：“奢之子材，若在吴，必忧楚国，盍以免其父召之。彼仁，必来。不然，将为患。”王使召之，曰：“来，吾免而父。”棠君尚谓其弟员曰：“尔適吴，我将归死。吾知不逮，我能死，尔能报。闻免父之命，不可以莫之奔也。亲戚为戮，不可以莫之报也。奔死免父，孝也。度功而行，仁也。择任而往，知也。知死不辟，勇也。父不可弃，名不可废，尔其勉之，相从为愈。”伍尚归。奢闻员不来，曰：“楚君大夫其旰食乎！”楚人皆杀之。
+
+员如吴，言伐楚之利于州于。公子光曰：“是宗为戮而欲反其仇，不可从也。”员曰：“彼将有他志。余姑为之求士，而鄙以待之。”乃见鱄设诸焉，而耕于鄙。
+
+宋元公无信多私，而恶华、向。华定、华亥与向宁谋曰：“亡愈于死，先诸。”华亥伪有疾，以诱群公子。公子问之，则执之。夏六月丙申，杀公子寅、公子御戎、公子朱、公子固、公孙援、公孙丁，拘向胜、向行于其廪。公如华氏请焉，弗许，遂劫之。癸卯，取大子栾与母弟辰、公子地以为质。公亦取华亥之子无慼、向宁之子罗、华定之子启，与华氏盟以为质。
+
+卫公孟絷狎齐豹，夺之司寇与鄄，有役则反之，无则取之。公孟恶北宫喜、褚师圃，欲去之。公子朝通于襄夫人宣姜，惧而欲以作乱。故齐豹、北宫喜、褚师圃、公子朝作乱。
+
+初，齐豹见宗鲁于公孟，为骖乘焉。将作乱，而谓之曰：“公孟之不善，子所知也。勿与乘，吾将杀之。”对曰：“吾由子事公孟，子假吾名焉，故不吾远也。虽其不善，吾亦知之。抑以利故，不能去，是吾过也。今闻难而逃，是僭子也。子行事乎，吾将死之，以周事子，而归死于公孟，其可也。”
+
+丙辰，卫侯在平寿，公孟有事于盖获之门外，齐子氏帷于门外而伏甲焉。使祝鼃寘戈于车薪以当门，使一乘从公孟以出。使华齐御公孟，宗鲁骖乘。及闳中，齐氏用戈击公孟，宗鲁以背蔽之，断肱，以中公孟之肩，皆杀之。
+
+公闻乱，乘驱自阅门入，庆比御公，公南楚骖乘，使华寅乘贰车。及公宫，鸿魋驷乘于公，公载宝以出。褚师子申遇公于马路之衢，遂从。过齐氏，使华寅肉袒执盖，以当其阙。齐氏射公，中南楚之背。公遂出。寅闭郭门，踰而从公。公如死鸟，析朱鉏宵从窦出，徒行从公。
+
+齐侯使公孙青聘于卫。既出，闻卫乱，使请所聘。公曰：“犹在竟内，则卫君也。”乃将事焉。遂从诸死鸟，请将事。辞曰：“亡人不佞，失守社稷，越在草莽。吾子无所辱君命。”宾曰：“寡君命下臣于朝，曰，阿下执事。臣不敢贰。”主人曰：“君若惠顾先君之好，照临敝邑，镇抚其社稷，则有宗祧在。”乃止。卫侯固请见之，不获命，以其良马见，为未致使故也。卫侯以为乘马。宾将掫，主人辞曰：“亡人之忧，不可以及吾子。草莽之中，不足以辱从者。敢辞。”宾曰：“寡君之下臣，君之牧圉也。若不获扞外役，是不有寡君也。臣惧不免于戾，请以除死。”亲执铎，终夕与于燎。
+
+齐氏之宰渠子召北宫子。北宫氏之宰不与闻谋，杀渠子，遂伐齐氏，灭之。丁巳晦，公入。与北宫喜盟于彭水之上。秋七月戊午朔，遂盟国人。八月辛亥，公子朝、褚师圃、子玉霄、子高鲂出奔晋。闰月戊辰，杀宣姜。卫侯赐北宫喜谥曰贞子，赐析朱鉏谥曰成子，而以齐氏之墓予之。
+
+卫侯告宁于齐，且言子石。齐侯将饮酒，徧赐大夫曰：“二三子之教也。”苑何忌辞曰：“与于青之赏，必及于其罚。在《康诰》曰：‘父子兄弟，罪不相及。’况在群臣。臣敢贪君赐，以干先王？”
+
+琴张闻宗鲁死，将往吊之。仲尼曰：“齐豹之盗，而孟絷之贼，女何吊焉？君子不食奸，不受乱，不为利疚于回，不以回待人，不盖不义，不犯非礼。”
+
+宋华、向之乱，公子城、公孙忌、乐舍、司马彊、向宜、向郑、楚建、郳申出奔郑。其徒与华氏战于鬼阎，败子城。子城適晋。华亥与其妻必盥而食所质公子者而后食。公与夫人每日必適华氏，食公子而后归。华亥患之，欲归公子。向宁曰：“唯不信，故质其子。若又归之，死无日矣。”公请于华费遂，将攻华氏。对曰：“臣不敢爱死，无乃求去忧而滋长乎？臣是以惧，敢不听命。”公曰：“子死亡有命，余不忍其訽。”
+
+冬十月，公杀华、向之质而攻之。戊辰，华、向奔陈，华登奔吴。向宁欲杀大子。华亥曰：“干君而出，又杀其子，其谁纳我？且归之有庸。”使少司寇牼以归，曰：“子之齿长矣，不能事人，以三公子为质，必免。”公子既入，华牼将自门行。公遽见之，执其手曰：“余知而无罪也，入复而所。”
+
+齐侯疥，遂痁。期而不瘳，诸侯之宾问疾者多在。粱丘據与裔款言于公曰：“吾事鬼神丰，于先君有加矣。今君疾病，为诸侯忧，是祝史之罪也。诸侯不知，其谓我不敬。君盍诛于祝固、史嚚以辞宾？”
+
+公说，告晏子。晏子曰：“日宋之盟，屈建问范会之德于赵武。赵武曰：‘夫子之家事治，言于晋国，竭情无私。其祝史祭祀，陈信不愧。其家事无猜，其祝史不祈。’建以语康王。康王曰：‘神人无怨，宜夫子之光辅五君，以为诸侯主也。’”公曰：“據与款谓寡人能事鬼神，故欲诛于祝史。子称是语，何故？”对曰：“若有德之君，外内不废，上下无怨，动无违事，其祝史荐信，无愧心矣。是以鬼神用飨，国受其福，祝史与焉。其所以蕃祉老寿者，为信君使也，其言忠信于鬼神。其適遇淫君，外内颇邪，上下怨疾，动作辟违，从欲厌私。高台深池，撞钟舞女，斩刈民力，输掠其聚，以成其违，不恤后人。暴虐淫从，肆行非度，无所还忌，不思谤讟，不惮鬼神，神怒民痛，无悛于心。其祝史荐信，是言罪也。其盖失数美，是矫诬也。进退无辞，则虚以求媚。是以鬼神不飨其国以祸之，祝史与焉。所以夭昏孤疾者，为暴君使也，其言僭嫚于鬼神。”公曰：“然则若之何？”对曰：“不可为也。山林之木，衡鹿守之。泽之萑蒲，舟鲛守之。薮之薪蒸，虞候守之。海之盐蜃，祈望守之。县鄙之人，入从其政。偪介之关，暴征其私。承嗣大夫，强易其贿。布常无艺，征敛无度，宫室日更，淫乐不违。内宠之妾，肆夺于市。外宠之臣，僭令于鄙。私欲养求，不给则应。民人苦病，夫妇皆诅。祝有益也，诅亦有损。聊、摄以东，姑、尤以西，其为人也多矣！虽其善祝，岂能胜亿兆人之诅？君若欲诛于祝史，修德而后可。”公说，使有司宽政，毁关，去禁，薄敛，已责。
+
+十二月，齐侯田于沛，招虞人以弓，不进。公使执之，辞曰：“昔我先君之田也，旃以招大夫，弓以招士，皮冠以招虞人。臣不见皮冠，故不敢进。”乃舍之。仲尼曰：“守道不如守官，君子韪之。”
+
+齐侯至自田，晏子侍于遄台。子犹驰而造焉。公曰：“唯據与我和夫。”晏子对曰：“據亦同也，焉得为和？”公曰：“和与同异乎？”对曰：“异。和如羹焉，水火醯醢盐梅以烹鱼肉，燀之以薪。宰夫和之，齐之以味，济其不及，以洩其过。君子食之，以平其心。君臣亦然。君所谓可而有否焉，臣献其否以成其可。君所谓否而有可焉，臣献其可以去其否。是以政平而不干，民无争心。故《诗》曰：‘亦有和羹，既戒既平。鬷嘏无言，时靡有争。’先王之济五味，和五声也，以平其心，成其政也。声亦如味，一气，二体，三类，四物，五声，六律，七音，八风，九歌，以相成也。清浊，小大，短长，疾徐，哀乐，刚柔，迟速，高下，出入，周疏，以相济也。君子听之，以平其心。心平德和。故《诗》曰：‘德音不瑕。’今據不然。君所谓可，據亦曰可。君所谓否，據亦曰否。若以水济水，谁能食之？若琴瑟之专壹，谁能听之？同之不可也如是。”
+
+饮酒乐。公曰：“古而无死，其乐若何？”晏子对曰：“古而无死，则古之乐也，君何得焉？昔爽鸠氏始居此地，季荝因之，有逢伯陵因之，蒲姑氏因之，而后大公因之。古若无死，爽鸠氏之乐，非君所愿也。”
+
+郑子产有疾，谓子大叔曰：“我死，子必为政。唯有德者能以宽服民，其次莫如猛。夫火烈，民望而畏之，故鲜死焉。水懦弱，民狎而玩之，则多死焉。故宽难。”疾数月而卒。大叔为政，不忍猛而宽。郑国多盗，取人于萑苻之泽。大叔悔之曰：“吾早从夫子，不及此。”兴徒兵以攻萑苻之盗，尽杀之。盗少止。
+
+仲尼曰：“善哉，政宽则民慢，慢则纠之以猛。猛则民残，残则施之以宽。宽以济猛，猛以济宽，政是以和。《诗》曰：‘民亦劳止，汔可小康。惠此中国，以绥四方。’施之以宽也。‘毋从诡随，以谨无良。式遏寇虐，惨不畏明。’纠之以猛也。‘柔远能迩，以定我王。’平之以和也。又曰：‘不竞不絿，不刚不柔。布政优优，百禄是遒。’和之至也。”及子产卒，仲尼闻之，出涕曰：“古之遗爱也。”
+
+```
+
+<a id="ref-sj-2972"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2972
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2972-L2972)
+
+```text
+
+八年，吳使公子光伐楚，敗楚師，迎楚故太子建母於居巢以歸。因北伐，敗陳、蔡之師。九年，公子光伐楚，拔居巢、鍾離。初，楚邊邑卑梁氏之處女與吳邊邑之女爭桑，二女家怒相滅，兩國邊邑長聞之，怒而相攻，滅吳之邊邑。吳王怒，故遂伐楚，取兩都而去。
+
+```
+
+<a id="ref-zz-10-23"></a>
+
+## 《春秋／左传》鲁昭公23年 · zz:10.23
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_01e645e998fa.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0519.md)；原始网页SHA256：`4485c4cf7ad4538dc574dc1b945e86d69803616cdc92bde838ccc24e01836a2a`。
+
+```text
+
+经（含续经时见原页）
+二十有三年春，王正月，叔孙婼如晋。
+
+癸丑，叔鞅卒。
+
+晋人执我行人叔孙婼。
+
+晋人围郊。
+
+夏六月，蔡侯东国卒于楚。
+
+秋七月，莒子庚舆来奔。
+
+戊辰，吴败顿、胡、沈、蔡、陈、许之师于鸡父。
+
+胡子髡、沈子逞灭。
+
+获陈夏齧。
+
+天王居于狄泉。
+
+尹氏立王子朝。
+
+八月乙未，地震。
+
+冬，公如晋，至河，有疾，乃复。
+
+传
+二十三年春，王正月壬寅朔，二师围郊。癸卯，郊、溃。丁未，晋师在平阴，王师在泽邑。王使告间，庚戌，还。
+
+邾人城翼，还将自离姑。公孙鉏曰：“鲁将御我。”欲自武城还，循山而南。徐鉏、丘弱、茅地曰：“道下遇雨，将不出，是不归也。”遂自离姑武城人塞其前，断其后之木而弗殊。邾师过之，乃推而蹷之。遂取邾师，获鉏、弱、地。
+
+邾人诉于晋，晋人来讨。叔孙婼如晋，晋人执之。书曰：“晋人执我行人叔孙婼。”言使人也。晋人使与邾大夫坐。叔孙曰：“列国之卿，当小国之君，固周制也。邾又夷也。寡君之命介子服回在，请使当之，不敢废周制故也。”乃不果坐。
+
+韩宣子使邾人聚其众，将以叔孙与之。叔孙闻之，去众与兵而朝。士弥牟谓韩宣子曰：“子弗良图，而以叔孙与其仇，叔孙必死之。鲁亡叔孙，必亡邾。邾君亡国，将焉归？子虽悔之，何及？所谓盟主，讨违命也。若皆相执，焉用盟主？”乃弗与。使各居一馆。士伯听其辞而诉诸宣子，乃皆执之。
+
+士伯御叔孙，从者四人，过邾馆以如吏。先归邾子。士伯曰：“以刍荛之难，从者之病，将馆子于都。”叔孙旦而立，期焉。乃馆诸箕。舍子服昭伯于他邑。范献子求货于叔孙，使请冠焉。取其冠法，而与之两冠，曰：“尽矣。”为叔孙故，申豐以货如晋。叔孙曰：“见我，吾告女所行货。”见而不出。吏人之与叔孙居于箕者，请其吠狗，弗与。及将归，杀而与之食之。叔孙所馆者，虽一日必葺其墙屋，去之如始至。
+
+夏四月乙酉，单子取訾，刘子取墙人、直人。六月壬午，王子朝入于尹。癸未，尹圉诱刘佗杀之。丙戌，单子从阪道，刘子从尹道伐尹。单子先至而败，刘子还。己丑，召伯奂、南宫极以成周人戍尹。庚寅，单子、刘子、樊齐以王如刘。甲午，王子朝入于王城，次于左巷。秋七月戊申，鄩罗纳诸庄宫。尹辛败刘师于唐。丙辰，又败诸鄩。甲子，尹辛取西闱。丙寅，攻蒯，蒯溃。
+
+莒子庚舆虐而好剑，苟铸剑，必试诸人。国人患之。又将叛齐。乌存帅国人以逐之。庚舆将出，闻乌存执殳而立于道左，惧，将止死。苑羊牧之曰：“君过之，乌存以力闻可矣，何必以弑君成名？”遂来奔。齐人纳郊公。
+
+吴人伐州来，楚薳越帅师及诸侯之师奔命救州来。吴人御诸钟离。子瑕卒，楚师熸。吴公子光曰：“诸侯从于楚者众，而皆小国也。畏楚而不获已，是以来。吾闻之曰，作事威克其爱，虽小必济。胡、沈之君幼而狂，陈大夫齧壮而顽，顿与许、蔡疾楚政。楚令尹死，其师，帅贱多宠，政令不壹。七国同役而不同心，帅贱而不能整，无大威命，楚可败也。若分师先以犯胡、沈与陈，必先奔。三国败，诸侯之师乃摇心矣。诸侯乖乱，楚必大奔。请先者去备薄威，后者敦陈整旅。”吴子从之。戊辰晦，战于鸡父。吴子以罪人三千，先犯胡、沈与陈。三国争之。吴为三军以系于后： 中军从王，光帅右，掩馀帅左。吴之罪人或奔或止，三国乱。吴师击之，三国败，获胡、沈之君及陈大夫。舍胡、沈之囚，使奔许与蔡、顿曰：“吾君死矣！”师噪而从之，三国奔。楚师大奔。书曰：“胡子髡、沈子逞灭，获陈夏齧。”君臣之辞也。不言战，楚未陈也。
+
+八月丁酉，南宫极震。苌弘谓刘文公曰：“君其勉之，先君之力可济也。周之亡也，其三川震。今西王之大臣亦震，天弃之矣。东王必大克。”
+
+楚大子建之母在郹，召吴人而启之。冬十月甲申，吴大子诸樊入郹，取楚夫人与其宝器以归。楚司马薳越追之，不及。将死，众曰：“请遂伐吴以徼之。”薳越曰：“再败君师，死且有罪。亡君夫人，不可以莫之死也。”乃缢于薳澨。
+
+公为叔孙故如晋，及河，有疾而复。
+
+楚囊瓦为令尹，城郢。沈尹戌曰：“子常必亡郢，苟不能卫，城无益也。古者天子守在四夷。天子卑，守在诸侯。诸侯守在四邻。诸侯卑，守在四竟。慎其四竟，结其四援，民狎其野，三务成功，民无内忧，而又无外惧，国焉用城？今吴是惧而城于郢，守已小矣。卑之不获，能无亡乎？昔梁伯沟其公宫而民溃。民弃其上，不亡何待？夫正其疆埸，修其土田，险其走集，亲其民人，明其伍候，信其邻国，慎其官守，守其交礼，不僣不贪，不懦不耆，完其守备，以待不虞，又何畏矣。《诗》曰：‘无念尔祖，聿修厥德。’无亦监乎若敖、蚡冒至于武、文，土不过同，慎其四竟，犹不城郢。今土数圻，而郢是城，不亦难乎！”
+
+```
+
+<a id="ref-sj-4666"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4666
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4666-L4666)
+
+```text
+
+久之，楚平王以其邊邑鐘離與吳邊邑卑梁氏俱蠶，兩女子爭桑相攻，乃大怒，至於兩國舉兵相伐。吳使公子光伐楚，拔其鐘離、居巢而歸。伍子胥說吳王僚曰：「楚可破也。願復遣公子光。」公子光謂吳王曰：「彼伍胥父兄為戮於楚，而勸王伐楚者，欲以自報其讎耳。伐楚未可破也。」伍胥知公子光有內志，欲殺王而自立，未可說以外事，乃進專諸於公子光，退而與太子建之子勝耕於野。
+
+```
+
+<a id="ref-zz-10-24"></a>
+
+## 《春秋／左传》鲁昭公24年 · zz:10.24
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_6a11f8233836.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0518.md)；原始网页SHA256：`a71de88d0b95f0334982f03a5888895359ef962e0c9d9ab879bc4b31350d93ec`。
+
+```text
+
+经（含续经时见原页）
+二十有四年春，王二月丙戌，仲孙貜卒。
+
+婼至自晋。
+
+夏五月乙未朔，日有食之。
+
+秋八月，大雩。
+
+丁酉，杞伯郁釐卒。
+
+冬，吴灭巢。葬杞平公。
+
+传
+二十四年春，王正月辛丑，召简公、南宫嚚以甘桓公见王子朝。刘子谓苌弘曰：“甘氏又往矣。”对曰：“何害？同德度义。《大誓》曰：‘纣有亿兆夷人，亦有离德。余有乱臣十人，同心同德。’此周所以兴也。君其务德，无患无人。”戊午，王子朝入于邬。
+
+晋士弥牟逆叔孙于箕。叔孙使梁其踁待于门内，曰：“余左顾而欬，乃杀之。右顾而笑，乃止。”叔孙见士伯，士伯曰：“寡君以为盟主之故，是以久子。不腆敝邑之礼，将致诸从者。使弥牟逆吾子。”叔孙受礼而归。二月，婼至自晋，尊晋也。
+
+三月庚戌，晋侯使士景伯涖问周故。士伯立于乾祭而问于介众。晋人乃辞王子朝，不纳其使。
+
+夏五月乙未朔，日有食之。梓慎曰：“将水。”昭子曰：“旱也。日过分而阳犹不克，克必甚，能无旱乎？阳不克莫，将积聚也。”
+
+六月壬申，王子朝之师攻瑕及杏，皆溃。
+
+郑伯如晋，子大叔相，见范献子。献子曰：“若王室何？”对曰：“老夫其国家不能恤，敢及王室？抑人亦有言曰：‘嫠不恤其纬，而忧宗周之陨，为将及焉。’今王室实蠢蠢焉，吾小国惧矣。然大国之忧也，吾侪何知焉？吾子其早图之！《诗》曰：‘缾之罄矣，惟罍之耻。’王室之不宁，晋之耻也。”献子惧，而与宣子图之。乃征会于诸侯，期以明年。
+
+秋八月，大雩，旱也。
+
+冬十月癸酉，王子朝用成周之宝珪于河。甲戌，津人得诸河上。阴不佞以温人南侵，拘得玉者，取其玉，将卖之，则为石。王定而献之，与之东訾。
+
+楚子为舟师以略吴疆。沈尹戌曰：“此行也，楚必亡邑。不抚民而劳之，吴不动而速之，吴踵楚，而疆埸无备，邑能无亡乎？”
+
+越大夫胥犴劳王于豫章之汭，越公子仓归王乘舟。仓及寿梦帅师从王，王及圉阳而还。吴人踵楚，而边人不备，遂灭巢及钟离而还。沈尹戌曰：“亡郢之始，于此在矣。王壹动而亡二姓之帅，几如是而不及郢？《诗》曰：‘谁生厉阶，至今为梗。’其王之谓乎。”
+
+```
+
+<a id="ref-sj-2973"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2973
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2973-L2973)
+
+```text
+
+伍子胥之初奔吳，說吳王僚以伐楚之利。公子光曰：「胥之父兄為僇於楚，欲自報其仇耳。未見其利。」於是伍員知光有他志，乃求勇士專諸，見之光。光喜，乃客伍子胥。子胥退而耕於野，以待專諸之事。
+
+```
+
+<a id="ref-sj-4667"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4667
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4667-L4667)
+
+```text
+
+五年而楚平王卒。初，平王所奪太子建秦女生子軫，及平王卒，軫竟立為後，是為昭王。吳王僚因楚喪，使二公子將兵往襲楚。楚發兵絕吳兵之後，不得歸。吳國內空，而公子光乃令專諸襲刺吳王僚而自立，是為吳王闔廬。闔廬既立，得志，乃召伍員以為行人，而與謀國事。
+
+```
+
+<a id="ref-zz-10-26"></a>
+
+## 《春秋／左传》鲁昭公26年 · zz:10.26
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_bc22a1502ab4.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0516.md)；原始网页SHA256：`b55369bdf789900bfe8b9fec6aa7a30fcdcdef97f1145ff7b9b345f895c5f73e`。
+
+```text
+
+经（含续经时见原页）
+二十有六年春，王正月，葬宋元公。
+
+三月，公至自齐，居于郓。
+
+夏，公围成。
+
+秋，公会齐侯、莒子、邾子、杞伯，盟于鄟陵。
+
+公至自会，居于郓。
+
+九月庚申，楚子居卒。
+
+冬十月，天王入于成周。
+
+尹氏、召伯、毛伯以王子朝奔楚。
+
+传
+二十六年春，王正月庚申，齐侯取郓。
+
+葬宋元公，如先君，礼也。
+
+三月，公至自齐，处于郓，言鲁地也。
+
+夏，齐侯将纳公，命无受鲁货。申豐从女贾，以币锦二两，縳一如瑱，適齐师。谓子犹之人高：“能货子犹，为高氏后，粟五千庚。”高齮以锦示子犹，子犹欲之。齮曰：“鲁人买之，百两一布，以道之不通，先入币财。”子犹受之，言于齐侯曰：“群臣不尽力于鲁君者，非不能事君也。然據有异焉。宋元公为鲁君如晋，卒于曲棘。叔孙昭子求纳其君，无疾而死。不知天之弃鲁耶，抑鲁君有罪于鬼神，故及此也？君若待于曲棘，使群臣从鲁君以卜焉。若可，师有济也。君则继之，兹无敌矣。若其无成，君无辱焉。”齐侯从之，使公子鉏帅师从公。成大夫公孙朝谓平子曰：“有都以卫国也，请我受师。”许之。请纳质，弗许，曰：“信女足矣。”告于齐师曰：“孟氏，鲁之敝室也。用成已甚，弗能忍也，请息肩于齐。”齐师围成。成人伐齐师之饮马于淄者，曰：“将以厌众。”鲁成备而后告曰：“不胜众。”师及齐师战于炊鼻。齐子渊捷从洩声子，射之，中楯瓦。繇朐汏辀，匕入者三寸。声子射其马，斩鞅，殪。改驾，人以为鬷戾也而助之。子车曰：“齐人也。”将击子车。子车射之，殪。其御曰：“又之。”子车曰：“众可惧也，而不可怒也。”子囊带从野洩，叱之。洩曰：“军无私怒，报乃私也，将亢子。”又叱之。亦叱之。冉竖射陈武子，中手，失弓而骂。以告平子曰：“有君子白晳，鬒鬚眉，甚口。”平子曰：“必子彊也，无乃亢诸？”对曰：“谓之君子，何敢亢之？”林雍羞为颜鸣右，下。苑何忌取其耳。颜鸣去之。苑子之御曰：“视下顾。”苑子刜林雍，断其足。而乘于他车以归。颜鸣三入齐师，呼曰：“林雍乘。”
+
+四月，单子如晋告急。五月戊午，刘人败王城之师于尸氏。戊辰，王城人、刘人战于施穀，刘师败绩。
+
+秋，盟于剸陵，谋纳公也。
+
+七月己巳，刘子以王出。庚午，次于渠。王城人焚刘。丙子，王宿于褚氏。丁丑，王次于萑穀。庚辰，王入于胥靡。辛巳，王次于滑。晋知跞、赵鞅帅师纳王，使女宽守阙塞。
+
+九月，楚平王卒。令尹子常欲立子西，曰：“大子壬弱，其母非適也，王子建实聘之。子西长而好善，立长则顺，建善则治。王顺国治，可不务乎？”子西怒曰：“是乱国而恶君王也。国有外援，不可渎也。王有適嗣，不可乱也。败亲速仇，乱嗣不祥，我受其名。赂吾以天下，吾滋不从也。楚国何为？必杀令尹！”令尹惧，乃立昭王。
+
+冬十月丙申，王起师于滑。辛丑，在郊，遂次于尸。十一月辛酉，晋师克巩。召伯盈逐王子朝。王子朝及召氏之族、毛伯得、尹氏固、南宫嚚奉周之典籍以奔楚。阴忌奔莒以叛。召伯逆王于尸，及刘子、单子盟。遂军圉泽，次于隄上。癸酉，王入于成周。甲戌，盟于襄宫。晋师使成公般戍周而还。十二月癸未，王入于庄宫。
+
+王子朝使告于诸侯曰：“昔武王克殷，成王靖四方，康王息民。并建母弟，以蕃屏周。亦曰，吾无专享文、武之功，且为后人之迷败倾覆，而溺入于难，则振救之。至于夷王，王愆于厥身。诸侯莫不并走其望，以祈王身。至于厉王，王心戾虐，万民弗忍，居王于彘。诸侯释位，以间王政。宣王有志，而后效官。至于幽王，天不吊周，王昏不若，用愆厥位。携王奸命，诸侯替之，而建王嗣，用迁郏鄏。则是兄弟之能用力于王室也。至于惠王，天不靖周，生颓祸心，施于叔带，惠、襄辟难，越去王都。则有晋、郑，咸黜不端，以绥定王家。则是兄弟之能率先王之命也。在定王六年，秦人降妖，曰：‘周其有頿王，亦克能修其职。诸侯服享，二世共职。王室其有间王位，诸侯不图，而受其乱灾。’至于灵王，生而有頿。王甚神圣，无恶于诸侯。灵王、景王，克终其世。今王室乱，单旗、刘狄，剥乱天下，壹行不若。谓先王何常之有？唯余心所命，其谁敢讨之？帅群不吊之人，以行乱于王室。侵欲无厌，规求无度，贯渎鬼神，慢弃刑法，倍奸齐盟，傲很威仪，矫诬先王。晋为不道，是摄是赞，思肆其罔极。兹不穀震盪播越，窜在荆蛮，未有攸厎。若我一二兄弟甥舅，奖顺天法，无助狡猾，以从先王之命。毋速天罚，赦图不穀，则所愿也。敢尽布其腹心，及先王之经，而诸侯实深图之！昔先王之命曰：‘王后无適，则择立长。年钧以德，德钧以卜。’王不立爱，公卿无私，古之制也。穆后及大子寿早夭即世，单、刘赞私立少，以间先王，亦唯伯仲叔季图之。”
+
+闵马父闻子朝之辞，曰：“文辞以行礼也。子朝干景之命，远晋之大，以专其志，无礼甚矣。文辞何为？”
+
+齐有彗星，齐侯使禳之。晏子曰：“无益也，祇取诬焉。天道不謟，不贰其命，若之何禳之？且天之有彗也，以除秽也。君无秽德，又何禳焉？若德之秽，禳之何损？《诗》曰：‘惟此文王，小心翼翼。昭事上帝，聿怀多福。厥德不回，以受方国。’君无违德，方国将至，何患于彗？《诗》曰：‘我无所监，夏后及商。用乱之故，民卒流亡。’若德回乱，民将流亡，祝史之为，无能补也。”公说，乃止。
+
+齐侯与晏子坐于路寝，公叹曰：“美哉室，其谁有此乎？”晏子曰：“敢问何谓也？”公曰：“吾以为在德。”对曰：“如君之言，其陈氏乎！陈氏虽无大德，而有施于民。豆区釜钟之数，其取之公也薄，其施之民也厚。公厚敛焉，陈氏厚施焉，民归之矣。《诗》曰：‘虽无德与女，式歌且舞。’陈氏之施，民歌舞之矣。后世若少情，陈氏而不亡，则国其国也已。”公曰：“善哉，是可若何？”对曰：“唯礼可以已之。在礼，家施不及国，民不迁，农不移，工贾不变，士不滥，官不滔，大夫不收公利。”公曰：“善哉，我不能矣。吾今而后知礼之可以为国也。”对曰：“礼之可以为国也久矣，与天地并。君令臣共，父慈子孝，兄爱弟敬，夫和妻柔，姑慈妇听，礼也。君令而不违，臣共而不贰，父慈而教，子孝而箴，兄爱而友，弟敬而顺，夫和而义，妻柔而正，姑慈而从，妇听而婉，礼之善物也。”公曰：“善哉，寡人今而后闻此礼之上也。”对曰：“先王所禀于天地，以为其民也，是以先王上之。”
+
+```
+
+<a id="ref-zz-10-27"></a>
+
+## 《春秋／左传》鲁昭公27年 · zz:10.27
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_aefa3950ebd5.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0515.md)；原始网页SHA256：`824d5fbfeff48e92a3678ab89b2167dcc41bad037ea4a9934e2c2bd8322bc7c4`。
+
+```text
+
+经（含续经时见原页）
+二十有七年春，公如齐。
+
+公至自齐，居于郓。
+
+夏四月，吴弑其君僚。
+
+楚杀其大夫郤宛。
+
+秋，晋士鞅、宋乐祁犁、卫北宫喜、曹人、邾人、滕人会于扈。
+
+冬十月，曹伯午卒。
+
+邾快来奔。
+
+公如齐。
+
+公至自齐，居于郓。
+
+传
+二十七年春，公如齐。公至自齐。处于郓，言在外也。
+
+吴子欲因楚丧而伐之。使公子掩馀、公子烛庸帅师围潜。使延州来季子聘于上国，遂聘于晋，以观诸侯。楚莠尹然、工尹麇帅师救潜。左司马沈尹戌帅都君子与王马之属以济师，与吴师遇于穷。令尹子常以舟师及沙汭而还。左尹郤宛、工尹寿帅师至于潜，吴师不能退。
+
+吴公子光曰：“此时也，弗可失也。”告设诸曰：“上国有言曰，不索何获？我，王嗣也，吾欲求之。事若克，季子虽至，不吾废也。”鱄设诸曰：“王可弑也。母老子弱，是无若我何。”光曰：“我，尔身也。”
+
+夏四月，光伏甲于堀室而享王。王使甲坐于道，及其门。门阶户席，皆王亲也，夹之以铍。羞者献体改服于门外。执羞者坐行而入，执铍者夹承之，及体以相授也。光伪足疾，入于堀室。鱄设诸置剑于鱼中以进。抽剑刺王，铍交于胸，遂弑王。阖庐以其子为卿。
+
+季子至，曰：“苟先君无废祀，民人无废主，社稷有奉，国家无倾，乃吾君也。吾谁敢怨？哀死事生，以待天命。非我生乱，立者从之，先人之道也。”复命哭墓，复位而待。吴公子掩馀奔徐，公子烛庸奔钟吾。楚师闻吴乱而还。
+
+郤宛直而和，国人说之。鄢将师为右领，与费无极比而恶之。令尹子常贿而信谗。无极谮郤宛焉，谓子常曰：“子恶欲饮子酒。”又谓子恶：“令尹欲饮酒于子氏。”子恶曰：“我，贱人也，不足以辱令尹。令尹将必来辱，为惠已甚。吾无以酬之，若何？”无极曰：“令尹好甲兵，子出之，吾择焉。”取五甲五兵。曰：“寘诸门，令尹至，必观之，而从以酬之。”及飨日，帷诸门左。无极谓令尹曰：“吾几祸子。子恶将为子不利，甲在门矣，子必无往。且此役也，吴可以得志，子恶取赂焉而还，又误群帅，使退其师，曰：‘乘乱不祥。’吴乘我丧，我乘其乱，不亦可乎？”令尹使视郤氏，则有甲焉。不往，召鄢将师而告之。将师退，遂令攻郤氏，且爇之。子恶闻之，遂自杀也。国人弗爇。令曰：“不爇郤氏，与之同罪。”或取一编菅焉，或取一秉秆焉，国人投之，遂弗爇也。令尹炮之。尽灭郤氏之族党，杀阳令终与其弟完及佗与晋陈及其子弟。晋陈之族呼于国曰：“鄢氏、费氏自以为王，专祸楚国，弱寡王室，蒙王与令尹以自利也。令尹尽信之矣，国将如何？”令尹病之。
+
+秋，会于扈，令戍周，且谋纳公也。宋、卫皆利纳公，固请之。范献子取货于季孙，谓司城子梁与北宫贞子曰：“季孙未知其罪，而君伐之，请囚，请亡，于是乎不获。君又弗克，而自出也。夫岂无备而能出君乎？季氏之复，天救之也。休公徒之怒，而启叔孙氏之心。不然，岂其伐人而说甲执冰以游？叔孙氏惧祸之滥，而自同于季氏，天之道也。鲁君守齐，三年而无成。季氏甚得其民，淮夷与之，有十年之备，有齐、楚之援，有天之赞，有民之助，有坚守之心，有列国之权，而弗敢宣也，事君如在国。故鞅以为难。二子皆图国者也，而欲纳鲁君，鞅之愿也。请从二子以围鲁，无成，死之。”二子惧，皆辞。乃辞小国，而以难复。
+
+孟懿子、阳虎伐郓。郓人将战。子家子曰：“天命不慆久矣。使君亡者，必此众也。天既祸之，而自福也，不亦难乎？犹有鬼神，此必败也。呜呼！为无望也夫，其死于此乎！”公使子家子如晋。公徒败于且知。
+
+楚郤宛之难，国言未已，进胙者莫不谤令尹。沈尹戌言于子常曰：“夫左尹与中厩尹莫知其罪，而子杀之，以兴谤，至于今不已。戌也惑之。仁者杀人以掩谤，犹弗为也。今吾子杀人以兴谤而弗图，不亦异乎？夫无极，楚之谗人也，民莫不知。去朝吴，出蔡侯朱，丧大子建，杀连尹奢，屏王之耳目，使不聪明。不然，平王之温惠共俭，有过成、庄，无不及焉。所以不获诸侯，迩无极也。今又杀三不辜，以兴大谤，几及子矣。子而不图，将焉用之？夫鄢将师矫子之命，以灭三族，国之良也，而不愆位。吴新有君，疆埸日骇，楚国若有大事，子其危哉！知者除谗以自安也，今子爱谗以自危也，甚矣其惑也！”子常曰：“是瓦之罪，敢不良图。”九月己未，子常杀费无极与鄢将师，尽灭其族，以说于国。谤言乃止。
+
+冬，公如齐，齐侯请飨之。子家子曰：“朝夕立于其朝，又何飨焉？其饮酒也。”乃饮酒，使宰献而请安。子仲之子曰重，为齐侯夫人，曰：“请使重见。”子家子乃以君出。
+
+十二月，晋籍秦致诸侯之戍于周，鲁人辞以难。
+
+```
+
+<a id="ref-sj-2975"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2975
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2975-L2975)
+
+```text
+
+季子至，曰：「苟先君無廢祀，民人無廢主，社稷有奉，乃吾君也。吾敢誰怨乎？哀死事生，以待天命。非我生亂，立者從之，先人之道也。」複命，哭僚墓，復位而待。吳公子燭庸、蓋餘二人將兵遇圍於楚者，聞公子光弑王僚自立，乃以其兵降楚，楚封之於舒。
+
+```
+
+<a id="ref-sj-2977"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2977
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2977-L2977)
+
+```text
+
+王闔廬元年，舉伍子胥為行人而與謀國事。楚誅伯州犁，其孫伯嚭亡奔吳，吳以為大夫。
+
+```
+
+<a id="ref-sj-4668"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4668
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4668-L4668)
+
+```text
+
+楚誅其大臣郤宛、伯州犁，伯州犁之孫伯嚭亡奔吳，吳亦以嚭為大夫。前王僚所遣二公子將兵伐楚者，道絕不得歸。後聞闔廬弒王僚自立，遂以其兵降楚，楚封之於舒。闔廬立三年，乃興師與伍胥、伯嚭伐楚，拔舒，遂禽故吳反二將軍。因欲至郢，將軍孫武曰：「民勞，未可，且待之。」乃歸。
+
+```
+
+<a id="ref-sj-2978"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2978
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2978-L2978)
+
+```text
+
+三年，吳王闔廬與子胥、伯嚭將兵伐楚，拔舒，殺吳亡將二公子。光謀欲入郢，將軍孫武曰：「民勞，未可，待之。」四年，伐楚，取六與灊。五年，伐越，敗之。六年，楚使子常囊瓦伐吳。迎而擊之，大敗楚軍於豫章，取楚之居巢而還。
+
+```
+
+<a id="ref-sj-4669"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4669
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4669-L4669)
+
+```text
+
+四年，吳伐楚，取六與灊。五年，伐越，敗之。六年，楚昭王使公子囊瓦將兵伐吳。吳使伍員迎擊，大破楚軍於豫章，取楚之居巢。
+
+```
+
+<a id="ref-zz-10-31"></a>
+
+## 《春秋／左传》鲁昭公31年 · zz:10.31
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_04016a658817.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0511.md)；原始网页SHA256：`85108f927eef08512e458379263c787200b7d6cca214a3fc317b8afa35eb1a4b`。
+
+```text
+
+经（含续经时见原页）
+三十有一年春，王正月，公在乾侯。
+
+季孙意如会晋荀跞于適历。
+
+夏四月丁巳，薛伯穀卒。
+
+晋侯使荀跞唁公于乾侯。
+
+秋，葬薛献公。
+
+冬，黑肱以滥来奔。
+
+十有二月辛亥朔，日有食之。
+
+传
+三十一年春，王正月，公在乾侯，言不能外内也。晋侯将以师纳公。范献子曰：“若召季孙而不来，则信不臣矣。然后伐之，若何？”晋人召季孙，献子使私焉，曰：“子必来，我受其无咎。”季孙意如会晋荀跞于適历。荀跞曰：“寡君使跞谓吾子，何故出君？有君不事，周有常刑。子其图之！”季孙练冠麻衣跣行，伏而对曰：“事君，臣之所不得也，敢逃刑命？君若以臣为有罪，请囚于费，以待君之察也，亦唯君。若以先臣之故，不绝季氏，而赐之死。若弗杀弗亡，君之惠也，死且不朽。若得从君而归，则固臣之愿也。敢有异心？”
+
+夏四月，季孙从知伯如乾侯。子家子曰：“君与之归，一惭之不忍，而终身惭乎？”公曰：“诺。”众曰：“在一言矣，君必逐之。”荀跞以晋侯之命唁公，且曰：“寡君使跞以君命讨于意如，意如不敢逃死，君其入也！”公曰：“君惠顾先君之好，施及亡人，将使归粪除宗祧以事君，则不能见夫人。己所能见夫人者，有如河！”荀跞掩耳而走，曰：“寡君其罪之恐，敢与知鲁国之难？臣请复于寡君。”退而谓季孙：“君怒未怠，子姑归祭。”子家子曰：“君以一乘入于鲁师，季孙必与君归。”公欲从之，众从者胁公，不得归。
+
+薛伯穀卒，同盟故书。
+
+秋，吴人侵楚，伐夷，侵潜、六。楚沈尹戌帅师救潜，吴师还。楚师迁潜于南冈而还。吴师围弦。左司马戌、右司马稽帅师救弦，及豫章。吴师还。始用子胥之谋也。
+
+冬，邾黑肱以滥来奔。贱而书名，重地故也。君子曰：“名之不可不慎也如是。夫有所有名，而不如其已。以地叛，虽贱，必书地，以名其人。终为不义，弗可灭已。是故君子动则思礼，行则思义，不为利回，不为义疚。或求名而不得，或欲盖而名章，惩不义也。齐豹为卫司寇，守嗣大夫，作而不义，其书为‘盗’。邾庶其、莒牟夷、邾黑肱以土地出，求食而已，不求其名，贱而必书。此二物者，所以惩肆而去贪也。若艰难其身，以险危大人，而有名章彻，攻难之士，将奔走之。若窃邑叛君，以徼大利而无名，贪冒之民，将寘力焉。是以《春秋》书齐豹曰‘盗’，三叛人名，以惩不义，数恶无礼，其善志也。故曰，《春秋》之称：微而显，婉而辨。上之人能使昭明，善人劝焉，淫人惧焉，是以君子贵之。”
+
+十二月辛亥朔，日有食之。是夜也，赵简子梦童子臝而转以歌。旦占诸史墨，曰：“吾梦如是，今而日食，何也？”对曰：“六年及此月也，吴其入郢乎！终亦弗克。入郢，必以庚辰。日月在辰尾，庚午之日，日始有谪。火胜金，故弗克。”
+
+```
+
+<a id="ref-zz-11-2"></a>
+
+## 《春秋／左传》鲁定公2年 · zz:11.2
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_9e03bde1c46c.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0508.md)；原始网页SHA256：`31d3a8ff9e91897de93781e63b1c5011c82224c4fc752eb065988f0334e33a0d`。
+
+```text
+
+经（含续经时见原页）
+二年春，王正月。
+
+夏五月壬辰，雉门及两观灾。
+
+秋，楚人伐吴。
+
+冬十月，新作雉门及两观。
+
+传
+二年夏四月辛酉，巩氏之群子弟贼简公。
+
+桐叛楚，吴子使舒鸠氏诱楚人，曰：“以师临我，我伐桐，为我使之无忌。”
+
+秋，楚囊瓦伐吴师于豫章。吴人见舟于豫章，而潜师于巢。冬十月，吴军楚师于豫章，败之。遂围巢，克之，获楚公子繁。
+
+邾庄公与夷射姑饮酒，私出。阍乞肉焉，夺之杖以敲之。
+
+```
+
+<a id="ref-sj-2979"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2979
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2979-L2979)
+
+```text
+
+九年，吳王闔廬請伍子胥、孫武曰：「始子之言郢未可入，今果如何？」二子對曰：「楚將子常貪，而唐、蔡皆怨之。王必欲大伐，必得唐、蔡乃可。」闔廬從之，悉興師，與唐、蔡西伐楚，至於漢水。楚亦發兵拒吳，夾水陳。吳王闔廬弟夫槩欲戰，闔廬弗許。夫槩曰：「王已屬臣兵，兵以利為上，尚何待焉？」遂以其部五千人襲冒楚，楚兵大敗，走。於是吳王遂縱兵追之。比至郢，五戰，楚五敗。楚昭王亡出郢，奔鄖。鄖公弟欲弑昭王，昭王與鄖公犇隨。而吳兵遂入郢。子胥、伯嚭鞭平王之屍以報父讎。
+
+```
+
+<a id="ref-sj-4670"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4670
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4670-L4670)
+
+```text
+
+九年，吳王闔廬謂子胥、孫武曰：「始子言郢未可入，今果何如？」二子對曰：「楚將囊瓦貪，而唐、蔡皆怨之。王必欲大伐之，必先得唐、蔡乃可。」闔廬聽之，悉興師與唐、蔡伐楚，與楚夾漢水而陳。吳王之弟夫概將兵請從，王不聽，遂以其屬五千人擊楚將子常。己卯，楚昭王出奔。庚辰，吳王入郢。子常敗走，奔鄭。於是吳乘勝而前，五戰，遂至郢。
+
+```
+
+<a id="ref-zz-11-4"></a>
+
+## 《春秋／左传》鲁定公4年 · zz:11.4
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_e9cf22f95cf0.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0506.md)；原始网页SHA256：`039eaea7a3a08ba4d77cde365344ecf24fc44d27c9c48231a27e68ba08d9f6c2`。
+
+```text
+
+经（含续经时见原页）
+四年春，王二月癸巳，陈侯吴卒。
+
+三月，公会刘子、晋侯、宋公、蔡侯、卫侯、陈子、郑伯、许男、曹伯、莒子、邾子、顿子、胡子、滕子、薛伯、杞伯、小邾子、齐国夏于召陵，侵楚。
+
+夏四月庚辰，蔡公孙姓帅师灭沈，以沈子嘉归，杀之。
+
+五月，公及诸侯盟于皋鼬。
+
+杞伯成卒于会。
+
+六月，葬陈惠公。
+
+许迁于容城。
+
+秋七月，公至自会。
+
+刘卷卒。
+
+葬杞悼公。
+
+楚人围蔡。
+
+晋士鞅、卫孔圉帅师伐鲜虞。
+
+葬刘文公。
+
+冬十有一月庚午，蔡侯以吴子及楚人战于柏举，楚师败绩。
+
+楚囊瓦出奔郑。
+
+庚辰，吴入郢。
+
+传
+四年春三月，刘文公合诸侯于召陵，谋伐楚也。晋荀寅求货于蔡侯，弗得。言于范献子曰：“国家方危，诸侯方贰，将以袭敌，不亦难乎。水潦方降，疾疟方起，中山不服，弃盟取怨，无损于楚，而失中山，不如辞蔡侯。吾自方城以来，楚未可以得志，祇取勤焉。”乃辞蔡侯。
+
+晋人假羽旄于郑，郑人与之。明日，或旆以会。晋于是乎失诸侯。将会，卫子行敬子言于灵公曰：“会同难，啧有烦言，莫之治也。其使祝佗从。”公曰：“善。”乃使子鱼。子鱼辞曰：“臣展四体，以率旧职，犹惧不给而烦刑书，若又共二，徼大罪也。且夫祝，社稷之常隶也。社稷不动，祝不出竟，官之制也。君以军行，祓社衅鼓，祝奉以从，于是乎出竟。若嘉好之事，君行师从，卿行旅从，臣无事焉。”公曰：“行也。”及皋鼬，将长蔡于卫。卫侯使祝佗私于苌弘曰：“闻诸道路，不知信否？若闻蔡将先卫，信乎？”苌弘曰：“信。蔡叔，康叔之兄也，先卫，不亦可乎？”子鱼曰：“以先王观之，则尚德也。昔武王克商，成王定之，选建明德，以藩屏周。故周公相王室，以尹天下，于周为睦。分鲁公以大路、大旂，夏后氏之璜，封父之繁弱，殷民六族，条氏、徐氏、萧氏、索氏、长勺氏、尾勺氏，使帅其宗氏，辑其分族，将其类醜，以法则周公，用即命于周。是使之职事于鲁，以昭周公之明德。分之土田陪敦，祝、宗、卜、史，备物典策，官司彝器。因商奄之民，命以伯禽，而封于少皞之虚。分康叔以大路、少帛、茷、旃旌、大吕，殷民七族，陶氏、施氏、繁氏、锜氏、樊氏、饑氏、终葵氏，封畛土略，自武父以南，及圃田之北竟，取于有阎之土，以共王职。取于相土之东都，以会王之东蒐。耼季授土，陶叔授民，命以《康诰》，而封于殷虚，皆启以商政，疆以周索。分唐叔以大路、密须之鼓、阙巩、沽洗，怀姓九宗，职官五正。命以《唐诰》，而封于夏虚，启以夏政，疆以戎索。三者皆叔也，而有令德，故昭之以分物。不然，文、武、成、康之伯犹多，而不获是分也，唯不尚年也。管蔡启商，惎间王室。王于是乎杀管叔而蔡蔡叔，以车七乘，徒七十人。其子蔡仲，改行帅德，周公举之，以为己卿士。见诸王而命之以蔡，其命书云：‘王曰，胡，无若尔考之违王命也。’若之何其使蔡先卫也？武王之母弟八人，周公为大宰，康叔为司寇，耼季为司空，五叔无官，岂尚年哉！曹，文之昭也；晋，武之穆也。曹为伯甸，非尚年也。今将尚之，是反先王也。晋文公为践土之盟，卫成公不在，夷叔，其母弟也，犹先蔡。其载书云：‘王若曰： 晋重、鲁申、卫武、蔡甲午、郑捷、齐潘、宋王臣、莒期。’藏在周府，可覆视也。吾子欲复文、武之略，而不正其德，将如之何？”苌弘说，告刘子，与范献子谋之，乃长卫侯于盟。
+
+反自召陵，郑子大叔未至而卒。晋赵简子为之临，甚哀，曰：“黄父之会，夫子语我九言，曰：‘无始乱，无怙富，无恃宠，无违同，无敖礼，无骄能，无复怒，无谋非德，无犯非义。’”
+
+沈人不会于召陵，晋人使蔡伐之。
+
+夏，蔡灭沈。
+
+秋，楚为沈故，围蔡。伍员为吴行人以谋楚。楚之杀郤宛也，伯氏之族出。伯州犁之孙嚭，为吴大宰以谋楚。楚自昭王即位，无岁不有吴师。蔡侯因之，以其子乾与其大夫之子为质于吴。
+
+冬，蔡侯、吴子、唐侯伐楚。舍舟于淮汭，自豫章与楚夹汉。左司马戌谓子常曰：“子沿汉而与之上下，我悉方城外以毁其舟，还塞大隧、直辕、冥阨。子济汉而伐之，我自后击之，必大败之。”既谋而行。武城黑谓子常曰：“吴用木也，我用革也，不可久也。不如速战。”史皇谓子常：“楚人恶子而好司马，若司马毁吴舟于淮，塞城口而入，是独克吴也。子必速战，不然不免。”乃济汉而陈，自小别至于大别。三战，子常知不可，欲奔。史皇曰：“安求其事，难而逃之，将何所入？子必死之，初罪必尽说。”
+
+十一月庚午，二师陈于柏举。阖庐之弟夫槩王，晨请于阖庐曰：“楚瓦不仁，其臣莫有死志，先伐之，其卒必奔。而后大师继之，必克。”弗许。夫槩王曰：“所谓臣义而行，不待命者，其此之谓也。今日我死，楚可入也。”以其属五千，先击子常之卒。子常之卒奔，楚师乱，吴师大败之。子常奔郑。史皇以其乘广死。
+
+吴从楚师，及清发，将击之。夫槩王曰：“困兽犹斗，况人乎？若知不免而致死，必败我。若使先济者知免，后者慕之，蔑有鬥心矣。半济而后可击也。”从之。又败之。楚人为食，吴人及之，奔食而从之。败诸雍澨，五战及郢。己卯，楚子取其妹季芈畀我以出，涉雎。鍼尹固与王同舟，王使执燧象以奔吴师。庚辰，吴入郢，以班处宫。子山处令尹之宫，夫槩王欲攻之，惧而去之，夫槩王入之。
+
+左司马戌及息而还，败吴师于雍澨，伤。初，司马臣阖庐，故耻为禽焉。谓其臣曰：“谁能免吾首？”吴句卑曰：“臣贱，可乎？”司马曰：“我实失子，可哉。”三战皆伤，曰：“吾不可用也已。”句卑布裳，刭而裹之，藏其身，而以其首免。
+
+楚子涉雎济江，入于云中。王寝，盗攻之，以戈击王。王孙由于以背受之，中肩。王奔郧，钟建负季芈以从，由于徐苏而从。郧公辛之弟怀将弑王，曰：“平王杀吾父，我杀其子，不亦可乎！”辛曰：“君讨臣，谁敢仇之？君命，天也，若死天命，将谁仇？《诗》曰：‘柔亦不茹，刚亦不吐。不侮矜寡，不畏强御。’唯仁者能之。违强陵弱，非勇也。乘人之约，非仁也。灭宗废祀，非孝也。动无令名，非知也。必犯是，余将杀女。”鬥辛与其弟巢以王奔随。吴人从之，谓随人曰：“周之子孙在汉川者，楚实尽之。天诱其衷，致罚于楚，而君又窜之，周室何罪？君若顾报周室，施及寡人，以奖天衷，君之惠也。汉阳之田，君实有之。”楚子在公宫之北，吴人在其南。子期似王，逃王而己为王，曰：“以我与之，王必免。”随人卜与之，不吉。乃辞吴曰：“以随之辟小而密迩于楚，楚实存之，世有盟誓，至于今未改。若难而弃之，何以事君？执事之患，不唯一人。若鸠楚竟，敢不听命。”吴人乃退。鑪金初宦于子期氏，实与随人要言。王使见，辞曰：“不敢以约为利。”王割子期之心，以与随人盟。
+
+初，伍员与申包胥友。其亡也，谓申包胥曰：“我必复楚国。”申包胥曰：“勉之。子能复之，我必能兴之。”及昭王在随，申包胥如秦乞师，曰：“吴为封豕长蛇，以荐食上国。虐始于楚，寡君失守社稷，越在草莽。使下臣告急曰，夷德无厌，若邻于君，疆埸之患也。逮吴之未定，君其取分焉。若楚之遂亡，君之土也。若以君灵抚之，世以事君。”秦伯使辞焉，曰：“寡人闻命矣，子姑就馆，将图而告。”对曰：“寡君越在草莽，未获所伏。下臣何敢即安？”立依于庭墙而哭，日夜不绝声，勺饮不入口，七日。秦哀公为之赋《无衣》，九顿首而坐。秦师乃出。
+
+```
+
+<a id="ref-sj-4672"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4672
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4672-L4672)
+
+```text
+
+始伍員與申包胥為交，員之亡也，謂包胥曰：「我必覆楚。」包胥曰：「我必存之。」及吳兵入郢，伍子胥求昭王。既不得，乃掘楚平王墓，出其尸，鞭之三百，然後已。申包胥亡於山中，使人謂子胥曰：「子之報讎，其以甚乎！吾聞之，人眾者勝天，天定亦能破人。今子故平王之臣，親北面而事之，今至於僇死人，此豈其無天道之極乎！」伍子胥曰：「為我謝申包胥曰，吾日莫途遠，吾故倒行而逆施之。」於是申包胥走秦告急，求救於秦。秦不許。包胥立於秦廷，晝夜哭，七日七夜不絕其聲。秦哀公憐之，曰：「楚雖無道，有臣若是，可無存乎！」乃遣車五百乘救楚擊吳。六月，敗吳兵於稷。會吳王久留楚求昭王，而闔廬弟夫概乃亡歸，自立為王。闔廬聞之，乃釋楚而歸，擊其弟夫概。夫概敗走，遂奔楚。楚昭王見吳有內亂，乃復入郢。封夫概於堂谿，為堂谿氏。楚復與吳戰，敗吳，吳王乃歸。
+
+```
+
+<a id="ref-sj-2980"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2980
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2980-L2980)
+
+```text
+
+十年春，越聞吳王之在郢，國空，乃伐吳。吳使別兵擊越。楚告急秦，秦遣兵救楚擊吳，吳師敗。闔廬弟夫槩見秦越交敗吳，吳王留楚不去，夫槩亡歸吳而自立為吳王。闔廬聞之，乃引兵歸，攻夫槩。夫槩敗奔楚。楚昭王乃得以九月複入郢，而封夫槩於堂谿，為堂谿氏。十一年，吳王使太子夫差伐楚，取番。楚恐而去郢徙鄀。
+
+```
+
+<a id="ref-zz-11-5"></a>
+
+## 《春秋／左传》鲁定公5年 · zz:11.5
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_94129c20d48a.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0505.md)；原始网页SHA256：`5b68922ac0f50bbddaf157e3fe779d032c81e603dfff705488ecafdfeb1d2897`。
+
+```text
+
+经（含续经时见原页）
+五年春，王三月辛亥朔，日有食之。
+
+夏，归粟于蔡。
+
+於越入吴。
+
+六月丙申，季孙意如卒。
+
+秋七月壬子，叔孙不敢卒。
+
+冬，晋士鞅帅师围鲜虞。
+
+传
+五年春，王人杀子朝于楚。
+
+夏，归粟于蔡，以周亟，矜无资。
+
+越入吴，吴在楚也。
+
+六月，季平子行东野，还，未至，丙申，卒于房。阳虎将以玙璠敛，仲梁怀弗与，曰：“改步改玉。”阳虎欲逐之，告公山不狃。不狃曰：“彼为君也，子何怨焉？”既葬，桓子行东野，及费。子洩为费宰，逆劳于郊，桓子敬之。劳仲梁怀，仲梁怀弗敬。子洩怒，谓阳虎：“子行之乎？”
+
+申包胥以秦师至，秦子蒲、子虎帅车五百乘以救楚。子蒲曰：“吾未知吴道。”使楚人先与吴人战，而自稷会之，大败夫槩王于沂。吴人获薳射于柏举。其子帅奔徒以从子西，败吴师于军祥。
+
+秋七月，子期、子蒲灭唐。九月，夫槩王归，自立也，以与王战而败，奔楚，为堂谿氏。
+
+吴师败楚师于雍澨，秦师又败吴师。吴师居麇。子期将焚之，子西曰：“父兄亲暴骨焉，不能收，又焚之，不可。”子期曰：“国亡矣！死者若有知也，可以歆旧祀，岂惮焚之？”焚之而又战，吴师败。又战于公壻之谿，吴师大败，吴子乃归。囚舆罢。舆罢请先，遂逃归。叶公诸梁之弟后臧从其母于吴，不待而归。叶公终不正视。
+
+乙亥，阳虎囚季桓子及公父文伯，而逐仲梁怀。
+
+冬十月丁亥，杀公何藐。己丑，盟桓子于稷门之内。庚寅，大诅，逐公父歜及秦遄，皆奔齐。
+
+楚子入于郢。初，鬥辛闻吴人之争宫也，曰：“吾闻之，不让则不和，不和不可以远征。吴争于楚，必有乱。有乱则必归，焉能定楚？”王之奔随也，将涉于成臼，蓝尹亹涉其帑，不与王舟。及宁，王欲杀之。子西曰：“子常唯思旧怨以败，君何效焉？”王曰：“善。使复其所，吾以志前恶。”王赏鬥辛、王孙由于、王孙圉、钟建、鬥巢、申包胥、王孙贾、宋木、鬥怀。子西曰：“请舍怀也。”王曰：“大德灭小怨，道也。”申包胥曰：“吾为君也，非为身也。君既定矣，又何求？且吾尤子旗，其又为诸？”遂逃赏。王将嫁季芈，季芈辞曰：“所以为女子，远丈夫也。钟建负我矣。”以妻钟建，以为乐尹。
+
+王之在随也，子西为王舆服以保路，国于脾洩。闻王所在，而后从王。王使由于城麇，复命，子西问高厚焉，弗知。子西曰：“不能，如辞。城不知高厚小大，何知？”对曰：“固辞不能，子使余也。人各有能有不能。王遇盗于云中，余受其戈，其所犹在。”袒而视之背，曰：“此余所能也。脾洩之事，余亦弗能也。”
+
+晋士鞅围鲜虞，报观虎之役也。
+
+```
+
+<a id="ref-sj-4673"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4673
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4673-L4673)
+
+```text
+
+後二歲，闔廬使太子夫差將兵伐楚，取番。楚懼吳復大來，乃去郢，徙於鄀。當是時，吳以伍子胥、孫武之謀，西破彊楚，北威齊晉，南服越人。
+
+```
+
+<a id="ref-zz-11-6"></a>
+
+## 《春秋／左传》鲁定公6年 · zz:11.6
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_d6847d695336.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0504.md)；原始网页SHA256：`b24485b5180c173ff8985c771d66a14942b93efbfc42f240d09ceafb461b70b0`。
+
+```text
+
+经（含续经时见原页）
+六年春，王正月癸亥，郑游速帅师灭许，以许男斯归。
+
+二月，公侵郑。
+
+公至自侵郑。
+
+夏，季孙斯、仲孙何忌如晋。
+
+秋，晋人执宋行人乐祁犁。
+
+冬，城中城。
+
+季孙斯、仲孙忌帅师围郓。
+
+传
+六年春，郑灭许，因楚败也。
+
+二月，公侵郑取匡，为晋讨郑之伐胥靡也。往不假道于卫；及还，阳虎使季孟自南门入，出自东门，舍于豚泽。卫侯怒，使弥子瑕追之。公叔文子老矣，辇而如公，曰：“尤人而效之，非礼也。昭公之难，君将以文之舒鼎，成之昭兆，定之鞶鉴，苟可以纳之，择用一焉。公子与二三臣之子，诸侯苟忧之，将以为之质。此群臣之所闻也。今将以小忿蒙旧德，无乃不可乎？大姒之子，唯周公、康叔为相睦也。而效小人以弃之，不亦诬乎！天将多阳虎之罪以毙之，君姑待之，若何？”乃止。
+
+夏，季桓子如晋，献郑俘也。阳虎强使孟懿子往报夫人之币。晋人兼享之。孟孙立于房外，谓范献子曰：“阳虎若不能居鲁，而息肩于晋，所不以为中军司马者，有如先君。”献子曰：“寡君有官，将使其人。鞅何知焉？”献子谓简子曰：“鲁人患阳虎矣，孟孙知其衅，以为必適晋，故强为之请，以取入焉。”
+
+四月己丑，吴大子终累败楚舟师，获潘子臣、小惟子及大夫七人。楚国大惕，惧亡。子期又以陵师败于繁扬。令尹子西喜曰：“乃今可为矣。”于是乎迁郢于鄀，而改纪其政，以定楚国。
+
+周儋翩率王子朝之徒，因郑人将以作乱于周。郑于是乎伐冯、滑、胥靡、负黍、狐人、阙外。六月，晋阎没戍周，且城胥靡。
+
+秋八月，宋乐祁言于景公曰：“诸侯唯我事晋，今使不往，晋其憾矣。”乐祁告其宰陈寅。陈寅曰：“必使子往。”他日，公谓乐祁曰：“唯寡人说子之言，子必往。”陈寅曰：“子立后而行，吾室亦不亡。唯君亦以我为知难而行也。”见溷而行。赵简子逆而饮之酒于绵上，献杨楯六十于简子。陈寅曰：“昔吾主范氏，今子主赵氏，又有纳焉。以杨楯贾祸，弗可为也已。然子死晋国，子孙必得志于宋。”范献子言于晋侯曰：“以君命越疆而使，未致使而私饮酒，不敬二君，不可不讨也。”乃执乐祁。
+
+阳虎又盟公及三桓于周社，盟国人于亳社，诅于五父之衢。
+
+冬十二月，天王处于姑莸，辟儋翩之乱也。
+
+```
+
+<a id="ref-sj-2981"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2981
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2981-L2981)
+
+```text
+
+十五年，孔子相魯。
+
+```
+
+<a id="ref-sj-4674"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4674
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4674-L4674)
+
+```text
+
+其後四年，孔子相魯。
+
+```
+
+<a id="ref-sj-2982"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2982
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2982-L2982)
+
+```text
+
+十九年夏，吳伐越，越王句踐迎擊之槜李。越使死士挑戰，三行造吳師，呼，自剄。吳師觀之，越因伐吳，敗之姑蘇，傷吳王闔廬指，軍卻七裏。吳王病傷而死。闔廬使立太子夫差，謂曰：「爾而忘句踐殺汝父乎？」對曰：「不敢！」三年，乃報越。
+
+```
+
+<a id="ref-sj-4675"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4675
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4675-L4675)
+
+```text
+
+後五年，伐越。越王句踐迎擊，敗吳於姑蘇，傷闔廬指，軍卻。闔廬病創將死，謂太子夫差曰：「爾忘句踐殺爾父乎？」夫差對曰：「不敢忘。」是夕，闔廬死。夫差既立為王，以伯嚭為太宰，習戰射。二年後伐越，敗越於夫湫。越王句踐乃以餘兵五千人棲於會稽之上，使大夫種厚幣遺吳太宰嚭以請和，求委國為臣妾。吳王將許之。伍子胥諫曰：「越王為人能辛苦。今王不滅，後必悔之。」吳王不聽，用太宰嚭計，與越平。
+
+```
+
+<a id="ref-zz-11-14"></a>
+
+## 《春秋／左传》鲁定公14年 · zz:11.14
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_c93eddae8466.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0496.md)；原始网页SHA256：`fcdafd5875f7a5edb9797aafd05d156c4110a5e12edcad43c7d3b8c1f08bf011`。
+
+```text
+
+经（含续经时见原页）
+十有四年春，卫公叔戌来奔。
+
+卫赵阳出奔宋。
+
+二月辛巳，楚公子结、陈公孙佗人帅师灭顿，以顿子牂归。
+
+夏，卫北宫结来奔。
+
+五月，於越败吴于槜李。
+
+吴子光卒。
+
+公会齐侯、卫侯于牵。
+
+公至自会。
+
+秋，齐侯、宋公会于洮。
+
+天王使石尚来归脤。
+
+卫世子蒯聩出奔宋。
+
+卫公孟彄出奔郑。
+
+宋公之弟辰自萧来奔。
+
+大蒐于比蒲。
+
+邾子来会公。
+
+城莒父及霄。
+
+传
+十四年春，卫侯逐公叔戌与其党，故赵阳奔宋，戌来奔。
+
+梁婴父恶董安于，谓知文子曰：“不杀安于，使终为政于赵氏，赵氏必得晋国。盍以其先发难也，讨于赵氏？”文子使告于赵孟曰：“范、中行氏虽信为乱，安于则发之，是安于与谋乱也。晋国有命，始祸者死。二子既伏其罪矣，敢以告。”赵孟患之。安于曰：“我死而晋国宁，赵氏定，将焉用生？人谁不死，吾死莫矣。”乃缢而死。赵孟尸诸市而告于知氏曰：“主命戮罪人，安于既伏其罪矣，敢以告。”知伯从赵孟盟，而后赵氏定，祀安于于庙。
+
+顿子牂欲事晋背楚，而绝陈好。二月，楚灭顿。
+
+夏，卫北宫结来奔，公叔戌之故也。
+
+吴伐越。越子勾践御之，陈于槜李。勾践患吴之整也，使死士再，禽焉，不动。使罪人三行，属剑于颈，而辞曰：“二君有治，臣奸旗鼓，不敏于君之行前，不敢逃刑，敢归死。”遂自刭也。师属之目，越子因而伐之，大败之。灵姑浮以戈击阖庐，阖庐伤将指，取其一屦。还卒于陉，去槜李七里。夫差使人立于庭，苟出入，必谓己曰：“夫差，而忘越王之杀而父乎？”则对曰：“唯，不敢忘！”三年，乃报越。
+
+晋人围朝歌，公会齐侯、卫侯于脾、上梁之间，谋救范、中行氏。析成鲋、小王桃甲率狄师以袭晋，战于绛中，不克而还。士鲋奔周，小王桃甲入于朝歌。
+
+秋，齐侯、宋公会于洮，范氏故也。
+
+卫侯为夫人南子召宋朝，会于洮。大子蒯聩献盂于齐，过宋野。野人歌之曰：“既定尔娄豬，盍归吾艾豭。”大子羞之，谓戏阳速曰：“从我而朝少君，少君见我，我顾，乃杀之。”速曰：“诺。”乃朝夫人。夫人见大子，大子三顾，速不进。夫人见其色，啼而走，曰：“蒯聩将杀余。”公执其手以登台。大子奔宋，尽逐其党。故公孟出奔郑，自郑奔齐。大子告人曰：“戏阳速祸余。”戏阳速告人曰：“大子则祸余。大子无道，使余杀其母。余不许，将戕于余。若杀夫人，将以余说。余是故许而弗为，以纾余死。谚曰：‘民保于信。’吾以信义也。”
+
+冬十二月，晋人败范、中行氏之师于潞，获籍秦、高彊。又败郑师及范氏之师于百泉。
+
+```
+
+<a id="ref-sj-2984"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2984
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2984-L2984)
+
+```text
+
+王夫差元年，以大夫伯嚭為太宰。習戰射，常以報越為志。二年，吳王悉精兵以伐越，敗之夫椒，報姑蘇也。越王句踐乃以甲兵五千人棲於會稽，使大夫種因吳太宰嚭而行成，請委國為臣妾。吳王將許之，伍子胥諫曰：「昔有過氏殺斟灌以伐斟尋，滅夏後帝相。帝相之妃後緡方娠，逃於有仍而生少康。少康為有仍牧正。有過又欲殺少康，少康奔有虞。有虞思夏德，於是妻之以二女而邑之於綸，有田一成，有眾一旅。後遂收夏眾，撫其官職。使人誘之，遂滅有過氏，複禹之績，祀夏配天，不失舊物。今吳不如有過之彊，而句踐大於少康。今不因此而滅之，又將寬之，不亦難乎！且句踐為人能辛苦，今不滅，後必悔之。」吳王不聽，聽太宰嚭，卒許越平，與盟而罷兵去。
+
+```
+
+<a id="ref-zz-12-1"></a>
+
+## 《春秋／左传》鲁哀公1年 · zz:12.1
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_bd4d8660c225.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0494.md)；原始网页SHA256：`e544c0e111c80255fd664e4960449e7eace8384bb7489e46e95788372864e7ce`。
+
+```text
+
+经（含续经时见原页）
+元年春，王正月，公即位。
+
+楚子、陈侯、随侯、许男围蔡。
+
+鼷鼠食郊牛，改卜牛。
+
+夏四月辛巳，郊。
+
+秋，齐侯、卫侯伐晋。
+
+冬，仲孙何忌帅师伐邾。
+
+传
+元年春，楚子围蔡，报伯举也。里而栽，广丈高倍。夫屯昼夜九日，如子西之素。蔡人男女以辨，使疆于江、汝之间而还。蔡于是乎请迁于吴。
+
+吴王夫差败越于夫椒，报槜李也。遂入越。越子以甲楯五千，保于会稽。使大夫种因吴大宰嚭以行成，吴子将许之。伍员曰：“不可。臣闻树德莫如滋，去疾莫如尽。昔有过浇杀斟灌以伐斟，灭夏后相。后方娠，逃出自窦，归于有仍，生少康焉，为仍牧正。惎浇，能戒之。浇使椒求之，逃奔有虞，为之庖正，以除其害。虞思于是妻之以二姚，而邑诸纶。有田一成，有众一旅，能布其德，而兆其谋，以收夏众，抚其官职。使女艾谍浇，使季杼诱豷，遂灭过、戈，复禹之绩。祀夏配天，不失旧物。今吴不如过，而越大于少康，或将丰之，不亦难乎。句践能亲而务施，施不失人，亲不弃劳，与我同壤而世为仇雠，于是乎克而弗取，将又存之，违天而长寇仇，后虽悔之，不可食已。姬之衰也，日可俟也。介在蛮夷，而长寇仇，以是求伯，必不行矣。”弗听。退而告人曰：“越十年生聚，而十年教训，二十年之外，吴其为沼乎！”三月，越及吴平。吴入越，不书，吴不告庆，越不告败也。
+
+夏四月，齐侯、卫侯救邯郸，围五鹿。
+
+吴之入楚也，使召陈怀公。怀公朝国人而问焉，曰：“欲与楚者右，欲与吴者左。”陈人从田，无田从党。逢滑当公而进，曰：“臣闻国之兴也以福，其亡也以祸。今吴未有福，楚未有祸。楚未可弃，吴未可从。而晋，盟主也，若以晋辞吴，若何？”公曰：“国胜君亡，非祸而何？”对曰：“国之有是多矣，何必不复。小国犹复，况大国乎？臣闻国之兴也，视民如伤，是其福也。其亡也，以民为土芥，是其祸也。楚虽无德，亦不艾杀其民。吴日敝于兵，暴骨如莽，而未见德焉。天其或者正训楚也！祸之適吴，其何日之有？”陈侯从之。及夫差克越，乃修先君之怨。
+
+秋八月，吴侵陈，修旧怨也。
+
+齐侯、卫侯会于乾侯，救范氏也。师及齐师、卫孔圉、鲜虞人伐晋，取棘蒲。
+
+吴师在陈，楚大夫皆惧，曰：“阖庐惟能用其民，以败我于柏举。今闻其嗣又甚焉。将若之何？”子西曰：“二三子恤不相睦，无患吴矣。昔阖庐食不二味，居不重席，室不崇坛，器不彤镂，宫室不观，舟车不饰，衣服财用，择不取费。在国，天有菑疠，亲巡孤寡，而共其乏困。在军，熟食者分，而后敢食。其所尝者，卒乘与焉。勤恤其民而与之劳逸，是以民不罢劳，死知不旷。吾先大夫子常易之，所以败我也。今闻夫差次有台榭陂池焉，宿有妃嫱嫔御焉。一日之行，所欲必成，玩好必从。珍异是聚，观乐是务，视民如讎，而用之日新。夫先自败也已，安能败我？”
+
+冬十一月，晋赵鞅伐朝歌。
+
+```
+
+<a id="ref-sj-2985"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2985
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2985-L2985)
+
+```text
+
+七年，吳王夫差聞齊景公死而大臣爭寵，新君弱，乃興師北伐齊。子胥諫曰：「越王句踐食不重味，衣不重采，吊死問疾，且欲有所用其眾。此人不死，必為吳患。今越在腹心疾而王不先，而務齊，不亦謬乎！」吳王不聽，遂北伐齊，敗齊師於艾陵。至繒，召魯哀公而徵百牢。季康子使子貢以周禮說太宰嚭，乃得止。因留略地於齊魯之南。九年，為騶伐魯，至與魯盟乃去。十年，因伐齊而歸。十一年，複北伐齊。
+
+```
+
+<a id="ref-sj-4676"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4676
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4676-L4676)
+
+```text
+
+其後五年，而吳王聞齊景公死而大臣爭寵，新君弱，乃興師北伐齊。伍子胥諫曰：「句踐食不重味，弔死問疾，且欲有所用之也。此人不死，必為吳患。今吳之有越，猶人之有腹心疾也。而王不先越而乃務齊，不亦謬乎！」吳王不聽，伐齊，大敗齊師於艾陵，遂威鄒魯之君以歸。益疏子胥之謀。
+
+```
+
+<a id="ref-zz-12-7"></a>
+
+## 《春秋／左传》鲁哀公7年 · zz:12.7
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_31b41aafb2b3.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0488.md)；原始网页SHA256：`0b666f1415b0f14fb92be5356ef50f3832e047ebcc409afe4ebb36544026cce0`。
+
+```text
+
+经（含续经时见原页）
+七年春，宋皇瑗帅师侵郑。
+
+晋魏曼多帅师侵卫。
+
+夏，公会吴于鄫。
+
+秋，公伐邾。
+
+八月己酉，入邾，以邾子益来。
+
+宋人围曹。
+
+冬，郑驷弘帅师救曹。
+
+传
+七年春，宋师侵郑，郑叛晋故也。
+
+晋师侵卫，卫不服也。
+
+夏，公会吴于鄫。吴来征百牢，子服景伯对曰：“先王未之有也。”吴人曰：“宋百牢我，鲁不可以后宋。且鲁牢晋大夫过十，吴王百牢，不亦可乎？”景伯曰：“晋范鞅贪而弃礼，以大国惧敝邑，故敝邑十一牢之。君若以礼命于诸侯，则有数矣。若亦弃礼，则有淫者矣。周之王也，制礼，上物不过十二，以为天之大数也。今弃周礼，而曰必百牢，亦唯执事。”吴人弗听。景伯曰：“吴将亡矣，弃天而背本。不与，必弃疾于我。”乃与之。
+
+大宰嚭召季康子，康子使子贡辞。大宰嚭曰：“国君道长，而大夫不出门，此何礼也？”对曰：“岂以为礼，畏大国也。大国不以礼命于诸侯，苟不以礼，岂可量也？寡君既共命焉，其老岂敢弃其国？大伯端委以治周礼，仲雍嗣之，断发文身，臝以为饰，岂礼也哉？有由然也。”反自鄫，以吴为无能为也。
+
+季康子欲伐邾，乃飨大夫以谋之。子服景伯曰：“小所以事大，信也。大所以保小，仁也。背大国，不信；伐小国，不仁。民保于城，城保于德，失二德者，危将焉保？”孟孙曰：“二三子以为何如？恶贤而逆之？”对曰：“禹合诸侯于涂山，执玉帛者万国。今其存者，无数十焉。唯大不字小，小不事大也。知必危，何故不言？”“鲁德如邾，而以众加之，可乎？”不乐而出。
+
+秋，伐邾，及范门，犹闻钟声。大夫谏，不听。茅成子请告于吴，不许，曰：“鲁击柝闻于邾，吴二千里，不三月不至，何及于我？且国内岂不足？”成子以茅叛。师遂入邾，处其公宫，众师昼掠。邾众保于绎。师宵掠，以邾子益来，献于亳社，囚诸负瑕。负瑕故有绎。邾茅夷鸿以束帛乘韦，自请救于吴，曰：“鲁弱晋而远吴，冯恃其众，而背君之盟，辟君之执事，以陵我小国。邾非敢自爱也，惧君威之不立。君威之不立，小国之忧也。若夏盟于鄫衍，秋而背之，成求而不违，四方诸侯，其何以事君？且鲁赋八百乘，君之贰也。邾赋六百乘，君之私也。以私奉贰，唯君图之。”吴子从之。
+
+宋人围曹。郑桓子思曰：“宋人有曹，郑之患也。不可以不救。”
+
+冬，郑师救曹，侵宋。初，曹人或梦众君子立于社宫，而谋亡曹，曹叔振铎请待公孙彊，许之。旦而求之曹，无之。戒其子曰：“我死，尔闻公孙彊为政，必去之。”及曹伯阳即位，好田弋。曹鄙人公孙彊好弋，获白雁，献之，且言田弋之说。说之。因访政事，大说之。有宠，使为司城以听政。梦者之子乃行。彊言霸说于曹伯，曹伯从之，乃背晋而奸宋。宋人伐之，晋人不救，筑五邑于其郊，曰黍丘、揖丘、大城、钟、邘。
+
+```
+
+<a id="ref-zz-12-9"></a>
+
+## 《春秋／左传》鲁哀公9年 · zz:12.9
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_06ac8cf0c030.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0486.md)；原始网页SHA256：`245f18a543d0dceed46d3426ba8195ecd848ec8740656f72ab483cba8726fa2a`。
+
+```text
+
+经（含续经时见原页）
+九年春，王二月，葬杞僖公。
+
+宋皇瑗帅师取郑师于雍丘。
+
+夏，楚人伐陈。
+
+秋，宋公伐郑。
+
+冬，十月。
+
+传
+九年春，齐侯使公孟绰辞师于吴。吴子曰：“昔岁寡人闻命，今又革之，不知所从，将进受命于君。”
+
+郑武子賸之嬖许瑕求邑，无以与之。请外取，许之。故围宋雍丘。宋皇瑗围郑师，每日迁舍，垒合，郑师哭。子姚救之，大败。二月甲戌，宋取郑师于雍丘，使有能者无死，以郏张与郑罗归。
+
+夏，楚人伐陈，陈即吴故也。
+
+宋公伐郑。
+
+秋，吴城邗沟，通江、淮。
+
+晋赵鞅卜救郑，遇水適火，占诸史赵、史墨、史龟。史龟曰：“是谓沈阳，可以兴兵。利以伐姜，不利子商。伐齐则可，敌宋不吉。”史墨曰：“盈，水名也。子，水位也。名位敌，不可干也。炎帝为火师，姜姓其后也。水胜火，伐姜则可。”史赵曰：“是谓如川之满，不可游也。郑方有罪，不可救也。救郑则不吉，不知其他。”阳虎以《周易》筮之，遇《泰》之《需》，曰：“宋方吉，不可与也。微子启，帝乙之元子也。宋、郑，甥舅也。祉，禄也。若帝乙之元子归妹，而有吉禄，我安得吉焉？”乃止。
+
+冬，吴子使来儆师伐齐。
+
+```
+
+<a id="ref-sj-2987"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2987
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2987-L2987)
+
+```text
+
+齊鮑氏弑齊悼公。吳王聞之，哭於軍門外三日，乃從海上攻齊。齊人敗吳，吳王乃引兵歸。
+
+```
+
+<a id="ref-zz-12-10"></a>
+
+## 《春秋／左传》鲁哀公10年 · zz:12.10
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_a5281f3ce748.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0485.md)；原始网页SHA256：`8a4b2ba1f607c5ee701c703490e6bfe130dc51e31891749ecf276cc2503516a3`。
+
+```text
+
+经（含续经时见原页）
+十年春，王二月。
+
+邾子益来奔。
+
+公会吴伐齐。
+
+三月戊戌，齐侯阳生卒。
+
+夏，宋人伐郑。
+
+晋赵鞅帅师侵齐。
+
+五月公至自伐齐。
+
+葬齐悼公。
+
+卫公孟彄自齐归于卫。
+
+薛伯夷卒。
+
+秋，葬薛惠公。
+
+冬，楚公子结帅师伐陈。
+
+吴救陈。
+
+传
+十年春，邾隐公来奔，齐甥也，故遂奔齐。
+
+公会吴子、邾子、郯子伐齐南鄙，师于鄎。齐人弑悼公，赴于师。吴子三日哭于军门之外。徐承帅舟师，将自海入齐，齐人败之，吴师乃还。
+
+夏，赵鞅帅师伐齐，大夫请卜之。赵孟曰：“吾卜于此起兵，事不再令，卜不袭吉，行也。”于是乎取犁及辕，毁高唐之郭，侵及赖而还。
+
+秋，吴子使来复儆师。
+
+冬，楚子期伐陈。吴延州来季子救陈，谓子期曰：“二君不务德，而力争诸侯，民何罪焉？我请退，以为子名，务德而安民。”乃还。
+
+```
+
+<a id="ref-zz-12-11"></a>
+
+## 《春秋／左传》鲁哀公11年 · zz:12.11
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_a5fe191a52ff.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0484.md)；原始网页SHA256：`15fe7423a5eaa3b041df76856fca6d9aaf6ab830b5ec90ebb870d6759852d0f8`。
+
+```text
+
+经（含续经时见原页）
+十有一年春，齐国书帅师伐我。
+
+夏，陈辕颇出奔郑。
+
+五月，公会吴伐齐。
+
+甲戌，齐国书帅师及吴战于艾陵，齐师败绩，获齐国书。
+
+秋七月辛酉，滕子虞母卒。
+
+冬十有一月，葬滕隐公。
+
+卫世叔齐出奔宋。
+
+传
+十一年春，齐为鄎故，国书、高无帅师伐我，及清。季孙谓其宰冉求曰：“齐师在清，必鲁故也。若之何？”求曰：“一子守，二子从公禦诸竟。”季孙曰：“不能。”求曰：“居封疆之间。”季孙告二子。二子不可。求曰：“若不可，则君无出。一子帅师，背城而战。不属者，非鲁人也。鲁之群室，众于齐之兵车。一室敌车，优矣。子何患焉？二子之不欲战也宜，政在季氏。当子之身，齐人伐鲁而不能战，子之耻也，大不列于诸侯矣。”季孙使从于朝，俟于党氏之沟。武叔呼而问战焉。对曰：“君子有远虑，小人何知？”懿子强问之，对曰：“小人虑材而言，量力而共者也。”武叔曰：“是谓我不成丈夫也。”退而蒐乘，孟孺子洩帅右师，颜羽御，邴洩为右。冉求帅左师，管周父御，樊迟为右。季孙曰：“须也弱。”有子曰：“就用命焉。”季氏之甲七千，冉有以武城人三百为己徒卒。老幼守宫，次于雩门之外。五日，右师从之。公叔务人见保者而泣曰：“事充政重，上不能谋，士不能死，何以治民？吾既言之矣，敢不勉乎！”
+
+师及齐师战于郊，齐师自稷曲。师不踰沟。樊迟曰：“非不能也，不信子也。请三刻而踰之。”如之，众从之。师入齐军。右师奔，齐人从之，陈瓘、陈庄涉泗。孟之侧后入以为殿，抽矢策其马曰：“马不进也。”林不狃之伍曰：“走乎！”不狃曰：“谁不如？”曰：“然则止乎？”不狃曰：“恶贤？”徐步而死。师获甲首八十，齐人不能师。宵，谍曰：“齐人遁。”冉有请从之三，季孙弗许。孟孺子语人曰：“我不如颜羽，而贤于邴洩。子羽锐敏，我不欲战而能默。洩曰：‘驱之。’”公为与其嬖僮汪锜乘，皆死，皆殡。孔子曰：“能执干戈以卫社稷，可无殇也。”冉有用矛于齐师，故能入其军。孔子曰：“义也。”
+
+夏，陈辕颇出奔郑。初，辕颇为司徒，赋封田以嫁公女。有馀，以为己大器。国人逐之，故出。道渴，其族辕咺进稻醴、粱糗、腵脯焉。喜曰：“何其给也？”对曰：“器成而具。”曰：“何不吾谏？”对曰：“惧先行。”
+
+为郊战故，公会吴子伐齐。五月克博，壬申，至于嬴。中军从王。胥门巢将上军，王子姑曹将下军，展如将右军。齐国书将中军，高无将上军，宗楼将下军。陈僖子谓其弟书：“尔死，我必得志。”宗子阳与闾丘明相厉也。桑掩胥御国子。公孙夏曰：“二子必死。”将战，公孙夏命其徒歌《虞殡》。陈子行命其徒具含玉。公孙挥命其徒曰：“人寻约，吴发短。”东郭书曰：“三战必死，于此三矣。”使问弦多以琴，曰：“吾不复见子矣。”陈书曰：“此行也，吾闻鼓而已，不闻金矣。”
+
+甲戌，战于艾陵，展如败高子，国子败胥门巢。王卒助之，大败齐师。获国书、公孙夏、闾丘明、陈书、东郭书，革车八百乘，甲首三千，以献于公。将战，吴子呼叔孙曰：“而事何也？”对曰：“从司马。”王赐之甲剑铍，曰：“奉尔君事，敬无废命。”叔孙未能对，卫赐进曰：“州仇奉甲从君而拜。”公使大史固归国子之元，寘之新箧，褽之以玄，加组带焉。寘书于其上曰：“天若不识不衷，何以使下国？”
+
+吴将伐齐，越子率其众以朝焉，王及列士，皆有馈赂。吴人皆喜，唯子胥惧，曰：“是豢吴也夫！”谏曰：“越在我，心腹之疾也。壤地同而有欲于我。夫其柔服，求济其欲也，不如早从事焉。得志于齐，犹获石田也，无所用之。越不为沼，吴其泯矣。使医除疾，而曰‘必遗类焉’者，未之有也。《盘庚》之诰曰：‘其有颠越不共，则劓殄无遗育，无俾易种于兹邑。’是商所以兴也。今君易之，将以求大，不亦难乎？”弗听。使于齐，属其子于鲍氏，为王孙氏。反役，王闻之，使赐之属镂以死。将死，曰：“树吾墓槚，槚可材也，吴其亡乎！三年，其始弱矣。盈必毁，天之道也。”
+
+秋，季孙命修守备曰：“小胜大，祸也。齐至无日矣。”
+
+冬，卫大叔疾出奔宋。初，疾娶于宋子朝，其娣嬖。子朝出。孔文子使疾出其妻而妻之。疾使侍人诱其初妻之娣，寘于犁，而为之一宫，如二妻。文子怒，欲攻之。仲尼止之，遂夺其妻。或淫于外州，外州人夺之轩以献。耻是二者，故出。卫人立遗，使室孔姞。疾臣向魋纳美珠焉，与之城鉏。宋公求珠，魋不与，由是得罪。及桓氏出，城鉏人攻大叔疾，卫庄公复之。使处巢，死焉。殡于郧，葬于少禘。初，晋悼公子慭亡在卫，使其女仆而田。大叔懿子止而饮之酒，遂聘之，生悼子。悼子即位，故夏戊为大夫。悼子亡，卫人翦夏戊。孔文子之将攻大叔也，访于仲尼。仲尼曰：“胡簋之事，则尝学之矣。甲兵之事，未之闻也。”退，命驾而行，曰：“鸟则择木，木岂能择鸟？”文子遽止之，曰：“圉岂敢度其私，访卫国之难也。”将止。鲁人以币召之，乃归。
+
+季孙欲以田赋，使冉有访诸仲尼。仲尼曰：“丘不识也。”三发，卒曰：“子为国老，待子而行，若之何子之不言也？”仲尼不对。而私于冉有曰：“君子之行也，度于礼，施取其厚，事举其中，敛从其薄，如是则以丘亦足矣。若不度于礼，而贪冒无厌，则虽以田赋，将又不足。且子季孙若欲行而法，则周公之典在。若欲苟而行，又何访焉？”弗听。
+
+```
+
+<a id="ref-sj-2986"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2986
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2986-L2986)
+
+```text
+
+越王句踐率其眾以朝吳，厚獻遺之，吳王喜。唯子胥懼，曰：「是棄吳也。」諫曰：「越在腹心，今得志於齊，猶石田，無所用。且盤庚之誥有顛越勿遺，商之以興。」吳王不聽，使子胥於齊，子胥屬其子於齊鮑氏，還報吳王。吳王聞之，大怒，賜子胥屬鏤之劍以死。將死，曰：「樹吾墓上以梓，令可為器。抉吾眼置之吳東門，以觀越之滅吳也。」
+
+```
+
+<a id="ref-sj-4677"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4677
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4677-L4677)
+
+```text
+
+其後四年，吳王將北伐齊，越王句踐用子貢之謀，乃率其眾以助吳，而重寶以獻遺太宰嚭。太宰嚭既數受越賂，其愛信越殊甚，日夜為言於吳王。吳王信用嚭之計。伍子胥諫曰：「夫越，腹心之病，今信其浮辭詐偽而貪齊。破齊，譬猶石田，無所用之。且盤庚之誥曰：『有顛越不恭，劓殄滅之，俾無遺育，無使易種于茲邑。』此商之所以興。願王釋齊而先越；若不然，後將悔之無及。」而吳王不聽，使子胥於齊。子胥臨行，謂其子曰：「吾數諫王，王不用，吾今見吳之亡矣。汝與吳俱亡，無益也。」乃屬其子於齊鮑牧，而還報吳。
+
+```
+
+<a id="ref-sj-4678"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4678
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4678-L4678)
+
+```text
+
+吳太宰嚭既與子胥有隙，因讒曰：「子胥為人剛暴，少恩，猜賊，其怨望恐為深禍也。前日王欲伐齊，子胥以為不可，王卒伐之而有大功。子胥恥其計謀不用，乃反怨望。而今王又復伐齊，子胥專愎彊諫，沮毀用事，徒幸吳之敗以自勝其計謀耳。今王自行，悉國中武力以伐齊，而子胥諫不用，因輟謝，詳病不行。王不可不備，此起禍不難。且嚭使人微伺之，其使於齊也，乃屬其子於齊之鮑氏。夫為人臣，內不得意，外倚諸侯，自以為先王之謀臣，今不見用，常鞅鞅怨望。願王早圖之。」吳王曰：「微子之言，吾亦疑之。」乃使使賜伍子胥屬鏤之劍，曰：「子以此死。」伍子胥仰天嘆曰：「嗟乎！讒臣嚭為亂矣，王乃反誅我。我令若父霸。自若未立時，諸公子爭立，我以死爭之於先王，幾不得立。若既得立，欲分吳國予我，我顧不敢望也。然今若聽諛臣言以殺長者。」乃告其舍人曰：「必樹吾墓上以梓，令可以為器；而抉吾眼縣吳東門之上，以觀越寇之入滅吳也。」乃自剄死。吳王聞之大怒，乃取子胥尸盛以鴟夷革，浮之江中。吳人憐之，為立祠於江上，因命曰胥山。
+
+```
+
+<a id="ref-sj-2988"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2988
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2988-L2988)
+
+```text
+
+十三年，吳召魯、衛之君會於橐皋。
+
+```
+
+<a id="ref-zz-12-12"></a>
+
+## 《春秋／左传》鲁哀公12年 · zz:12.12
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_8d76fad76f68.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0483.md)；原始网页SHA256：`f136dab39c377b004b2040a508d517dddd16f4e821a61bbc651e8c7fde2fcc33`。
+
+```text
+
+经（含续经时见原页）
+十有二年春，用田赋。
+
+夏五月甲辰，孟子卒。
+
+公会吴于橐皋。
+
+秋，公会卫侯、宋皇瑗于郧。
+
+宋向巢帅师伐郑。
+
+冬十有二月，螽。
+
+传
+十二年春，王正月，用田赋。
+
+夏五月，昭夫人孟子卒。昭公娶于吴，故不书姓。死不赴，故不称夫人。不反哭，故不言葬小君。孔子与吊，適季氏。季氏不，放绖而拜。
+
+公会吴于橐皋。吴子使大宰嚭请寻盟。公不欲，使子贡对曰：“盟所以周信也，故心以制之，玉帛以奉之，言以结之，明神以要之。寡君以为苟有盟焉，弗可改也已。若犹可改，日盟何益？今吾子曰，必寻盟。若可寻也，亦可寒也。”乃不寻盟。
+
+吴征会于卫。初，卫人杀吴行人且姚而惧，谋于行人子羽。子羽曰：“吴方无道，无乃辱吾君，不如止也。”子木曰：“吴方无道，国无道，必弃疾于人。吴虽无道，犹足以患卫。往也！长木之毙，无不摽也。国狗之瘈，无不噬也。而况大国乎？”
+
+秋，卫侯会吴于郧。公及卫侯、宋皇瑗盟，而卒辞吴盟。吴人藩卫侯之舍。子服景伯谓子贡曰：“夫诸侯之会，事既毕矣，侯伯致礼，地主归饩，以相辞也[9]。今吴不行礼于卫，而藩其君舍以难之，子盍见大宰？”乃请束锦以行。语及卫故，大宰嚭曰：“寡君愿事卫君，卫君之来也缓，寡君惧，故将止之。”子贡曰：“卫君之来，必谋于其众。其众或欲或否，是以缓来。其欲来者，子之党也。其不欲来者，子之仇也。若执卫君，是堕党而崇仇也。夫堕子者得其志矣！且合诸侯而执卫君，谁敢不惧？堕党崇仇，而惧诸侯，或者难以霸乎。”大宰嚭说，乃舍卫侯。卫侯归，效夷言。子之尚幼，曰：“君必不免，其死于夷乎！执焉，而又说其言，从之固矣。”
+
+冬十二月，螽。季孙问诸仲尼，仲尼曰：“丘闻之，火伏而后蛰者毕。今火犹西流，司历过也。”
+
+宋郑之间有隙地焉，曰弥作、顷丘、玉畅、嵒、戈、钖。子产与宋人为成，曰：“勿有是。”及宋平、元之族自萧奔郑，郑人为之城嵒、戈、钖。九月，宋向巢伐郑，取钖，杀元公之孙，遂围嵒。十二月，郑罕达救嵒，丙申，围宋师。
+
+```
+
+<a id="ref-sj-2989"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2989
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2989-L2989)
+
+```text
+
+十四年春，吳王北會諸侯於黃池，欲霸中國以全周室。六月子，越王句踐伐吳。乙酉，越五千人與吳戰。丙戌，虜吳太子友。丁亥，入吳。吳人告敗於王夫差，夫差惡其聞也。或泄其語，吳王怒，斬七人於幕下。七月辛丑，吳王與晉定公爭長。吳王曰：「於周室我為長。」晉定公曰：「於姬姓我為伯。」趙鞅怒，將伐吳，乃長晉定公。吳王已盟，與晉別，欲伐宋。太宰嚭曰：「可勝而不能居也。」乃引兵歸國。國亡太子，內空，王居外久，士皆罷敝，於是乃使厚幣以與越平。
+
+```
+
+<a id="ref-sj-4679"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4679
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4679-L4679)
+
+```text
+
+吳王既誅伍子胥，遂伐齊。齊鮑氏殺其君悼公而立陽生。吳王欲討其賊，不勝而去。其後二年，吳王召魯衛之君會之橐皋。其明年，因北大會諸侯於黃池，以令周室。越王句踐襲殺吳太子，破吳兵。吳王聞之，乃歸，使使厚幣與越平。後九年，越王句踐遂滅吳，殺王夫差；而誅太宰嚭，以不忠於其君，而外受重賂，與己比周也。
+
+```
+
+<a id="ref-zz-12-13"></a>
+
+## 《春秋／左传》鲁哀公13年 · zz:12.13
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_2f9162fc0381.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0482.md)；原始网页SHA256：`d2efaabe42636483a899d1732fa502e75ea72ea903832e419721ee10a621924d`。
+
+```text
+
+经（含续经时见原页）
+十有三年春，郑罕达帅师取宋师于嵒。
+
+夏，许男成卒。
+
+公会晋侯及吴子于黄池。
+
+楚公子申帅师伐陈。
+
+於越入吴。
+
+秋，公至自会。
+
+晋魏曼多帅师侵卫。
+
+葬许元公。
+
+九月，螽。
+
+冬十有一月，有星孛于东方。
+
+盗杀陈夏区夫。
+
+十有二月，螽。
+
+传
+十三年春，宋向魋救其师。郑子賸使徇曰：“得桓魋者有赏。”魋也逃归。遂取宋师于嵒，获成讙、郜延。以六邑为虚。
+
+夏，公会单平公、晋定公、吴夫差于黄池。
+
+六月丙子，越子伐吴，为二隧。畴无馀、讴阳自南方，先及郊。吴大子友、王子地、王孙弥庸、寿於姚自泓上观之。弥庸见姑蔑之旗，曰：“吾父之旗也。不可以见仇而弗杀也。”大子曰：“战而不克，将亡国。请待之。”弥庸不可，属徒五千，王子地助之。乙酉，战，弥庸获畴无馀，地获讴阳。越子至，王子地守。丙戌，复战，大败吴师。获大子友、王孙弥庸、寿於姚。丁亥，入吴。吴人告败于王，王恶其闻也，自刭七人于幕下。
+
+秋七月辛丑，盟，吴、晋争先。吴人曰：“于周室，我为长。”晋人曰：“于姬姓，我为伯。”赵鞅呼司马寅曰：“日旰矣，大事未成，二臣之罪也。建鼓整列，二臣死之，长幼必可知也。”对曰：“请姑视之。”反曰：“肉食者无墨。今吴王有墨，国胜乎？大子死乎？且夷德轻，不忍久，请少待之。”乃先晋人。吴人将以公见晋侯，子服景伯对使者曰：“王合诸侯，则伯帅侯牧以见于王。伯合诸侯，则侯帅子男以见于伯。自王以下，朝聘玉帛不同。故敝邑之职贡于吴，有丰于晋，无不及焉，以为伯也。今诸侯会，而君将以寡君见晋君，则晋成为伯矣，敝邑将改职贡。鲁赋于吴八百乘。若为子男，则将半邾以属于吴，而如邾以事晋。且执事以伯召诸侯，而以侯终之，何利之有焉？”吴人乃止，既而悔之，将囚景伯。景伯曰：“何也立后于鲁矣。将以二乘与六人从，迟速唯命。”遂囚以还。及户牖，谓大宰曰：“鲁将以十月上辛，有事于上帝先王，季辛而毕。何世有职焉，自襄以来，未之改也。若不会，祝宗将曰：‘吴实然。’且谓鲁不共，而执其贱者七人，何损焉？”大宰嚭言于王曰：“无损于鲁，而祗为名，不如归之。”乃归景伯。吴申叔仪乞粮于公孙有山氏曰：“佩玉繠兮，余无所系之。旨酒一盛兮，余与褐之父睨之。”对曰：“粱则无矣，麤则有之。若登首山以呼曰，庚癸乎，则诺。”王欲伐宋，杀其丈夫而囚其妇人。大宰嚭曰：“可胜也，而弗能居也。”乃归。
+
+冬，吴及越平。
+
+```
+
+<a id="ref-sj-2990"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2990
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2990-L2990)
+
+```text
+
+十五年，齊田常殺簡公。
+
+```
+
+<a id="ref-zz-12-14"></a>
+
+## 《春秋／左传》鲁哀公14年 · zz:12.14
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_35cb8b34e591.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0481.md)；原始网页SHA256：`263bdb4bfd9c4f6d5cf94fe88d14bd4b6f57e7c762a7a1295f40e0c490fa73ea`。
+
+```text
+
+经（含续经时见原页）
+十有四年春，西狩获麟。
+
+小邾射以句绎来奔。
+
+夏四月，齐陈恒执其君，寘于舒州。
+
+庚戌，叔还卒。
+
+五月庚申朔，日有食之。
+
+陈宗竖出奔楚。
+
+宋向魋入于曹以叛。
+
+莒子狂卒。
+
+六月，宋向魋自曹出奔卫。
+
+宋向巢来奔。
+
+齐人弑其君壬于舒州。
+
+秋，晋赵鞅帅师伐卫。
+
+八月辛丑，仲孙何忌卒。
+
+冬，陈宗竖自楚复入于陈，陈人杀之。
+
+陈辕买出奔楚。
+
+有星孛。
+
+饥。
+
+传
+十四年春，西狩于大野，叔孙氏之车子鉏商获麟，以为不祥，以赐虞人。仲尼观之，曰：“麟也。”然后取之。
+
+小邾射以句绎来奔，曰：“使季路要我，吾无盟矣。”使子路，子路辞。季康子使冉有谓之曰：“千乘之国，不信其盟，而信子之言，子何辱焉？”对曰：“鲁有事于小邾，不敢问故，死其城下可也。彼不臣而济其言，是义之也。由弗能。”
+
+齐简公之在鲁也，阚止有宠焉。及即位，使为政。陈成子惮之，骤顾诸朝。诸御鞅言于公曰：“陈、阚不可并也，君其择焉。”弗听。子我夕，陈逆杀人，逢之，遂执以入。陈氏方睦，使疾而遗之潘沐，备酒肉焉，飨守囚者，醉而杀之而逃。子我盟诸陈于陈宗。
+
+初，陈豹欲为子我臣，使公孙言己，已有丧而止。既而言之，曰：“有陈豹者，长而上偻，望视，事君子必得志。欲为子臣，吾惮其为人也，故缓以告。”子我曰：“何害？是其在我也。”使为臣。他日，与之言政，说，遂有宠。谓之曰：“我尽逐陈氏，而立女，若何？”对曰：“我远于陈氏矣。且其违者，不过数人，何尽逐焉？”遂告陈氏。子行曰：“彼得君，弗先，必祸子。”子行舍于公宫。
+
+夏五月壬申，成子兄弟四乘如公。子我在幄，出逆之。遂入，闭门。侍人御之，子行杀侍人。公与妇人饮酒于檀台，成子迁诸寝。公执戈将击之。大史子馀曰：“非不利也，将除害也。”
+
+成子出舍于库，闻公犹怒，将出，曰：“何所无君？”子行抽剑曰：“需，事之贼也。谁非陈宗？所不杀子者，有如陈宗！”乃止。子我归，属徒攻闱与大门，皆不胜，乃出。陈氏追之，失道于弇中，適豐丘。豐丘人执之以告，杀诸郭关。成子将杀大陆子方，陈逆请而免之，以公命取车于道。及耏，众知而东之。出雍门，陈豹与之车，弗受，曰：“逆为余请，豹与余车，余有私焉。事子我而有私于其仇，何以见鲁、卫之士？”东郭贾奔卫。庚辰，陈恒执公于舒州。公曰：“吾早从鞅之言，不及此。”
+
+宋桓魋之宠害于公。公使夫人骤请享焉，而将讨之。未及，魋先谋公，请以鞌易薄，公曰：“不可。薄，宗邑也。”乃益鞌七邑，而请享公焉。以日中为期，家备尽往。公知之，告皇野曰：“余长魋也。今将祸余，请即救。”司马子仲曰：“有臣不顺，神之所恶也，而况人乎？敢不承命。不得左师不可。请以君命召之。”左师每食击钟。闻钟声，公曰：“夫子将食。”既食，又奏。公曰：“可矣。”以乘车往，曰：“迹人来告曰：‘逢泽有介麇焉。’公曰：‘虽魋未来，得左师，吾与之田，若何？’君惮告子。野曰：‘尝私焉。’君欲速，故以乘车逆子。”与之乘，至，公告之故，拜不能起。司马曰：“君与之言。”公曰：“所难子者，上有天，下有先君。”对曰：“魋之不共，宋之祸也。敢不唯命是听。”司马请瑞焉，以命其徒攻桓氏。其父兄故臣曰：“不可。”其新臣曰：“从吾君之命。”遂攻之。子颀骋而告桓司马。司马欲入，子车止之，曰：“不能事君，而又伐国，民不与也，祗取死焉。”向魋遂入于曹以叛。
+
+六月，使左师巢伐之，欲质大夫以入焉。不能。亦入于曹取质。魋曰：“不可。既不能事君，又得罪于民，将若之何？”乃舍之。民遂叛之。向魋奔卫。向巢来奔，宋公使止之，曰：“寡人与子有言矣，不可以绝向氏之祀。”辞曰：“臣之罪大，尽灭桓氏可也。若以先臣之故，而使有后，君之惠也。若臣则不可以入矣。”司马牛致其邑与珪焉，而適齐。向魋出于卫地，公文氏攻之，求夏后氏之璜焉。与之他玉，而奔齐，陈成子使为次卿。司马牛又致其邑焉，而適吴。吴人恶之而反。赵简子召之，陈成子亦召之。卒于鲁郭门之外，阬氏葬诸丘舆。
+
+甲午，齐陈恒弑其君壬于舒州。孔丘三日齊，而请伐齐三。公曰：“鲁为齐弱久矣，子之伐之，将若之何？”对曰：“陈恒弑其君，民之不与者半。以鲁之众，加齐之半，可克也。”公曰：“子告季孙。”孔子辞。退而告人曰：“吾以从大夫之后也，故不敢不言。”
+
+初，孟孺子洩将圉马于成。成宰公孙宿不受，曰：“孟孙为成之病，不圉马焉。”孺子怒，袭成。从者不得入，乃反。成有司使，孺子鞭之。
+
+秋八月辛丑，孟懿子卒。成人奔丧，弗内。袒免哭于衢。听共，弗许。惧，不归。
+
+```
+
+<a id="ref-sj-2991"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2991
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2991-L2991)
+
+```text
+
+十八年，越益彊。越王句踐率兵伐敗吳師於笠澤。楚滅陳。
+
+```
+
+<a id="ref-zz-12-17"></a>
+
+## 《春秋／左传》鲁哀公17年 · zz:12.17
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_0f321f495866.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0478.md)；原始网页SHA256：`74fe6ddee55b058694bbfc6ba69644b8f64943e76ab766e5e7de26916f3d6f90`。
+
+```text
+
+传
+十七年春，卫侯为虎幄于藉圃，成，求令名者，而与之始食焉。大子请使良夫。良夫乘衷甸两牡，紫衣狐裘，至，袒裘，不释剑而食。大子使牵以退，数之以三罪而杀之。
+
+三月，越子伐吴。吴子御之笠泽，夹水而陈。越子为左右句卒，使夜或左或右，鼓噪而进。吴师分以御之。越子以三军潜涉，当吴中军而鼓之，吴师大乱，遂败之。晋赵鞅使告于卫曰：“君之在晋也，志父为主。请君若大子来，以免志父。不然，寡君其曰，志父之为也。”卫侯辞以难。大子又使椓之。
+
+夏六月，赵鞅围卫。齐国观、陈瓘救卫，得晋人之致师者。子玉使服而见之，曰：“国子实执齐柄，而命瓘曰：‘无辟晋师。’岂敢废命。子又何辱？”简子曰：“我卜伐卫，未卜与齐战。”乃还。
+
+楚白公之乱，陈人恃其聚而侵楚。楚既宁，将取陈麦。楚子问帅于大师子穀与叶公诸梁。子穀曰：“右领差车与左史老，皆相令尹、司马以伐陈，其可使也。”子高曰：“率贱，民慢之，惧不用命焉。”子穀曰：“观丁父，鄀俘也，武王以为军率，是以克州，蓼，服随、唐，大启群蛮。彭仲爽，申俘也，文王以为令尹，实县申、息，朝陈、蔡，封畛于汝。唯其任也，何贱之有？”子高曰：“天命不謟。令尹有憾于陈，天若亡之，其必令尹之子是与，君盍舍焉？臣惧右领与左史有二俘之贱，而无其令德也。”王卜之，武城尹吉。使帅师取陈麦。陈人御之，败。遂围陈。
+
+秋七月己卯，楚公孙朝帅师灭陈。
+
+王与叶公枚卜子良以为令尹。沈尹朱曰：“吉，过于其志。”叶公曰：“王子而相国，过将何为？”他日，改卜子国而使为令尹。
+
+卫侯梦于北宫，见人登昆吾之观，被发北面而噪曰：“登此昆吾之虚，绵绵生之瓜。余为浑良夫，叫天无辜。”公亲筮之，胥弥赦占之，曰：“不害。”与之邑，置之，而逃奔宋。卫侯贞卜，其《繇》曰：“如鱼尾，衡流而方羊，裔焉大国，灭之将亡。阖门塞窦，乃自后逾。”
+
+冬十月，晋复伐卫，入其郛。将入城，简子曰：“止。叔向有言曰，怙乱灭国者无后。”卫人出庄公而与晋平，晋立襄公之孙般师而还。十一月，卫侯自鄄入，般师出。
+
+初，公登城以望，见戎州。问之，以告。公曰：“我，姬姓也，何戎之有焉？”翦之。公使匠久。公欲逐石圃，未及而难作。辛巳，石圃因匠氏攻公，公阖门而请，弗许。逾于北方而队，折股。戎州人攻之，大子疾、公子青逾从公。戎州人杀之。公入于戎州己氏。初，公自城上见己氏之妻发美，使髠之，以为吕姜髢。既入焉，而示之璧，曰：“活我，吾与女璧。”己氏曰：“杀女，璧其焉往？”遂杀之而取其璧。卫人复公孙般师而立之。十二月，齐人伐卫，卫人请平。立公子起，执般师以归，舍诸潞。
+
+公会齐侯，盟于蒙，孟武伯相。齐侯稽首，公拜。齐人怒，武伯曰：“非天子，寡君无所稽首。”武伯问于高柴曰：“诸侯盟，谁执牛耳？”季羔曰：“鄫衍之役，吴公子姑曹；发阳之役，卫石魋。”武伯曰：“然则彘也。”
+
+宋皇瑗之子麇，有友曰田丙，而夺其兄酁般邑以与之。酁般愠而行，告桓司马之臣子仪克。子仪克適宋，告夫人曰：“麇将纳桓氏。”公问诸子仲。初，子仲将以杞姒之子非我为子。麇曰：“必立伯也，是良材。”子仲怒，弗从。故对曰：“右师则老矣，不识麇也。”公执之。皇瑗奔晋，召之。
+
+```
+
+<a id="ref-sj-2992"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2992
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2992-L2992)
+
+```text
+
+二十年，越王句踐複伐吳。二十一年，遂圍吳。二十三年十一月丁卯，越敗吳。越王句踐欲遷吳王夫差於甬東，予百家居之。吳王曰：「孤老矣，不能事君王也。吾悔不用子胥之言，自令陷此。」遂自剄死。越王滅吳，誅太宰嚭，以為不忠，而歸。
+
+```
+
+<a id="ref-zz-12-19"></a>
+
+## 《春秋／左传》鲁哀公19年 · zz:12.19
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_0d4e36903dfa.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0476.md)；原始网页SHA256：`2281ec6e35b5dfb27b9cf0bd56cbf93f40b6116d0985025e358d4a7e696ffce9`。
+
+```text
+
+传
+十九年春，越人侵楚，以误吴也。夏，楚公子庆、公孙宽追越师至冥，不及，乃还。
+
+秋，楚沈诸梁伐东夷，三夷男女及楚师盟于敖。
+
+冬，叔青如京师，敬王崩故也。
+
+```
+
+<a id="ref-zz-12-20"></a>
+
+## 《春秋／左传》鲁哀公20年 · zz:12.20
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_bcfcf203b4cc.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0475.md)；原始网页SHA256：`e33f69cf5c021e0f3cb2f69c6219be4b2bb6ed2c264f0396b2f148b35b56830b`。
+
+```text
+
+传
+二十年春，齐人来征会。夏，会于廪丘。为郑故，谋伐晋。郑人辞诸侯，秋，师还。
+
+吴公子庆忌骤谏吴子曰：“不改，必亡。”弗听。出居于艾。遂適楚。闻越将伐吴。冬，请归平越，遂归。欲除不忠者以说于越。吴人杀之。
+
+十一月，越围吴，赵孟降于丧食。楚隆曰：“三年之丧，亲暱之极也。主又降之，无乃有故乎？”赵孟曰：“黄池之役，先主与吴王有质，曰：‘好恶同之。’今越围吴，嗣子不废旧业而敌之，非晋之所能及也，吾是以为降。”楚隆曰：“若使吴王知之，若何？”赵孟曰：“可乎？”隆曰：“请尝之。”乃往。先造于越军，曰：“吴犯间上国多矣，闻君亲讨焉，诸夏之人莫不欣喜，唯恐君志之不从。请入视之。”许之。告于吴王曰：“寡君之老无恤，使陪臣隆敢展谢其不共。黄池之役，君之先臣志父得承齐盟，曰：‘好恶同之。’今君在难，无恤不敢惮劳。非晋国之所能及也，使陪臣敢展布之。”王拜稽首曰：“寡人不佞，不能事越，以为大夫忧。拜命之辱。”与之一箪珠，使问赵孟曰：“句践将生忧寡人，寡人死之不得矣。”王曰：“溺人必笑，吾将有问也。史黯何以得为君子？”对曰：“黯也进不见恶，退无谤言。”王曰：“宜哉。”
+
+```
+
+<a id="ref-zz-12-22"></a>
+
+## 《春秋／左传》鲁哀公22年 · zz:12.22
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_344fe3961d9a.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0473.md)；原始网页SHA256：`f648448782eb8d2d717811fd99218ef98a76efe3e706ba2bc7827bc578018bed`。
+
+```text
+
+传
+二十二年夏四月，邾隐公自齐奔越，曰：“吴为无道，执父立子。”越人归之，大子革奔越。
+
+冬十一月丁卯，越灭吴。请使吴王居甬东，辞曰：“孤老矣，焉能事君？”乃缢。越人以归。
+
+```
+
+<a id="ref-sj-2994"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2994
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2994-L2994)
+
+```text
+
+太史公曰：孔子言「太伯可謂至德矣，三以天下讓，民無得而稱焉」。餘讀春秋古文，乃知中國之虞與荊蠻句吳兄弟也。延陵季子之仁心，慕義無窮，見微而知清濁。嗚呼，又何其閎覽博物君子也！
+
+```
+
+<a id="ref-sj-2996"></a>
+
+## 《史记》卷31 吴太伯世家 · sj:2996
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L2996-L2996)
+
+```text
+
+【索隱述贊】太伯作吳，高讓雄圖。周章受國，別封於虞。壽夢初霸，始用兵車。三子遞立，延陵不居。光既篡位，是稱闔閭。王僚見殺，賊由專諸。夫差輕越，取敗姑蘇。甬東之恥，空慚伍胥。
+
+```
+
+<a id="ref-sj-4636"></a>
+
+## 《史记》卷64 司马穰苴列传 · sj:4636
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4636-L4636)
+
+```text
+
+司馬穰苴者，田完之苗裔也。齊景公時，晉伐阿、甄，而燕侵河上，齊師敗績。景公患之。晏嬰乃薦田穰苴曰：「穰苴雖田氏庶孽，然其人文能附眾，武能威敵，願君試之。」景公召穰苴，與語兵事，大說之，以為將軍，將兵捍燕晉之師。穰苴曰：「臣素卑賤，君擢之閭伍之中，加之大夫之上，士卒未附，百姓不信，人微權輕，願得君之寵臣，國之所尊，以監軍，乃可。」於是景公許之，使莊賈往。穰苴既辭，與莊賈約曰：「旦日日中會於軍門。」穰苴先馳至軍，立表下漏待賈。賈素驕貴，以為將己之軍而己為監，不甚急；親戚左右送之，留飲。日中而賈不至。穰苴則仆表決漏，入，行軍勒兵，申明約束。約束既定，夕時，莊賈乃至。穰苴曰：「何後期為？」賈謝曰：「不佞大夫親戚送之，故留。」穰苴曰：「將受命之日則忘其家，臨軍約束則忘其親，援枹鼓之急則忘其身。今敵國深侵，邦內騷動，士卒暴露於境，君寢不安席，食不甘味，百姓之命皆懸於君，何謂相送乎！」召軍正問曰：「軍法期而後至者云何？」對曰：「當斬。」莊賈懼，使人馳報景公，請救。既往，未及反，於是遂斬莊賈以徇三軍。三軍之士皆振慄。久之，景公遣使者持節赦賈，馳入軍中。穰苴曰：「將在軍，君令有所不受。」問軍正曰：「馳三軍法何？」正曰：「當斬。」使者大懼。穰苴曰：「君之使不可殺之。」乃斬其僕，車之左駙，馬之左驂，以徇三軍。遣使者還報，然後行。士卒次舍井灶飲食問疾醫藥，身自拊循之。悉取將軍之資糧享士卒，身與士卒平分糧食。最比其羸弱者，三日而後勒兵。病者皆求行，爭奮出為之赴戰。晉師聞之，為罷去。燕師聞之，度水而解。於是追擊之，遂取所亡封內故境而引兵歸。未至國，釋兵旅，解約束，誓盟而後入邑。景公與諸大夫郊迎，勞師成禮，然後反歸寢。既見穰苴，尊為大司馬。田氏日以益尊於齊。
+
+```
+
+<a id="ref-sj-4637"></a>
+
+## 《史记》卷64 司马穰苴列传 · sj:4637
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4637-L4637)
+
+```text
+
+已而大夫鮑氏、高、國之屬害之，譖於景公。景公退穰苴，苴發疾而死。田乞、田豹之徒由此怨高、國等。其後及田常殺簡公，盡滅高子、國子之族。至常曾孫和，因自立為齊威王，用兵行威，大放穰苴之法，而諸侯朝齊。
+
+```
+
+<a id="ref-sj-4638"></a>
+
+## 《史记》卷64 司马穰苴列传 · sj:4638
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4638-L4638)
+
+```text
+
+齊威王使大夫追論古者司馬兵法而附穰苴於其中，因號曰司馬穰苴兵法。
+
+```
+
+<a id="ref-sj-4640"></a>
+
+## 《史记》卷64 司马穰苴列传 · sj:4640
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4640-L4640)
+
+```text
+
+太史公曰：余讀司馬兵法，閎廓深遠，雖三代征伐，未能竟其義，如其文也，亦少褒矣。若夫穰苴，區區為小國行師，何暇及司馬兵法之揖讓乎？世既多司馬兵法，以故不論，著穰苴之列傳焉。
+
+```
+
+<a id="ref-sj-4642"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4642
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4642-L4642)
+
+```text
+
+孫子武者，齊人也。以兵法見於吳王闔廬。闔廬曰：「子之十三篇，吾盡觀之矣，可以小試勒兵乎？」對曰：「可。」闔廬曰：「可試以婦人乎？」曰：「可。」於是許之，出宮中美女，得百八十人。孫子分為二隊，以王之寵姬二人各為隊長，皆令持戟。令之曰：「汝知而心與左右手背乎？」婦人曰：「知之。」孫子曰：「前，則視心；左，視左手；右，視右手；後，即視背。」婦人曰：「諾。」約束既布，乃設鈇鉞，即三令五申之。於是鼓之右，婦人大笑。孫子曰：「約束不明，申令不熟，將之罪也。」復三令五申而鼓之左，婦人復大笑。孫子曰：「約束不明，申令不熟，將之罪也；既已明而不如法者，吏士之罪也。」乃欲斬左右隊長。吳王從臺上觀，見且斬愛姬，大駭。趣使使下令曰：「寡人已知將軍能用兵矣。寡人非此二姬，食不甘味，願勿斬也。」孫子曰：「臣既已受命為將，將在軍，君命有所不受。」遂斬隊長二人以徇。用其次為隊長，於是復鼓之。婦人左右前後跪起皆中規矩繩墨，無敢出聲。於是孫子使使報王曰：「兵既整齊，王可試下觀之，唯王所欲用之，雖赴水火猶可也。」吳王曰：「將軍罷休就舍，寡人不願下觀。」孫子曰：「王徒好其言，不能用其實。」於是闔廬知孫子能用兵，卒以為將。西破彊楚，入郢，北威齊晉，顯名諸侯，孫子與有力焉。
+
+```
+
+<a id="ref-sj-4643"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4643
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4643-L4643)
+
+```text
+
+孫武既死，後百餘歲有孫臏。臏生阿鄄之閒，臏亦孫武之後世子孫也。孫臏嘗與龐涓俱學兵法。龐涓既事魏，得為惠王將軍，而自以為能不及孫臏，乃陰使召孫臏。臏至，龐涓恐其賢於己，疾之，則以法刑斷其兩足而黥之，欲隱勿見。
+
+```
+
+<a id="ref-sj-4644"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4644
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4644-L4644)
+
+```text
+
+齊使者如梁，孫臏以刑徒陰見，說齊使。齊使以為奇，竊載與之齊。齊將田忌善而客待之。忌數與齊諸公子馳逐重射。孫子見其馬足不甚相遠，馬有上、中、下、輩。於是孫子謂田忌曰：「君弟重射，臣能令君勝。」田忌信然之，與王及諸公子逐射千金。及臨質，孫子曰：「今以君之下駟與彼上駟，取君上駟與彼中駟，取君中駟與彼下駟。」既馳三輩畢，而田忌一不勝而再勝，卒得王千金。於是忌進孫子於威王。威王問兵法，遂以為師。
+
+```
+
+<a id="ref-sj-4645"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4645
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4645-L4645)
+
+```text
+
+其後魏伐趙，趙急，請救於齊。齊威王欲將孫臏，臏辭謝曰：「刑餘之人不可。」於是乃以田忌為將，而孫子為師，居輜車中，坐為計謀。田忌欲引兵之趙，孫子曰：「夫解雜亂紛糾者不控棬，救鬬者不搏撠，批亢擣虛，形格勢禁，則自為解耳。今梁趙相攻，輕兵銳卒必竭於外，老弱罷於內。君不若引兵疾走大梁，據其街路，衝其方虛，彼必釋趙而自救。是我一舉解趙之圍而收獘於魏也。」田忌從之，魏果去邯鄲，與齊戰於桂陵，大破梁軍。
+
+```
+
+<a id="ref-tp002-89-95"></a>
+
+## 《资治通鉴》卷2（有标点工作本） · tp002:89-95
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/a6576d718e55971fddf11e6c26023e8c241a9362/working-texts/chronology-punctuated/main/tj-002.md#L89-L95)
+
+```text
+
+十六年
+
+①齊威王使田忌救趙。
+
+初，孫臏與龐涓俱學兵法，龐涓仕魏爲將軍，自以能不及孫臏，乃召之；至，則以法斷其兩足而黥之，欲使終身廢棄。齊使者至魏，孫臏以刑徒陰見，說齊使者，齊使者竊載與之齊。田忌善而客待之，進於威王。威王問兵法，遂以爲師。於是威王謀救趙，以孫臏爲將；辭以刑餘之人不可，乃以田忌爲將而孫子爲師，居輜車中，坐爲計謀。
+
+田忌欲引兵之趙。孫子曰：「夫解雜亂紛糾者不控拳，救鬬者不搏撠，批亢擣虛，形格勢禁，則自爲解耳。今梁、趙相攻，輕兵銳卒必竭於外，老弱疲於內；子不若引兵疾走魏都，據其街路，衝其方虛，彼必釋趙以自救：是我一舉解趙之圍而收弊於魏也。」田忌從之。十月，邯鄲降魏。魏師還，與齊戰于桂陵，魏師大敗。
+
+```
+
+<a id="ref-sj-4646"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4646
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4646-L4646)
+
+```text
+
+後十三歲，魏與趙攻韓，韓告急於齊。齊使田忌將而往，直走大梁。魏將龐涓聞之，去韓而歸，齊軍既已過而西矣。孫子謂田忌曰：「彼三晉之兵素悍勇而輕齊，齊號為怯，善戰者因其勢而利導之。兵法，百里而趣利者蹶上將，五十里而趣利者軍半至。使齊軍入魏地為十萬灶，明日為五萬灶，又明日為三萬灶。」龐涓行三日，大喜，曰：「我固知齊軍怯，入吾地三日，士卒亡者過半矣。」乃棄其步軍，與其輕銳倍日并行逐之。孫子度其行，暮當至馬陵。馬陵道陜，而旁多阻隘，可伏兵，乃斫大樹白而書之曰「龐涓死于此樹之下」。於是令齊軍善射者萬弩，夾道而伏，期曰「暮見火舉而俱發」。龐涓果夜至斫木下，見白書，乃鉆火燭之。讀其書未畢，齊軍萬弩俱發，魏軍大亂相失。龐涓自知智窮兵敗，乃自剄，曰：「遂成豎子之名！」齊因乘勝盡破其軍，虜魏太子申以歸。孫臏以此名顯天下，世傳其。
+
+```
+
+<a id="ref-tp002-153-157"></a>
+
+## 《资治通鉴》卷2（有标点工作本） · tp002:153-157
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/a6576d718e55971fddf11e6c26023e8c241a9362/working-texts/chronology-punctuated/main/tj-002.md#L153-L157)
+
+```text
+
+二十八年
+
+①魏龐涓伐韓。韓請救於齊。齊威王召大臣而謀曰：「蚤救孰與晚救？」成侯曰：「不如勿救。」田忌曰：「弗救則韓且折而入於魏，不如蚤救之。」孫臏曰：「夫韓、魏之兵未弊而救之。是吾代韓受魏之兵，顧反聽命於韓也。且魏有破國之志，韓見亡，必東面而愬於齊矣。吾因深結韓之親而晚承魏之弊，則可受重利而得尊名也。」王曰：「善。」乃陰許韓使而遣之。韓因恃齊，五戰不勝，而東委國於齊。
+
+齊因起兵，使田忌、田嬰、田盼將之。孫子爲師，以救韓，直走魏都。龐涓聞之，去韓而歸。魏人大發兵，以太子申爲將，以禦齊師。孫子謂田忌曰：「彼三晉之兵素悍勇而輕齊，齊號爲怯。善戰者因其勢而利導之。《兵法》：『百里而趣利者蹶上將，五十里而趣利者軍半至。』」乃使齊軍入魏地爲十萬竈，明日爲五萬竈，又明日爲二萬竈。龐涓行三日，大喜曰：「我固知齊軍怯，入吾地三日，士卒亡者過半矣！」乃棄其步軍，與其輕銳倍日幷行逐之。孫子度其行，暮當至馬陵，馬陵道陿而旁多阻隘，可伏兵，乃斫大樹，白而書之曰：「龐涓死此樹下！」於是令齊師善射者萬弩夾道而伏，期日暮見火舉而俱發。龐涓果夜到斫木下，見白書，以火燭之，讀未畢，萬弩俱發，魏師大亂相失。龐涓自知智窮兵敗，乃自剄，曰：「遂成豎子之名！」齊因乘勝大破魏師，虜太子申。
+
+```
+
+<a id="ref-sj-4648"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4648
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4648-L4648)
+
+```text
+
+吳起者，衛人也，好用兵。嘗學於曾子，事魯君。齊人攻魯，魯欲將吳起，吳起取齊女為妻，而魯疑之。吳起於是欲就名，遂殺其妻，以明不與齊也。魯卒以為將。將而攻齊，大破之。
+
+```
+
+<a id="ref-sj-4649"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4649
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4649-L4649)
+
+```text
+
+魯人或惡吳起曰：「起之為人，猜忍人也。其少時，家累千金，游仕不遂，遂破其家，鄉黨笑之，吳起殺其謗己者三十餘人，而東出衛郭門。與其母訣，齧臂而盟曰：『起不為卿相，不復入衛。』遂事曾子。居頃之，其母死，起終不歸。曾子薄之，而與起絕。起乃之魯，學兵法以事魯君。魯君疑之，起殺妻以求將。夫魯小國，而有戰勝之名，則諸侯圖魯矣。且魯衛兄弟之國也，而君用起，則是棄衛。」魯君疑之，謝吳起。
+
+```
+
+<a id="ref-sj-4650"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4650
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4650-L4650)
+
+```text
+
+吳起於是聞魏文侯賢，欲事之。文侯問李克曰：「吳起何如人哉？」李克曰：「起貪而好色，然用兵司馬穰苴不能過也。」於是魏文候以為將，擊秦，拔五城。
+
+```
+
+<a id="ref-sj-4651"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4651
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4651-L4651)
+
+```text
+
+起之為將，與士卒最下者同衣食。臥不設席，行不騎乘，親裹贏糧，與士卒分勞苦。卒有病疽者，起為吮之。卒母聞而哭之。人曰：「子卒也，而將，軍自吮其疽，何哭為？」母曰：「非然也。往年吳公吮其父，其父戰不旋踵，遂死於敵。吳公今又吮其子，妾不知其死所矣。是以哭之。」
+
+```
+
+<a id="ref-sj-4652"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4652
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4652-L4652)
+
+```text
+
+文侯以吳起善用兵，廉平，盡能得士心，乃以為西河守，以拒秦、韓。
+
+```
+
+<a id="ref-sj-4653"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4653
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4653-L4653)
+
+```text
+
+魏文侯既卒，起事其子武侯。武侯浮西河而下，中流，顧而謂吳起曰：「美哉乎山河之固，此魏國之寶也！」起對曰：「在德不在險。昔三苗氏左洞庭，右彭蠡，德義不修，禹滅之。夏桀之居，左河濟，右泰華，伊闕在其南，羊腸在其北，修政不仁，湯放之。殷紂之國，左孟門，右太行，常山在其北，大河經其南，修政不德，武王殺之。由此觀之，在德不在險。若君不修德，舟中之人盡為敵國也。」武侯曰：「善。」
+
+```
+
+<a id="ref-sj-4654"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4654
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4654-L4654)
+
+```text
+
+（即封）吳起為西河守，甚有聲名。魏置相，相田文。吳起不悅，謂田文曰：「請與子論功，可乎？」田文曰：「可。」起曰：「將三軍，使士卒樂死，敵國不敢謀，子孰與起？」文曰：「不如子。」起曰：「治百官，親萬民，實府庫，子孰與起？」文曰：「不如子。」起曰：「守西河而秦兵不敢東鄉，韓趙賓從，子孰與起？」文曰：「不如子。」起曰：「此三者，子皆出吾下，而位加吾上，何也？」文曰：「主少國疑，大臣未附，百姓不信，方是之時，屬之於子乎？屬之於我乎？」起默然良久，曰：「屬之子矣。」文曰：「此乃吾所以居子之上也。」吳起乃自知弗如田文。
+
+```
+
+<a id="ref-sj-4655"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4655
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4655-L4655)
+
+```text
+
+田文既死，公叔為相，尚魏公主，而害吳起。公叔之僕曰：「起易去也。」公叔曰：「柰何？」其僕曰：「吳起為人節廉而自喜名也。君因先與武侯言曰：『夫吳起賢人也，而侯之國小，又與彊秦壤界，臣竊恐起之無留心也。』武侯即曰：『柰何？』君因謂武侯曰：『試延以公主，起有留心則必受之。無留心則必辭矣。以此卜之。』君因召吳起而與歸，即令公主怒而輕君。吳起見公主之賤君也，則必辭。」於是吳起見公主之賤魏相，果辭魏武侯。武侯疑之而弗信也。吳起懼得罪，遂去，即之楚。
+
+```
+
+<a id="ref-sj-4656"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4656
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4656-L4656)
+
+```text
+
+楚悼王素聞起賢，至則相楚。明法審令，捐不急之官，廢公族疏遠者，以撫養戰鬬之士。要在彊兵，破馳說之言從橫者。於是南平百越；北并陳蔡，卻三晉；西伐秦。諸侯患楚之彊。故楚之貴戚盡欲害吳起。及悼王死，宗室大臣作亂而攻吳起，吳起走之王尸而伏之。擊起之徒因射刺吳起，并中悼王。悼王既葬，太子立，乃使令尹盡誅射吳起而并中王尸者。坐射起而夷宗死者七十餘家。
+
+```
+
+<a id="ref-tp001-195-197"></a>
+
+## 《资治通鉴》卷1（有标点工作本） · tp001:195-197
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/a6576d718e55971fddf11e6c26023e8c241a9362/working-texts/chronology-punctuated/main/tj-001.md#L195-L197)
+
+```text
+
+二十一年
+
+①楚悼王薨。貴戚大臣作亂，攻吳起；起走之王尸而伏之。擊起之徒因射刺起，並中王尸。旣葬，肅王卽位，使令尹盡誅爲亂者；坐起夷宗者七十餘家。
+
+```
+
+<a id="ref-sj-4658"></a>
+
+## 《史记》卷65 孙子吴起列传 · sj:4658
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4658-L4658)
+
+```text
+
+太史公曰：世俗所稱師旅，皆道孫子十三篇，，世多有，故弗論，論其行事所施設者。語曰：「能行之者未必能言，能言之者未必能行。」孫子籌策龐涓明矣，然不能蚤救患於被刑。吳起說武侯以形勢不如德，然行之於楚，以刻暴少恩亡其軀。悲夫！
+
+```
+
+<a id="ref-sj-4660"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4660
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4660-L4660)
+
+```text
+
+伍子胥者，楚人也，名員。員父曰伍奢。員兄曰伍尚。其先曰伍舉，以直諫事楚莊王，有顯，故其後世有名於楚。
+
+```
+
+<a id="ref-sj-4661"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4661
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4661-L4661)
+
+```text
+
+楚平王有太子名曰建，使伍奢為太傅，費無忌為少傅。無忌不忠於太子建。平王使無忌為太子取婦於秦，秦女好，無忌馳歸報平王曰：「秦女絕美，王可自取，而更為太子取婦。」平王遂自取秦女而絕愛幸之，生子軫。更為太子取婦。
+
+```
+
+<a id="ref-zz-10-19"></a>
+
+## 《春秋／左传》鲁昭公19年 · zz:10.19
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_dcfea6bc1335.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0523.md)；原始网页SHA256：`4c4d8db5f5bed1147fd3390dfb274c45e140743a5ba2aad7af0cd205ae41a235`。
+
+```text
+
+经（含续经时见原页）
+十有九年春，宋公伐邾。
+
+夏五月戊辰，许世子止弑其君买。
+
+己卯，地震。
+
+秋，齐高发帅师伐莒。
+
+冬，葬许悼公。
+
+传
+十九年春，楚工尹赤迁阴于下阴，令尹子瑕城郏。叔孙昭子曰：“楚不在诸侯矣！其仅自完也，以持其世而已。”
+
+楚子之在蔡也，郹阳封人之女奔之，生大子建。及即位，使伍奢为之师。费无极为少师，无宠焉，欲谮诸王，曰：“建可室矣。”王为之聘于秦，无极与逆，劝王取之。正月，楚夫人嬴氏至自秦。
+
+鄅夫人，宋向戌之女也，故向宁请师。二月，宋公伐邾，围虫。三月，取之。乃尽归鄅俘。
+
+夏，许悼公疟。五月戊辰，饮大子止之药，卒。大子奔晋。书曰：“弑其君。”君子曰：“尽心力以事君，舍药物可也。”
+
+邾人、郳人、徐人会宋公。乙亥，同盟于虫。
+
+楚子为舟师以伐濮。费无极言于楚子曰：“晋之伯也，迩于诸夏，而楚辟陋，故弗能与争。若大城城父而寘大子焉，以通北方，王收南方，是得天下也。”王说，从之。故大子建居于城父。令尹子瑕聘于秦，拜夫人也。
+
+秋，齐高发帅师伐莒。莒子奔纪鄣。使孙书伐之。
+
+初，莒有妇人，莒子杀其夫，己为嫠妇。及老，託于纪鄣，纺焉以度而去之。及师至，则投诸外。或献诸子占。子占使师夜缒而登。登者六十人，缒绝，师鼓噪。城上之人亦噪。莒共公惧，启西门而出。七月丙子，齐师入纪。
+
+是岁也，郑驷偃卒。子游娶于晋大夫，生丝，弱。其父兄立子瑕。子产憎其为人也，且以为不顺，弗许，亦弗止。驷氏耸。
+
+他日，丝以告其舅。冬，晋人使以币如郑，问驷乞之立故。驷氏惧，驷乞欲逃。子产弗遣。请龟以卜，亦弗予。大夫谋对。子产不待而对客曰：“郑国不天，寡君之二三臣，札瘥夭昏。今又丧我先大夫偃，其子幼弱，其一二父兄，惧队宗主，私族于谋而立长亲。寡君与其二三老曰：‘抑天实剥乱是，吾何知焉？’谚曰：‘无过乱门。’民有兵乱，犹惮过之，而况敢知天之所乱。今大夫将问其故，抑寡君实不敢知，其谁实知之。平丘之会，君寻旧盟曰：‘无或失职。’若寡君之二三臣，其即世者，晋大夫而专制其位，是晋之县鄙也，何国之为？”辞客币而报其使。晋人舍之。
+
+楚人城州来。沈尹戌曰：“楚人必败。昔吴灭州来，子旗请伐之。王曰：‘吾未抚吾民。’今亦如之，而城州来以挑吴，能无败乎？”侍者曰：“王施舍不倦，息民五年，可谓抚之矣。”戌曰：“吾闻抚民者，节用于内，而树德于外，民乐其性，而无寇仇。今宫室无量，民人日骇，劳罢死转，忘寝与食，非抚之也。”
+
+郑大水，龙斗于时门之外洧渊。国人请为禜焉，子产弗许，曰：“我斗，龙不我觌也。龙斗，我独何觌焉？禳之，则彼其室也。吾无求于龙，龙亦无求于我。”乃止也。
+
+令尹子瑕言蹶由于楚子曰：“彼何罪？谚所谓‘室于怒，市于色’者，楚之谓矣。舍前之忿可也。”乃归蹶由。
+
+```
+
+<a id="ref-sj-4662"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4662
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4662-L4662)
+
+```text
+
+無忌既以秦女自媚於平王，因去太子而事平王。恐一旦平王卒而太子立，殺己，乃因讒太子建。建母，蔡女也，無寵於平王。平王稍益疏建，使建守城父，備邊兵。
+
+```
+
+<a id="ref-sj-4663"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4663
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4663-L4663)
+
+```text
+
+頃之，無忌又日夜言太子短於王曰：「太子以秦女之故，不能無怨望，願王少自備也。自太子居城父，將兵，外交諸侯，且欲入為亂矣。」平王乃召其太傅伍奢考問之。伍奢知無忌讒太子於平王，因曰：「王獨柰何以讒賊小臣疏骨肉之親乎？」無忌曰：「王今不制，其事成矣。王且見禽。」於是平王怒，囚伍奢，而使城父司馬奮揚往殺太子。行未至，奮揚使人先告太子：「太子急去，不然將誅。」太子建亡奔宋。
+
+```
+
+<a id="ref-sj-4664"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4664
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4664-L4664)
+
+```text
+
+無忌言於平王曰：「伍奢有二子，皆賢，不誅且為楚憂。可以其父質而召之，不然且為楚患。」王使使謂伍奢曰：「能致汝二子則生，不能則死。」伍奢曰：「尚為人仁，呼必來。員為人剛戾忍訽，能成大事，彼見來之并禽，其勢必不來。」王不聽，使人召二子曰：「來，吾生汝父；不來，今殺奢也。」伍尚欲往，員曰：「楚之召我兄弟，非欲以生我父也，恐有脫者後生患，故以父為質，詐召二子。二子到，則父子俱死。何益父之死？往而令讎不得報耳。不如奔他國，借力以雪父之恥，俱滅，無為也。」伍尚曰：「我知往終不能全父命。然恨父召我以求生而不往，後不能雪恥，終為天下笑耳。」謂員：「可去矣！汝能報殺父之讎，我將歸死。」尚既就執，使者捕伍胥。伍胥貫弓執矢向使者，使者不敢進，伍胥遂亡。聞太子建之在宋，往從之。奢聞子胥之亡也，曰：「楚國君臣且苦兵矣。」伍尚至楚，楚并殺奢與尚也。
+
+```
+
+<a id="ref-sj-4665"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4665
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4665-L4665)
+
+```text
+
+伍胥既至宋，宋有華氏之亂，乃與太子建俱奔於鄭。鄭人甚善之。太子建又適晉，晉頃公曰：「太子既善鄭，鄭信太子。太子能為我內應，而我攻其外，滅鄭必矣。滅鄭而封太子。」太子乃還鄭。事未會，會自私欲殺其從者，從者知其謀，乃告之於鄭。鄭定公與子產誅殺太子建。建有子名勝。伍胥懼，乃與勝俱奔吳。到昭關，昭關欲執之。伍胥遂與勝獨身步走，幾不得脫。追者在後。至江，江上有一漁父乘船，知伍胥之急，乃渡伍胥。伍胥既渡，解其劍曰：「此劍直百金，以與父。」父曰：「楚國之法，得伍胥者賜粟五萬石，爵執珪，豈徒百金劍邪！」不受。伍胥未至吳而疾，止中道，乞食。至於吳，吳王僚方用事，公子光為將。伍胥乃因公子光以求見吳王。
+
+```
+
+<a id="ref-sj-4671"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4671
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4671-L4671)
+
+```text
+
+昭王出亡，入雲夢；盜擊王，王走鄖。鄖公弟懷曰：「平王殺我父，我殺其子，不亦可乎！」鄖公恐其弟殺王，與王奔隨。吳兵圍隨，謂隨人曰：「周之子孫在漢川者，楚盡滅之。」隨人欲殺王，王子綦匿王，己自為王以當之。隨人卜與王於吳，不吉，乃謝吳不與王。
+
+```
+
+<a id="ref-sj-4680"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4680
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4680-L4680)
+
+```text
+
+伍子胥初所與俱亡故楚太子建之子勝者，在於吳。吳王夫差之時，楚惠王欲召勝歸楚。葉公諫曰：「勝好勇而陰求死士，殆有私乎！」惠王不聽。遂召勝，使居楚之邊邑鄢，號為白公。白公歸楚三年而吳誅子胥。
+
+```
+
+<a id="ref-sj-4681"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4681
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4681-L4681)
+
+```text
+
+白公勝既歸楚，怨鄭之殺其父，乃陰養死士求報鄭。歸楚五年，請伐鄭，楚令尹子西許之。兵未發而晉伐鄭，鄭請救於楚。楚使子西往救，與盟而還。白公勝怒曰：「非鄭之仇，乃子西也。」勝自礪劍，人問曰：「何以為？」勝曰：「欲以殺子西。」子西聞之，笑曰：「勝如卵耳，何能為也。」
+
+```
+
+<a id="ref-sj-4682"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4682
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4682-L4682)
+
+```text
+
+其後四歲，白公勝與石乞襲殺楚令尹子西、司馬子綦於朝。石乞曰：「不殺王，不可。」乃劫（之）王如高府。石乞從者屈固負楚惠王亡走昭夫人之宮。葉公聞白公為亂，率其國人攻白公。白公之徒敗，亡走山中，自殺。而虜石乞，而問白公尸處，不言將亨。石乞曰：「事成為卿，不成而亨，固其職也。」終不肯告其尸處。遂亨石乞，而求惠王復立之。
+
+```
+
+<a id="ref-zz-12-16"></a>
+
+## 《春秋／左传》鲁哀公16年 · zz:12.16
+
+[原出处与上下文](https://m.gushiwen.cn/guwen/bookv_43b6dc63b500.aspx)
+
+[本地有标点年条](../../../working-texts/zuozhuan-punctuated-years/years/bce-0479.md)；原始网页SHA256：`067bf6a246ac046a2fc893a51c68ab95d6eb6d97e57f142fed1982c74ac7c073`。
+
+```text
+
+经（含续经时见原页）
+十有六年春，王正月己卯，卫世子蒯聩自戚入于卫。
+
+卫侯辄来奔。
+
+二月，卫子还成出奔宋。
+
+夏四月己丑，孔丘卒。
+
+传
+十六年春，瞒成、褚师比出奔宋。
+
+卫侯使鄢武子告于周，曰：“蒯聩得罪于君父君母，逋窜于晋。晋以王室之故，不弃兄弟，寘诸河上。天诱其衷，获嗣守封焉。使下臣肸敢告执事。”王使单平公对曰：“肸以嘉命，来告余一人。往谓叔父，余嘉乃成世，复尔禄次，敬之哉。方天之休，弗敬弗休，悔其可追？”
+
+夏四月己丑，孔丘卒。公诔之曰：“旻天不吊，不慭遗一老。俾屏余一人以在位，茕茕余在疚。呜呼哀哉！尼父，无自律。”子赣曰：“君其不没于鲁乎。夫子之言曰：‘礼失则昏，名失则愆。’失志为昏，失所为愆。生不能用，死而诔之，非礼也。称一人，非名也。君两失之。”
+
+六月，卫侯饮孔悝酒于平阳，重酬之，大夫皆有纳焉。醉而送之，夜半而遣之。载伯姬于平阳而行。及西门，使贰车反祏于西圃。子伯季子初为孔氏臣，新登于公。请追之，遇载祏者，杀而乘其车。许公为反祏，遇之，曰：“与不仁人争，明无不胜。”必使先射，射三发，皆远许为。许为射之，殪。或以其车从，得祏于橐中。孔悝出奔宋。
+
+楚大子建之遇谗也，自城父奔宋。又辟华氏之乱于郑，郑人甚善之。又適晋，与晋人谋袭郑，乃求复焉。郑人复之如初。晋人使谍于子木，请行而期焉。子木暴虐于其私邑，邑人诉之。郑人省之，得晋谍焉。遂杀子木。其子曰胜，在吴。子西欲召之。叶公曰：“吾闻胜也诈而乱，无乃害乎。”子西曰：“吾闻胜也信而勇，不为不利，舍诸边竟，使卫藩焉。”叶公曰：“周仁之谓信，率义之谓勇。吾闻胜也好复言，而求死士，殆有私乎？复言，非信也。期死，非勇也。子必悔之。”弗从。召之使处吴竟，为白公。请伐郑。子西曰：“楚未节也。不然，吾不忘也。”他日，又请，许之。未起师。晋人伐郑，楚救之，与之盟。胜怒曰：“郑人在此，仇不远矣。”胜自厉剑，子期之子平见之，曰：“王孙何自厉也？”曰：“胜以直闻，不告女，庸为直乎？将以杀尔父。”平以告子西。子西曰：“胜如卵，余翼而长之。楚国第，我死，令尹、司马，非胜而谁？”胜闻之曰：“令尹之狂也，得死，乃非我。”子西不悛。胜谓石乞曰：“王与二卿士，皆五百人当之，则可矣。”乞曰：“不可得也。”曰：“市南有熊宜僚者，若得之，可以当五百人矣。”乃从白公而见之。与之言，说。告之故，辞。承之以剑，不动。胜曰：“不为利谄，不为威惕，不洩人言以求媚者，去之。”
+
+吴人伐慎，白公败之。请以战备献，许之。遂作乱。
+
+秋七月，杀子西、子期于朝，而劫惠王。子西以袂掩面而死。子期曰：“昔者吾以力事君，不可以弗终。”抉豫章以杀人而后死。石乞曰：“焚库弑王，不然不济。”白公曰：“不可。弑王不祥，焚库无聚，将何以守矣？”乞曰：“有楚国而治其民，以敬事神，可以得祥，且有聚矣，何患？”弗从。叶公在蔡，方城之外皆曰：“可以入矣。”子高曰：“吾闻之，以险徼幸者，其求无餍，偏重必离。”闻其杀齐管修也而后入。
+
+白公欲以子闾为王。子闾不可，遂劫以兵。子闾曰：“王孙若安靖楚国，匡正王室，而后庇焉，启之愿也，敢不听从？若将专利以倾王室，不顾楚国，有死不能。”遂杀之，而以王如高府，石乞尹门。圉公阳穴宫，负王以如昭夫人之宫。叶公亦至，及北门，或遇之，曰：“君胡不胄？国人望君如望慈父母焉。盗贼之矢若伤君，是绝民望也。若之何不胄？”乃胄而进。又遇一人曰：“君胡胄？国人望君如望岁焉，日日以几。若见君面，是得艾也。民知不死，其亦夫有奋心。犹将旌君以徇于国，而又掩面以绝民望，不亦甚乎？”乃免胄而进。遇箴尹固，帅其属将与白公。子高曰：“微二子者，楚不国矣。弃德从贼，其可保乎？”乃从叶公。使与国人以攻白公。白公奔山而缢，其徒微之。生拘石乞而问白公之死焉，对曰：“余知其死所，而长者使余勿言。”曰：“不言将烹。”乞曰：“此事克则为卿，不克则烹，固其所也。何害？”乃烹石乞。王孙燕奔黄氏。沈诸梁兼二事，国宁，乃使宁为令尹，使宽为司马，而老于叶。
+
+卫侯占梦嬖人，求酒于大叔僖子。不得，与卜人比而告公曰：“君有大臣在西南隅，弗去，惧害。”乃逐大叔遗。遗奔晋。卫侯谓浑良夫曰：“吾继先君而不得其器，若之何？”良夫代执火者而言曰：“疾与亡君，皆君之子也。召之而择材焉可也。若不材，器可得也。”竖告大子。大子使五人舆豭从己，劫公而强盟之。且请杀良夫。公曰：“其盟免三死。”曰：“请三之后，有罪杀之。”公曰：“诺哉！”
+
+```
+
+<a id="ref-sj-4684"></a>
+
+## 《史记》卷66 伍子胥列传 · sj:4684
+
+[原出处与上下文](https://github.com/zhixin0825/history/blob/1bf386bcb1873c5389fa640ac3bb11ec1ab3ba54/texts/01_shiji_full.txt#L4684-L4684)
+
+```text
+
+太史公曰：怨毒之於人甚矣哉！王者尚不能行之於臣下，況同列乎！向令伍子胥從奢俱死，何異螻蟻。棄小義，雪大恥，名垂於後世，悲夫！方子胥窘於江上，道乞食，志豈嘗須臾忘郢邪？故隱忍就功名，非烈丈夫孰能致此哉？白公如不自立為君者，其功謀亦不可勝道者哉！
 
 ```

@@ -1,7 +1,5 @@
 {
   "schema_version": 1,
-  "source_records": "records.jsonl",
-  "description": "阅读位置与实际发生时间分开；不增加已定年计数。",
   "placements": [
     {
       "record_id": "sj-048-L4206-01",
@@ -109,6 +107,96 @@
       ],
       "anchor_scope": "current_reviewed_corpus_provisional",
       "anchor_note": "暂按当前已审编年底本的前397年刺韩相事件登场，君年和称号冲突照旧保留，补叙规则不消除原有争议。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-065-L4642-01",
+      "entity_id": "person-sun-wu",
+      "person_label": "孙武",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "阖闾任孙武为将以前，确年未定",
+      "reading_year_bce": 512,
+      "reading_anchor_record_id": "sj-031-L2978-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "本篇先叙训练与获任，再总述伐楚；《吴世家》在阖闾三年已经称孙武为将。只作此年军议前的补叙。",
+      "basis_source_keys": [
+        "sj:4642"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中的最早有据参与事件作阅读入口；后续发现更早事件可调整。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-065-L4643-01",
+      "entity_id": "person-sun-bin",
+      "person_label": "孙膑",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "孙膑在魏、归齐以前",
+      "reading_year_bce": 353,
+      "reading_anchor_record_id": "sj-065-L4645-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "《孙子吴起列传》先叙在魏受刑、归齐与赛马，再以“其后魏伐赵”接入桂陵之役。保留前因，不给早年故事补年份。",
+      "basis_source_keys": [
+        "sj:4643"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中的最早有据参与事件作阅读入口；后续发现更早事件可调整。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-065-L4644-01",
+      "entity_id": "person-sun-bin",
+      "person_label": "孙膑",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "桂陵之战以前，确年未定",
+      "reading_year_bce": 353,
+      "reading_anchor_record_id": "sj-065-L4645-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "《孙子吴起列传》先叙在魏受刑、归齐与赛马，再以“其后魏伐赵”接入桂陵之役。保留前因，不给早年故事补年份。",
+      "basis_source_keys": [
+        "sj:4644"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中的最早有据参与事件作阅读入口；后续发现更早事件可调整。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-065-L4644-02",
+      "entity_id": "person-sun-bin",
+      "person_label": "孙膑",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "田忌接纳孙膑以后",
+      "reading_year_bce": 353,
+      "reading_anchor_record_id": "sj-065-L4645-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "《孙子吴起列传》先叙在魏受刑、归齐与赛马，再以“其后魏伐赵”接入桂陵之役。保留前因，不给早年故事补年份。",
+      "basis_source_keys": [
+        "sj:4644"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中的最早有据参与事件作阅读入口；后续发现更早事件可调整。",
+      "counts_as_new_event": false
+    },
+    {
+      "record_id": "sj-066-L4660-01",
+      "entity_id": "person-wu-zixu",
+      "person_label": "伍子胥",
+      "occurrence_year_bce": null,
+      "occurrence_time_label": "伍子胥登场以前",
+      "reading_year_bce": 522,
+      "reading_anchor_record_id": "sj-066-L4664-01",
+      "reading_mode": "first_appearance_backstory",
+      "relation": "before_anchor",
+      "basis": "本篇开头交代出身和先世，随后才进入伍氏父兄被杀、伍员逃亡；补叙不是把伍举的经历定在前522年。",
+      "basis_source_keys": [
+        "sj:4660"
+      ],
+      "anchor_scope": "current_reviewed_corpus_provisional",
+      "anchor_note": "暂以当前已审材料中的最早有据参与事件作阅读入口；后续发现更早事件可调整。",
       "counts_as_new_event": false
     }
   ]

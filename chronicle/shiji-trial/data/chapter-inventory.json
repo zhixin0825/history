@@ -7,7 +7,8 @@
     "end_line": 36,
     "body_lines": 34,
     "chars": 4551,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 2,
@@ -17,7 +18,8 @@
     "end_line": 77,
     "body_lines": 40,
     "chars": 4082,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 3,
@@ -27,7 +29,8 @@
     "end_line": 129,
     "body_lines": 51,
     "chars": 3686,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 4,
@@ -37,7 +40,8 @@
     "end_line": 242,
     "body_lines": 112,
     "chars": 10406,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 5,
@@ -47,7 +51,8 @@
     "end_line": 349,
     "body_lines": 106,
     "chars": 10561,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 6,
@@ -57,7 +62,8 @@
     "end_line": 469,
     "body_lines": 119,
     "chars": 15956,
-    "status": "含局部抽查；其余待处理"
+    "status": "含局部抽查；其余待处理",
+    "reviewed_body_lines": 1
   },
   {
     "chapter": 7,
@@ -67,7 +73,8 @@
     "end_line": 517,
     "body_lines": 47,
     "chars": 11129,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 8,
@@ -77,7 +84,8 @@
     "end_line": 611,
     "body_lines": 93,
     "chars": 11636,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 9,
@@ -87,7 +95,8 @@
     "end_line": 646,
     "body_lines": 34,
     "chars": 5418,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 10,
@@ -97,7 +106,8 @@
     "end_line": 689,
     "body_lines": 42,
     "chars": 6729,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 11,
@@ -107,7 +117,8 @@
     "end_line": 710,
     "body_lines": 20,
     "chars": 1708,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 12,
@@ -117,7 +128,8 @@
     "end_line": 765,
     "body_lines": 54,
     "chars": 7916,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 13,
@@ -127,7 +139,8 @@
     "end_line": 836,
     "body_lines": 70,
     "chars": 2691,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 14,
@@ -137,7 +150,8 @@
     "end_line": 1206,
     "body_lines": 369,
     "chars": 23622,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 15,
@@ -147,7 +161,8 @@
     "end_line": 1482,
     "body_lines": 275,
     "chars": 12519,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 16,
@@ -157,7 +172,8 @@
     "end_line": 1581,
     "body_lines": 98,
     "chars": 5330,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 17,
@@ -167,7 +183,8 @@
     "end_line": 1694,
     "body_lines": 112,
     "chars": 8721,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 18,
@@ -177,7 +194,8 @@
     "end_line": 1843,
     "body_lines": 148,
     "chars": 17868,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 19,
@@ -187,7 +205,8 @@
     "end_line": 1945,
     "body_lines": 101,
     "chars": 6573,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 20,
@@ -197,7 +216,8 @@
     "end_line": 2073,
     "body_lines": 127,
     "chars": 8625,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 21,
@@ -207,7 +227,8 @@
     "end_line": 2240,
     "body_lines": 166,
     "chars": 6930,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 22,
@@ -217,7 +238,8 @@
     "end_line": 2429,
     "body_lines": 188,
     "chars": 6076,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 23,
@@ -227,7 +249,8 @@
     "end_line": 2457,
     "body_lines": 27,
     "chars": 2926,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 24,
@@ -237,7 +260,8 @@
     "end_line": 2526,
     "body_lines": 68,
     "chars": 8486,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 25,
@@ -247,7 +271,8 @@
     "end_line": 2552,
     "body_lines": 25,
     "chars": 3151,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 26,
@@ -257,7 +282,8 @@
     "end_line": 2643,
     "body_lines": 90,
     "chars": 3970,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 27,
@@ -267,7 +293,8 @@
     "end_line": 2769,
     "body_lines": 125,
     "chars": 10727,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 28,
@@ -277,7 +304,8 @@
     "end_line": 2874,
     "body_lines": 104,
     "chars": 13323,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 29,
@@ -287,7 +315,8 @@
     "end_line": 2892,
     "body_lines": 17,
     "chars": 2055,
-    "status": "逐段分流初审完成；非逐字翻译完毕"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 15
   },
   {
     "chapter": 30,
@@ -297,7 +326,8 @@
     "end_line": 2944,
     "body_lines": 51,
     "chars": 6512,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 31,
@@ -307,7 +337,8 @@
     "end_line": 2996,
     "body_lines": 51,
     "chars": 4771,
-    "status": "仅结构入库；未逐段解读"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 42
   },
   {
     "chapter": 32,
@@ -317,7 +348,8 @@
     "end_line": 3107,
     "body_lines": 110,
     "chars": 9041,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 33,
@@ -327,7 +359,8 @@
     "end_line": 3241,
     "body_lines": 133,
     "chars": 7331,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 34,
@@ -337,7 +370,8 @@
     "end_line": 3274,
     "body_lines": 32,
     "chars": 2997,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 35,
@@ -347,7 +381,8 @@
     "end_line": 3316,
     "body_lines": 41,
     "chars": 3100,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 36,
@@ -357,7 +392,8 @@
     "end_line": 3350,
     "body_lines": 33,
     "chars": 3048,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 37,
@@ -367,7 +403,8 @@
     "end_line": 3399,
     "body_lines": 48,
     "chars": 4104,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 38,
@@ -377,7 +414,8 @@
     "end_line": 3459,
     "body_lines": 59,
     "chars": 5371,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 39,
@@ -387,7 +425,8 @@
     "end_line": 3636,
     "body_lines": 176,
     "chars": 15354,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 40,
@@ -397,7 +436,8 @@
     "end_line": 3738,
     "body_lines": 101,
     "chars": 13192,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 41,
@@ -407,7 +447,8 @@
     "end_line": 3767,
     "body_lines": 28,
     "chars": 4644,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 42,
@@ -417,7 +458,8 @@
     "end_line": 3826,
     "body_lines": 58,
     "chars": 5878,
-    "status": "含局部抽查；其余待处理"
+    "status": "含局部抽查；其余待处理",
+    "reviewed_body_lines": 1
   },
   {
     "chapter": 43,
@@ -427,7 +469,8 @@
     "end_line": 3946,
     "body_lines": 119,
     "chars": 14157,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 44,
@@ -437,7 +480,8 @@
     "end_line": 4023,
     "body_lines": 76,
     "chars": 6744,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 45,
@@ -447,7 +491,8 @@
     "end_line": 4059,
     "body_lines": 35,
     "chars": 2987,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 46,
@@ -457,7 +502,8 @@
     "end_line": 4117,
     "body_lines": 57,
     "chars": 7135,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 47,
@@ -467,7 +513,8 @@
     "end_line": 4204,
     "body_lines": 86,
     "chars": 9426,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 48,
@@ -477,7 +524,8 @@
     "end_line": 4231,
     "body_lines": 26,
     "chars": 3799,
-    "status": "逐段分流初审完成；非逐字翻译完毕"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 26
   },
   {
     "chapter": 49,
@@ -487,7 +535,8 @@
     "end_line": 4277,
     "body_lines": 45,
     "chars": 4994,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 50,
@@ -497,7 +546,8 @@
     "end_line": 4291,
     "body_lines": 13,
     "chars": 999,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 51,
@@ -507,7 +557,8 @@
     "end_line": 4306,
     "body_lines": 14,
     "chars": 1376,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 52,
@@ -517,7 +568,8 @@
     "end_line": 4352,
     "body_lines": 45,
     "chars": 4318,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 53,
@@ -527,7 +579,8 @@
     "end_line": 4372,
     "body_lines": 19,
     "chars": 2285,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 54,
@@ -537,7 +590,8 @@
     "end_line": 4392,
     "body_lines": 19,
     "chars": 2472,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 55,
@@ -547,7 +601,8 @@
     "end_line": 4425,
     "body_lines": 32,
     "chars": 4993,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 56,
@@ -557,7 +612,8 @@
     "end_line": 4455,
     "body_lines": 29,
     "chars": 4378,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 57,
@@ -567,7 +623,8 @@
     "end_line": 4481,
     "body_lines": 25,
     "chars": 3491,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 58,
@@ -577,7 +634,8 @@
     "end_line": 4509,
     "body_lines": 27,
     "chars": 3805,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 59,
@@ -587,7 +645,8 @@
     "end_line": 4548,
     "body_lines": 38,
     "chars": 2914,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 60,
@@ -597,7 +656,8 @@
     "end_line": 4581,
     "body_lines": 32,
     "chars": 4950,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 61,
@@ -607,7 +667,8 @@
     "end_line": 4589,
     "body_lines": 7,
     "chars": 982,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 62,
@@ -617,7 +678,8 @@
     "end_line": 4604,
     "body_lines": 14,
     "chars": 1239,
-    "status": "逐段分流初审完成；非逐字翻译完毕"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 12
   },
   {
     "chapter": 63,
@@ -627,37 +689,41 @@
     "end_line": 4634,
     "body_lines": 29,
     "chars": 2643,
-    "status": "逐段分流初审完成；非逐字翻译完毕"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 25
   },
   {
     "chapter": 64,
-    "title": "卷64（篇名尚待补齐）",
+    "title": "司马穰苴列传",
     "genre": "列传",
     "start_line": 4635,
     "end_line": 4640,
     "body_lines": 5,
     "chars": 943,
-    "status": "仅结构入库；未逐段解读"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 4
   },
   {
     "chapter": 65,
-    "title": "卷65（篇名尚待补齐）",
+    "title": "孙子吴起列传",
     "genre": "列传",
     "start_line": 4641,
     "end_line": 4658,
     "body_lines": 17,
     "chars": 2814,
-    "status": "仅结构入库；未逐段解读"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 15
   },
   {
     "chapter": 66,
-    "title": "卷66（篇名尚待补齐）",
+    "title": "伍子胥列传",
     "genre": "列传",
     "start_line": 4659,
     "end_line": 4684,
     "body_lines": 25,
     "chars": 3887,
-    "status": "仅结构入库；未逐段解读"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 24
   },
   {
     "chapter": 67,
@@ -667,7 +733,8 @@
     "end_line": 4875,
     "body_lines": 190,
     "chars": 6865,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 68,
@@ -677,7 +744,8 @@
     "end_line": 4889,
     "body_lines": 13,
     "chars": 3362,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 69,
@@ -687,7 +755,8 @@
     "end_line": 4959,
     "body_lines": 69,
     "chars": 9041,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 70,
@@ -697,7 +766,8 @@
     "end_line": 5023,
     "body_lines": 63,
     "chars": 8434,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 71,
@@ -707,7 +777,8 @@
     "end_line": 5048,
     "body_lines": 24,
     "chars": 3985,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 72,
@@ -717,7 +788,8 @@
     "end_line": 5061,
     "body_lines": 12,
     "chars": 2152,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 73,
@@ -727,7 +799,8 @@
     "end_line": 5081,
     "body_lines": 19,
     "chars": 3183,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 74,
@@ -737,7 +810,8 @@
     "end_line": 5097,
     "body_lines": 15,
     "chars": 1725,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 75,
@@ -747,7 +821,8 @@
     "end_line": 5119,
     "body_lines": 21,
     "chars": 4487,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 76,
@@ -757,7 +832,8 @@
     "end_line": 5142,
     "body_lines": 22,
     "chars": 4216,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 77,
@@ -767,7 +843,8 @@
     "end_line": 5162,
     "body_lines": 19,
     "chars": 3243,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 78,
@@ -777,7 +854,8 @@
     "end_line": 5186,
     "body_lines": 23,
     "chars": 3670,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 79,
@@ -787,7 +865,8 @@
     "end_line": 5225,
     "body_lines": 38,
     "chars": 9165,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 80,
@@ -797,7 +876,8 @@
     "end_line": 5247,
     "body_lines": 21,
     "chars": 2522,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 81,
@@ -807,7 +887,8 @@
     "end_line": 5282,
     "body_lines": 34,
     "chars": 4627,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 82,
@@ -817,7 +898,8 @@
     "end_line": 5293,
     "body_lines": 10,
     "chars": 1358,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 83,
@@ -827,7 +909,8 @@
     "end_line": 5323,
     "body_lines": 29,
     "chars": 4769,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 84,
@@ -837,7 +920,8 @@
     "end_line": 5360,
     "body_lines": 36,
     "chars": 4031,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 85,
@@ -847,7 +931,8 @@
     "end_line": 5379,
     "body_lines": 18,
     "chars": 2158,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 86,
@@ -857,7 +942,8 @@
     "end_line": 5424,
     "body_lines": 44,
     "chars": 6911,
-    "status": "逐段分流初审完成；非逐字翻译完毕"
+    "status": "逐段分流初审完成；非逐句全译或独立复核完成",
+    "reviewed_body_lines": 39
   },
   {
     "chapter": 87,
@@ -867,7 +953,8 @@
     "end_line": 5466,
     "body_lines": 41,
     "chars": 8866,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 88,
@@ -877,7 +964,8 @@
     "end_line": 5479,
     "body_lines": 12,
     "chars": 1992,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 89,
@@ -887,7 +975,8 @@
     "end_line": 5511,
     "body_lines": 31,
     "chars": 5212,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 90,
@@ -897,7 +986,8 @@
     "end_line": 5528,
     "body_lines": 16,
     "chars": 1890,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 91,
@@ -907,7 +997,8 @@
     "end_line": 5550,
     "body_lines": 21,
     "chars": 3356,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 92,
@@ -917,7 +1008,8 @@
     "end_line": 5580,
     "body_lines": 29,
     "chars": 7643,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 93,
@@ -927,7 +1019,8 @@
     "end_line": 5605,
     "body_lines": 24,
     "chars": 3299,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 94,
@@ -937,7 +1030,8 @@
     "end_line": 5621,
     "body_lines": 15,
     "chars": 2089,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 95,
@@ -947,7 +1041,8 @@
     "end_line": 5661,
     "body_lines": 39,
     "chars": 5573,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 96,
@@ -957,7 +1052,8 @@
     "end_line": 5703,
     "body_lines": 41,
     "chars": 4539,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 97,
@@ -967,7 +1063,8 @@
     "end_line": 5731,
     "body_lines": 27,
     "chars": 4915,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 98,
@@ -977,7 +1074,8 @@
     "end_line": 5747,
     "body_lines": 15,
     "chars": 1345,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 99,
@@ -987,7 +1085,8 @@
     "end_line": 5771,
     "body_lines": 23,
     "chars": 3633,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 100,
@@ -997,7 +1096,8 @@
     "end_line": 5785,
     "body_lines": 13,
     "chars": 2040,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 101,
@@ -1007,7 +1107,8 @@
     "end_line": 5811,
     "body_lines": 25,
     "chars": 3756,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 102,
@@ -1017,7 +1118,8 @@
     "end_line": 5828,
     "body_lines": 16,
     "chars": 2519,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 103,
@@ -1027,7 +1129,8 @@
     "end_line": 5858,
     "body_lines": 29,
     "chars": 2822,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 104,
@@ -1037,7 +1140,8 @@
     "end_line": 5876,
     "body_lines": 17,
     "chars": 2728,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 105,
@@ -1047,7 +1151,8 @@
     "end_line": 5931,
     "body_lines": 54,
     "chars": 10116,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 106,
@@ -1057,7 +1162,8 @@
     "end_line": 5954,
     "body_lines": 22,
     "chars": 5416,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 107,
@@ -1067,7 +1173,8 @@
     "end_line": 5985,
     "body_lines": 30,
     "chars": 4697,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 108,
@@ -1077,7 +1184,8 @@
     "end_line": 6002,
     "body_lines": 16,
     "chars": 2796,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 109,
@@ -1087,7 +1195,8 @@
     "end_line": 6024,
     "body_lines": 21,
     "chars": 3717,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 110,
@@ -1097,7 +1206,8 @@
     "end_line": 6086,
     "body_lines": 61,
     "chars": 10774,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 111,
@@ -1107,7 +1217,8 @@
     "end_line": 6153,
     "body_lines": 66,
     "chars": 7043,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 112,
@@ -1117,7 +1228,8 @@
     "end_line": 6186,
     "body_lines": 32,
     "chars": 6319,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 113,
@@ -1127,7 +1239,8 @@
     "end_line": 6201,
     "body_lines": 14,
     "chars": 3046,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 114,
@@ -1137,7 +1250,8 @@
     "end_line": 6213,
     "body_lines": 11,
     "chars": 1597,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 115,
@@ -1147,7 +1261,8 @@
     "end_line": 6224,
     "body_lines": 10,
     "chars": 1420,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 116,
@@ -1157,7 +1272,8 @@
     "end_line": 6237,
     "body_lines": 12,
     "chars": 1675,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 117,
@@ -1167,7 +1283,8 @@
     "end_line": 6271,
     "body_lines": 33,
     "chars": 11288,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 118,
@@ -1177,7 +1294,8 @@
     "end_line": 6303,
     "body_lines": 31,
     "chars": 8547,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 119,
@@ -1187,7 +1305,8 @@
     "end_line": 6316,
     "body_lines": 12,
     "chars": 1165,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 120,
@@ -1197,7 +1316,8 @@
     "end_line": 6340,
     "body_lines": 23,
     "chars": 3104,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 121,
@@ -1207,7 +1327,8 @@
     "end_line": 6372,
     "body_lines": 31,
     "chars": 4135,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 122,
@@ -1217,7 +1338,8 @@
     "end_line": 6417,
     "body_lines": 44,
     "chars": 7319,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 123,
@@ -1227,7 +1349,8 @@
     "end_line": 6456,
     "body_lines": 38,
     "chars": 6631,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 124,
@@ -1237,7 +1360,8 @@
     "end_line": 6474,
     "body_lines": 17,
     "chars": 2484,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 125,
@@ -1247,7 +1371,8 @@
     "end_line": 6484,
     "body_lines": 9,
     "chars": 1189,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 126,
@@ -1257,7 +1382,8 @@
     "end_line": 6524,
     "body_lines": 39,
     "chars": 6025,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 127,
@@ -1267,7 +1393,8 @@
     "end_line": 6548,
     "body_lines": 23,
     "chars": 2635,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 128,
@@ -1277,7 +1404,8 @@
     "end_line": 6645,
     "body_lines": 96,
     "chars": 10418,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 129,
@@ -1287,7 +1415,8 @@
     "end_line": 6707,
     "body_lines": 61,
     "chars": 5975,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   },
   {
     "chapter": 130,
@@ -1297,6 +1426,7 @@
     "end_line": 6859,
     "body_lines": 151,
     "chars": 9390,
-    "status": "仅结构入库；未逐段解读"
+    "status": "仅结构入库；未逐段解读",
+    "reviewed_body_lines": 0
   }
 ]
