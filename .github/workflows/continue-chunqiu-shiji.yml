@@ -4,62 +4,67 @@ on:
     branches: [work/chunqiu-shiji-round2]
     paths:
       - .github/workflows/continue-chunqiu-shiji.yml
-      - scripts/import_zuozhuan_years.py
+      - scripts/build_shiji_incremental.py
+      - tests/test_shiji_incremental.py
+      - chronicle/shiji-trial/batches/round2.psv
 permissions:
   contents: write
 concurrency:
   group: chunqiu-shiji-round2
   cancel-in-progress: false
 jobs:
-  sources:
+  review:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
           ref: work/chunqiu-shiji-round2
-      - name: Recognize one verified source heading variant
+      - name: Require the completed punctuated source backbone
         run: |
           python - <<'PY'
+          import json
           from pathlib import Path
-          p=Path('scripts/import_zuozhuan_years.py')
-          s=p.read_text()
-          s=s.replace("r'[〖【](经|經|传|傳)[〗】]'", "r'[〖【](经传|经|經|传|傳)[〗】]'")
-          s=s.replace("'kind':'jing' if m[1] in '经經' else 'zhuan'", "'kind':'jing' if m[1] in ('经','經') else 'zhuan','source_heading':m[1]")
-          needle="            if not layers or any(not x['text'] for x in layers):"
-          if "Unexpected combined heading" not in s:
-              s=s.replace(needle,"            if any(x.get('source_heading')=='经传' for x in layers) and (g,y)!=(7,14):raise ValueError('Unexpected combined heading: needs explicit review')\n"+needle)
-          compile(s,str(p),'exec');p.write_text(s)
+          a=json.loads(Path('working-texts/zuozhuan-punctuated-years/audit.json').read_text())
+          assert a['complete_255_year_backbone'] and a['imported_years']==255
           PY
-      - name: Import existing punctuation and explicit year layers
-        id: ingest
-        continue-on-error: true
-        run: python scripts/import_zuozhuan_years.py
-      - name: Preserve raw sources and prior chronology
-        run: git diff --exit-code -- texts/ classics/ zizhi-tongjian/ chronicle/ SHA256SUMS.txt
-      - name: Save verified or explicitly partial results
+      - name: Rebuild cumulative reviewed chronology
+        run: python scripts/build_shiji_incremental.py
+      - name: Verify quotations, dates, aliases and all original year texts
+        run: python -m unittest discover -s tests -p 'test_shiji_incremental.py' -v
+      - name: Verify deterministic rebuild
+        run: |
+          python - <<'PY'
+          import hashlib,subprocess
+          from pathlib import Path
+          def hashes():
+              return {str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in Path('chronicle/shiji-trial').rglob('*') if p.is_file()}
+          before=hashes()
+          subprocess.run(['python','scripts/build_shiji_incremental.py'],check=True)
+          assert hashes()==before,'Cumulative rebuild changed its own output'
+          PY
+      - name: Preserve original evidence and prior editorial decisions
+        run: git diff --exit-code -- texts/ classics/ zizhi-tongjian/ working-texts/chronology-punctuated/ working-texts/zuozhuan-punctuated-years/ SHA256SUMS.txt chronicle/EDITORIAL_RULES.md chronicle/shiji-trial/reviewed.psv chronicle/shiji-trial/first-appearance.json
+      - name: Save only reviewed and derived outputs
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add working-texts/zuozhuan-punctuated-years/ scripts/import_zuozhuan_years.py
+          git add chronicle/shiji-trial/ chronicle/PROGRESS.md
           if ! git diff --cached --quiet; then
-            git commit -m 'Save original-text year import with explicit coverage and heading provenance'
+            git commit -m 'Publish nine reviewed Shiji chapters with punctuated sources and cumulative coverage'
             git push origin HEAD:work/chunqiu-shiji-round2
           fi
       - uses: actions/upload-artifact@v4
-        if: always()
+        if: success()
         with:
-          name: chunqiu-shiji-round2-working-files
+          name: chunqiu-shiji-round2-results
           path: |
             working-texts/zuozhuan-punctuated-years/
+            working-texts/chronology-punctuated/main/tj-001.md
+            working-texts/chronology-punctuated/main/tj-002.md
             chronicle/
             scripts/
             tests/
-            texts/01_shiji_full.txt
-            classics/ccdh/13_cq_mod.txt
-            classics/ccdh/13_zz_mod.txt
+            README.md
           retention-days: 14
-          if-no-files-found: warn
-      - name: Fail visibly on incomplete source import
-        if: steps.ingest.outcome != 'success'
-        run: exit 1
+          if-no-files-found: error
