@@ -2,6 +2,8 @@ texts/*.txt -text
 classics/**/*.txt -text
 zizhi-tongjian/**/*.txt -text
 zizhi-tongjian/**/*.org -text
+中华书局二十四史/**/*.pdf -text
+中华书局二十四史/**/*.txt -text
 provenance/*.txt -text
 *.md text eol=lf
 *.json text eol=lf
