@@ -1,0 +1,51 @@
+name: Review Xiang Gong chronology
+on:
+  push:
+    branches: [work/chunqiu-xianggong-review-20260930]
+    paths:
+      - .github/workflows/review-xiang-gong.yml
+      - scripts/review_xiang_gong.py
+      - chronicle/chunqiu/review/xiang-gong/routing.json
+      - chronicle/chunqiu/years/bce-05*.md
+permissions:
+  contents: write
+concurrency:
+  group: review-xiang-gong
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: work/chunqiu-xianggong-review-20260930
+          sparse-checkout: |
+            scripts
+            chronicle/chunqiu
+            working-texts/zuozhuan-punctuated-years
+      - name: Validate code and original source hashes
+        run: |
+          python -m py_compile scripts/review_xiang_gong.py
+          python scripts/review_xiang_gong.py
+          git diff --exit-code -- working-texts/zuozhuan-punctuated-years/
+      - name: Check deterministic rebuild
+        run: |
+          python - <<'PY'
+          import hashlib, subprocess
+          from pathlib import Path
+          def hashes():
+              return {str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in Path('chronicle/chunqiu').rglob('*') if p.is_file()}
+          before = hashes()
+          subprocess.run(['python','scripts/review_xiang_gong.py'],check=True)
+          assert before == hashes(), 'Rebuild changed its own outputs'
+          PY
+      - name: Save only derived source views, year pages and review records
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add chronicle/chunqiu/sources/ chronicle/chunqiu/review/xiang-gong/ chronicle/chunqiu/years/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Render traceable Xiang Gong source views and coverage audit'
+            git push origin HEAD:work/chunqiu-xianggong-review-20260930
+          fi
