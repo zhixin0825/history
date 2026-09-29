@@ -3,12 +3,13 @@
 from __future__ import annotations
 import json
 import re
-from pathlib import Path
 from review_xiang_gong import BASE, REVIEW, MAP, cn, put
 
 
 def main():
     routes = {}
+    patch_path = REVIEW/'corrections.json'
+    corrections = json.loads(patch_path.read_text(encoding='utf-8')) if patch_path.exists() else {}
     for p in sorted((REVIEW/'batches').glob('*.json')):
         data = json.loads(p.read_text(encoding='utf-8'))
         for key, route in data.items():
@@ -17,6 +18,14 @@ def main():
             y = int(key)
             if not 1 <= y <= 31:
                 raise ValueError(f'Outside Xiang scope: {y}')
+            correction = corrections.get(key,{})
+            route['entries'].extend(correction.get('append_entries',[]))
+            for n, entry in correction.get('replace_entries',{}).items():
+                route['entries'][int(n)-1] = entry
+            for field in ('j','t','m'):
+                if field in correction:
+                    route[field] = correction[field]
+            route.setdefault('notes',{}).update(correction.get('notes',{}))
             entries = route['entries']
             bce = 573-y
             nav = f'[上一年：前{bce+1}](bce-{bce+1:04}.md) · [目录](../README.md)'
