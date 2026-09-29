@@ -2,9 +2,9 @@
   "base_source_commit": "3dce2172b7c6ebd9c2e1aa4045e46eccd031b7f4",
   "years": 31,
   "year_pages_found": 31,
-  "annual_entries": 253,
+  "annual_entries": 392,
   "source_hashes_verified": 31,
-  "routing_years_registered": 0,
+  "routing_years_registered": 28,
   "errors": [],
   "annual_status": [
     {
@@ -17,331 +17,5951 @@
         "t": 5,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "01578e7bd25fb1738c9e7cf8a6122df3de1eefa959db996deb258c8a9d8ad300"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1c16c049a53a25b02529a445083b25305a9a7290a6d5fc1e6d4db3059766aa6d"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "670249912ec4b45e90268eb136c414a8050d14df7efd4cd5cf1d33b116a53ed2"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2fad81771322d0568e059486bf2e6ac91197be73e552f44d357ea3d6c670eda8"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4d9369d92c3883da8ec15a7ee09203d610ac9a1081773b77068b401942744737"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cb34f688a71e4dcc80951ddf603b3c00a13c41a3cbe65f4e45be8741abdb9809"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cca73cf6643a62f7c2f7a5979eeb0ce29f6a689b0652d08ed5c20c81fd9e8569"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6661e4d0805761c582741b895547ad56d625cfbda44951550987a8343ae8dea7"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            2,
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0adfa0e9bf420730aebdeed06211a21c07c6f3ef8eacda7dddd39ec83977f3bc"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "08187a2d3b4ac6b4289d58e7f31562c6c572b6a08892a585ac768ae211d9c1d2"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "140c83ddad7d12fdf703edffcfeca6aa67d4abd60d7e314066fae79d480787d6"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7ffb8411ddb935134ebca56d514ee87bf5426d8aa9f953c8cba8f97ed3d17f66"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "47ac43308001513035d8151f89cdd515567bc64320df4e7fdb8e6318b04abc56"
+        }
+      ]
     },
     {
       "regnal_year": 2,
       "year_bce": 571,
-      "entries": 7,
+      "entries": 12,
       "original_file_sha256": "7ea38109423025d958468ce96188aa953867c0c37827c4aab07afc6780c6be75",
       "source_paragraphs": {
         "j": 10,
         "t": 9,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f549cd891bb753cc14175de9ccb85d76b399a319d130866c320cdbe7dc5189ec"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7385e0a675265480f5080a34da91f055a2ed57a0eb2cf0f42285aa61001121bb"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "acfd6058af33b17969a58c9c72f1b9df1c5f5c09ad654177b6ec4fa62de54582"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1c00bf6cbf356b989e9dc3873bce2b9368afe62d3dbba326da16113bd6da98e3"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8cc1ffa3cff817ad2bfb9437a81ba687aa612bed88409012ed2d0b6b98eb391a"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0b0928660d2b9f3da28aad5c21f7264f7a4339ca40a8fb3b72b7b0c49e013c6a"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "71fa5eb06e7e581a33d1b6c786f8a7361012f31a0b403dbb90498a2cb8ef7eeb"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d471fc7efff3d6b130a65af99747eb46420a1e70b36198509b130ce58e9b9337"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1841277848011570d34bb855c05b1f865673cd267a6e69e9910174a07fe66edf"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9c04d41777edc93a8b6f2e3ebd98db4635feaafd30787e5c16547c4164ef145d"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fecded0396bacb599f4ec4d1c1008d79e2cb3789d2ccbe283da73592c6938571"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8ceb58dc23c3693746ab008a74c555bea90532dac09c98acf37f1ab419f903e7"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            4,
+            8,
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b622555c602e9631e4d171abb5d6269eb2b570e04bebb60b4a77efe519a7262f"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b549577d2e5a0cb5f16362c63a81cdb25efa5d5ac2a647cd5a093672cea1d2d9"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5,
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0649962e0ffb5cdb63741ed1e167d9ac5435c43547c729cd48c418f7783d4836"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ab5dda68df23f9341ae737e31b7ce07257b32ab84d85ff5f0a8e5044ecf2425b"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3e427383f4ccc5dfae04e3ac26ac5d85ff7e19f5e079b975a8c350f67c646743"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c56d95c9c0a87a9e3a6eb45f45bf903321bcbb79e04b301d15e08662d6dfae09"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2979e3a3c8e288e6c22f888b119e70f7020f43953aa298aa9457df8b0b678ad3"
+        }
+      ]
     },
     {
       "regnal_year": 3,
       "year_bce": 570,
-      "entries": 8,
+      "entries": 12,
       "original_file_sha256": "86aea24f4d67d3f5debf3bd7835970a1c80df57fb6b28c43d8143f604f558a27",
       "source_paragraphs": {
         "j": 10,
         "t": 14,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c7235e4afe755dc12189276aa82ef718f0efe60007ac1cfeddbf1d25dffe62b5"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d3fd3739a7984a3c451ae1a456af8c0fb6a1740939af64adc08668ccbe09768c"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ae0f0f6019b62f0daf18ce837d138292e47d0f0ddeb6d40813826b1f29aa1ee4"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "14abd088e6b49ec044d78799ebb24a5c858fec497282a66b7b52bfefc2be2b0f"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "759388177d4f7442394fcfe7293e3d4b91c8f91001a750374e2a16c7b5da25bf"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "945fa5b94275b4c19c47b6c5c7b4690ffb05ff87fbda39c560e41a80dfa49db4"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e764411a3c25c6e879e13905d1be0f123b1a06402e3d7da8437f4cd3d69db99d"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "da3c69c2cd4c6e93d4ba6a162284bc389010ac5f139896532a85a95d0d689136"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4013b6bbf3eaedd94852af6d2f7023745ec9ed1e676815e63a4efb65860d9789"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "21a30e1a778347fca70e0926948768768d37767674120c247e98930acd164d78"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1,
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a46a281e123aa134b2ad8c19dfb4bd996610a409a99cb11310041837f50cfd23"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e29ac44d64f6c7e72dbd0b10263722976a73b1bd54ebe42cb4308a9b8b0e0ea7"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "06f093276b488e4b63c9e56c5a20e1fffea1acd057fb26941803c94c303bd9f2"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9d94b06c38714aac68cc1eba8344d914ad314fd44c29e701c45b1cefcadb85bb"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "530a128cddb115741f5aa0e8c40ac5007bcef70d7480e0cd0d98eb56e917df9c"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "117bf8c813513ae238d67bde8050c826ac0b31bf8bd1b15f102746a085d74cd7"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "aca40cc3cb7499e796e2637f92979b50ee563fbecec0bb0767e4a17b7921f7d4"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "015b0901395023c3401bdb63b067eca1727045109a13661d80a439e722936196"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c7b46a88ea1cc59cff01a1234e8c57338cae34e323d90d85dcf68af146154c99"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            9,
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "484eec56f4ab101a761cbee13bdbea95d663ca925d3f919af897dd39482282b9"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "249ce3ed42474b96b9afa3b2a935bbc73c963539a38789c449b011929ccb7da7"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "63942774f863f4769ef420ced56d1db84cf37973c5aac742dfe2f3832fae56f4"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "414a7068c5523f91dd508360d279ad1045ffd037ccb34a57fe16772a84c056ee"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b24b8abe800f1d27d0cc1010a0751fd1e2a8dc75c4e962bc0100756c254ae04e"
+        }
+      ]
     },
     {
       "regnal_year": 4,
       "year_bce": 569,
-      "entries": 8,
+      "entries": 12,
       "original_file_sha256": "a6d45635004e53d5a27abecdf7a88f687d7b5af8682018d6c7e08f5c5156061d",
       "source_paragraphs": {
         "j": 7,
         "t": 11,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a8cf105546ad974c0ce46327ce278f77c2d22287b4ce031e41ca16227c4416c3"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b1aecf59cceb01da025e545310da07fe5ca26df80e1b58da64aa1b63c1a0eae9"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dfac9f74a46420bfdc9c9eb55e758950e789c51000eee6ebf28e71bdc5b87f0c"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8c2fb893a038bd202ca75ba36d2aa3ce2cbcf3ff681f83dac813ee1ffa0eec37"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e950e6dbf332c46a14d39bc1aa46aab46e12c760f6e3b8ed299f012411df8612"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "81b504df4ac367f234c5f42324001f2edf7b9157eacacbe9eebdab9c9800f255"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "447bdf790121ae5135f5cb8e4cbea41d3759622ca1183e4c5117394240d7597b"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2f29c9e64486d096c1798049186e6d96ddc6190d7e028f66d9ac84e06c546765"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "088fab275f2a3fef2c06e557b15300f25348d09097519f8e1c208168a9dc187e"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "14b852ed827a9052e4f0fc997be44f5c1ab18fe44355dcbbd422aca091daa75e"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d90b9004953ee1009751641eaec2e846fc00e2e2cffd458fe0394bf2c94de176"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "46f1b7fbbab144711de3d794908750695fab9e503f366f6afd591cb37e184232"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a144b51531fcd408c12638805902c2256b2f9cdb2d63d41c4587d436f567d2f3"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b5b6106accd7df853adf074beb571302a789bac10908ea72df55da5410de5fc0"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "117bf1e7663f7fdbf57393ee8c812b4e817ffd82202022c7696f868fd9a59690"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f17751c94d50b52d8b80bdfda69cd89f07c857261be8d9fada7aee0dd39fce0c"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            10,
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "15f6c26c4362c9209948eb313e93221401aeaa91da8a386aabe519bf5410f4b1"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "18d5df2f47832a3a4605ee83ebcacdda6f0730b0ee904c5c9208b130048b9dc2"
+        }
+      ]
     },
     {
       "regnal_year": 5,
       "year_bce": 568,
-      "entries": 9,
+      "entries": 11,
       "original_file_sha256": "e1dad0b4dc799c4830c8feb13d2ded6db6ca1c7fcdf4dc1daefee29f7c60e43d",
       "source_paragraphs": {
         "j": 13,
         "t": 11,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "91213d32089609ae198a1a5ad5c1c0895fbaf7da726a78c8cf93a11d07193423"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "37d9a744881c0b71a524694f230a3a0813a289c91f8aebff527e441dec5f59b7"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3e33a16f1e7100d158de7c754c882cdf2414f290123167dea664482492484c6a"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6a42d14baccc027af01fc13ac373703709733e836c39be5bffe3568a10ac7559"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dea26591c54ce86d3f164c94dc88c68408684fdf8c2b64fd1b806ede4c4545c1"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2599a4ffec4acc26153a98fa4fd15d12b443244b45523e5c06fcaa160cf6b684"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e950fa69d9cce8e184251e7a1c136196e1be4918eed5a8bc30f826e313f418d7"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40b7d8b9662e37b735ddda96f618d2f8937437be79c0873e2059863a64b4f300"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "143bd12cc7c78ba60d7ca572464718d86075e878a17b9389f42010af342c7edf"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2762f983664134e3db299a2415c753ef17ab28ff7ea705ceeae0fa41bf07ac27"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a42f0283bcbb0888f7da80ddd8e7c36b4a1c5ded7c6abae03dd6a5bbe6855a9a"
+        },
+        {
+          "paragraph": "j012",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4917dd09972133fafd13a8ef96d214d675b6c4be0f8a1ffac565cd14ac3a1281"
+        },
+        {
+          "paragraph": "j013",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f84f27e48502986570fdf1076ab0ea4bf054b6b50ed0dd962c75958413cf5a80"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "91213d32089609ae198a1a5ad5c1c0895fbaf7da726a78c8cf93a11d07193423"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "757f39df4c4685cd618f55d3678e9878f1f4673cea2962a454b740346ee282d8"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d005123e3da5d2ae46e14eb63b32140d3bde6c192e875fdc0b13b0af7e79fe8c"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d1ec89187d7b4d76f2118655cd8d74b3c63f01d1026f9a6d8bd98486c3f9b973"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "85cedc4eda691c52c6221478f8043a766a1b395f0f23d2e148a127a11103ba40"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f18cd0c322acfeb34e2a1abcd9ea98e17a52d7cf7a3354b5a0c5a99fec3dd0e0"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9850e7be14c1d26c928a023d49b99f0569667a10248d547846070b05ddea2baa"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "37034921021daed9b776fe0b15f04d345de610d1b6e385ded8ceae3cedd95704"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "87eda02d5fc1b68814ca203fc183de56ce7d5e6d2c4486e206fd28e72f18e853"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5ddf689f309cdc16a967046f851e6d08e9b4fcbffcb085ab8eda68d53783fbe0"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6de3d7a5aa6ed6a3a0020fa9d859d7e3be0f43177d80018f8b19cde178f809c8"
+        }
+      ]
     },
     {
       "regnal_year": 6,
       "year_bce": 567,
-      "entries": 6,
+      "entries": 10,
       "original_file_sha256": "2b227dbbaa64087d53c4de59a4856823f97f3a4e168dfcfed0b05947a6c0a716",
       "source_paragraphs": {
         "j": 8,
         "t": 8,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0f4212333e247fcc7b899e5a67895f43ad06814a07dbd7baedb185a9b587747a"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1f08135577f00ce9dbedc50880c0bcd48edc90fce46cda9d765804f67c6fb448"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dc4b294e4bc5014d16e0f6c5fe75e39a02f6ad1b33ab76ae3511d9cff8699b53"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e58985870bf55d424143a207c7e681437ef5f27a8b2ae77b66ce2d096c709ffd"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "74fc322f0fbadbdc34c4c6d89e69fa0df77765622408bef021da87060dbedd64"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5ba88c7d9b3f2ecb4c012966ef1c6955c206bbedf6585f1b3e006a0373c31cb6"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5324335663ab6197cec764c79ad62c8a7516a262f72e05cae15f3b0b763a9f47"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "341516dd533b442e3d7fa26908680a2555451d136169388b06ad93b73ad1d553"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c13365c6e76d2b346f9afe020b0208e5d8661f4ca72c0fd7f9d13c4c91bca303"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "13ba94c902edabc7e0d97b450088f8cc893c1122ef6477a9e177e61296df7f77"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            2,
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b28e34c388f1d23477f40784c759dadd31d88ccc1b043efd4e3d41b9c6ae07b6"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1b67101a2d6e2698798a5d84a17ddd40a8e1725a5561bf29cef49fac98089d29"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e5b258529fd4be1794f2ef0bdc93dfcf73799d30ab544e17d3f0b397f4c5ae5b"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fd25c3950d6217ae38b3399c9e747f4d01d45b6aabdaa87ab7f4cec9b8171c1f"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b19683a21c25e12a0358c458d38a96b78f27f75dd4afff05e8fdaedb607da99e"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9,
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "59e1b82cdd9fce78dd1480fbef69d11b18c7c506fc3bff2dfca69c743804cbae"
+        }
+      ]
     },
     {
       "regnal_year": 7,
       "year_bce": 566,
-      "entries": 8,
+      "entries": 11,
       "original_file_sha256": "650beafb92bc556f26110ae66b9f7adb5ca64b1f6e23855fe83e83633a35dc03",
       "source_paragraphs": {
         "j": 13,
         "t": 10,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4b9663607f96366da8de9c3cd20e16ef298e3326a0f3fbfbeeb3c5b35ffd16bb"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3d3bf77f5fa75be3cdb590ca39592679911a161bb798ac3a8493207a4b8452e3"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "264560854a6dabd145e0704751b809a7010ed06a3ed9317888b4e6da1a6907b0"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "99c8c827808812f300150da4a4aeeb416df14e34bbfac6766be4b3980384b5e4"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "afb03da61207e778c7a67e396d9d3c5eaaac06999fc96985f9cae4911baa19a1"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "95c5397528d04dd963b3b7966ebec984c61894010fe498ccb6d920eddec7548e"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ec98bda51f1fd99e45c678501b55c7195e08860b681d4d1b97174860571adc68"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "97d5215d68f87a84f97024051ce5773dc12854ef8f61a6d83a1f38c346fdf5a4"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2c9cad2953f826018b1b2b75a1bacaa8929e397d1d400f6e174d37f11e0cc56a"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ef556ff66329ed6ea8663df6dcbbbd995c5f93ae946c97a6a1d09844dd7bbfc8"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0ccb83fc4a4ab9e8ef5d4382117dbd56c94f45acaabd0aa4c7d48982325b8e65"
+        },
+        {
+          "paragraph": "j012",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bd62540e6ebe59bbc30be795b9a065c678def0bba28bdb20f1aa72bf232d7588"
+        },
+        {
+          "paragraph": "j013",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "19bb8d1fb9b893141a09c86daa266ea9a404076fa281ea413b3ade23551d5ac9"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8b5f4c99a8d88907997c15601aa5838639081591366e81815472e657ca6fc881"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ca33093f94666d3c0c899a71a0ccd5470254591f4fb03ec14c48596bad02869f"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5e8f79bfec39c46505fa77bc9b941fe193937f7d5227ad4a2702c3af5139116a"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9af9695a4b2d4118208dd25b23b5675e2f01ee80a34365f74c4f063b5aaa3de2"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "aa596afd8867f1fb83c6bf2e574cf3b4e8bc74a5c423443d71a27d513546c047"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dd19afc293f53bf40f3725eb61683ddb1a83471fc77de9fb0491466a5bf8ff5a"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a6e04886de1aab231f84bd0fddb263069d2e4dec6ebac200bc0513230634c5bc"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a2dcee4f1146ca23c8ee421ffb5dd612594a72dbc92cdc5c2362af9ec7170fb7"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "113a3d9b6f933b37a4b6fbde7ec27f192732ebbc9b951095fd395d3d1278efda"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "43891784913fd95cae71d18aa9dc74abb3fa04019af074bb521e2dd8a35158b7"
+        }
+      ]
     },
     {
       "regnal_year": 8,
       "year_bce": 565,
-      "entries": 8,
+      "entries": 11,
       "original_file_sha256": "e2ea995fee55b072c3e95b1772e6201d539d15ab0931a5d4d1cf65a984d2cbf2",
       "source_paragraphs": {
         "j": 9,
         "t": 10,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0d09c0b068f98f56cd935c5102c15ad742e6c735ad562143ebac6cc7dc9ebef7"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fab26e26477e9688a87f3feb3c2cd29f7bde4a76868f273a5f52d86169af35d2"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "907f0a1654f6e629c19d474f94dfa630ee783de2bafdffebd531013839e4d501"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "00bdcc367dc9591ba4137445971a26058c89b912c6e87bf6b053803b527f00e4"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "14abd088e6b49ec044d78799ebb24a5c858fec497282a66b7b52bfefc2be2b0f"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c781c7848ed2d068a63acb99bb3f85bbd7e70633a927b486ddf6efdf83752466"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "58feee763767474f9e522f0cf74197d02184958ffcd7275ac3767e1a192ea941"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8,
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cbe35f0595fd5bd15984c8e8f432fc99bd73bb31044e53a740f7108bba423dc7"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "96ea9a6ffd6ea06e410028abf441f9001ca9f0b0a49271a198d0ccb3d7022f10"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7e0e9737dba46c29cc41187e1a755bce70ba47a1555a610f5c819d76b44d762a"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f2950449e1d8335da17a1a91c310cb0cd998256f9bbe736b8ab4e8309d97b269"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7e5db2859e42d8c4910c02d8502a51aa73493fb10377f73d6e0190a3c80ebe98"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7ef2ee07897d0b09e5d7e6757061074160335665668172f57935037ffbd1e661"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "936cacfaa29310057572789800a6bcbf11070216da8416b6f565d7f5930a7cba"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "63e59f1a8c2ccec95616112c86e46ce91bf428efe4f732e273b485e7d31c9447"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f81ddbf6db8755e3d7d57ccc712c2ef79e3c9805200c633bef3f066f18b5cdda"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8,
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "14c9460091431c3a3e9fb5089585c699645a2a040a18620262507bc67a570147"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a301af9bd7c57b8d99f42d0083917c37c2c5de26d21e6c4cb4f918f151d56e02"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b8905a7c89868ff4b1f14d941cb8e3b489f0b1d022ee4ee318fd0edb41682995"
+        }
+      ]
     },
     {
       "regnal_year": 9,
       "year_bce": 564,
-      "entries": 9,
+      "entries": 12,
       "original_file_sha256": "2fb3bd549010cf2bf9ae989e52bccd52d605f1dea0ac6cffeb9e3669867a21ba",
       "source_paragraphs": {
         "j": 7,
         "t": 12,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7063c6f23d9f5cdbb147c326b35c2fe09a7a5231e923e8f8f368de222239f623"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6f0391371ad21edd63abbe383337fbd9c11713217769818cb10e9b8866ceae2f"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b9ddae2188498636ce692da48375b17688e72e4aecc4640a552cfcf5b429a055"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f4d43838e3497945b24277d9eb60fa5f0a5b8df6298af32a16fcc435cb648b6f"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1d94a828245f9a89c554b73a43a5154048a12df63280b04e7a03f314cb18c1f9"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1064e27ec7c8d23724872a2122cf92f42085b3f9741011bace436e96a46d1210"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bdd63f7b525abe5a6e12d65ee388250aa4591bdcd77d06cfeacd734e44ebed78"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "984632897d9c14a95c95d483df121f0526960e542c15014eefcbeb0d58cef5c1"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b0b3aa21371e5fa57f315c37804cdffa118e1621dbf6a32f88f85734e1daf605"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9c30a82bbaf269603d7ee4e38c816f2d4a31e50186b4f461683ffe74b60822b3"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2a72db5ea776751b2310a2db2fbf53dd460094a39422b8731d5b144d0d153a01"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "369baef27e450192c0247036474a1412658575d18466c0b679454580c7978fb8"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "596f9b491c12ec4d910d356b9754d3dbfbbb96bc989058add80f2f03094c26c3"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cce8778ccde74eafb0a982b802173623448584dc9391cab488d0271063892635"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "171677a5f60c83944bfbb26f2020c2a26db511937c0dfbcb514fe780f4ddcdfa"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a8072ef57e52e330f4f1217e90d4ee601d0902d17e6219cbb3a1ea9198ffa594"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "36a5407c909f7edfe435e256d8e7a611d6c37ea8cc06e1cb637e9919f67476a6"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b0fb7ecf6b65bbbf3f8472906813288671e8a62871e8f3cc88ac388d2e59765c"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ced23525f9e83696c4c42257dee1a2b336f725df7a6354f3b28dda7eb451ce6a"
+        }
+      ]
     },
     {
       "regnal_year": 10,
       "year_bce": 563,
-      "entries": 10,
+      "entries": 18,
       "original_file_sha256": "04c3396f388f40cc384457cbb8e17d9272b0ab737f58ed17c11e3d0b1fca016f",
       "source_paragraphs": {
         "j": 10,
         "t": 20,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7691d1d001c8397c30308c3d9362490e9b6dbebbeebcdf6579bd2a042dab0f9c"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b2cabb235a8b7a7b126d9953fa4163f410c08a106ab29b3955f6663a55925a6e"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40b7d8b9662e37b735ddda96f618d2f8937437be79c0873e2059863a64b4f300"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6672629c0622f30bdab42a01f446b6d8cc04b5289087cedcdd8a9d91e96e7a79"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2ef05a464adf963d5b5cd0302d12baeacacd81e95b9cf221bf0a94d5efa04196"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "638aced833557b5315d956660c429f3915635cbd1ed4eb97aacef37c8157c4fe"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "165e9b97aee66fdeab437ae675972a7b94bb13da95c6bed7932572a4b60173af"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5506698dc1b98aac9f62cb812bd9827d1bd6beb684b590f625f78a85aaa1a901"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f601062ccef090ba1ea462f48030d8720c2a799988630d157b32e3ef82d2ebe1"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7bc42354189dba836d1815e270c20cb039217b60b15a7bf6db194926e43ea6d5"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "02a2cddedb89b04d6d62b9711be16341c7a69aba58a7acd8d1753ac719090334"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "edcdd2a2a26d240ed14b05a407de1aa713a36a93a99053212af5838edd347e21"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5a54fab0b9b32a9374ad5d95a58d78b943eee9585c015d116ed9a0c3a0a5377c"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5ef57d0ccd8127cdad9988c460ae8e614190ae549ebdc89690cfccb847d164a4"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "27dad26133a814a94a12209b5a0ea372665299792c42243b81292a7fd08dadf3"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "55c7c8d62817ce844c091a14530059d20549fef2a83d35b0c27ac0200a226756"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bc6fa59a957e6e349ce75e5095179f27b0387bc093e9a06c25b801b756eaae9a"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "70c8c1acb876eb611637d49d6ae1d472177b2558979dba8a752101c01dbcce90"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3c71e281375b23e2b98df8e92e1fd0f6185ee24c6dc1ead5da1cac4cd4a75b75"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c79b22c40fd75c0bbd022d6d0e4f09b96243fd6a82435d9d985208cb45441eae"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8518a761bbb804d416a6795ee869f9b4a7c1c32fb1db24c33391b2398928d498"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d974dc346c7a5f3661d5aa3d3725406f9eed50d8d8e996b542303e6d97e00999"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8f6442a04525ae4955d6ccd0ed12ac769e26698dfd6cf760b59f274c42aa5dca"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ff46a4805d83f4500261d37d192bf2e6ab55f241d9751c1c36ab3b818950a4b3"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1364fdd1f85071cb3c791c956cd0c91b9eadc3e86f39c057a91a5f0f618a1229"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ec5a24d2bd0fd10c13d6283888e7bd5a29f3864b3a29945cd87ec9075abaf4c5"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2fdaddd8345128ce7b67021150592e0f1e9a00aea4f4e5d0195a65edd92894a8"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d798a6451fc595fca38a7653aa5000e00dc89027891ff92a2dd6c2d5c0b7feec"
+        },
+        {
+          "paragraph": "t019",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b732c0c6d549116a0346fd087632296117150df6cae12fdd92215adafa3f9e3a"
+        },
+        {
+          "paragraph": "t020",
+          "entries": [
+            18
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "061149ca4e3a2501bc332beb13c2230582088dd3c3fde4f15277733c35093342"
+        }
+      ]
     },
     {
       "regnal_year": 11,
       "year_bce": 562,
-      "entries": 8,
+      "entries": 11,
       "original_file_sha256": "181aad0ea88f1e85bd5d0ca4f5de59c639ace9a6f70e2528d237e71ca7c41f78",
       "source_paragraphs": {
         "j": 12,
         "t": 10,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6a43c888431cc664ff069056acb9e1a2712446c8135ce74f5ca395b162b472a1"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "65dae4e2397375b0a9b5abd522480a8cd0ee57da0a32a05d05306e9727f17f81"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7f9c7956171958867e0a6a26b676c5d97a5d7d4d6c610cba5a1db6c01ff10157"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b2e80c4bedae9940ba00dd26d8df759cfa85dc83d7b0104bff388c073ba07861"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a3b6c9661f8a10a6f840b5895d6ff07c2972a3ed426bed137f8969efe7dbd018"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fbd58be69ba8e27805d56792f611716b2d8889d7435d9ed3dd8f0b73c374236f"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e29acb7bb7e40f7ace8363dd46716d789ecede770ddd0cbd8a279839e2e0930d"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b2e80c4bedae9940ba00dd26d8df759cfa85dc83d7b0104bff388c073ba07861"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "75557a74aefe36eece0b1ad1b9061c9179823085847ac44ed7fc02bb88dd8a4a"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40b7d8b9662e37b735ddda96f618d2f8937437be79c0873e2059863a64b4f300"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f3b63eaee2fbca2e204c140643599662bb6633fc20e218b9a7417d7181d494be"
+        },
+        {
+          "paragraph": "j012",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fa398e4c9c2bb080401aff61306e7c34d6fdacdaa4fd7b2397dfde95da48b9b0"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5b30f82c6c3265f61f7a13c0588e51d07f108574923027c2777cd9ad7cc0b5dc"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "61863a5e5c617d7350465b1ad594edd58aa782a2f0242e4be86994331697021a"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9006b959ecce75c78e0e2a264bf2075fa82eaaeb8ed0ce9f4f4757c561b5e499"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a19ddb9ab0eb29d1088d6c7485bf1287a166f08507a69e5672c18a2398ab351a"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f555b2be576780325376c99de96b6cad4562e8af682afb09c7bf298a863f8b64"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7aa139449cfaf214636de7a4d4d64aabfc9e06aca874eb6c7230c3ff1cf9069b"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7,
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b9acee07606480c81b991c654a759abf794b7f15faba607d71afb6ce193d0c22"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6e747a52cc555b4be65fa0ce4001e41098d2975500e65e961e2784534a984f5f"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4a9fd019e76c1f9f0387c03e9aaee9ca22d46c5c9ba7e3613aeab1b28409a1b6"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5fb52c0521faf0406f9f47e2dc0dff9b679dc9892bee4d3ff398eb0da34f92e1"
+        }
+      ]
     },
     {
       "regnal_year": 12,
       "year_bce": 561,
-      "entries": 6,
+      "entries": 7,
       "original_file_sha256": "2acb8da4568a94cdd81419dd786aa3e9040663364cbee8ad488da65ed5b92096",
       "source_paragraphs": {
         "j": 6,
         "t": 7,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "911fc93fea5926fc715f359dd0a97ab6c022e3f9bb35801379e896fcbf0e8b5d"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5fa5d597deb6d2444b69ae46de8ea64036432dfd43dd4d272e69d98539056b79"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "73abc7d2b9165560c6e11cb699958c02aec8e34cf86bb2bc2e86b40fdd4b7008"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "000badb2d4bc286130b84d53e5d466968a5c9263c92f6b98bc261451ff427510"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "982bcb8bdbeced2c4a0162734dc36e68dfdc4ff35895a3cf6513872550e52c51"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d3fd3739a7984a3c451ae1a456af8c0fb6a1740939af64adc08668ccbe09768c"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "662530d4839a25a301aa0d37b723ae797bd2331c7040da21477a7110cbf67082"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d66d3c7cb27b2c6e7025a717804853e3f2f8c38a3d3bb1fa0d942701c372898e"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "afe00bafc058f7dc565432e806918c05939ec57afe713fc36b86d1715b91d299"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a1d262ae05a336e2c7ad547d4f7e0fdf21a28867def0506b38da6e2f47ffb80a"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0b092796e57905b8fdf93205b9b73528c1da38bcdca2ee0e971c8f14d24426d9"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ce3612252f5b3c0f71b2fbf2e017191f1d0acf97122dfb652be90d02a084a6dc"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6e8fb24521398c50a3e232cf02ed100a9b535826eb9f6bc72d035f610bb2fc1c"
+        }
+      ]
     },
     {
       "regnal_year": 13,
       "year_bce": 560,
-      "entries": 7,
+      "entries": 8,
       "original_file_sha256": "d18bbb506861b70407df63bf44913f05b268b86fe5aa9fcea43c3797a3983788",
       "source_paragraphs": {
         "j": 4,
         "t": 8,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1a584c97fe8932562d0e693d5567864c839a0da2ed7ceab5efc7a171fc71e9e9"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8d44ea2e05d8172bc6fb2386996ff8f45a71ff6a719a0b21e73ec1404eb9a53a"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a99c8e2574ee7d5135b133421fb77cba145db97b9f09bf42841e66829b1dbf79"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c963d71eef6eaa3bfefe1dfc247a64dedfae1f0b5161d4fa777910c71ff2e26f"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "10e2c155214dcba257701a440b0fb1ae818c35b89870bc5635ddf299c3dcf400"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cb901dea714c54a569ee20baeba44df94ef66eaa0b58dd0e545d6c3a25ecadc9"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "eb69214d904f6d46629e2ebda9f97da57a9af9410e396ca365232f01c8408db8"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "23dd31152cf8daa30849f97b7dbc05f0ce43e5e2b42d318f903c2d3b569158c2"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2356df605ddd08c30eb8a2faba4d19799314bf9c7a68836c6d8f0ccca54ed9a6"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "da57227676f9aab8781cce0724661f83ceff97639f66668d53e0d555fa35df70"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f91fbb737c13234247597c4e794ee54d01007c19695c3c81f46d26d831c6432f"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "68bf35f5c7748829ca72b700a3bcdde1b0ad65c51ad478a4cb92098495106a67"
+        }
+      ]
     },
     {
       "regnal_year": 14,
       "year_bce": 559,
-      "entries": 8,
+      "entries": 20,
       "original_file_sha256": "0ddd5e208f0826f112a8ca694bc7963a8cf8b2a34e9ce24b0cb86c1c87dceb19",
       "source_paragraphs": {
         "j": 7,
         "t": 20,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1,
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b6a94813709b65f73609730d02b640bf3053bead52a597be7a877389588da463"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f32d60a0504301884501e630e5848d009f5d3abb2f2c7dbf96e04741d81e8551"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            5,
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "27098bd6570f476dd3b77a2cdc995ce12feee8e71735efcfcc3fe56d4cd205ea"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a7fa6a1ae7e757374b7a56ed49d89c3a012fcf1bf7d9ac5e4b642c9cefc8030b"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            20
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "45c09ec19fafcd73400175b10e1f5bc54333fa3bf6e33db5d8da050c70d74bf6"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "47f02f118c16ff25ca23f741d197d92d913274f26375506c4169be9936cff925"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4d9a5500c1e64a9be10d70b1abf4945d3927844edc42af7ad0c5a23316efa65e"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1,
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d6289e5518bb06f8e62e5d9c996903a5344454c03c7bd2a7e6e7ebdbc3f0a6ea"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "890874afffc4f0a382b160310567213e5a75820ebb169c532c8769b372bf6905"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            5,
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6d7e585fe417c12031008a0ba392327bce89c918a75feecdba9acbb266e61702"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "43bf3db789ab129adb0dcecfae4f3d57e384f7b574cc086fd8237b8f5094e5b6"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4ce975faf32c7ed1e608485d64de34d1a8fecd1ce532e244724e422344c65070"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8b0be8fc62fe1373612f3bf1c026b161da974795386e67dafd6cc86c578c1657"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3e9f6c08eb447a9c8520dac4bfc801aa2ecbe21b572c1b0b37c77905fb341b41"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "71b8675eeb630d0123921a18b4bee6331b6f213037ee8122d7da8a5c217c051e"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e0f9812df30546cf0812b4f0aa64a4e773c6932a4be638d5d70e902b5653362d"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2674bc9a98eb33a2859dc3716550407fb4df6aaf13c018dcaf2d7e65b96b79fe"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7ce5d3667d3e83b7ee9e6896a70ec574b4939310d8c8197ad2e44f58efe5aa1d"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d4d8f27a670b869300973e4a331f6751eeea6619874da7258161497b964af690"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4a3bdf1e8f385b464f6668e38f43b4f89e245ed42e58316a3d49416dd5346807"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a78bce05ccc9d4af2672bbb222bfd2a8da173f20596d9599170e6f45a6b3dd4f"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fb39c832698e94359edde8c734b500fc67f607f346a58faf35c15828288d17db"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "86933c9f7be19c9c2c9d60472f6257948364ba3f697032682a26686deb358a8a"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5e1058750b229866672dfa66c6be1cbdadd714eaff0d244f55a8c05370085f63"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "17df6f83eb577507b5429eb8de515036f4bb8b89e01afc2066bfe29d23b6a3d8"
+        },
+        {
+          "paragraph": "t019",
+          "entries": [
+            18
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "17fd271e0d477ecdd33bdad2e776b62c254fba22dadd0c624fe920e4cfb70349"
+        },
+        {
+          "paragraph": "t020",
+          "entries": [
+            19
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3a707863520fa6b5127347ac60c03ca7e34edf0b4afbee4bc49c0b54f94d26f1"
+        }
+      ]
     },
     {
       "regnal_year": 15,
       "year_bce": 558,
-      "entries": 6,
+      "entries": 11,
       "original_file_sha256": "41fc9e68cd7bf586d969bfab94e37b77a92f5d43e68a509b955a43da643d8df9",
       "source_paragraphs": {
         "j": 9,
         "t": 10,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9c28d7263826b6a6f0021af14f14f9ea6a359cf9a639ecfb878f3762f1fc915e"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7d6a454908b1a364c2119f6d87a158428fdfb248379948cf39d00bfffa482fe3"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "50ec1dfb504fb34db20804dbbbb1548cb984bb4dbf2ea5214ae9d638296f8a6e"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d37125e7ce9554de77b5696dafc3a884174f37f50d88af715e73791054220077"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e38176040d5662d7ab7fd3e22d118d78f1a836fadea35d00404c4efbb47cc6a5"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7b13089c40ac8a78a06ef2218a03808adac4373c4be095e2dd305a2de802f2c8"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "23e45895d5fba1e6516045346d4508306eec0572a2bcecccf480bd2e76fc3332"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0ed35c3aa1f7f4c8373b09e6e794fc922bb8036aeaf40208b0c939dd75ddb12a"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6f93a1f9ae766529a548a88796227d9023877f0c4d06f88f68ff9934197c8b29"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "96e7bfa919a380ec4f8ee426e86add8f6662438097b90890650073017dbef039"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e382b2763d23563a41a1ec8a8b799d5e87f30988cfec8baaef6cb0682130e1c5"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e4ba4e294c1df490722c5ed3e14ebb9d17b0f2b4daea6be4532070fd273ff55d"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "92e94ed5bdc5abd346ed36c336411f42433c94ccaf24e21091cfbbaa275673db"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bc260a83632855d298acbf1ea1f82af4b038a4f33b2213daa69c684f39d1e046"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d6d1d3e1a0b9fd4a39731ffdda4cceb68cf69c9b2f9965fd92af37f2c0aae883"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            8,
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cdf120a6322e616275e29cc10498355aa127ddbe12c7cb6b62420f9dd35b83e3"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f278f8025a1d5f4832be7d718968f703df072706bec959bdaffc8b109b8e57ff"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "afa064652fc6b28a8526b55afc08a045c9bada73445d605b51d745a00dbea991"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d0c8116bfc06cd7ed60bbac0713a4ea2f26c12775d1b48d44c56f082b79f5ce0"
+        }
+      ]
     },
     {
       "regnal_year": 16,
       "year_bce": 557,
-      "entries": 8,
+      "entries": 10,
       "original_file_sha256": "75296e8d53af92b2c8bec36d0041ee08bb7e901de06eb8349285372e4f59e8d9",
       "source_paragraphs": {
         "j": 11,
         "t": 6,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7bdc8f962286908eb9c1f1cd0fcc1ee8c3570424a65fef00157c9e84e609d1c6"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1bfdcba509475e36e0ca2c7273ae5183089f8b3c73512422bfac0aaa3a020ca7"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dbf19ff17ae278653d717ae065991e6f76659305efe6677844c79f81a7af7edb"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "45d493f006c79501845b031c0b27e6401f3a067b22485df003fb58e715e19f7e"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c19fd80774ecc39450c0033245ad79058883ee15b4b1691041d807691e0836b5"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "af981d27b1f7c503c55d8bbe527b7886782c97ee1d38309bf66233fd9e87f541"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "351a9eaa85177b779f3f02fbb50e1fdde268d3c5bd740f658691184287a5a1af"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "84086f24bb78ed0518f40b4c8cb10b54a686537b159c7fef9d7adb3b9376263c"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "26f1cd16fce1bea263bff608767169c7c2f9642f1765fb16bb10cd310e84e030"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "220cca564a3ef69c5c53196ca32910f9412445e03ad1fa5ca99155ccf2a02897"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ed94ce66a51fcecf2596d2f416a2268f8964e2dd65a5ddd59ce145b77710b92b"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1,
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cf141d5b75b02631fbd337d053ad0de6cc1f5df209eaea8381ee49ee29e763f3"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a06fbeb8585610ff8844650aaabaab13b050900e328f3b58022e7cc79f051fcc"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3555659812a09a85cb457aefd3b14a8588e7472bdb4aa341befd963556ea46a2"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            6,
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3f14e393ea1ae19e6c2e2a7e52a4a5ae24fa65866724f2a1365dded3275b1d34"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "de7de6ec19a4851d4cafb78e68f002bfad5a79c351badc2df1eca77e4993cb05"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "00e00e55fe151fe13900c6917409f40f87fa6e339df781e8e4fd8453f5c2df26"
+        }
+      ]
     },
     {
       "regnal_year": 17,
       "year_bce": 556,
-      "entries": 8,
+      "entries": 11,
       "original_file_sha256": "b342fa2aca0c7861f1c21da0427febc524782f065f3555d29feac1cd7ec39594",
       "source_paragraphs": {
         "j": 8,
         "t": 9,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7a14505459c9ce5ad760e49dabdb694642799b4c60ac5a91192e46d628340c16"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d29486ddf354abdc1fb6717799633ad86e381c9aa7230103b87951c737545487"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f0077a41c3f94ee78405fd95a51ed4b9793a7088e4fbbd8d08c61374f0362007"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fbeab18ef5f2ec0c2bc951fbec0a782f554c495a7f1982b9c3181ded3684024c"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5b98a30b617f9f090eb6c7d3ef3eb863b1f9884e3bf63d765c8a975320a54d38"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8cd4753b2c554ff7ebc8a9368aa8c3e9a8d564431396b485611fd3e2dca7ebc4"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b1f007e4ef0ee272eba73a22423b63d0d937f29aa8ee1305dbbd1ea7e012e67d"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f92130c40763eb4d9a70e97747b71b34b434495815dc2c180e53b5748f416081"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fa351054ae8c513c94f6791a8f84d660657c1a3a8609ae28dfa2cf2b42a5fec8"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "121519323d30c70163d6f4cba42cf3db483b0b9d8da7b12ff00c3dcbdb1fde3e"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e6bd2d66556cc57facb1e2aae1c24ae0255b463dcc28d4c56d9419e13a4a1daa"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "581b3eb42cf2dfab5721eb34e1d2ab1461f64274e64c1e244a344b0ae974f3ba"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a4eb27901556462ddce3d06950542450a014e34a9137359655f3608af1525101"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "33c9387420d1714933a033c2059c402eb3840b73a2cd1f3ca621c5cdfd3dead9"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c3b40feed465f3230ae29544b766b984fd8ba5605e471a2f151e4c06ba4e1c2e"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6071b88f373054df7a937049c66f8d8531cf7aed50caf7302513dbe17db05b6c"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bae8a2919444371de753011da4af6d3bc69d76b0c820aa3994ada2da5d0cbde4"
+        }
+      ]
     },
     {
       "regnal_year": 18,
       "year_bce": 555,
-      "entries": 7,
+      "entries": 10,
       "original_file_sha256": "436dcc3de56c1de334603e856b11eefb9b5936db42e786579b9ca3442dee10b4",
       "source_paragraphs": {
         "j": 6,
         "t": 11,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e05c8a61990cff201467d64d277d20d8a0563296225e984abe533606f3600c50"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a1194fc7c2792bcce7910c69299790ecf92111c46cdd0207a38b0fb86f762d8b"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d1ef1262b715f382fd183218c4db0578c128b1210d476a56f5018f67959130a2"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cc2ce23c403a4623a44f924a7860ce98031f8a88a541f4b86012b5673a974f02"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3a4850f3daff7b69d4731317fcb555aba030147f07c49de83d38016308cf9094"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0e1918e6d64f0a781e5db63ab07631046301e9ace500c0d0eea813704dc9838f"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "68f14dec045415cc64737fc757eb54a0361a93de945034f8a10fd2a65d3a0bf7"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "906bd236cc4fb67dde75c5ae2fb08f6225788fce046a5e98edde3b5faf889523"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c65be060ad8e6203b2bf2e7ae69165962821b502d8e9b2bba9caba1abcbc9fa9"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3732eb09e252c1b1d7fa092d5cf476cf7ea2c7be5a95a7a9bebeeaae7a4ef066"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "215b160c31385c3cc772213309deb24c68f117784ee7eb8627415b5daf22e3b3"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8b0e66b0b52d45bbbcf5bd7a46b561a7f40b7dbc1b4de0858a6bc60361fce28d"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "45c140c0619136aa941a3c34c93f2d73b9c9fc123a7bf214b816a19b8b759dbb"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "931bbefe93b44e02ed63ad754457da43b7a4b263e0dc3e0395170c2963385164"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "07aeb21067a46e7e32f301c68bac3b905212a3735edcbc258be11a51833893f0"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "69fb0445429a4aeff133f870dfce72b9dcde858c6b6822ac25769b8ac99a604c"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            10
+          ],
+          "route": "note",
+          "reason": "师旷、董叔对风声、天时的判断属于当时解释，叔向则强调君德。此段保留为同时代议论，不当作已证实的气象预测方法。",
+          "sha256": "2120859587ceee597df8d13d900653cabc24677285d49c365bfb190967e136ef"
+        }
+      ]
     },
     {
       "regnal_year": 19,
       "year_bce": 554,
-      "entries": 9,
+      "entries": 16,
       "original_file_sha256": "2e34961d469b150c8df22fdcb5a78bd36e5cd661e84cc57dc9e5e096ffee1a68",
       "source_paragraphs": {
         "j": 15,
         "t": 16,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "48b7ace4b676f4e5a61226a9521fe35590a53d4c4f34af3e979ecb12bf8a3a1b"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a61af1d5ad4c66f0402e0c3773915b5690347332c82d9f13df7421d6de738962"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4abb12840b911901c34ddafcd4b3d404db8ce43e2afac62fa5bfacaf6f7f2b40"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1ce434c518adeae8befc51ad7060f31b2ead28d1e047bc2b64e337b3b81665fd"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            3,
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fa64f4b561269c896b091797e2f67d813e80b08ac3672db6c6905b66938b9618"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "45e7a74972de02e89c38c8d192fea1fdd467089ce309d6eb1a7bc64e4e535e50"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ee1a282aeeac9df113d5e453a6f8264de838f8c9061478ef6f909ceb2a300e7c"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "249abb8788698d6c0547d487ef06fa56f9b9a7542499b2bbd4497fbed3152617"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3784596ac01a459d1091b5a052f804185948cab70e95d8108400e91d86f6a246"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "488c811c24b400a46305c689d856b23c26caed752376c7727b7617bdc29cf30d"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f9ecc0a29d71c21de025237f1bea4caad295d3445ccf78a25442c0ad8d5ac163"
+        },
+        {
+          "paragraph": "j012",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "10593d267fba1a7ab755f9ca7ab26be3f64c30decf70484a46f5cd4ca2421fe6"
+        },
+        {
+          "paragraph": "j013",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dfdb4c7c8476676b944fac5776d8f26ef518b05b95bf863e57f70240ffc35f36"
+        },
+        {
+          "paragraph": "j014",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "96f67d2400feba7f790ec74dcf85db04428f9b31af5300801c8f54e1eb69a78e"
+        },
+        {
+          "paragraph": "j015",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d2039a26fe6c094d22ba71562a3474797e2a2c5e9f11e8c5c456df5f9ee93639"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b1276f83e1c9d37cf4ecac6732c256ee80ae993bf22af21f8ce24b6209234313"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2,
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b4874987bb1d5106f33b3d9f163e24ddaa05d7678ee31d55edc461d41a91bf2a"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d3d79ed3e3f924b272009f67a9917702f1a385bf947c44be7e5335d388b6a5eb"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "09c0da9e01d1da170f373a93597e1d693e3ce541e273ff32ac55616ba0361d30"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b26c8d8591b03821d494fbf2dbe750d4963e061929cdbb183550ab6f82680786"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bb5663c9521a557104901f3b09f50f746199166115880b5a5151199be345d553"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c6491d2cc8dba3013a45d1645f18e200762008142d251b560f97fab95a0003a0"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ccc7b33ea981b55add4686fa30bb2e07627ebd29b95bbc30012e55e4370708ce"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f74826aef3184434ce34f69e8911e29fabcb7ee933280098af781ae94fa7f999"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "94244ed2aca4516ad335ad053ab1300e2569d52056c01c962c85b7ef6ca432c4"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e85959cbfa6b38b7bd5682326b07cbe46cee1c51fd95288ac84a2da7bc8e9589"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a4dee550eda18178ae0d8945de5426e282aa684c44dbd0b1fda7f3e23fd0a406"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2ab58e48592cdf6df493ca6070ab8fd51d01138874c25765ee4a5b7087a85ef8"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "79e797ad4fcae48e7e76d1959047e448ac003523051aa0010f729f91cc930a35"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7fe53f60b3992fa03bcbffb8eb65a09520eeb58b026e9b2c2c160b7b12e0c27c"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8ae81c9fc49b8477e7cd18b941b5bcb585c548009d7ae6f103ff32564634715b"
+        }
+      ]
     },
     {
       "regnal_year": 20,
       "year_bce": 553,
-      "entries": 8,
+      "entries": 9,
       "original_file_sha256": "ffc66d1b0a77f6defe203a69d40142636216dcda050dacca2eaa875f2fd9d16b",
       "source_paragraphs": {
         "j": 10,
         "t": 9,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "71b8365f0f0996245cad7e535e2051b9e3124007332716b055fac960cdfa98e1"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e7358a27a4e0896671b4ffc641bb03d419022506e91afdb8852fdc6be4a66f43"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4013b6bbf3eaedd94852af6d2f7023745ec9ed1e676815e63a4efb65860d9789"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cb96457ecce2fef2c44d9b2175c2781851860a12ea836025ac3022509a7b01c5"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "90fca091f0d4da03940c86f906a0f24459283ab3d86806a8665958c6779c81d7"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "940aee488d143c078f9ea4c374c8cc8f0a26ee0d0caa3f9090f076d84e0f81ff"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1d3ff11f4eaa434bdfcb8da53e5ee5f35825a3dc29825676a3714a17d39251bb"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0b35e1d79f251f5f3af1e52d964da1b42ee2a20091d220107a050a481ff663fd"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "977eeb63345c9741d267f3ea8dcbd5e6eada374c9ce54c21ed5604d93fe04204"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f8e6ce7b59ed041e78c6c44ccf2bd5f6d1686b8c322477b1287860399ddb66e0"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "10cd466751acb7de260381261ffa572c01644be8ecec13d7ab0e1e4b1dff6d5a"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6e243463a48df40702140175d0a8be635d6fc940d522644b1c0d512c1f2fbcaf"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a676546a9a43b1faa7ca9a75de4088adfd9dc7f04b988955776b8d6ea61d9c42"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9835d502c235323f1952a925f980c852e210cfb46d2609bc2537ce194b241964"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b0ded4e22343c72a6f256c8c712ce7ca3934397e0135bcb976306acdfc004adc"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "da1c695e923eff779dda5dd708357bcd313964398e436532f28d96c7a2e7d171"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "28cf54b93160e0a91ad4bf3e437d54ef564cd6dee44576c2f6587af06163308f"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7787c8c85da4e2474f1f4ab70a766684e66618ea421fdfcb35dc9231ff762899"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b3d781c9e5d3ce28f70b7fd698fdab028e61cd00ba4642eff03f44686c5d926e"
+        }
+      ]
     },
     {
       "regnal_year": 21,
       "year_bce": 552,
-      "entries": 7,
+      "entries": 14,
       "original_file_sha256": "e5a93a650a211e62850381c949e4e24aaeb95c4325a7d55f3fbcebc014f028ea",
       "source_paragraphs": {
         "j": 7,
         "t": 15,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8425eefe9ed02492f02f29d2a1e5fa301c381da4e58456165e2fb56d2362510a"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ad0197f6538c1b26139a8c5cf10b5a76747c86a850910c78b10153590698a91e"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b9dfaa545a5a0ac77e579bdf6a37adf9b8ff9b06efd295976f142fc96c7698e4"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "eafa9dd7ca286fcba61a242faf355681bcdeee60acbfc08deb76eab4c81e6010"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c7a61de47f206b38113b7a40b283d8396bd460786a4daf88e6ae063bda44fdd4"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1fb3a35325f4c665d34ee61178f82bbe4539f8677498a9cad5fecf555c6fd1a5"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3d20ae25b25986623a74b02c3e0bfd4175c156820855989558fe018cdddc45b8"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f4541a8ebb9fe99ecf22c3a918337287a8a442d0b8cdc1fd208e6cedafe6d5a8"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3860b5799ca88dc1cb126f20a94d6dc5b6d4bde78efc32e3d010ddb0d919cc40"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c70df390b27961da1f8533e1214a8cb9f098800a070a5e00a21e1621941194ba"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            2
+          ],
+          "route": "note",
+          "reason": "传文解释庶其虽不是卿，也因携土地来奔而被记录；属于记事规则，不另造其官职。",
+          "sha256": "76c3a84d9992b63be9178dc0e10448722f0475c19ad97476f4218fcea01f91e1"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c287a7fdbea6168506c5cbeaa5de79a963254531b922d34a982010a4af582c3b"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "529a6c3e7aa591eb1f64fcf2929c4765dc20f80e1f06f543680348d32e657861"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "47cea0d2b51186f360331bd29aef6e4a19703f8788158f40b85c0699dd4f4b66"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4c8ec2be69b375010f483621bd03edff9e8412ad6413ffa8bc2bccbb1ad4d47c"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "00fb178449cd8c7531b393fbd39d5f3dcd29ac5cc2cb6192e018f1dd0775df5a"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            7
+          ],
+          "route": "note",
+          "reason": "羊舌虎的出生及其母所受的预言是叔向家族的前事。原段保留，不能把出生、娶妾都记作本年发生。",
+          "sha256": "5e8ea1f89728ba2cc4eab33c0c08fe8853ca97f07c1e0c8b1768ac6d1edd6dfd"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5e370adb11af1704689c7a0b49141a4a700c9ce32274cde673c2c02148a9c529"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1bc3e0210527f2bbfea7fa2048591d9c421080e5261d8116c41bad763a8edb8e"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "460978a6f336f70da602daa791dcb55a6ffc1c74d0c1a073121a4f35833dcaf9"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b6008ff2827bb480e2e3eef5cde8ee0821510cd2f4dbd1b4a53a1da105f10a31"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ffd15c82d6b6676d1884455a3031bd497c3bab315174e2a3422f5c8710e57059"
+        }
+      ]
     },
     {
       "regnal_year": 22,
       "year_bce": 551,
-      "entries": 7,
+      "entries": 10,
       "original_file_sha256": "2341af3379eb269aaa00797942fb00757b410181aa0e77e40549a6c0a4ed3e12",
       "source_paragraphs": {
         "j": 6,
         "t": 8,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "44d1923876cf95bb72ae238dc264acf0f3e853b85d011e0a379121e7e333edc7"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "note",
+          "reason": "经文‘夏四月’仅是时令标记，没有附具体事件；不据此补造事项，也不据它强定此段外交答辞的日期。",
+          "sha256": "1d97523d1321071ad0b282d7ac4c2329a1bc9e97d4dbc46892c6bb51fb7860fb"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c7c0c597707a96ecf9204b0acb77921bd9f4ccd07517764f3486d190bfe72582"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8a0331ac3a5b152d9844fa368c719632626de0475d17a1435ed515be6d80fdd6"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40b7d8b9662e37b735ddda96f618d2f8937437be79c0873e2059863a64b4f300"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4ed6e49d1b8bbd996b5cf640d471e598860754d93f996a5a5ba578f43695b224"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e582d15de25f56139933c96ba95d2ef7bed375f8bf9cb967b5c665c05d9cf0bf"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b4f2924c246e85eacb9868dd4eba47b607a11888e3fa77a03be27fe2cf9aa5b5"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8007b3b1013c423fae120c9ffef2a09edbf40efb976a1e28fb8be63655716be6"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c2fbc6c413c4b3c47748af19ead7aa12605d13de6e577c9426716e2b6394fa86"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "33161662a071be57f5aaf3caefd88e8c9fa234d03a4c39d8dd12dc524847bae1"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "04889219b5c4facece98245b6498072947d6d47831c7e387ec16b66cf4f698ed"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9bd08516638c99408613b45a429fd67b17a75fc2a91ab18b89f1931e8825789d"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4c34c0347e8be1c647036abfbfb801e138dc43757ec84e729896ae91f6060ca3"
+        }
+      ]
     },
     {
       "regnal_year": 23,
       "year_bce": 550,
-      "entries": 9,
+      "entries": 16,
       "original_file_sha256": "92f6116ef163e17db8e42839feb862aadda8f065cfef4832fcee2685e1c6ec7b",
       "source_paragraphs": {
         "j": 12,
         "t": 20,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f25a85e49b71bffacc611a601a443a4cbc6a293ddde14820c106ddb5920d23c7"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "360032995968dfcbc2419ac41665593d1f3d3667a8d38ca7e0af6edad41cce98"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "82e5fc97a86f1ceb76abd036e746d4e424fde2aa6fda5c978275e5002c1ceb84"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ae7c0d521ee1977f6bdea91a8e02699cf783d99b3fd0a87d8dec0345fe245243"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d424a5a8587f409ce10da07b47839560be7ae0ff4d8eab0fee256c38192dfbb8"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "398c027b0aab0fc6a98cf20e7d3e0bbabfcb5b64a26ce9018120ad753c0c4eb9"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            5,
+            6,
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a85f8446ba403603e38a9f300273c75de963d8a5bb45dec852930c89365fdd65"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8a5ca3936ea0cac63984611cda99791ec5f1695c24a9806b5b10e3d2d1a8df95"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fa3682b863dcdc16a4c9b810998a15a4693f47590e40b16d36c4c4cd6f685b56"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cd1d71383a7869631e29c8f1bc4e16e89f55791462a4391e6e4bd1db6a069e21"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1b8add6364f258d3859fb3f86bfd343ff1b58cc5d1d5808f7aa74fe468f71618"
+        },
+        {
+          "paragraph": "j012",
+          "entries": [
+            14,
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "22a819936b13e04a3a9ba113397367f85f483e8f0bbbf62513c685cd088a42b5"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ac8969992a491528b1f637a7f242b8bbcd4ae471995a506e2e975bb784d395dc"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "186b7cea276f5f54bcd5a1c059233bfe594f3291ade1d1a142c12e9b23e44cdb"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8506480488714a0777bacd1a4d7cfbf65630063bbb403c583ef8c6fcbd398878"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "73946e64c9a3d51d57812fda3937421202211e6b3f76048e24e66559e1a44932"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f2fd833b6131139022dcff3dc0dcd136046c36b23b74260e61f5f376f4d8b98a"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0db7a71f84c4a09f638a57c9b6e5e2115c4bb3e421b3731f770f5501be787f0e"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5f34afa58fe78cdce9f22f82d570b36bf2adebde7100894361566d5c553e20f6"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b857417d0a6a31445ec2ff9742bdeafb01a75586f6d8d9496aa88417824bcb3e"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            8
+          ],
+          "route": "note",
+          "reason": "本段列齐军各车队、御者和车右名单，作为行军编制附记保留，不把每个军职再造为单独事件。",
+          "sha256": "e5565b64a6e947d635b941305bc4b685079d2d38e3c6182dc02b9cf7c168bb2e"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "84d901632f50954f529e9119ce57f76f5d6ab3479b84aab9576eb02c411d878e"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            8,
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "00d24537f60919dec6846bcce4655d093af987b590a4eac14d31d260430a025a"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9f2683eb485981d4e6f97dca1990976cba2e7626033d4725776fc8dcf6854e76"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "fbdda57972ae202833c6085852b44164916b2a55e46725649c38a6419758c44a"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c40f4e511972ee37e15a094d988bc708ae15e66f7bb1c6f53f6b0ebe2cceb236"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c52c599ee2471ea60d8cd6044857f29d1d5182c7c9adfd120df2b31ed553747d"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "aaa5a49d74edc792aa71a2f1d3f16532054c539e8b061c0052b7294ecf7dde8d"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "32b3f2dbcb6136e9e671501c351f6110e6a9907cfe6db885d951a32a36ee7975"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5bf49d29a15b19590f2d12f62a3fa9d500981cdaa7aba486f593b2ef1d8d9f6c"
+        },
+        {
+          "paragraph": "t019",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2c8d1962bce584b08e9f185c22321580c5ef9063947a5a80758db113a8c8b913"
+        },
+        {
+          "paragraph": "t020",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5e02dcd9b877435865b583a3e6f3576cad689f504f30ab1d49fc4ed5fe2c4814"
+        }
+      ]
     },
     {
       "regnal_year": 24,
       "year_bce": 549,
-      "entries": 10,
+      "entries": 16,
       "original_file_sha256": "2f8f844dbe0c37669ec1f94f25aee648612c41a12669dd8621ee2bf55e61176b",
       "source_paragraphs": {
         "j": 13,
         "t": 14,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c9a0db40c836d11d2e2fad8cd417f465134e82ffe7348933350c043efd54cc66"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cb01614ac35d4376bb9441acefab1e663e0f736c944af627860737fd8c4ce14f"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2a1b3b95156c1c0f71b577da8661a1fa3bf2fe70f3fe96b77e0d0d9fd260fe99"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "602cebdae25be2bcbd60e26521b6ba0f6ed8f882fc5ed49bfdc789ec3413ec46"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8516e212867b2d9d54c0a706f096c118bc3ac11fcbb49e2c653af5f7cf1ffb6d"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "962092b7660cb6ebbf19e0395b6f4da21459af650e69a3340f6b87c338f0c8f4"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "45a521deaae5f4045e4a048f5528deff268106e4169cdbbd985d83c3d114458d"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f412293a32e6496a798af1e342561dddb4219a659147facb29907bf0b5954257"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0fc381bdfc1dbc0290d0e1bad29442a574798d4b9a55875a400b1bd624bcff21"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40b7d8b9662e37b735ddda96f618d2f8937437be79c0873e2059863a64b4f300"
+        },
+        {
+          "paragraph": "j011",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b92c29bc4a2ff1a9971384609aad1e6ff61a0c3a3d83edfc705d65486b7b081b"
+        },
+        {
+          "paragraph": "j012",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bb02d2e453cace4bd40184779f847f45cbe6df42120ef8576a53782c2e83038c"
+        },
+        {
+          "paragraph": "j013",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9b32bc89183848c8d3062075ea4867a8d13d8ee30ff4952658b85c034a5aab66"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ea80dc129c165d47cc35f39f1b6c49853b8187070174dcdac3907be80f095e2e"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "260ab280976a52837f38fe85611a3627381351a0b3eb537964876e3308f57694"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "06f0936cbc8d45992340f77ef9861bfe1ccfdd438699fc86b5d5d3d1b78d28f3"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6a0d68aaee13e7025af4c7760d6225e1d06f7c74c6b32de6770c2347b24ca903"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3cc3354a156133d59569389bafb652593853ef7fae4e653163906b20bf0e7337"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6774a5e69144bd9440090f38113b77efbc295cece1d9be33383b89e289075b4f"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "32f6bc5d536881ba907f891da49456afb2e8778d4307875f4b854bcb6a63811c"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9e11146b532cdfb57d583a3c71005a41b0be2deeb69c6711881a3e1d0770e6d2"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b54a2fd80b90cdbf490789cb02262d428e796c5b9dcf063728a088d9b80bbbf9"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "dd847bdb4b104f8609d11419096eb6d8076f11e6585dc47ff7222066341fee68"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "df4a26d5ea4f0642483b18bebdc3208847f5da3c7d2f69907f1adde7b7eedfcd"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1ec8f92ec4ce66f498f056e7b9f960367feab745cf4b475a183991288c589510"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f6f556a2039dbc432e766ed90815944295c49d5ad6be4a94776ad9a96178c108"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2cd11c7e339cb2bd8c0df1c0ae9b03a8ebe31225d49a5310e546070cea53ef09"
+        }
+      ]
     },
     {
       "regnal_year": 25,
       "year_bce": 548,
-      "entries": 10,
+      "entries": 20,
       "original_file_sha256": "64c3e66ba4017115839cf9925137c896e28bd5c2efeffbd655de55c2490a7e09",
       "source_paragraphs": {
         "j": 10,
         "t": 22,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c674b789fe194758a3f11a458990beff66727c9d8e48f89a0ae59c8c22514555"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c144bc7029fc2212bfb0f88d5dbf643863d03800ad03b288b983fa116714f431"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f412293a32e6496a798af1e342561dddb4219a659147facb29907bf0b5954257"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "79b5d77ff360a3d07c8ac43c9b6056f1199b27d516189888635f386190f63e8b"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e1b8c561e65f33623afc45d5d3d4fd004e4d676ddc8e1f1465bea09f336cecb0"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40b7d8b9662e37b735ddda96f618d2f8937437be79c0873e2059863a64b4f300"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3a4079fd9bb0aaa0a5ee82e5d4d0dabae655739c2975a12e5b23f2477e5e06d1"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "14aec1a8c112a0563fb0e3d03b751317a3cec5ae0fbfef9608defd03e2e625d6"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6873f3e29039f2b29fe170ac3518a579ed428dcc79d8464962e15eec77d37295"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            18
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2e70c20abd4306667b832e46758b031c074afb85faf48219fbcc1e0fe108b43b"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6eb6a91421f5802e03e165628a004de45bb21d8ed6b8de90a5def37f887ea17c"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "80c91efbf6380d8f4d1465f01f490cc1fa1e475b75e41255c5d4c7abe9cefb6d"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ca472154db8f1645c96e66c5ccc9bbff0260b99762f52f2214444c2ac577505f"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "63f84184a00c3e2fd0c0e21913a686b7490e19e310aac4dead69ace809ffd977"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5,
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c6e43e2229d6f8499ecebfaf8bcc19568fc6d97648f00d5963b00bd550366c72"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2b9e8cee9c64c5250d38676ba27d47b84712a53bddca2c46839e1bbc4271d0b5"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c98d215f74bc912bb0acb4a2e5b9bfba3eadd212833a8e83066fdedf3e01271f"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "eb3f499e0e20e55cb7288878d07167608cada5b15a3cb92ec6f8e853a07f9c29"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "65069cf92896f6ca4830b3e09e3f76283191928c4f944f08fa2175b5a1152b23"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c3225f452444bc52ea3e2f3695cdecb55cc055346bf96d0d12fc89dc4cf6c1d3"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "56d59b17b8a8a43aee560735ca7174f30752e5d54be30816e8e47890feae89e4"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "75185c777d3ab02324b9e4b4d1a5150ebf14f826a768ab1821ba8b24f55f08f8"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "23c6c23da149519a93f5ab56220334fa3c98edfda76e92540d31f3c051181fcf"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "745cf10ef43d390142a6b42ccf6cab46fb1ef36da5943c5e1bb05c4541657957"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ab6846c8b213cdf4d75e4775aebcf6b2c2ee5091513d2bf34a1aaf0ce7801e9d"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2afad800f81dda4ad779dca771ee4f383ed78c26540414b0f76cfdee5945d6a6"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4cc35abc545abf22a6ba6f1bb4b414fb465bb17c040d1466c793284379053aa5"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            18
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f5adf21b89607024ad54b9819355c128c34cdd12d9fb952e1f3d64698a50c958"
+        },
+        {
+          "paragraph": "t019",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1ad6508cd6ebf685207883169a30a2b052793279bffdf61863a287b8a415bf52"
+        },
+        {
+          "paragraph": "t020",
+          "entries": [
+            19
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d3b6cfbad299fbcf3df34ef8dd157ee08fd6c081c1d6b5faf1da85a68ee3fa82"
+        },
+        {
+          "paragraph": "t021",
+          "entries": [
+            20
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e6049329531a00a3e81fb2fcdc3a3a34eb38e4a407725c9d9d456140debb2d5b"
+        },
+        {
+          "paragraph": "t022",
+          "entries": [
+            9
+          ],
+          "route": "note",
+          "reason": "篇末以‘会于夷仪之岁’追记齐城郏及秦晋修好、互遣使者，存在回指哪一次夷仪会的归年问题。本轮将原段保留在注中，不擅定为本年另一次确年事件。",
+          "sha256": "fb5a576f111bccad6b53af80b1903dac6b0b11707f1b881d4fca054a8ac62e3c"
+        }
+      ]
     },
     {
       "regnal_year": 26,
       "year_bce": 547,
-      "entries": 7,
+      "entries": 21,
       "original_file_sha256": "f257b38e3b28457b441dba882f1cd92f92b8da8b7d3df3d65c103254dea4669a",
       "source_paragraphs": {
         "j": 10,
         "t": 26,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c8c197dd77d43edfee9a3207b8c77f25c4751025baf1d5c24881a042b0153916"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "17b50cc174e0404210823730ee8b8cc7ab88e7439f01adfa1d930556c1f42132"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "85213476e700524e2a6e7d851551e528e57aebd369416c2e80c68f0101ef33f5"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "abda17b88bf679812042d0c9e96c720fcc36a61f6a5d18220b9e2821b3a1aa7a"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a5bc2acdc9fbe3ef10b9feea56e30b560e4f6ba6e77161622c547f63d3e977e4"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b1bb615c59530d8705d861f88c27fe37e8a9bdaba2be83371e15f36e51f5e1ce"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "6aa3101d0dc85654a58ea981d4a51d843ac0121e8dbaee3c1d53f205689718eb"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "69d5bbac12c2f84b675c2d309222e06ce6f004d5d2bdeb4e10942267481eae08"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            18
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2c56d75a94b43c5ee0192172ab36f23b948645d554764a3ed2b4842c11a1d771"
+        },
+        {
+          "paragraph": "j010",
+          "entries": [
+            19
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "47b49bedf4928663ee6f6452a00707d908efaa9547d0cc8bbe18c4df65a761e9"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3d853177a3ffe3770b2a82d4ce5d814ba718f434d2839842fa3b9cbec4319d85"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4c659df2ae4492d69ef9cd3323b60f8f4baf06428c8177c4fe5471992c3f7e62"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3,
+            4,
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ad885118080790166a8473eda3d226a882b5fcfe86dd897c69bd72ba09c82d68"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "40e3e66592f8cc8c95c96116d93700fd78291e7bc03886672dd7f06d3b611838"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bca4054903f988049bfd625c3ac62ce497119d80c386567ee1d19f3776251baf"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cc108399ba1eeed70aac35e664bcc77c9a1c1a2ac2c8805ddd9660534443db51"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "27da07bb0ad60e79339d309769ae73a1868c6d3877a874e525e694deef2b6222"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d85127e7329196499adf4f62d94c4ed6958caec7a940f855f4fac87db037cd8a"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ec0b2f6dae49933181b046dd94598b1d9d2b028d69c5dc005cc4048ed1ac2dd3"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3426c42d04c82aa61cc1cf80a56d3a53fe99a9a780a06e8022cccfb0ea25fe64"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8718bb132f827cc8dec4c1733952b43b775de053e73a82cc9924da95b1d99def"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b653588800c151fd05760b36af02d3c05ecd32fb7a1aee545d3ebba51b668344"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c31a4ea6db22b7d109b442aa8f2679a8ef4510e834a0da6fe1ce49a86d97f590"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f45f745985d809799e6d0d741debd6c93e83a578c46f4759502741c5731a9823"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8912fef7a270549adb93637206b56e4fa15a73ab71cbbb32e42300ebc7aa2499"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1e303d5d9d57ecfcce1e3d39e63cd9179334ff622d8953837955a13c7a1887d3"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d242ef80ab7aaff0ebb15baa3789e1c7448b4d921abea28a2b0c3331c3afe444"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "457eba52ad90de26666f571aadf64cd552889af780dca5575ac6e0ceda0037b1"
+        },
+        {
+          "paragraph": "t019",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "88b6590a0b51279ec5446aac06b04d16028eeb6d52b677ec550a04353a780d3d"
+        },
+        {
+          "paragraph": "t020",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1491b9e342455dd0d43d1232327e77fc0525e3afc940fd13cc1c27d9b4359e3b"
+        },
+        {
+          "paragraph": "t021",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "aad0ce6f9e4a8cdf04799a62cf03e753706e300320b623c33869e002992c3d37"
+        },
+        {
+          "paragraph": "t022",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "254d3ee650545776e23d1aebad8e85042526a5fabe59d5a3594d53f79c90a97d"
+        },
+        {
+          "paragraph": "t023",
+          "entries": [
+            18,
+            19
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3ff3e32c187e0443d85f67156c5e969f31d15211663e8412a704b3eec7134c35"
+        },
+        {
+          "paragraph": "t024",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3ddb79eb5da39f2a0f205e683fef787100eb9d1946ab5dbfae12c72a0267a10d"
+        },
+        {
+          "paragraph": "t025",
+          "entries": [
+            20
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a6eebe17b7f346a84ca7e169e10fb4cecaee14f7a00ea526b8ddedceb1573007"
+        },
+        {
+          "paragraph": "t026",
+          "entries": [
+            21
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e084d652a870f17df6501d36fec5192e5a549b0107b6151005bb2cf9c40e957c"
+        }
+      ]
     },
     {
       "regnal_year": 27,
       "year_bce": 546,
-      "entries": 8,
+      "entries": 16,
       "original_file_sha256": "9716dd064b78d68f152952eba19dc734dda13f859fdf302d066f00684059a44e",
       "source_paragraphs": {
         "j": 6,
         "t": 18,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9ff82f6c1481c98f9551d8856c5dd927a895194cca6fd41c1b35ea717e68ead0"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1e9725ca494ba28660c765e67c8c9d892e65b3b71808252a7cc7e154b2049b1c"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "35d27e0126ce342e60583ab8c958b8aff74be650ef13388bf6fd418e5aa25929"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4fab6cc6f3f2c7067fe8cf9fab2725b42cfd8410dcfdb3681496dec4ac332c51"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0fe420fe1a0ed9f7021b73beaab6ee2ebcbb05eaea30b0ad5906a8024bd3bc2e"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0e565afda31c2376ee2e47adc1ff1dd1372db04f27b25f53b6845ca731192add"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "28c7f4911fecccd8b90e40e044039c2b96e2dd9a72c1edb3b9245b0404505ccc"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "165ed5dd6fa439a13c90146da7b02c84e2f9d895d6ffb3e3581210d1f10e1cd5"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7f3d0722484a878b087997bea3a72f9522f54dfe2465e322c9ec08d10e89d07d"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "476e615e1a419ae16f5e2ef43e553a5eec1311c8efa6885c17776b2669874206"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "533503db1be0e2fbe27d1a302226371edb492465bb093f4c599307ab21329437"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "67bd38ef10ebac62feae9b8b6b71b5b4b02ee3600b3a62d63d5951cb95408f8f"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2003d213f82e3a57b682c79d6f8c7f1fac35f41794e11ab4d7885ef04e547e4a"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "43770054694abe73a65a980f0f7d44f2f21245bb3411529b133ca6b5ef6f82b9"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7be50db048bdd98fad3f1807253a3c1eeaa307af2fca66f13c62bc56f23cf502"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "660e545673b0f8f1ecdf3580bcb6ad2e44cd9e3aef4a1c9d471be1759b5fba8b"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d0530d85b34d2b6e886ad840efd33ec39f270490fbf7984e7ff252af6a6a111d"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "1e8a8a8a4928cc478241c8f49ee726d66ae058e6da7b6049d231b58806827d26"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "97a0d9d024af97de8550fb8852a853facc8c9900ee79a4e8d1c6801cf418e871"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "c8e90047009cc5ddc7709d419b28661ed92f3eb1763deef7f02bdae2bb9a72e2"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "d04eccb5b866f6915eada8edf6e02bbe52c0b97d15a874faada178863f3b5d13"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "5400b41d3c813807801fba7325c38f27e27ea7ed00e2625b0c81633855e01248"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "b2cbc030621392a93dfcdd98624d818d665c9e7d6972fdcd956a859e634cacbf"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f2b41d79857e86e2125715db466c251bba4fa96ab313767421751337f472bd31"
+        }
+      ]
     },
     {
       "regnal_year": 28,
       "year_bce": 545,
-      "entries": 8,
+      "entries": 18,
       "original_file_sha256": "4b0b9f5a10dc9ff024cc7ef460fbbeeb99e76050c298cb3aef1edda435c3b2fc",
       "source_paragraphs": {
         "j": 9,
         "t": 20,
         "m": 0
       },
-      "routing_status": "not_yet_registered"
+      "routing_status": "registered",
+      "routing": [
+        {
+          "paragraph": "j001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "33c033df8c87eeba765788aa68d29ba9df22b350446d15363a0e23f09e4d8380"
+        },
+        {
+          "paragraph": "j002",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "97a6eafc67fb0320eb53ecb4a4a9518c4c57373ded8ddb22c3623df7659b0240"
+        },
+        {
+          "paragraph": "j003",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cb34f688a71e4dcc80951ddf603b3c00a13c41a3cbe65f4e45be8741abdb9809"
+        },
+        {
+          "paragraph": "j004",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f667526c9ddd1551fcae8bdf3d14b88c9955f1306e042e513da31eed30b6a66e"
+        },
+        {
+          "paragraph": "j005",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "485922daff6d59c65e4627dee730994076ca876a0c7de81b5ae8e9c258b6d707"
+        },
+        {
+          "paragraph": "j006",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "ae000e8169ff55765f81f3ce2a3b105590d3bd49a82d0ab314401415bda7a436"
+        },
+        {
+          "paragraph": "j007",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0ae5124bd66719ce75885cb1be8c565ba1f55e14a5b01421047cb6a87b3bdfc2"
+        },
+        {
+          "paragraph": "j008",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9ec5f9d0604383ced763498c12d3c761046bb7b495a4594c8260775ee1fad36f"
+        },
+        {
+          "paragraph": "j009",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "233afdb36a2c4039689c91c97f45c1456ffc5e4b5f858d7e0d1d85889e8aa69e"
+        },
+        {
+          "paragraph": "t001",
+          "entries": [
+            1
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "def75c5becf02d180889eb88dc2529eea4a648c55bf5ae29d1ea7509106571e2"
+        },
+        {
+          "paragraph": "t002",
+          "entries": [
+            2
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "2d7d4b442caac3033da97db315eac65de5ddb245e1099ecf08811a46c917f6a2"
+        },
+        {
+          "paragraph": "t003",
+          "entries": [
+            3
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "9eab5482cdcdce2b6c04db8937049bd05712592036d5d501ae496114fe8d0a30"
+        },
+        {
+          "paragraph": "t004",
+          "entries": [
+            4
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bc57f0923f8833bfad01aeac7eae8443bc702d67af7cd788b5736ac4b6b00203"
+        },
+        {
+          "paragraph": "t005",
+          "entries": [
+            5
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "f7e08ea49d249e0fa56d0d71fcb3c458af777a9d8cf9f22c8d55d8daf6de8764"
+        },
+        {
+          "paragraph": "t006",
+          "entries": [
+            6
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "cfba7479939c31c79183bb3c97d2894341e09f6ff811e766daf92ea520629520"
+        },
+        {
+          "paragraph": "t007",
+          "entries": [
+            7
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "bbb38a145538b6fcdc046d552ac478169633add96e373793f30ebcee9ab1e5f9"
+        },
+        {
+          "paragraph": "t008",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "3eec1771ea54390312e61330668bb0fa4d64a1d76a9ff4b65bbc4d7a8879752d"
+        },
+        {
+          "paragraph": "t009",
+          "entries": [
+            8
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "79d1560501a60efbdce7a11d3756e7285cf66523e2de19a9042d332f320dc9f3"
+        },
+        {
+          "paragraph": "t010",
+          "entries": [
+            9
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "e6586f427523f4a2e55a60808aefd9838e71f00aec422595c8ed394f08bad16b"
+        },
+        {
+          "paragraph": "t011",
+          "entries": [
+            10
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "53f904ad047cf9aa0747a2bfc25a4ebda397656872102407bf24bdc79e4fb8f8"
+        },
+        {
+          "paragraph": "t012",
+          "entries": [
+            11
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "0c7edaae8b491af687311629534e0b2dad87462f6f4a23636a876e846c57c1bd"
+        },
+        {
+          "paragraph": "t013",
+          "entries": [
+            12
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "849233f68fd8084d4130e4d6a478d41ea1b13833aea53fa696bc93f19ff33b9d"
+        },
+        {
+          "paragraph": "t014",
+          "entries": [
+            13
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4b28a74a48362db6b09a6be7104d4c2b25197104c9ac89ca4f0f5a22e1da3d98"
+        },
+        {
+          "paragraph": "t015",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "7851ffc56e17e67e8b906697e4417c411556f7d9c69053ecd86f4803bac9176d"
+        },
+        {
+          "paragraph": "t016",
+          "entries": [
+            14
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "70e82e10a529487cfb2775a654084c79d8686e1534242bca78f9ea305408649c"
+        },
+        {
+          "paragraph": "t017",
+          "entries": [
+            15
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "a9f8eb3c0d2b4a6a65037383e92ddd043e65d03f2fc87fa6262effddd63a3068"
+        },
+        {
+          "paragraph": "t018",
+          "entries": [
+            16
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "8966ed90c235db762c2fb331895b56d89fa4b9abd67fdcabc20801976dece40e"
+        },
+        {
+          "paragraph": "t019",
+          "entries": [
+            18
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "4cd270ba6b2c2614d9569992294fe73ef36770ae40d5c81aaf899b111e013be8"
+        },
+        {
+          "paragraph": "t020",
+          "entries": [
+            17
+          ],
+          "route": "narrative",
+          "reason": "",
+          "sha256": "30bba5f97198cb09cd97b3714809a64c67731bd943863713bd56d52e91f0cd5b"
+        }
+      ]
     },
     {
       "regnal_year": 29,
