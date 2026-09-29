@@ -1,0 +1,384 @@
+{
+  "base_source_commit": "3dce2172b7c6ebd9c2e1aa4045e46eccd031b7f4",
+  "years": 31,
+  "year_pages_found": 31,
+  "annual_entries": 253,
+  "source_hashes_verified": 31,
+  "routing_years_registered": 0,
+  "errors": [],
+  "annual_status": [
+    {
+      "regnal_year": 1,
+      "year_bce": 572,
+      "entries": 8,
+      "original_file_sha256": "ef062a331faf4a35bd872ac853f347f9fa8a05685c8913a6f3973bd6937edb82",
+      "source_paragraphs": {
+        "j": 8,
+        "t": 5,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 2,
+      "year_bce": 571,
+      "entries": 7,
+      "original_file_sha256": "7ea38109423025d958468ce96188aa953867c0c37827c4aab07afc6780c6be75",
+      "source_paragraphs": {
+        "j": 10,
+        "t": 9,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 3,
+      "year_bce": 570,
+      "entries": 8,
+      "original_file_sha256": "86aea24f4d67d3f5debf3bd7835970a1c80df57fb6b28c43d8143f604f558a27",
+      "source_paragraphs": {
+        "j": 10,
+        "t": 14,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 4,
+      "year_bce": 569,
+      "entries": 8,
+      "original_file_sha256": "a6d45635004e53d5a27abecdf7a88f687d7b5af8682018d6c7e08f5c5156061d",
+      "source_paragraphs": {
+        "j": 7,
+        "t": 11,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 5,
+      "year_bce": 568,
+      "entries": 9,
+      "original_file_sha256": "e1dad0b4dc799c4830c8feb13d2ded6db6ca1c7fcdf4dc1daefee29f7c60e43d",
+      "source_paragraphs": {
+        "j": 13,
+        "t": 11,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 6,
+      "year_bce": 567,
+      "entries": 6,
+      "original_file_sha256": "2b227dbbaa64087d53c4de59a4856823f97f3a4e168dfcfed0b05947a6c0a716",
+      "source_paragraphs": {
+        "j": 8,
+        "t": 8,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 7,
+      "year_bce": 566,
+      "entries": 8,
+      "original_file_sha256": "650beafb92bc556f26110ae66b9f7adb5ca64b1f6e23855fe83e83633a35dc03",
+      "source_paragraphs": {
+        "j": 13,
+        "t": 10,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 8,
+      "year_bce": 565,
+      "entries": 8,
+      "original_file_sha256": "e2ea995fee55b072c3e95b1772e6201d539d15ab0931a5d4d1cf65a984d2cbf2",
+      "source_paragraphs": {
+        "j": 9,
+        "t": 10,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 9,
+      "year_bce": 564,
+      "entries": 9,
+      "original_file_sha256": "2fb3bd549010cf2bf9ae989e52bccd52d605f1dea0ac6cffeb9e3669867a21ba",
+      "source_paragraphs": {
+        "j": 7,
+        "t": 12,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 10,
+      "year_bce": 563,
+      "entries": 10,
+      "original_file_sha256": "04c3396f388f40cc384457cbb8e17d9272b0ab737f58ed17c11e3d0b1fca016f",
+      "source_paragraphs": {
+        "j": 10,
+        "t": 20,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 11,
+      "year_bce": 562,
+      "entries": 8,
+      "original_file_sha256": "181aad0ea88f1e85bd5d0ca4f5de59c639ace9a6f70e2528d237e71ca7c41f78",
+      "source_paragraphs": {
+        "j": 12,
+        "t": 10,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 12,
+      "year_bce": 561,
+      "entries": 6,
+      "original_file_sha256": "2acb8da4568a94cdd81419dd786aa3e9040663364cbee8ad488da65ed5b92096",
+      "source_paragraphs": {
+        "j": 6,
+        "t": 7,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 13,
+      "year_bce": 560,
+      "entries": 7,
+      "original_file_sha256": "d18bbb506861b70407df63bf44913f05b268b86fe5aa9fcea43c3797a3983788",
+      "source_paragraphs": {
+        "j": 4,
+        "t": 8,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 14,
+      "year_bce": 559,
+      "entries": 8,
+      "original_file_sha256": "0ddd5e208f0826f112a8ca694bc7963a8cf8b2a34e9ce24b0cb86c1c87dceb19",
+      "source_paragraphs": {
+        "j": 7,
+        "t": 20,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 15,
+      "year_bce": 558,
+      "entries": 6,
+      "original_file_sha256": "41fc9e68cd7bf586d969bfab94e37b77a92f5d43e68a509b955a43da643d8df9",
+      "source_paragraphs": {
+        "j": 9,
+        "t": 10,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 16,
+      "year_bce": 557,
+      "entries": 8,
+      "original_file_sha256": "75296e8d53af92b2c8bec36d0041ee08bb7e901de06eb8349285372e4f59e8d9",
+      "source_paragraphs": {
+        "j": 11,
+        "t": 6,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 17,
+      "year_bce": 556,
+      "entries": 8,
+      "original_file_sha256": "b342fa2aca0c7861f1c21da0427febc524782f065f3555d29feac1cd7ec39594",
+      "source_paragraphs": {
+        "j": 8,
+        "t": 9,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 18,
+      "year_bce": 555,
+      "entries": 7,
+      "original_file_sha256": "436dcc3de56c1de334603e856b11eefb9b5936db42e786579b9ca3442dee10b4",
+      "source_paragraphs": {
+        "j": 6,
+        "t": 11,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 19,
+      "year_bce": 554,
+      "entries": 9,
+      "original_file_sha256": "2e34961d469b150c8df22fdcb5a78bd36e5cd661e84cc57dc9e5e096ffee1a68",
+      "source_paragraphs": {
+        "j": 15,
+        "t": 16,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 20,
+      "year_bce": 553,
+      "entries": 8,
+      "original_file_sha256": "ffc66d1b0a77f6defe203a69d40142636216dcda050dacca2eaa875f2fd9d16b",
+      "source_paragraphs": {
+        "j": 10,
+        "t": 9,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 21,
+      "year_bce": 552,
+      "entries": 7,
+      "original_file_sha256": "e5a93a650a211e62850381c949e4e24aaeb95c4325a7d55f3fbcebc014f028ea",
+      "source_paragraphs": {
+        "j": 7,
+        "t": 15,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 22,
+      "year_bce": 551,
+      "entries": 7,
+      "original_file_sha256": "2341af3379eb269aaa00797942fb00757b410181aa0e77e40549a6c0a4ed3e12",
+      "source_paragraphs": {
+        "j": 6,
+        "t": 8,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 23,
+      "year_bce": 550,
+      "entries": 9,
+      "original_file_sha256": "92f6116ef163e17db8e42839feb862aadda8f065cfef4832fcee2685e1c6ec7b",
+      "source_paragraphs": {
+        "j": 12,
+        "t": 20,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 24,
+      "year_bce": 549,
+      "entries": 10,
+      "original_file_sha256": "2f8f844dbe0c37669ec1f94f25aee648612c41a12669dd8621ee2bf55e61176b",
+      "source_paragraphs": {
+        "j": 13,
+        "t": 14,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 25,
+      "year_bce": 548,
+      "entries": 10,
+      "original_file_sha256": "64c3e66ba4017115839cf9925137c896e28bd5c2efeffbd655de55c2490a7e09",
+      "source_paragraphs": {
+        "j": 10,
+        "t": 22,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 26,
+      "year_bce": 547,
+      "entries": 7,
+      "original_file_sha256": "f257b38e3b28457b441dba882f1cd92f92b8da8b7d3df3d65c103254dea4669a",
+      "source_paragraphs": {
+        "j": 10,
+        "t": 26,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 27,
+      "year_bce": 546,
+      "entries": 8,
+      "original_file_sha256": "9716dd064b78d68f152952eba19dc734dda13f859fdf302d066f00684059a44e",
+      "source_paragraphs": {
+        "j": 6,
+        "t": 18,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 28,
+      "year_bce": 545,
+      "entries": 8,
+      "original_file_sha256": "4b0b9f5a10dc9ff024cc7ef460fbbeeb99e76050c298cb3aef1edda435c3b2fc",
+      "source_paragraphs": {
+        "j": 9,
+        "t": 20,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 29,
+      "year_bce": 544,
+      "entries": 10,
+      "original_file_sha256": "4efbb703e265390c165fc773053880bd325e02794ea772241bff96596981db71",
+      "source_paragraphs": {
+        "j": 11,
+        "t": 23,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 30,
+      "year_bce": 543,
+      "entries": 10,
+      "original_file_sha256": "73174861d5691d041070bed85cc84b91143c9586e875939785e1166c72b7bf40",
+      "source_paragraphs": {
+        "j": 12,
+        "t": 21,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    },
+    {
+      "regnal_year": 31,
+      "year_bce": 542,
+      "entries": 11,
+      "original_file_sha256": "d838d9f12d6ac62d4f5b1a93f7380baf73060c1ccdd7525017fb61e99a979ddb",
+      "source_paragraphs": {
+        "j": 7,
+        "t": 18,
+        "m": 0
+      },
+      "routing_status": "not_yet_registered"
+    }
+  ],
+  "limits": "Routing verifies that source paragraphs have an editorial destination. It is not a proof of exhaustive clause extraction, translation correctness, or independent historical corroboration. Shiji integration is not included."
+}
