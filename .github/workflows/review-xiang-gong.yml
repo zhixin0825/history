@@ -5,8 +5,8 @@ on:
     paths:
       - .github/workflows/review-xiang-gong.yml
       - scripts/review_xiang_gong.py
-      - chronicle/chunqiu/review/xiang-gong/routing.json
-      - chronicle/chunqiu/years/bce-05*.md
+      - scripts/apply_xiang_batch.py
+      - chronicle/chunqiu/review/xiang-gong/batches/*.json
 permissions:
   contents: write
 concurrency:
@@ -24,9 +24,10 @@ jobs:
             scripts
             chronicle/chunqiu
             working-texts/zuozhuan-punctuated-years
-      - name: Validate code and original source hashes
+      - name: Validate code, render authored prose and check original source hashes
         run: |
-          python -m py_compile scripts/review_xiang_gong.py
+          python -m py_compile scripts/review_xiang_gong.py scripts/apply_xiang_batch.py
+          python scripts/apply_xiang_batch.py
           python scripts/review_xiang_gong.py
           git diff --exit-code -- working-texts/zuozhuan-punctuated-years/
       - name: Check deterministic rebuild
@@ -37,15 +38,16 @@ jobs:
           def hashes():
               return {str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in Path('chronicle/chunqiu').rglob('*') if p.is_file()}
           before = hashes()
+          subprocess.run(['python','scripts/apply_xiang_batch.py'],check=True)
           subprocess.run(['python','scripts/review_xiang_gong.py'],check=True)
           assert before == hashes(), 'Rebuild changed its own outputs'
           PY
-      - name: Save only derived source views, year pages and review records
+      - name: Save only derived source views, year pages, index and review records
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add chronicle/chunqiu/sources/ chronicle/chunqiu/review/xiang-gong/ chronicle/chunqiu/years/
+          git add chronicle/chunqiu/sources/ chronicle/chunqiu/review/xiang-gong/ chronicle/chunqiu/years/ chronicle/chunqiu/README.md
           if ! git diff --cached --quiet; then
-            git commit -m 'Render traceable Xiang Gong source views and coverage audit'
+            git commit -m 'Publish reviewed Xiang Gong prose with verified source routing'
             git push origin HEAD:work/chunqiu-xianggong-review-20260930
           fi
