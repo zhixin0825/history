@@ -1,0 +1,42 @@
+name: Render Zhaogong 21-32 once
+on:
+  push:
+    branches:
+      - work/chunqiu-zhaogong-21-32-20260930
+    paths:
+      - .github/workflows/render-zhaogong-21-32-once.yml
+      - scripts/build_zhaogong_21_32.py
+      - chronicle/chunqiu/zhaogong/data/events-21-26.psv
+      - chronicle/chunqiu/zhaogong/data/events-27-32.psv
+      - chronicle/chunqiu/zhaogong/data/shiji-excerpts-21-32.json
+permissions:
+  contents: write
+concurrency:
+  group: render-zhaogong-21-32-once
+  cancel-in-progress: false
+jobs:
+  render:
+    if: github.ref == 'refs/heads/work/chunqiu-zhaogong-21-32-20260930'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out this work branch
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 1
+      - name: Render and verify all source destinations
+        run: |
+          python3 -m py_compile scripts/build_zhaogong_21_32.py
+          python3 scripts/build_zhaogong_21_32.py
+          python3 scripts/build_zhaogong_21_32.py --check
+      - name: Commit validated pages to the work branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add chronicle/chunqiu scripts/build_zhaogong_01_10.py
+          if git diff --cached --quiet; then
+            echo 'Generated files already match.'
+          else
+            git commit -m 'Render and validate Zhaogong years 21-32'
+            git push origin HEAD:work/chunqiu-zhaogong-21-32-20260930
+          fi
