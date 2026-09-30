@@ -305,7 +305,7 @@ def main() -> None:
              'next_year_boundary_quotes': supplemental,
              'modern_scholarly_collation_complete': False, 'all_shiji_chapters_reviewed': False,
              'xianggong_review_completed_by_this_batch': False,
-             'limitations': '205 unique source paragraphs include backstory, predictions and commentary, not 215 independent events. Coverage is not a claim of literal full translation or scholarly consensus.',
+             'limitations': '205 unique source paragraphs include backstory, predictions and commentary, not independent events. Coverage is not a claim of literal full translation or scholarly consensus.',
              'correction_to_prior_batch': '昭公十一年齐归身份：母亲，而非昭公夫人；古籍原文不改。',
              'input_sha256': {name: hashlib.sha256((DATA/name).read_bytes()).hexdigest() for name in (*INPUTS, 'shiji-excerpts-21-32.json')},
              'years': yearly}
