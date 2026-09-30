@@ -29,6 +29,18 @@ jobs:
             /chronicle/chunqiu/
             /working-texts/zuozhuan-punctuated-years/
             /scripts/
+      - name: Correct the manually summed aggregate; retain individual source checks
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/build_zhaogong_21_32.py')
+          s = p.read_text(encoding='utf-8')
+          # Individual verified counts are 90 jing + 115 zhuan = 205, not 215.
+          s = s.replace('215 unique source paragraphs', '205 unique source paragraphs')
+          s = s.replace("== 215, 'Unexpected source total'", "== 205, 'Unexpected source total'")
+          s = s.replace('215段经传全部有去向', '205段经传全部有去向')
+          p.write_text(s, encoding='utf-8')
+          PY
       - name: Render and verify all source destinations
         run: |
           python3 -m py_compile scripts/build_zhaogong_21_32.py
@@ -38,7 +50,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add chronicle/chunqiu scripts/build_zhaogong_01_10.py
+          git add chronicle/chunqiu scripts/build_zhaogong_01_10.py scripts/build_zhaogong_21_32.py
           if git diff --cached --quiet; then
             echo 'Generated files already match.'
           else
