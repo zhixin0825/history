@@ -29,6 +29,28 @@ jobs:
             scripts
             chronicle/chunqiu
             working-texts/zuozhuan-punctuated-years/years
+      - name: Apply initial manually reviewed copy edits to input files
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          base = Path('chronicle/chunqiu/zhaogong/data')
+          p = base / 'events-06-10.psv'
+          s = p.read_text(encoding='utf-8')
+          old = '||宋寺人柳有宠|'
+          new = '|宋华合比出奔卫。|宋寺人柳有宠|'
+          assert s.count(old) + s.count(new) == 1
+          s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
+          p = base / 'events-01-05.psv'
+          s = p.read_text(encoding='utf-8')
+          old = '晋军分列数阵诱敌，趁敌人尚未完成列阵时发动攻击，取得胜利。'
+          new = '晋军分列数阵诱敌，双方随即接战，晋军击败了对方。'
+          assert s.count(old) + s.count(new) == 1
+          s = s.replace(old, new)
+          s = s.replace('这是一项婚聘与交往记载，不应只因篇幅短，就从年度叙事里删去。', '')
+          s = s.replace('正文最后一句说明本批收录范围，不由晏婴的赞语推演郑齐已结成新的军事同盟。', '不由晏婴的赞语推演郑齐已结成新的军事同盟。')
+          p.write_text(s, encoding='utf-8')
+          PY
       - name: Render manually edited narratives and check all source destinations
         run: |
           python3 -m py_compile scripts/build_zhaogong_01_10.py
@@ -37,7 +59,7 @@ jobs:
       - name: Commit generated reader pages and audit on the same working branch
         run: |
           git add chronicle/chunqiu/years/bce-0541.md chronicle/chunqiu/years/bce-0540.md chronicle/chunqiu/years/bce-0539.md chronicle/chunqiu/years/bce-0538.md chronicle/chunqiu/years/bce-0537.md chronicle/chunqiu/years/bce-0536.md chronicle/chunqiu/years/bce-0535.md chronicle/chunqiu/years/bce-0534.md chronicle/chunqiu/years/bce-0533.md chronicle/chunqiu/years/bce-0532.md
-          git add chronicle/chunqiu/README.md chronicle/chunqiu/zhaogong/README.md chronicle/chunqiu/zhaogong/SHIJI-CROSSWALK.md chronicle/chunqiu/zhaogong/data/audit-01-10.json chronicle/chunqiu/zhaogong/data/paragraph-map-01-10.jsonl
+          git add chronicle/chunqiu/README.md chronicle/chunqiu/zhaogong/README.md chronicle/chunqiu/zhaogong/SHIJI-CROSSWALK.md chronicle/chunqiu/zhaogong/data/audit-01-10.json chronicle/chunqiu/zhaogong/data/paragraph-map-01-10.jsonl chronicle/chunqiu/zhaogong/data/events-01-05.psv chronicle/chunqiu/zhaogong/data/events-06-10.psv
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
