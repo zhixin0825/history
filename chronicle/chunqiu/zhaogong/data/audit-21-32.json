@@ -145,8 +145,8 @@
   "limitations": "205 unique source paragraphs include backstory, predictions and commentary, not independent events. Coverage is not a claim of literal full translation or scholarly consensus.",
   "correction_to_prior_batch": "昭公十一年齐归身份：母亲，而非昭公夫人；古籍原文不改。",
   "input_sha256": {
-    "events-21-26.psv": "7e94108ba16c3d2f6ca5c712c5c93721ba7da2a8a5d09d584ac9bcbb51f611a3",
-    "events-27-32.psv": "17252c1f7d1708b066cc2ca021d5b394e0551ad67a83b1d28073b19af434252e",
+    "events-21-26.psv": "ea479910d1ea7fca99c4b227af7621aeb05581f12c4812e1ffe222df3c5c444d",
+    "events-27-32.psv": "bb8868c4058fdb1d3bd27b45206bf5d9ff8457b0bc4691c4f42a9b7a1ef37889",
     "shiji-excerpts-21-32.json": "35520e531a2d0621b8e0ae574aa9e4c33e556d5d75f47cda47b51a0a42905940"
   },
   "years": [
