@@ -86,7 +86,7 @@ def parse_source(year: int) -> tuple[str, str, list[dict]]:
 
 def read_events() -> dict[int, list[dict]]:
     result: dict[int, list[dict]] = {year: [] for year in range(1, 11)}
-    for file in sorted((BATCH / 'data').glob('events-*.psv')):
+    for file in (BATCH / 'data' / n for n in ('events-01-05.psv', 'events-06-10.psv')):
         for lineno, line in enumerate(file.read_text(encoding='utf-8').splitlines(), 1):
             if not line.strip() or line.startswith('#'):
                 continue
@@ -116,6 +116,12 @@ def select(paragraphs: list[dict], kind: str, selector: str) -> tuple[int, str]:
 
 
 def write(path: Path, text: str) -> None:
+    # Preserve cumulative metadata when later batches exist.
+    if (BATCH / 'data/audit-11-20.json').exists():
+        if path in (BATCH / 'README.md', BATCH / 'SHIJI-CROSSWALK.md', ROOT / 'chronicle/chunqiu/README.md'):
+            return
+        if path == OUT / 'bce-0532.md' and (OUT / 'bce-0531.md').exists():
+            text = text.replace('下一年：前531（昭公十一年，尚未编写）', '[下一年：前531](bce-0531.md)')
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text.rstrip() + '\n', encoding='utf-8')
 

@@ -305,11 +305,11 @@ def main() -> None:
              'next_year_boundary_quotes': supplemental,
              'modern_scholarly_collation_complete': False, 'all_shiji_chapters_reviewed': False,
              'xianggong_review_completed_by_this_batch': False,
-             'limitations': '215 unique source paragraphs include backstory, predictions and commentary, not 215 independent events. Coverage is not a claim of literal full translation or scholarly consensus.',
+             'limitations': '205 unique source paragraphs include backstory, predictions and commentary, not 215 independent events. Coverage is not a claim of literal full translation or scholarly consensus.',
              'correction_to_prior_batch': '昭公十一年齐归身份：母亲，而非昭公夫人；古籍原文不改。',
              'input_sha256': {name: hashlib.sha256((DATA/name).read_bytes()).hexdigest() for name in (*INPUTS, 'shiji-excerpts-21-32.json')},
              'years': yearly}
-    require(audit['mapped_unique_paragraphs'] == 215, 'Unexpected source total')
+    require(audit['mapped_unique_paragraphs'] == 205, 'Unexpected source total')
     output[DATA/'audit-21-32.json'] = dump(audit)
     output[DATA/'paragraph-map-21-32.jsonl'] = '\n'.join(json.dumps(r, ensure_ascii=False) for r in mapping) + '\n'
     output[DATA/'events-21-32.json'] = dump({'source_commit': BASE, 'years': events})
@@ -365,7 +365,7 @@ def main() -> None:
                   '## 下一组', '从 **鲁定公元年（前509）** 开始。', '[返回春秋总目录](../README.md)'])
     output[BATCH/'README.md'] = '\n\n'.join(readme) + '\n'
     index = ROOT/'chronicle/chunqiu/README.md'
-    summary = f'## 鲁昭公：三十二年第一轮已编（前541—前510）\n\n[昭公全组阅读入口](zhaogong/README.md)。共32页、{sum(all_counts.values())}条叙述；第三段12页、{audit["narrative_entries"]}条，215段经传全部有去向（1段明确共用）。下一组为鲁定公元年（前509）。襄公待收尾复核稿仍单独统计，未因此结审。'
+    summary = f'## 鲁昭公：三十二年第一轮已编（前541—前510）\n\n[昭公全组阅读入口](zhaogong/README.md)。共32页、{sum(all_counts.values())}条叙述；第三段12页、{audit["narrative_entries"]}条，205段经传全部有去向（1段明确共用）。下一组为鲁定公元年（前509）。襄公待收尾复核稿仍单独统计，未因此结审。'
     output[index] = replace_block(index.read_text(encoding='utf-8'), 'zhaogong-01-10', summary)
 
     # Check real file destinations and within-page anchors before writing anything.
