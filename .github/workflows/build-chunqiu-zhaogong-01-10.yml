@@ -1,0 +1,46 @@
+name: Build and audit Zhao years 1-10
+
+on:
+  push:
+    branches:
+      - work/chunqiu-zhaogong-01-10-20260930
+    paths:
+      - scripts/build_zhaogong_01_10.py
+      - chronicle/chunqiu/zhaogong/data/events-*.psv
+      - chronicle/chunqiu/zhaogong/data/shiji-excerpts.json
+      - .github/workflows/build-chunqiu-zhaogong-01-10.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zhaogong-01-10-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            scripts
+            chronicle/chunqiu
+            working-texts/zuozhuan-punctuated-years/years
+      - name: Render manually edited narratives and check all source destinations
+        run: |
+          python3 -m py_compile scripts/build_zhaogong_01_10.py
+          python3 scripts/build_zhaogong_01_10.py
+          python3 scripts/build_zhaogong_01_10.py
+      - name: Commit generated reader pages and audit on the same working branch
+        run: |
+          git add chronicle/chunqiu/years/bce-0541.md chronicle/chunqiu/years/bce-0540.md chronicle/chunqiu/years/bce-0539.md chronicle/chunqiu/years/bce-0538.md chronicle/chunqiu/years/bce-0537.md chronicle/chunqiu/years/bce-0536.md chronicle/chunqiu/years/bce-0535.md chronicle/chunqiu/years/bce-0534.md chronicle/chunqiu/years/bce-0533.md chronicle/chunqiu/years/bce-0532.md
+          git add chronicle/chunqiu/README.md chronicle/chunqiu/zhaogong/README.md chronicle/chunqiu/zhaogong/SHIJI-CROSSWALK.md chronicle/chunqiu/zhaogong/data/audit-01-10.json chronicle/chunqiu/zhaogong/data/paragraph-map-01-10.jsonl
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Render Zhao 1-10 reader pages with exact source footnotes and paragraph audit'
+            git push origin HEAD:${{ github.ref_name }}
+          fi
