@@ -29,7 +29,7 @@ jobs:
             /chronicle/chunqiu/
             /working-texts/zuozhuan-punctuated-years/
             /scripts/
-      - name: Normalize aggregate explanatory text; retain all individual source checks
+      - name: Apply reviewed wording changes only
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -40,6 +40,23 @@ jobs:
           s = s.replace("== 215, 'Unexpected source total'", "== 205, 'Unexpected source total'")
           s = s.replace('215段经传全部有去向', '205段经传全部有去向')
           p.write_text(s, encoding='utf-8')
+          edits = {
+            'events-21-26.psv': [
+              ('季公若因季平子拒绝替申夜姑等人求情而结怨', '季公若替申夜姑等人求情，却被季平子拒之门外，双方因此结怨'),
+              ('楚国命薳射、熊相禖、季然等筑州屈、丘皇及巢、卷的外郭', '楚国命薳射、熊相禖、季然等修筑州屈、丘皇，并为巢、卷修筑外郭')
+            ],
+            'events-27-32.psv': [
+              ('春季，鲁国经文记取得阚地。', '春季，鲁国取得阚地。'),
+              ('夏季，吴国出兵进攻越国，吴越之间出现本年这次明确的战争记录。', '夏季，吴国出兵进攻越国。')
+            ]
+          }
+          for name, replacements in edits.items():
+              path = Path('chronicle/chunqiu/zhaogong/data') / name
+              text = path.read_text(encoding='utf-8')
+              for old, new in replacements:
+                  assert old in text or new in text, (name, old)
+                  text = text.replace(old, new)
+              path.write_text(text, encoding='utf-8')
           PY
       - name: Render and verify all source destinations
         run: |
