@@ -1,0 +1,73 @@
+name: Shiji 66 integration checks
+on:
+  push:
+    branches: [work/shiji-merge-066-20261003]
+    paths:
+      - .github/workflows/shiji-merge-066-once.yml
+      - scripts/integrate_shiji_066.py
+      - chronicle/shiji-integration/data/merge-066.json
+permissions:
+  contents: write
+concurrency:
+  group: shiji-merge-066-once
+  cancel-in-progress: true
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /chronicle/
+            /working-texts/zuozhuan-punctuated-years/
+            /scripts/
+            /texts/01_shiji_full.txt
+      - name: Extract unchanged chapter and reading inventory
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json, re
+          root=Path('chronicle/shiji-integration')
+          (root/'sources').mkdir(parents=True,exist_ok=True)
+          (root/'data').mkdir(parents=True,exist_ok=True)
+          raw=Path('texts/01_shiji_full.txt').read_bytes()
+          blob=hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()
+          assert blob=='e3fdd88dc0dad8e918fb99979f759cf4a17ff144'
+          lines=raw.decode('utf-8-sig').splitlines()
+          a=lines.index('*01-066*'); b=lines.index('*01-067*')
+          text=['# 《史记·伍子胥列传》原文核读快照',
+                '从仓库既有TXT按真实行号提取，不改字，不是另一部现代译本。',
+                '固定来源：`be6f5437767f09cd474107cefee81050d9d0605b`；Git blob：`'+blob+'`。']
+          for i in range(a+1,b):
+              text.extend(['## 原TXT第'+str(i+1)+'行',lines[i]])
+          (root/'sources/066.md').write_text('\n\n'.join(text)+'\n',encoding='utf-8')
+          wanted=[523,522,519,518,515,514,512,511,510,509,508,506,505,504,496,495,494,485,484,482,479,478,475,473]
+          records=[]
+          for y in wanted:
+              p=Path(f'chronicle/chunqiu/years/bce-{y:04d}.md')
+              data=p.read_bytes(); s=data.decode()
+              body=s.split('## 本年纪事',1)[1].split('## ',1)[0]
+              events=[{'anchor':a,'content':t.strip()} for a,t in re.findall(r'<a id="(event-[^"]+)"></a>\s*(.*?)(?=<a id="event-|\Z)',body,re.S)]
+              records.append({'year':y,'path':str(p),'blob':hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest(),'events':events})
+          (root/'data/base-events-066.jsonl').write_text(''.join(json.dumps(x,ensure_ascii=False)+'\n' for x in records),encoding='utf-8')
+          print('Source span',a+2,b,'baseline years',len(records))
+          PY
+      - name: Integrate and validate when reviewed instructions exist
+        run: |
+          if test -f scripts/integrate_shiji_066.py && test -f chronicle/shiji-integration/data/merge-066.json; then
+            python3 -m py_compile scripts/integrate_shiji_066.py
+            python3 scripts/integrate_shiji_066.py
+            python3 scripts/integrate_shiji_066.py --check
+          fi
+      - name: Commit only this integration work
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add chronicle scripts
+          if ! git diff --cached --quiet; then
+            git commit -m 'Prepare or validate Shiji 66 integration into existing chronology'
+            git push origin HEAD:work/shiji-merge-066-20261003
+          fi
