@@ -61,19 +61,17 @@ jobs:
           finish = "    audit['validated_local_links'] = link_count\n"
           assert start in text and finish in text
           a, b = text.index(start), text.index(finish)
-          replacement = '''    # Verify exact ancient text survives rendering, including declared repeated quotes.
-              for year, src in sources.items():
-                  page = rendered[OUT/f'bce-{495-year:04d}.md']
-                  expected_quotes = Counter()
-                  for p in src['records']:
-                      quote = '\\n'.join('> '+line for line in p['text'].splitlines())
-                      expected_quotes[quote] += SHARED.get((year,p['section'],p['paragraph']),1)
-                  for quote, expected in expected_quotes.items():
-                      require(page.count(quote+'\\n\\n')==expected, f'Original quote mismatch {year}: {quote[:60]}')
-          '''
-          # YAML strips the block indent; this string intentionally uses 4-space Python blocks.
-          lines = replacement.splitlines()
-          replacement = lines[0] + '\n' + '\n'.join(line[10:] if line.startswith('          ') else line for line in lines[1:]) + '\n'
+          replacement = '\n'.join([
+              '    # Verify exact ancient text survives rendering, including declared repeated quotes.',
+              '    for year, src in sources.items():',
+              "        page = rendered[OUT/f'bce-{495-year:04d}.md']",
+              '        expected_quotes = Counter()',
+              "        for p in src['records']:",
+              "            quote = '\\n'.join('> '+line for line in p['text'].splitlines())",
+              "            expected_quotes[quote] += SHARED.get((year,p['section'],p['paragraph']),1)",
+              '        for quote, expected in expected_quotes.items():',
+              "            require(page.count(quote+'\\n\\n')==expected, f'Original quote mismatch {year}: {quote[:60]}')",
+          ]) + '\n'
           text = text[:a] + replacement + text[b:]
           p.write_text(text, encoding='utf-8')
           PY
