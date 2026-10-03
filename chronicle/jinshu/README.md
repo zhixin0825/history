@@ -17,7 +17,7 @@
 
 **工作文本**：仓库 [texts/05_jinshu_full.txt](https://github.com/zhixin0825/history/blob/be6f5437767f09cd474107cefee81050d9d0605b/texts/05_jinshu_full.txt)。该文件首行标明为 Sergey Zinin 2019 整理、based on Wikisource，适合逐段检索和固定行号。
 
-**点校本核查材料**：仓库 [中华书局2012年点校本《晋书》十册](https://github.com/zhixin0825/history/blob/be6f5437767f09cd474107cefee81050d9d0605b/%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%80%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B2/%E6%99%8B%E4%B9%A6%E5%8D%81%E5%86%8C)。目前不假称工作TXT就是中华书局文本；遇到字句、卷次、点校争议时再回到扫描页核查。
+**点校本核查材料**：仓库 [中华书局2012年点校本《晋书》十册](https://github.com/zhixin0825/history/tree/be6f5437767f09cd474107cefee81050d9d0605b/%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%80%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B2/%E6%99%8B%E4%B9%A6%E5%8D%81%E5%86%8C)。目前不假称工作TXT就是中华书局文本；遇到字句、卷次、点校争议时再回到扫描页核查。
 
 **编年互证**：仓库《资治通鉴》kanripo 文本。它负责提供连续年代骨架，也用来发现《晋书》传记叙事里的倒叙、压缩和归功差异。
 
