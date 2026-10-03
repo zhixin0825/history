@@ -29,9 +29,9 @@
   "xianggong_review_completed_by_this_batch": false,
   "input_sha256": {
     "events-01-07.psv": "140d22c91ae71d74a139db857c4f780f04bec3db2ec355ac3194176d6ad18781",
-    "events-08-14.psv": "55a6dac890e8044d288aefa2999a898522fb3333673541c053aa1a165e16e6a8",
-    "events-15-20.psv": "9500639e2e62ebfd68f39810b39cb3ad29549e81d4efca245cbea3cdc037d2e7",
-    "events-21-27.psv": "435becd6376dd88d708b1b5325f1a807e90938c069b3abf7e259ca2cfbfa515d",
+    "events-08-14.psv": "dc4d8c697a5f33e07ea9ddad2a7d234457035aac20c472934ffe995881747422",
+    "events-15-20.psv": "eeb2e8c8c7c6320d211d9d189fae1c216fe417604c3bc241bbe8ded1375344ae",
+    "events-21-27.psv": "87ac1241cfcc197957a09134667aaa5769f3c95e3b531a3d306c01de28bf53ef",
     "supplemental-sources.json": "09ca3521e2102b38b7c040258dc33e49c91513323fcb5b00467f739042686d46"
   },
   "supplemental_excerpt_destinations": {
