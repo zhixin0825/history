@@ -1,0 +1,47 @@
+name: Unified chronology migration
+on:
+  push:
+    branches: [work/unify-history-layout]
+    paths: ['_migration/*.py', '.github/workflows/unify-history-layout.yml']
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            _migration
+            chronicle
+            provenance
+          sparse-checkout-cone-mode: true
+      - name: Fetch exact reviewed source commits
+        run: |
+          git fetch --filter=blob:none --depth=1 origin 32ef7a8731e048333941ef65498a4adbef776f6b a485252f253a5063a4f5f63175418a55f8716f76 1367dbae8672cc480589f11a5748b483c4f4345a 2b9716ab9562c352b9ae4a0d8d463455c4d3dae9
+          git config user.name 'zhixin0825'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+      - name: Inventory or build a validated result (never push main)
+        run: |
+          if [ -f _migration/migrate.py ]; then
+            python3 _migration/migrate.py
+          else
+            python3 _migration/audit.py
+            git add --sparse _migration/catalog.json
+            git commit -m 'Save exact pre-migration inventory for review'
+            git push origin HEAD:refs/heads/work/unify-history-layout
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: history-layout-review
+          path: |
+            _migration/catalog.json
+            _migration/review-inputs.tar.gz
+            _migration/result-summary.json
+            _migration/validation-errors.json
+          if-no-files-found: warn
+          retention-days: 7
