@@ -1,0 +1,96 @@
+name: Render Aigong 1-27 once
+on:
+  push:
+    branches:
+      - work/chunqiu-aigong-01-27-20261003
+    paths:
+      - .github/workflows/render-aigong-once.yml
+      - scripts/build_aigong_01_27.py
+      - chronicle/chunqiu/aigong/data/events-*.psv
+      - chronicle/chunqiu/aigong/data/supplemental-sources.json
+permissions:
+  contents: write
+concurrency:
+  group: render-aigong-01-27-once
+  cancel-in-progress: true
+jobs:
+  render:
+    if: github.ref == 'refs/heads/work/chunqiu-aigong-01-27-20261003'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out relevant source and chronicle text only
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /chronicle/chunqiu/
+            /working-texts/zuozhuan-punctuated-years/
+            /scripts/
+      - name: Apply final reviewed wording and validation corrections
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          root = Path('chronicle/chunqiu/aigong/data')
+          edits = {
+            'events-01-07.psv': [
+              ('等军队入齐，蔡人才发觉', '等军队全部进入，蔡人才发觉')
+            ],
+            'events-21-27.psv': [
+              ('城门一度有人准备接纳，出公自己却不敢进', '卫方虽开城门，城上仍严加防守，出公不敢进'),
+              ('流亡在齐的荀寅也参与议论，陈恒没有接受趁机扩大攻击的建议', '流亡在齐的荀寅转述晋军将以轻车压齐阵的消息，陈恒表示不因敌众而退，荀寅随后反省自己发言失当'),
+              ('反复询问自己是否将被害', '反复询问自己能否安然终老'),
+              ('本年事实。||||这一差异', '本年事实。|||这一差异')
+            ]
+          }
+          for name, changes in edits.items():
+              p = root / name
+              text = p.read_text(encoding='utf-8')
+              for old, new in changes:
+                  assert old in text or new in text, (name, old)
+                  text = text.replace(old, new)
+              p.write_text(text, encoding='utf-8')
+          p = Path('scripts/build_aigong_01_27.py')
+          text = p.read_text(encoding='utf-8')
+          old = "require(p['text']==CALENDAR[(year,p['paragraph'])], f'Unexpected calendar text {year}/{key}')"
+          new = "require(re.sub(r'[，。\\s]', '', p['text'])==re.sub(r'[，。\\s]', '', CALENDAR[(year,p['paragraph'])]), f'Unexpected calendar text {year}/{key}')"
+          assert old in text or new in text
+          text = text.replace(old, new)
+          start = '    # Verify exact ancient text survives rendering, including declared repeated quotes.\n'
+          finish = "    audit['validated_local_links'] = link_count\n"
+          assert start in text and finish in text
+          a, b = text.index(start), text.index(finish)
+          replacement = '''    # Verify exact ancient text survives rendering, including declared repeated quotes.
+              for year, src in sources.items():
+                  page = rendered[OUT/f'bce-{495-year:04d}.md']
+                  expected_quotes = Counter()
+                  for p in src['records']:
+                      quote = '\\n'.join('> '+line for line in p['text'].splitlines())
+                      expected_quotes[quote] += SHARED.get((year,p['section'],p['paragraph']),1)
+                  for quote, expected in expected_quotes.items():
+                      require(page.count(quote+'\\n\\n')==expected, f'Original quote mismatch {year}: {quote[:60]}')
+          '''
+          # YAML strips the block indent; this string intentionally uses 4-space Python blocks.
+          lines = replacement.splitlines()
+          replacement = lines[0] + '\n' + '\n'.join(line[10:] if line.startswith('          ') else line for line in lines[1:]) + '\n'
+          text = text[:a] + replacement + text[b:]
+          p.write_text(text, encoding='utf-8')
+          PY
+      - name: Render all 27 years and verify identical rerun
+        run: |
+          python3 -m py_compile scripts/build_aigong_01_27.py
+          python3 scripts/build_aigong_01_27.py
+          python3 scripts/build_aigong_01_27.py --check
+          python3 scripts/build_dinggong_01_15.py --check
+      - name: Commit validated output to this work branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add chronicle/chunqiu scripts/build_aigong_01_27.py scripts/build_dinggong_01_15.py
+          if git diff --cached --quiet; then
+            echo 'All generated output already matches.'
+          else
+            git commit -m 'Render and validate Aigong years 1-27 with source layer boundaries'
+            git push origin HEAD:work/chunqiu-aigong-01-27-20261003
+          fi
