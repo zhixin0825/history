@@ -25,49 +25,50 @@ jobs:
             /working-texts/zuozhuan-punctuated-years/
             /scripts/
             /texts/01_shiji_full.txt
-      - name: Extract unchanged chapter and reading inventory
+      - name: Fetch the immutable pre-integration text baseline
+        run: git fetch --no-tags --filter=blob:none --depth=1 origin be6f5437767f09cd474107cefee81050d9d0605b
+      - name: Make local-link checks work in a sparse checkout
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import hashlib, json, re
-          root=Path('chronicle/shiji-integration')
-          (root/'sources').mkdir(parents=True,exist_ok=True)
-          (root/'data').mkdir(parents=True,exist_ok=True)
-          raw=Path('texts/01_shiji_full.txt').read_bytes()
-          blob=hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()
-          assert blob=='e3fdd88dc0dad8e918fb99979f759cf4a17ff144'
-          lines=raw.decode('utf-8-sig').splitlines()
-          a=lines.index('*01-066*'); b=lines.index('*01-067*')
-          text=['# 《史记·伍子胥列传》原文核读快照',
-                '从仓库既有TXT按真实行号提取，不改字，不是另一部现代译本。',
-                '固定来源：`be6f5437767f09cd474107cefee81050d9d0605b`；Git blob：`'+blob+'`。']
-          for i in range(a+1,b):
-              text.extend(['## 原TXT第'+str(i+1)+'行',lines[i]])
-          (root/'sources/066.md').write_text('\n\n'.join(text)+'\n',encoding='utf-8')
-          wanted=[523,522,519,518,515,514,512,511,510,509,508,506,505,504,496,495,494,485,484,482,479,478,475,473]
-          records=[]
-          for y in wanted:
-              p=Path(f'chronicle/chunqiu/years/bce-{y:04d}.md')
-              data=p.read_bytes(); s=data.decode()
-              body=s.split('## 本年纪事',1)[1].split('## ',1)[0]
-              events=[{'anchor':a,'content':t.strip()} for a,t in re.findall(r'<a id="(event-[^"]+)"></a>\s*(.*?)(?=<a id="event-|\Z)',body,re.S)]
-              records.append({'year':y,'path':str(p),'blob':hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest(),'events':events})
-          (root/'data/base-events-066.jsonl').write_text(''.join(json.dumps(x,ensure_ascii=False)+'\n' for x in records),encoding='utf-8')
-          print('Source span',a+2,b,'baseline years',len(records))
+          p=Path('scripts/integrate_shiji_066.py')
+          s=p.read_text(encoding='utf-8')
+          old="    baseline: dict[str, bytes | None] = {}\n"
+          new=old+"    repository_paths = set(subprocess.check_output(['git','ls-tree','-r','--name-only',base], cwd=ROOT, text=True).splitlines())\n"
+          if '    repository_paths = ' not in s:
+              assert old in s
+              s=s.replace(old,new,1)
+          old="            require(rel in rendered or target.is_file(), f'Broken local link {path}:{link}')"
+          new="            require(rel in rendered or target.is_file() or rel in repository_paths, f'Broken local link {path}:{link}')"
+          assert old in s or new in s
+          s=s.replace(old,new)
+          old="            if target_data is None and target.suffix=='.md':\n                target_data=target.read_text(encoding='utf-8')"
+          new="            if target_data is None and target.is_file() and target.suffix=='.md':\n                target_data=target.read_text(encoding='utf-8')"
+          assert old in s or new in s
+          s=s.replace(old,new)
+          p.write_text(s,encoding='utf-8')
           PY
-      - name: Integrate and validate when reviewed instructions exist
+      - name: Integrate and verify identical second run
         run: |
-          if test -f scripts/integrate_shiji_066.py && test -f chronicle/shiji-integration/data/merge-066.json; then
-            python3 -m py_compile scripts/integrate_shiji_066.py
-            python3 scripts/integrate_shiji_066.py
-            python3 scripts/integrate_shiji_066.py --check
-          fi
+          python3 -m py_compile scripts/integrate_shiji_066.py
+          python3 scripts/integrate_shiji_066.py
+          python3 scripts/integrate_shiji_066.py --check
+      - name: Verify old renderers cannot erase the new material
+        run: |
+          python3 - <<'PY'
+          import subprocess
+          from pathlib import Path
+          for name in ('build_zhaogong_21_32.py','build_dinggong_01_15.py','build_aigong_01_27.py'):
+              p=subprocess.run(['python3','scripts/'+name,'--check'],capture_output=True,text=True)
+              assert p.returncode!=0 and '已有史记汇入层' in p.stderr, (name,p.stderr)
+          print('All three historical generators stop before overwriting integrated pages.')
+          PY
       - name: Commit only this integration work
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add chronicle scripts
           if ! git diff --cached --quiet; then
-            git commit -m 'Prepare or validate Shiji 66 integration into existing chronology'
+            git commit -m 'Integrate full Wuzixu biography into existing chronology and validate preservation'
             git push origin HEAD:work/shiji-merge-066-20261003
           fi
