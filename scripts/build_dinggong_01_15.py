@@ -350,6 +350,11 @@ def main() -> None:
     require(old_next in ztext or new_next in ztext, 'Unexpected Zhao next-group text')
     rendered[zhao] = ztext.replace(old_next, new_next)
 
+    # Preserve Aigong handoff once the next batch exists.
+    if (ROOT/'chronicle/chunqiu/aigong/README.md').exists():
+        rendered[BATCH/'README.md'] = rendered[BATCH/'README.md'].replace('**鲁哀公元年（前494）**。', '[鲁哀公全组（前494—前468）](../aigong/README.md)。')
+        rendered[index] = rendered[index].replace('下一组从鲁哀公元年（前494）开始。', '鲁哀公续编见下方独立入口。')
+
     def target_text(path: Path) -> str:
         if path in rendered:
             return rendered[path]

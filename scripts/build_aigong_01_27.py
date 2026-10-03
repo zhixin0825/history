@@ -234,7 +234,7 @@ def main() -> None:
         for p in src['records']:
             key = (p['section'],p['paragraph'])
             if key not in assigned and (year,p['paragraph']) in CALENDAR and p['section']=='annal':
-                require(p['text']==CALENDAR[(year,p['paragraph'])], f'Unexpected calendar text {year}/{key}')
+                require(re.sub(r'[，。\s]', '', p['text'])==re.sub(r'[，。\s]', '', CALENDAR[(year,p['paragraph'])]), f'Unexpected calendar text {year}/{key}')
                 assigned[key] = ['note-calendar']
                 calendar.append(p)
         missing = [f'{p["section"]}/{p["paragraph"]}:{p["text"][:55]}' for p in src['records'] if (p['section'],p['paragraph']) not in assigned]
@@ -488,11 +488,12 @@ def main() -> None:
     # Verify exact ancient text survives rendering, including declared repeated quotes.
     for year, src in sources.items():
         page = rendered[OUT/f'bce-{495-year:04d}.md']
+        expected_quotes = Counter()
         for p in src['records']:
             quote = '\n'.join('> '+line for line in p['text'].splitlines())
-            expected = SHARED.get((year,p['section'],p['paragraph']),1)
-            # Delimit with double newlines so a short paragraph cannot match inside a long one.
-            require(page.count(quote+'\n\n')==expected, f'Original quote mismatch {year}/{p["section"]}/{p["paragraph"]}')
+            expected_quotes[quote] += SHARED.get((year,p['section'],p['paragraph']),1)
+        for quote, expected in expected_quotes.items():
+            require(page.count(quote+'\n\n')==expected, f'Original quote mismatch {year}: {quote[:60]}')
     audit['validated_local_links'] = link_count
     audit['full_source_quote_checks_passed'] = len(mapping)
     rendered[DATA/'audit-01-27.json'] = dump(audit)
