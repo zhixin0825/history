@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "scope": "Hou Hanshu 03-001 lines 3-47",
+  "base_commit": "32ef7a8731e048333941ef65498a4adbef776f6b",
+  "source_blob": "eb9068911a3a4b06e1fef0af26ee037f06d94d1f",
+  "reviewed_source_lines": {
+    "first": 3,
+    "last": 47,
+    "count": 45
+  },
+  "disposition_counts": {
+    "first-appearance": 1,
+    "ce-0022": 2,
+    "ce-0023": 11,
+    "ce-0024": 7,
+    "ce-0025": 24
+  },
+  "source_coverage_complete": true,
+  "canonical_year_pages_written": false,
+  "reason": "22-23 overlap the parallel Hanshu workflow; this batch records reviewed merge-ready material without creating a second chronology.",
+  "tongjian_crosscheck": [
+    {
+      "volume": 38,
+      "path": "zizhi-tongjian/kanripo/KR2b0007_038.txt",
+      "year_ce": 22,
+      "start_line": 516
+    },
+    {
+      "volume": 39,
+      "path": "zizhi-tongjian/kanripo/KR2b0007_039.txt",
+      "year_ce": 23,
+      "start_line": 14,
+      "end_before_line": 366
+    },
+    {
+      "volume": 39,
+      "path": "zizhi-tongjian/kanripo/KR2b0007_039.txt",
+      "year_ce": 24,
+      "start_line": 366
+    },
+    {
+      "volume": 40,
+      "path": "zizhi-tongjian/kanripo/KR2b0007_040.txt",
+      "year_ce": 25,
+      "start_line": 15,
+      "end_before_line": 395
+    }
+  ]
+}
