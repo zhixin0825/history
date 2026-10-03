@@ -28,21 +28,15 @@ jobs:
             /chronicle/chunqiu/
             /working-texts/zuozhuan-punctuated-years/
             /scripts/
-      - name: Apply final reviewed wording and validation corrections
+      - name: Apply final reviewed prose changes
         run: |
           python3 - <<'PY'
           from pathlib import Path
           root = Path('chronicle/chunqiu/aigong/data')
           edits = {
-            'events-01-07.psv': [
-              ('等军队入齐，蔡人才发觉', '等军队全部进入，蔡人才发觉')
-            ],
-            'events-21-27.psv': [
-              ('城门一度有人准备接纳，出公自己却不敢进', '卫方虽开城门，城上仍严加防守，出公不敢进'),
-              ('流亡在齐的荀寅也参与议论，陈恒没有接受趁机扩大攻击的建议', '流亡在齐的荀寅转述晋军将以轻车压齐阵的消息，陈恒表示不因敌众而退，荀寅随后反省自己发言失当'),
-              ('反复询问自己是否将被害', '反复询问自己能否安然终老'),
-              ('本年事实。||||这一差异', '本年事实。|||这一差异')
-            ]
+            'events-08-14.psv': [('鲁人在西郊田猎，捕获被辨认为麟的异兽。', '鲁人向西田猎，捕获被辨认为麟的异兽。')],
+            'events-15-20.psv': [('续经春条是上年政变的跨年告录。', '续经春条与上年政变的跨年对照。')],
+            'events-21-27.psv': [('国君与三桓的冲突以再次出亡收场。', '国君与三桓的冲突以哀公出亡收场。')]
           }
           for name, changes in edits.items():
               p = root / name
@@ -53,26 +47,10 @@ jobs:
               p.write_text(text, encoding='utf-8')
           p = Path('scripts/build_aigong_01_27.py')
           text = p.read_text(encoding='utf-8')
-          old = "require(p['text']==CALENDAR[(year,p['paragraph'])], f'Unexpected calendar text {year}/{key}')"
-          new = "require(re.sub(r'[，。\\s]', '', p['text'])==re.sub(r'[，。\\s]', '', CALENDAR[(year,p['paragraph'])]), f'Unexpected calendar text {year}/{key}')"
+          old = '《资治通鉴》主体从周威烈王二十三年（前403）开始；'
+          new = '《资治通鉴》主体从周威烈王二十三年（前403）开始，见[卷一首年原文](https://zh.wikisource.org/w/index.php?title=資治通鑑/卷001&oldid=2489405)；'
           assert old in text or new in text
           text = text.replace(old, new)
-          start = '    # Verify exact ancient text survives rendering, including declared repeated quotes.\n'
-          finish = "    audit['validated_local_links'] = link_count\n"
-          assert start in text and finish in text
-          a, b = text.index(start), text.index(finish)
-          replacement = '\n'.join([
-              '    # Verify exact ancient text survives rendering, including declared repeated quotes.',
-              '    for year, src in sources.items():',
-              "        page = rendered[OUT/f'bce-{495-year:04d}.md']",
-              '        expected_quotes = Counter()',
-              "        for p in src['records']:",
-              "            quote = '\\n'.join('> '+line for line in p['text'].splitlines())",
-              "            expected_quotes[quote] += SHARED.get((year,p['section'],p['paragraph']),1)",
-              '        for quote, expected in expected_quotes.items():',
-              "            require(page.count(quote+'\\n\\n')==expected, f'Original quote mismatch {year}: {quote[:60]}')",
-          ]) + '\n'
-          text = text[:a] + replacement + text[b:]
           p.write_text(text, encoding='utf-8')
           PY
       - name: Render all 27 years and verify identical rerun
@@ -89,6 +67,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'All generated output already matches.'
           else
-            git commit -m 'Render and validate Aigong years 1-27 with source layer boundaries'
+            git commit -m 'Finalize Aigong prose, cross-year boundaries and reading handoff'
             git push origin HEAD:work/chunqiu-aigong-01-27-20261003
           fi
