@@ -73,6 +73,7 @@ def main() -> None:
     base = spec['base_commit']
     require(re.fullmatch(r'[0-9a-f]{40}', base) is not None, 'Invalid base commit')
     baseline: dict[str, bytes | None] = {}
+    repository_paths = set(subprocess.check_output(['git','ls-tree','-r','--name-only',base], cwd=ROOT, text=True).splitlines())
 
     def original(path: str, optional: bool = False) -> str | None:
         require(not path.startswith('/') and '..' not in Path(path).parts, f'Unsafe path: {path}')
@@ -363,9 +364,9 @@ def main() -> None:
             target=target.resolve()
             require(target.is_relative_to(ROOT), f'Link escapes root: {path}:{link}')
             rel=str(target.relative_to(ROOT))
-            require(rel in rendered or target.is_file(), f'Broken local link {path}:{link}')
+            require(rel in rendered or target == AUDIT or target.is_file() or rel in repository_paths, f'Broken local link {path}:{link}')
             target_data=rendered.get(rel)
-            if target_data is None and target.suffix=='.md':
+            if target_data is None and target.is_file() and target.suffix=='.md':
                 target_data=target.read_text(encoding='utf-8')
             if anchor and (anchor.startswith(('event-','note-')) or anchor in context_ids):
                 require(target_data is not None and f'<a id="{anchor}"></a>' in target_data,

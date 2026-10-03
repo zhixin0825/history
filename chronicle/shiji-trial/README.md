@@ -92,3 +92,9 @@
 ## 重建与检查
 执行 `python scripts/build_shiji_incremental.py`，随后执行 `python -m unittest discover -s tests -p "test_shiji_incremental.py" -v`。内容审读保存在 reviewed.psv 与 batches/round2.psv；代码不调用模型，不冒称正则扫描等于GPT逐段阅读。
 旧 `build_shiji_trial.py` 只重建首轮，累计编排须使用本页新入口。原始TXT不改，新引文逐项指向实际采用的版本。
+
+<!-- shiji066-canonical:start -->
+
+《史记》现已开始逐篇汇入[现有主年表](../shiji-integration/README.md)。下面的9篇、74年等数字是历史试编进度，不代表已经全部汇入；旧文件和编号保留用于回查。
+
+<!-- shiji066-canonical:end -->

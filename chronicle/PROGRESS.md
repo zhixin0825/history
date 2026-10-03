@@ -28,3 +28,11 @@
 优先继续《越王勾践世家》《齐太公世家》《鲁周公世家》《晋世家》《楚世家》等与当前吴楚材料互见的篇章，随后依待处理队列覆盖其余所有篇章，不只摘录著名事件。
 
 [累计阅读入口](shiji-trial/README.md) · [机器可核查统计](shiji-trial/data/audit.json) · [逐篇进度](shiji-trial/data/chapter-inventory.json) · [剩余队列](shiji-trial/data/pending-review-queue.jsonl)
+
+<!-- shiji066-integration:start -->
+
+## 2026-10-03：《史记》汇入现有年表，第一批
+
+[实际汇入入口](shiji-integration/README.md)。完成卷66《伍子胥列传》整篇的主年表去向与引用整合，更新20个已有年份；旧试编9篇初审不等于9篇均已汇入。原文24段、新增2条，未确年材料及争议另有明确说明。后续先核《吴太伯世家》与本批去重。
+
+<!-- shiji066-integration:end -->

@@ -515,4 +515,7 @@ def main() -> None:
 
 
 if __name__ == '__main__':
+    # Later Shiji overlays must not be discarded by this historical renderer.
+    if (Path(__file__).resolve().parents[1] / 'chronicle/shiji-integration/data/audit-066.json').exists():
+        raise SystemExit('已有史记汇入层；为防覆盖，请改运行 python3 scripts/integrate_shiji_066.py --check。需重建初稿时请使用汇入前的独立Git工作树。')
     main()
