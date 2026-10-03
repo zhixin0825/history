@@ -1,10 +1,4 @@
-texts/*.txt -text
-classics/**/*.txt -text
-zizhi-tongjian/**/*.txt -text
-zizhi-tongjian/**/*.org -text
-中华书局二十四史/**/*.pdf -text
-中华书局二十四史/**/*.txt -text
-provenance/*.txt -text
-*.md text eol=lf
-*.json text eol=lf
-SHA256SUMS.txt text eol=lf
+sources/** -text
+meta/** text eol=lf
+years/*.md text eol=lf
+README.md text eol=lf
