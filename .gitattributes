@@ -1,4 +1,5 @@
 sources/** -text
 meta/** text eol=lf
-years/*.md text eol=lf
+meta/来源/原始记录/** -text
+years/** text eol=lf
 README.md text eol=lf
