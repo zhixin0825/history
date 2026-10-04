@@ -1,48 +1,37 @@
-name: Read-only chronology inventory
+name: Validate century directory layout
 on:
   push:
     branches: [work/century-layout-20261004]
-    paths: ['.github/workflows/century-layout.yml']
+    paths: ['_work/reorganize.py', '.github/workflows/century-layout.yml']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  inventory:
+  validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ab0b698f5908bafa621ac6a54078c1115eed3580
-          persist-credentials: false
-          fetch-depth: 1
+          filter: blob:none
+          fetch-depth: 2
           sparse-checkout: |
+            _work
             years
             meta
             sources/摘录
             sources/春秋左传
           sparse-checkout-cone-mode: true
-      - name: Package text inventory only
+      - name: Fetch the exact input snapshot
         run: |
-          python3 - <<'PY'
-          import json,subprocess,tarfile
-          from pathlib import Path
-          tree={}
-          for row in subprocess.check_output(['git','ls-tree','-rz','HEAD']).split(b'\0'):
-              if not row:continue
-              head,path=row.split(b'\t',1)
-              mode,kind,sha=head.decode().split()
-              tree[path.decode()]={'mode':mode,'type':kind,'sha':sha}
-          Path('/tmp/tree.json').write_text(json.dumps(tree,ensure_ascii=False))
-          with tarfile.open('/tmp/chronology-texts.tar.gz','w:gz') as tar:
-              tar.add('/tmp/tree.json',arcname='tree.json')
-              for p in tree:
-                  f=Path(p)
-                  if f.is_file() and (p.endswith('.md') or p.startswith('meta/') or p=='.gitattributes'):
-                      tar.add(f,arcname=p)
-          print('Saved repository text inventory; no repository files changed.')
-          PY
+          git fetch --filter=blob:none --depth=1 origin ab0b698f5908bafa621ac6a54078c1115eed3580
+          git config user.name 'zhixin0825'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+      - name: Check content and links, then publish review result (not main)
+        run: python3 _work/reorganize.py
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
-          name: chronology-texts
-          path: /tmp/chronology-texts.tar.gz
+          name: century-layout-validation
+          path: _work/output/*.json
+          if-no-files-found: warn
           retention-days: 7
