@@ -1,0 +1,47 @@
+name: Read Zhou chronology inputs
+on:
+  push:
+    branches: [work/zhou004-20261004]
+    paths: ['.github/workflows/zhou004-read.yml']
+permissions:
+  contents: read
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 6e47e48051f613b3531859594c4163fadd930323
+          persist-credentials: false
+          filter: blob:none
+          fetch-depth: 1
+          sparse-checkout: |
+            years
+            meta
+            sources/摘录
+            sources/春秋左传
+            sources/二十四史/txt
+          sparse-checkout-cone-mode: true
+      - name: Package only reading material
+        run: |
+          python3 - <<'PY'
+          import json,subprocess,tarfile,io
+          from pathlib import Path
+          tree={}
+          for row in subprocess.check_output(['git','ls-tree','-rz','HEAD']).split(b'\0'):
+              if row:
+                  h,p=row.split(b'\t',1);m,k,s=h.decode().split()
+                  tree[p.decode()]={'mode':m,'type':k,'sha':s}
+          with tarfile.open('/tmp/zhou004-inputs.tar.gz','w:gz') as tar:
+              raw=json.dumps(tree,ensure_ascii=False).encode();info=tarfile.TarInfo('tree.json');info.size=len(raw);tar.addfile(info,io.BytesIO(raw))
+              for p in tree:
+                  f=Path(p)
+                  if f.is_file() and (p.endswith('.md') or p.startswith('meta/') or p in ['.gitattributes','sources/二十四史/txt/01_shiji_full.txt']):tar.add(f,arcname=p)
+          print('Read-only snapshot created.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: zhou004-reading
+          path: /tmp/zhou004-inputs.tar.gz
+          retention-days: 7
