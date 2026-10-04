@@ -1,53 +1,61 @@
-name: Chunqiu completion inventory
+name: Validate complete Chunqiu chronology
 on:
   push:
     branches: [work/complete-chunqiu-20261004]
     paths: ['.github/workflows/chunqiu-review.yml']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  inventory:
+  complete:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: db58207ff8cb4cbd6f3a8bb385ad19d0d6e9ed41
-          filter: blob:none
           fetch-depth: 1
+          filter: blob:none
           sparse-checkout: |
+            _completion
             years
             meta
             sources/春秋左传
             sources/摘录
           sparse-checkout-cone-mode: true
-      - name: Read historical drafts
+      - name: Fetch immutable reviewed inputs
         run: |
-          git fetch --filter=blob:none --depth=1 origin 604211235a7cc43c755a6e5cd55f519a999a9aa9 feb918e34111f3d766406472a9473212067e1935
+          git fetch --filter=blob:none --depth=1 origin db58207ff8cb4cbd6f3a8bb385ad19d0d6e9ed41 604211235a7cc43c755a6e5cd55f519a999a9aa9
+          git config user.name 'zhixin0825'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+      - name: Check authored input content
+        run: |
+          python3 _completion/make_patches.py
           python3 - <<'PY'
-          import json,subprocess,tarfile,io,re
-          refs={'current':'db58207ff8cb4cbd6f3a8bb385ad19d0d6e9ed41','xiang_review':'604211235a7cc43c755a6e5cd55f519a999a9aa9','xiang_draft':'feb918e34111f3d766406472a9473212067e1935'}
-          def git(*a): return subprocess.check_output(['git',*a])
-          with tarfile.open('/tmp/chunqiu-reading.tar.gz','w:gz') as tar:
-              def add(name,b):
-                  info=tarfile.TarInfo(name);info.size=len(b);tar.addfile(info,io.BytesIO(b))
-              for label,ref in refs.items():
-                  tree={}
-                  for row in git('ls-tree','-rz',ref).split(b'\0'):
-                      if not row: continue
-                      meta,path=row.split(b'\t',1);mode,kind,sha=meta.decode().split()
-                      tree[path.decode()]={'sha':sha,'mode':mode,'type':kind}
-                  add(label+'/tree.json',json.dumps(tree,ensure_ascii=False).encode())
-                  for p in tree:
-                      if label=='current':
-                          selected=p.startswith(('years/','meta/','sources/春秋左传/','sources/摘录/')) or p in ['README.md','.gitattributes']
-                      else:
-                          selected=p.startswith(('chronicle/chunqiu/review/','chronicle/chunqiu/sources/')) or p=='chronicle/chunqiu/README.md' or bool(re.fullmatch(r'chronicle/chunqiu/years/bce-0(?:5[4-7][0-9])\.md',p)) or ('xiang' in p and p.endswith(('.py','.json','.md','.jsonl')))
-                      if selected: add(label+'/'+p,git('show',ref+':'+p))
-                  print(label,len(tree))
+          import json,hashlib
+          from pathlib import Path
+          expected={'tail':'fbca04ef2a2c306d94b34d203ef4760c17d0a4bd271e469a4828cde532af91c1','music':'183c360de7ea18cc624fcee06d88ca49c57d195805cb7b748dcc1d472b110184','outside_patches':'5651541156c0a2f7ff937d5b78017ffaa86265d0613f254e5837b729380269ca'}
+          for n,h in expected.items():
+              v=json.loads(Path('_completion/'+n+'.json').read_text())
+              actual=hashlib.sha256(json.dumps(v,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()).hexdigest()
+              assert actual==h,(n,actual,h)
+          print('Authored inputs match the locally reviewed content.')
+          PY
+      - name: Build validated result branch, never main
+        run: |
+          python3 _completion/build_complete.py
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          a=json.loads(Path('_completion/validation.json').read_text())
+          assert not a['errors'],a['errors']
+          assert a['result_tree']=='7384dfa86b985e415ef49c0231ba37282d94f90f',a['result_tree']
+          print('Remote result matches the reviewed local Git tree.')
           PY
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
-          name: chunqiu-reading
-          path: /tmp/chunqiu-reading.tar.gz
+          name: chunqiu-completion-validation
+          path: |
+            _completion/validation.json
+            _completion/outside_patches.json
           retention-days: 7
+          if-no-files-found: warn
