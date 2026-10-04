@@ -1,0 +1,65 @@
+name: Validate Zhou volume 004 integration
+on:
+  push:
+    branches: [work/zhou004-20261004]
+    paths: ['.github/workflows/zhou004-publish.yml']
+permissions:
+  contents: write
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            _zhou004
+            years
+            meta
+            sources/摘录
+            sources/春秋左传
+            sources/二十四史/txt
+          sparse-checkout-cone-mode: true
+      - name: Fetch immutable baseline
+        run: |
+          git fetch --filter=blob:none --depth=1 origin 6e47e48051f613b3531859594c4163fadd930323
+          git config user.name 'zhixin0825'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+      - name: Verify reviewed input files
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib
+          expected = {
+            'periods.py': '19812018eaee746bf8325bcb7f4533a56044b735e630c8319d6dc75f8c0e736b',
+            'events.py': 'a6b1547c347d0e64d08c90dd96c6cc4175622c1fe15ecfe5cc19f130245dd795',
+            'undated.py': '87a6829061dc5b61c0b00eac9c58f2ad697ffcfde60432c01ac1ce79d18b5c0e',
+            'publish.py': '61247177dfe6a733f4696e0202150e9f097df83953ac838cfff47d799a586814'
+          }
+          for name, digest in expected.items():
+            actual = hashlib.sha256((Path('_zhou004') / name).read_bytes()).hexdigest()
+            assert actual == digest, (name, actual, digest)
+          print('All authored input files match the locally verified text.')
+          PY
+      - name: Validate sources, old paragraphs, anchors and links; publish result branch
+        run: |
+          python3 _zhou004/publish.py
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          report=json.loads(Path('_zhou004/validation.json').read_text())
+          assert report['errors']==[],report['errors']
+          assert report['result_tree']=='00ad17fad17d882fae532f6724c126770ed2e845'
+          assert report['annual_total']==323
+          assert report['source_paragraphs']==82
+          print('Validated clean result; main was not changed by this workflow.')
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: zhou004-validation
+          path: _zhou004/validation.json
+          retention-days: 7
+          if-no-files-found: warn
