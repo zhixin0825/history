@@ -1,0 +1,47 @@
+name: Read Qin chronology inputs
+on:
+  push:
+    branches: [work/qin005-20261004]
+    paths: ['.github/workflows/qin005-read.yml']
+permissions:
+  contents: read
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: dfcbe7a0a5c124a51490c145068d09f263922ed2
+          persist-credentials: false
+          filter: blob:none
+          fetch-depth: 1
+          sparse-checkout: |
+            years
+            meta
+            sources/摘录
+            sources/春秋左传
+            sources/二十四史/txt
+          sparse-checkout-cone-mode: true
+      - name: Package only reading inputs
+        run: |
+          python3 - <<'PY'
+          import json,subprocess,tarfile,io
+          from pathlib import Path
+          tree={}
+          for row in subprocess.check_output(['git','ls-tree','-rz','HEAD']).split(b'\0'):
+              if row:
+                  head,p=row.split(b'\t',1);mode,kind,sha=head.decode().split()
+                  tree[p.decode()]={'mode':mode,'type':kind,'sha':sha}
+          with tarfile.open('/tmp/qin005-reading.tar.gz','w:gz') as t:
+              b=json.dumps(tree,ensure_ascii=False).encode();info=tarfile.TarInfo('tree.json');info.size=len(b);t.addfile(info,io.BytesIO(b))
+              for p in tree:
+                  f=Path(p)
+                  if f.is_file() and (p.startswith(('years/','meta/','sources/摘录/','sources/春秋左传/')) or p in ['README.md','.gitattributes','sources/二十四史/txt/01_shiji_full.txt']):t.add(f,arcname=p)
+          print('Read-only inventory complete; repository unchanged.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: qin005-reading
+          path: /tmp/qin005-reading.tar.gz
+          retention-days: 7
