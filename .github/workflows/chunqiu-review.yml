@@ -1,0 +1,53 @@
+name: Chunqiu completion inventory
+on:
+  push:
+    branches: [work/complete-chunqiu-20261004]
+    paths: ['.github/workflows/chunqiu-review.yml']
+permissions:
+  contents: read
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: db58207ff8cb4cbd6f3a8bb385ad19d0d6e9ed41
+          filter: blob:none
+          fetch-depth: 1
+          sparse-checkout: |
+            years
+            meta
+            sources/春秋左传
+            sources/摘录
+          sparse-checkout-cone-mode: true
+      - name: Read historical drafts
+        run: |
+          git fetch --filter=blob:none --depth=1 origin 604211235a7cc43c755a6e5cd55f519a999a9aa9 feb918e34111f3d766406472a9473212067e1935
+          python3 - <<'PY'
+          import json,subprocess,tarfile,io,re
+          refs={'current':'db58207ff8cb4cbd6f3a8bb385ad19d0d6e9ed41','xiang_review':'604211235a7cc43c755a6e5cd55f519a999a9aa9','xiang_draft':'feb918e34111f3d766406472a9473212067e1935'}
+          def git(*a): return subprocess.check_output(['git',*a])
+          with tarfile.open('/tmp/chunqiu-reading.tar.gz','w:gz') as tar:
+              def add(name,b):
+                  info=tarfile.TarInfo(name);info.size=len(b);tar.addfile(info,io.BytesIO(b))
+              for label,ref in refs.items():
+                  tree={}
+                  for row in git('ls-tree','-rz',ref).split(b'\0'):
+                      if not row: continue
+                      meta,path=row.split(b'\t',1);mode,kind,sha=meta.decode().split()
+                      tree[path.decode()]={'sha':sha,'mode':mode,'type':kind}
+                  add(label+'/tree.json',json.dumps(tree,ensure_ascii=False).encode())
+                  for p in tree:
+                      if label=='current':
+                          selected=p.startswith(('years/','meta/','sources/春秋左传/','sources/摘录/')) or p in ['README.md','.gitattributes']
+                      else:
+                          selected=p.startswith(('chronicle/chunqiu/review/','chronicle/chunqiu/sources/')) or p=='chronicle/chunqiu/README.md' or bool(re.fullmatch(r'chronicle/chunqiu/years/bce-0(?:5[4-7][0-9])\.md',p)) or ('xiang' in p and p.endswith(('.py','.json','.md','.jsonl')))
+                      if selected: add(label+'/'+p,git('show',ref+':'+p))
+                  print(label,len(tree))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chunqiu-reading
+          path: /tmp/chunqiu-reading.tar.gz
+          retention-days: 7
