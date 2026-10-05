@@ -1,0 +1,49 @@
+name: Read volume 006 inputs
+on:
+  push:
+    branches: [work/shiji006-20261005]
+    paths: ['.github/workflows/shiji006-read.yml']
+permissions:
+  contents: read
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: d39a1255c00219b5fa8387eafc61928bce4aac7f
+          filter: blob:none
+          fetch-depth: 1
+          persist-credentials: false
+          sparse-checkout: |
+            years
+            meta
+            sources/摘录
+            sources/二十四史/txt
+          sparse-checkout-cone-mode: true
+      - name: Package reading materials without changing repository
+        run: |
+          python3 - <<'PY'
+          import io,json,subprocess,tarfile
+          from pathlib import Path
+          tree={}
+          for row in subprocess.check_output(['git','ls-tree','-rz','HEAD']).split(b'\0'):
+              if row:
+                  meta,p=row.split(b'\t',1)
+                  mode,kind,sha=meta.decode().split()
+                  tree[p.decode()]={'mode':mode,'type':kind,'sha':sha}
+          with tarfile.open('/tmp/shiji006-reading.tar.gz','w:gz') as tar:
+              raw=json.dumps(tree,ensure_ascii=False).encode()
+              info=tarfile.TarInfo('tree.json');info.size=len(raw);tar.addfile(info,io.BytesIO(raw))
+              for p in tree:
+                  f=Path(p)
+                  chosen=p.startswith(('years/','meta/','sources/摘录/')) or p in ['README.md','.gitattributes','sources/README.md','sources/二十四史/txt/01_shiji_full.txt']
+                  if chosen and f.is_file():tar.add(f,arcname=p)
+          print('Read-only text bundle built from d39a1255c00219b5fa8387eafc61928bce4aac7f')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shiji006-reading
+          path: /tmp/shiji006-reading.tar.gz
+          retention-days: 7
