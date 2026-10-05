@@ -1,0 +1,45 @@
+name: Read chronology 006 inputs
+on:
+  push:
+    branches: [work/chronology-006-20261005]
+    paths: ['.github/workflows/chronology006-read.yml']
+permissions:
+  contents: read
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: d39a1255c00219b5fa8387eafc61928bce4aac7f
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            years
+            meta
+            sources/摘录
+            sources/二十四史/txt
+          sparse-checkout-cone-mode: true
+      - name: Export text inputs without changing the repository
+        run: |
+          python3 - <<'PY'
+          import json,subprocess,tarfile,io
+          from pathlib import Path
+          tree={}
+          for row in subprocess.check_output(['git','ls-tree','-rz','HEAD']).split(b'\0'):
+              if row:
+                  m,p=row.split(b'\t',1);mode,kind,sha=m.decode().split();tree[p.decode()]={'mode':mode,'type':kind,'sha':sha}
+          with tarfile.open('/tmp/chronology006-inputs.tar.gz','w:gz') as t:
+              b=json.dumps(tree,ensure_ascii=False).encode();i=tarfile.TarInfo('tree.json');i.size=len(b);t.addfile(i,io.BytesIO(b))
+              for p in tree:
+                  if p.startswith(('years/','meta/','sources/摘录/')) or p in ['README.md','.gitattributes','sources/二十四史/txt/01_shiji_full.txt']:
+                      t.add(p,arcname=p)
+          print('Saved immutable reading inputs.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chronology006-inputs
+          path: /tmp/chronology006-inputs.tar.gz
+          retention-days: 7
