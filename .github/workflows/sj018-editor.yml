@@ -2,7 +2,7 @@ name: Temporary SJ018 editorial check
 on:
   push:
     branches: [work/sj018-completion-20261101]
-    paths: [.github/workflows/sj018-editor.yml, .github/sj018-input.json]
+    paths: [.github/workflows/sj018-editor.yml, .github/sj018-payload.json]
 permissions:
   contents: write
 concurrency:
@@ -11,118 +11,102 @@ concurrency:
 jobs:
   edit:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - name: Apply explicit editorial additions and check local links
+      - name: Apply reviewed Markdown changes to stable base and export evidence
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           EVENT_SHA: ${{ github.sha }}
-          BRANCH: work/sj018-completion-20261101
         shell: python
         run: |
-          import os, json, re, base64, urllib.request, urllib.parse, posixpath, zipfile, concurrent.futures
-          assert os.environ['REPO'] == 'zhixin0825/history'
-          repo=os.environ['REPO']; sha=os.environ['EVENT_SHA']; branch=os.environ['BRANCH']
-          root='https://api.github.com/repos/'+repo
-          def api(path, data=None, method=None):
-              req=urllib.request.Request(root+path, data=None if data is None else json.dumps(data,ensure_ascii=False).encode(), method=method or ('GET' if data is None else 'POST'))
-              req.add_header('Authorization','Bearer '+os.environ['GH_TOKEN'])
-              req.add_header('Accept','application/vnd.github+json'); req.add_header('X-GitHub-Api-Version','2022-11-28'); req.add_header('User-Agent','history-editorial-check')
-              if data is not None: req.add_header('Content-Type','application/json')
-              with urllib.request.urlopen(req,timeout=60) as r: return json.load(r)
-          commit=api('/git/commits/'+sha); base=commit['tree']['sha']
-          tree=api('/git/trees/'+base+'?recursive=1'); assert not tree['truncated']
-          files={x['path']:x for x in tree['tree'] if x['type']=='blob'}
-          cache={}; changed={}; before={}
+          import os,json,re,base64,urllib.request,urllib.parse,posixpath,zipfile,hashlib,lzma,concurrent.futures,time
+          assert os.environ['REPO']=='zhixin0825/history'
+          root='https://api.github.com/repos/'+os.environ['REPO']
+          def api(path,data=None,method=None):
+              req=urllib.request.Request(root+path,data=None if data is None else json.dumps(data,ensure_ascii=False).encode(),method=method or ('POST' if data is not None else 'GET'))
+              req.add_header('Authorization','Bearer '+os.environ['GH_TOKEN']);req.add_header('Accept','application/vnd.github+json');req.add_header('User-Agent','sj018-one-time-editor')
+              if data is not None:req.add_header('Content-Type','application/json')
+              for attempt in range(4):
+                  try:
+                      with urllib.request.urlopen(req,timeout=60) as r:return json.load(r)
+                  except urllib.error.HTTPError as e:
+                      if e.code not in (429,500,502,503,504) or attempt==3:raise
+                      time.sleep(2**attempt)
+          baseline='db6686015fcc1aa53a71a1c837ca938c17976d92'
+          base=api('/git/commits/'+baseline)['tree']['sha'];tree=api('/git/trees/'+base+'?recursive=1');assert not tree['truncated']
+          files={e['path']:e for e in tree['tree'] if e['type']=='blob'};cache={};changed={};before={}
           def load(path):
-              if path in changed: return changed[path]
+              if path in changed:return changed[path]
               if path not in cache:
-                  obj=api('/git/blobs/'+files[path]['sha']); assert obj['encoding']=='base64'
-                  cache[path]=base64.b64decode(obj['content']).decode('utf-8')
+                  obj=api('/git/blobs/'+files[path]['sha']);cache[path]=base64.b64decode(obj['content']).decode('utf-8')
               return cache[path]
-          def allowed(path):
-              return path=='README.md' or (path.startswith(('years/','meta/','sources/')) and path.endswith('.md') and '..' not in path.split('/'))
-          def save(path,txt):
+          def allowed(path):return path=='README.md' or (path.startswith(('years/','sources/','meta/')) and path.endswith('.md') and '..' not in path.split('/'))
+          def save(path,text):
               assert allowed(path),path
-              if path not in before: before[path]=load(path) if path in files else None
-              changed[path]=txt
-          inp='.github/sj018-input.json'; reportpath='.github/sj018-audit.json'
-          oldreport=json.loads(load(reportpath)) if reportpath in files else {}
-          applied=oldreport.get('applied_payloads',[])
-          payload=json.loads(load(inp)) if inp in files else {}
-          pid=payload.get('id')
-          if pid and pid not in applied:
+              if path not in before:before[path]=load(path) if path in files else None
+              changed[path]=text
+          payload={}
+          try:
+              d=api('/contents/.github/sj018-payload.json?ref='+os.environ['EVENT_SHA']);desc=json.loads(base64.b64decode(d['content']))
+          except urllib.error.HTTPError as e:
+              if e.code!=404:raise
+              desc=None
+          if desc:
+              packed=b''.join(base64.b64decode(api('/git/blobs/'+s)['content']) for s in desc['blobs'])
+              assert hashlib.sha256(packed).hexdigest()==desc['sha256'],'payload checksum'
+              payload=json.loads(lzma.decompress(packed))
+              assert payload['baseline']==baseline
               for p in payload.get('replace',[]):
-                  text=load(p['path']); count=text.count(p['old']); assert count==p.get('count',1),(p['path'],count,p['old'][:80])
-                  save(p['path'],text.replace(p['old'],p['new']))
+                  text=load(p['path']);assert text.count(p['old'])==p.get('count',1),(p['path'],'replace mismatch');save(p['path'],text.replace(p['old'],p['new']))
+              for p in payload.get('wenjing',[]):
+                  text=load(p['path']);assert 'id="sj018-wenjing"' not in text
+                  marker='## 本年相关史料\n\n';assert text.count(marker)==1,p['path']
+                  out=text.replace(marker,p['body'].strip()+'\n\n'+marker+p['notes'].strip()+'\n\n',1)
+                  save(p['path'],out)
               for p in payload.get('append',[]):
-                  text=load(p['path']); assert p['anchor'] not in text,(p['path'],'existing anchor')
-                  i=text.rfind('\n---\n')
-                  if i<0: i=len(text)
+                  text=load(p['path']);assert p['anchor'] not in text,(p['path'],'anchor exists');i=text.rfind('\n---\n');assert i>=0,p['path']
                   save(p['path'],text[:i].rstrip()+'\n\n'+p['text'].strip()+'\n'+text[i:])
               for p in payload.get('write',[]):
-                  if p['path'] in files: assert p.get('expected_sha')==files[p['path']]['sha'],(p['path'],'replacement SHA mismatch')
+                  if p['path'] in files:assert p.get('expected_sha')==files[p['path']]['sha'],(p['path'],'SHA mismatch')
                   save(p['path'],p['text'])
-              applied.append(pid)
           def anchors(text):
-              out=set(re.findall(r'<a\s+(?:id|name)=[\"\x27]([^\"\x27]+)',text)); used={}
+              out=set(re.findall(r'<a\s+(?:id|name)=[\"\x27]([^\"\x27]+)',text));used={}
               for title in re.findall(r'^#{1,6}\s+(.+?)\s*#*$',text,re.M):
-                  title=re.sub(r'<[^>]*>','',title); title=re.sub(r'\[([^]]+)\]\([^)]*\)',r'\1',title)
-                  key=re.sub(r'[^\w\-\s]','',title.lower()).replace(' ','-')
-                  n=used.get(key,0); used[key]=n+1; out.add(key+('-'+str(n) if n else ''))
+                  title=re.sub(r'<[^>]*>','',title);title=re.sub(r'\[([^]]+)\]\([^)]*\)',r'\1',title);key=re.sub(r'[^\w\-\s]','',title.lower()).replace(' ','-');n=used.get(key,0);used[key]=n+1;out.add(key+('-'+str(n) if n else ''))
               return out
-          failures=[]; preserved=[]
+          failures=[];preserved=[]
           for path,new in changed.items():
               old=before[path]
-              if old is not None and path.startswith('years/') and not path.endswith('/README.md'):
-                  lost=set(re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',old))-set(re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',new))
-                  assert not lost,(path,'lost anchors',sorted(lost)); preserved.append(path)
-              targets=set(re.findall(r'\]\(([^)]+)\)',new))
-              oldtargets=set(re.findall(r'\]\(([^)]+)\)',old or ''))
-              for link in sorted(targets-oldtargets):
-                  if re.match(r'^(?:https?://|mailto:|data:)',link): continue
-                  addr=urllib.parse.unquote(link.split(' "')[0]); rel,sep,frag=addr.partition('#')
-                  target=posixpath.normpath(posixpath.join(posixpath.dirname(path),rel)) if rel else path
-                  if target not in changed and target not in files:
-                      if any(x.startswith(target.rstrip('/')+'/') for x in files): continue
-                      failures.append([path,link,'missing file']); continue
-                  if frag and target.endswith('.md') and frag not in anchors(load(target)):
-                      failures.append([path,link,'missing anchor'])
-          src='sources/摘录/史记-卷018-高祖功臣侯者年表.md'
-          raw=load(src); rows=[]; cells={'text':0,'numeric':0,'empty':0}
-          for line in raw.splitlines():
-              m=re.search(r'id="r(\d{3})"',line)
-              if not m: continue
-              cols=[c.strip() for c in line.strip().strip('|').split('|')]; assert len(cols)==9,(m.group(1),len(cols))
-              cols[0]=re.sub(r'<a[^>]*></a>','',cols[0]).strip()
-              rows.append({'row':int(m.group(1)),'columns':cols})
-              for c in cols[2:8]:
-                  kind='empty' if not c else ('numeric' if re.fullmatch(r'[0-9〇零一二三四五六七八九十百千\s。.,，；;：:]+',c) else 'text')
-                  cells[kind]+=1
-          assert len(rows)==143 and len({r['row'] for r in rows})==143
-          years=[p for p in set(files)|set(changed) if re.fullmatch(r'years/(?:bce|ce)-\d{4}-\d{4}/(?:bce|ce)-\d{4}\.md',p)]
-          report={'base_commit':sha,'applied_payloads':applied,'changed_files':sorted(changed),'year_pages':len(years),'source_rows':len(rows),'source_cells':cells,'new_broken_links':failures,'preserved_anchor_files':preserved,'rows':rows}
-          if not oldreport:
-              wanted=[p for p in files if p.endswith('.md') and (p.startswith(('meta/','sources/摘录/','years/bce-0200-0101/','years/bce-0100-0001/')) or p in ('README.md','years/README.md','sources/README.md') or re.fullmatch(r'years/bce-0300-0201/bce-020[1-9]\.md',p))]
-              with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool: list(pool.map(load,wanted))
-          with zipfile.ZipFile('sj018-review.zip','w',zipfile.ZIP_DEFLATED) as z:
-              z.writestr('audit.json',json.dumps(report,ensure_ascii=False,indent=2))
-              z.writestr('tree.json',json.dumps(tree,ensure_ascii=False))
-              for p,t in {**cache,**changed}.items():
-                  if not p.startswith('.github/'): z.writestr('repo/'+p,t)
-          entries=[{'path':p,'mode':'100644','type':'blob','content':t} for p,t in changed.items()]
-          entries.append({'path':reportpath,'mode':'100644','type':'blob','content':json.dumps(report,ensure_ascii=False,indent=2)+'\n'})
-          t=api('/git/trees',{'base_tree':base,'tree':entries})
-          c=api('/git/commits',{'message':payload.get('message','卷018恢复稿结构核验')+' [skip ci]','tree':t['sha'],'parents':[sha]})
-          current=api('/git/ref/heads/'+urllib.parse.quote(branch,safe='/'))['object']['sha']; assert current==sha,('branch advanced',current)
-          api('/git/refs/heads/'+urllib.parse.quote(branch,safe='/'),{'sha':c['sha'],'force':False},'PATCH')
-          print(json.dumps({'commit':c['sha'],'tree':t['sha'],'changed':len(changed),'years':len(years),'source_cells':cells,'new_broken_links':failures},ensure_ascii=False,indent=2))
-          assert not failures, 'Saved only on work branch; repair reported links before publishing.'
+              if old is not None and path.startswith('years/') and not path.endswith('README.md'):
+                  oldids=set(re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',old));newids=re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',new);assert oldids.issubset(newids),(path,'lost anchors');assert len(newids)==len(set(newids)),(path,'duplicate anchors');preserved.append(path)
+              links=set(re.findall(r'\]\(([^)]+)\)',new))-set(re.findall(r'\]\(([^)]+)\)',old or ''))
+              for link in links:
+                  if re.match(r'^(https?://|mailto:|data:)',link):continue
+                  rel,sep,frag=urllib.parse.unquote(link).partition('#');target=posixpath.normpath(posixpath.join(posixpath.dirname(path),rel)) if rel else path
+                  if target not in files and target not in changed:
+                      if any(x.startswith(target.rstrip('/')+'/') for x in files):continue
+                      failures.append([path,link,'missing file']);continue
+                  if frag and target.endswith('.md') and frag not in anchors(load(target)):failures.append([path,link,'missing anchor'])
+          wanted=[p for p in files if p.endswith('.md') and (p.startswith(('meta/','sources/摘录/','years/bce-0200-0101/','years/bce-0100-0001/')) or p in ('README.md','years/README.md','sources/README.md','years/ce-0001-0100/ce-0022.md','years/ce-0001-0100/README.md') or re.fullmatch(r'years/bce-0300-0201/bce-020[1-9]\.md',p))]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:list(pool.map(load,wanted))
+          report={'baseline':baseline,'event_sha':os.environ['EVENT_SHA'],'changed_files':sorted(changed),'new_broken_links':failures,'preserved_anchor_files':preserved,'result_commit':None,'result_tree':None,'payload_id':payload.get('id')}
+          if changed and not failures:
+              entries=[{'path':p,'mode':'100644','type':'blob','content':t} for p,t in changed.items()]
+              t=api('/git/trees',{'base_tree':base,'tree':entries});c=api('/git/commits',{'message':payload.get('message','卷018文景武帝整合待发布核验'),'tree':t['sha'],'parents':['7c17355b2aad64a5e68d7d2fe6466c14d9159207']})
+              report['result_commit']=c['sha'];report['result_tree']=t['sha']
+              ref='refs/heads/work/sj018-reviewed-20261102'
+              try:api('/git/refs',{'ref':ref,'sha':c['sha']})
+              except urllib.error.HTTPError as e:
+                  if e.code!=422:raise
+                  old=api('/git/ref/heads/work/sj018-reviewed-20261102')['object']['sha'];report['existing_result_branch']=old
+          with zipfile.ZipFile('sj018-reviewed.zip','w',zipfile.ZIP_DEFLATED) as z:
+              z.writestr('audit.json',json.dumps(report,ensure_ascii=False,indent=2));z.writestr('tree.json',json.dumps(tree,ensure_ascii=False))
+              for p,t in {**cache,**changed}.items():z.writestr('repo/'+p,t)
+          print(json.dumps(report,ensure_ascii=False,indent=2));assert not failures,'repair links before publication'
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: sj018-review
-          path: sj018-review.zip
-          if-no-files-found: warn
-          retention-days: 1
+          name: sj018-reviewed
+          path: sj018-reviewed.zip
+          retention-days: 7
