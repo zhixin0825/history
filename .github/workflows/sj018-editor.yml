@@ -21,7 +21,7 @@ jobs:
           BRANCH: work/sj018-completion-20261101
         shell: python
         run: |
-          import os, json, re, base64, urllib.request, urllib.parse, posixpath, time
+          import os, json, re, base64, urllib.request, urllib.parse, posixpath, zipfile, concurrent.futures
           assert os.environ['REPO'] == 'zhixin0825/history'
           repo=os.environ['REPO']; sha=os.environ['EVENT_SHA']; branch=os.environ['BRANCH']
           root='https://api.github.com/repos/'+repo
@@ -79,7 +79,7 @@ jobs:
                   lost=set(re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',old))-set(re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',new))
                   assert not lost,(path,'lost anchors',sorted(lost)); preserved.append(path)
               targets=set(re.findall(r'\]\(([^)]+)\)',new))
-              oldtargets=set(re.findall(r'\]\(([^)]+)\)',old or '')
+              oldtargets=set(re.findall(r'\]\(([^)]+)\)',old or ''))
               for link in sorted(targets-oldtargets):
                   if re.match(r'^(?:https?://|mailto:|data:)',link): continue
                   addr=urllib.parse.unquote(link.split(' "')[0]); rel,sep,frag=addr.partition('#')
@@ -103,7 +103,14 @@ jobs:
           assert len(rows)==143 and len({r['row'] for r in rows})==143
           years=[p for p in set(files)|set(changed) if re.fullmatch(r'years/(?:bce|ce)-\d{4}-\d{4}/(?:bce|ce)-\d{4}\.md',p)]
           report={'base_commit':sha,'applied_payloads':applied,'changed_files':sorted(changed),'year_pages':len(years),'source_rows':len(rows),'source_cells':cells,'new_broken_links':failures,'preserved_anchor_files':preserved,'rows':rows}
-          # The report is kept only on this temporary editorial branch. Main is never changed here.
+          if not oldreport:
+              wanted=[p for p in files if p.endswith('.md') and (p.startswith(('meta/','sources/摘录/','years/bce-0200-0101/','years/bce-0100-0001/')) or p in ('README.md','years/README.md','sources/README.md') or re.fullmatch(r'years/bce-0300-0201/bce-020[1-9]\.md',p))]
+              with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool: list(pool.map(load,wanted))
+          with zipfile.ZipFile('sj018-review.zip','w',zipfile.ZIP_DEFLATED) as z:
+              z.writestr('audit.json',json.dumps(report,ensure_ascii=False,indent=2))
+              z.writestr('tree.json',json.dumps(tree,ensure_ascii=False))
+              for p,t in {**cache,**changed}.items():
+                  if not p.startswith('.github/'): z.writestr('repo/'+p,t)
           entries=[{'path':p,'mode':'100644','type':'blob','content':t} for p,t in changed.items()]
           entries.append({'path':reportpath,'mode':'100644','type':'blob','content':json.dumps(report,ensure_ascii=False,indent=2)+'\n'})
           t=api('/git/trees',{'base_tree':base,'tree':entries})
@@ -111,4 +118,11 @@ jobs:
           current=api('/git/ref/heads/'+urllib.parse.quote(branch,safe='/'))['object']['sha']; assert current==sha,('branch advanced',current)
           api('/git/refs/heads/'+urllib.parse.quote(branch,safe='/'),{'sha':c['sha'],'force':False},'PATCH')
           print(json.dumps({'commit':c['sha'],'tree':t['sha'],'changed':len(changed),'years':len(years),'source_cells':cells,'new_broken_links':failures},ensure_ascii=False,indent=2))
-          assert not failures, 'Editorial content saved on work branch; repair reported links before publishing.'
+          assert not failures, 'Saved only on work branch; repair reported links before publishing.'
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sj018-review
+          path: sj018-review.zip
+          if-no-files-found: warn
+          retention-days: 1
