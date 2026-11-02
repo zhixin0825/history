@@ -1,0 +1,47 @@
+name: SJ020 one-time editorial review
+on:
+  push:
+    branches: [work/sj020-20261102]
+    paths: [.github/workflows/sj020-review.yml, .github/sj020-payload.json]
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Export current baseline and source witnesses
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        shell: python
+        run: |
+          import os,json,base64,urllib.request,urllib.parse,zipfile,concurrent.futures,time
+          assert os.environ['REPO']=='zhixin0825/history'
+          root='https://api.github.com/repos/'+os.environ['REPO']; base='86a6454abf04c88f150b907ca3a95a5a9e7533ac'
+          def api(path):
+              req=urllib.request.Request(root+path,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','User-Agent':'history-editor'})
+              with urllib.request.urlopen(req,timeout=60) as r:return json.load(r)
+          tree=api('/git/trees/'+api('/git/commits/'+base)['tree']['sha']+'?recursive=1');assert not tree['truncated']
+          files=[x for x in tree['tree'] if x['type']=='blob' and x['path'].endswith('.md') and (x['path'].startswith(('years/bce-0200-0101/','years/bce-0100-0001/','years/ce-0001-0100/')) or x['path'] in ['README.md','years/README.md','sources/README.md','meta/README.md','meta/记录/README.md','meta/考证/README.md'] or '卷019' in x['path'])]
+          def load(e):
+              d=api('/git/blobs/'+e['sha']);return 'repo/'+e['path'],base64.b64decode(d['content'])
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:out=dict(pool.map(load,files))
+          pages=['史記/卷020','史記三家註/卷020','漢書/卷017','漢書/卷018','史記/卷110','史記/卷111','史記/卷113','史記/卷114','史記/卷115','漢書/卷006','漢書/卷007','漢書/卷008','漢書/卷009','漢書/卷010','漢書/卷068','漢書/卷066','漢書/卷096上']
+          errors={}
+          for title in pages:
+              url='https://zh.wikisource.org/wiki/'+urllib.parse.quote(title)
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'HistoryChronicleResearch/1.0 (https://github.com/zhixin0825/history; source preservation)'})
+                  with urllib.request.urlopen(req,timeout=40) as r:out['public/'+title.replace('/','-')+'.html']=r.read()
+              except Exception as e:errors[title]=str(e)
+              time.sleep(0.3)
+          out['tree.json']=json.dumps(tree,ensure_ascii=False).encode();out['export.json']=json.dumps({'baseline':base,'files':len(files),'errors':errors},ensure_ascii=False).encode()
+          with zipfile.ZipFile('sj020-baseline.zip','w',zipfile.ZIP_DEFLATED) as z:
+              for p,b in out.items():z.writestr(p,b)
+          print(json.dumps({'files':len(files),'public_errors':errors},ensure_ascii=False))
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sj020-baseline
+          path: sj020-baseline.zip
+          retention-days: 7
