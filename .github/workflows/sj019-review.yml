@@ -4,39 +4,114 @@ on:
     branches: [work/sj019-20261102]
     paths: [.github/workflows/sj019-review.yml, .github/sj019-payload.json]
 permissions:
-  contents: read
+  contents: write
+concurrency:
+  group: sj019-editorial
+  cancel-in-progress: false
 jobs:
   review:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - name: Export sources for editorial reading
+      - name: Apply explicit reviewed Markdown edits and validate
         env:
           GH_TOKEN: ${{ github.token }}
+          EVENT_SHA: ${{ github.sha }}
+          REPO: ${{ github.repository }}
         shell: python
         run: |
-          import urllib.request,urllib.parse,json,base64,zipfile,concurrent.futures
-          data={}; report={}
-          def get(url,token=False):
-              h={'User-Agent':'HistoryChronicle-Editorial/1.0'}
-              if token:h['Authorization']='Bearer '+__import__('os').environ['GH_TOKEN']
-              with urllib.request.urlopen(urllib.request.Request(url,headers=h),timeout=50) as r:return r.read()
-          def wiki(item):
-              key,title=item
-              try:
-                  url='https://zh.wikisource.org/wiki/'+urllib.parse.quote(title)
-                  data[key+'.html']=get(url);report[key]={'url':url,'bytes':len(data[key+'.html'])}
-              except Exception as e:report[key]={'error':str(e)}
-          sources=[('sj019','史記/卷019'),('sj019note','史記三家註/卷019'),('hs016','漢書/卷016'),('hs017','漢書/卷017'),('hs015','漢書/卷015'),('tj012','資治通鑑/卷012'),('tj013','資治通鑑/卷013'),('tj015','資治通鑑/卷015'),('tj016','資治通鑑/卷016'),('sj107','史記/卷107')]
-          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as p:list(p.map(wiki,sources))
-          u='https://api.github.com/repos/zhixin0825/history/git/blobs/e3fdd88dc0dad8e918fb99979f759cf4a17ff144'
-          obj=json.loads(get(u,True));data['01_shiji_full.txt']=base64.b64decode(obj['content'])
-          with zipfile.ZipFile('sj019-sources.zip','w',zipfile.ZIP_DEFLATED) as z:
-              z.writestr('report.json',json.dumps(report,ensure_ascii=False,indent=2))
-              for name,content in data.items():z.writestr(name,content)
-          print(json.dumps(report,ensure_ascii=False,indent=2))
+          import os,json,re,base64,lzma,hashlib,urllib.request,urllib.error,urllib.parse,posixpath,zipfile,concurrent.futures,time
+          assert os.environ['REPO']=='zhixin0825/history'
+          root='https://api.github.com/repos/'+os.environ['REPO']
+          def api(path,data=None,method=None):
+              req=urllib.request.Request(root+path,data=None if data is None else json.dumps(data,ensure_ascii=False).encode(),method=method or ('POST' if data is not None else 'GET'))
+              req.add_header('Authorization','Bearer '+os.environ['GH_TOKEN']);req.add_header('Accept','application/vnd.github+json');req.add_header('User-Agent','sj019-editorial-review')
+              if data is not None:req.add_header('Content-Type','application/json')
+              for i in range(4):
+                  try:
+                      with urllib.request.urlopen(req,timeout=60) as r:return json.load(r)
+                  except urllib.error.HTTPError as e:
+                      if e.code not in (429,500,502,503,504) or i==3:raise
+                      time.sleep(2**i)
+          try:
+              desc=api('/contents/.github/sj019-payload.json?ref='+os.environ['EVENT_SHA']);desc=json.loads(base64.b64decode(desc['content']))
+          except urllib.error.HTTPError as e:
+              if e.code==404:
+                  print('No editorial payload yet. No repository document changed.');raise SystemExit(0)
+              raise
+          raw=b''.join(base64.b64decode(api('/git/blobs/'+sha)['content']) for sha in desc['blobs'])
+          assert hashlib.sha256(raw).hexdigest()==desc['sha256'],'payload checksum mismatch'
+          payload=json.loads(lzma.decompress(raw));baseline=payload['baseline'];assert baseline=='636f7de559de512d3131328fc47fc97ab1c8857f'
+          base=api('/git/commits/'+baseline)['tree']['sha'];tree=api('/git/trees/'+base+'?recursive=1');assert not tree['truncated']
+          files={x['path']:x for x in tree['tree'] if x['type']=='blob'};cache={};changed={};before={}
+          def load(p):
+              if p in changed:return changed[p]
+              if p not in cache:
+                  obj=api('/git/blobs/'+files[p]['sha']);cache[p]=base64.b64decode(obj['content']).decode('utf-8')
+              return cache[p]
+          def blobsha(t):
+              b=t.encode();return hashlib.sha1(('blob '+str(len(b))+'\0').encode()+b).hexdigest()
+          def allowed(p):return p=='README.md' or (p.startswith(('years/','sources/','meta/')) and p.endswith('.md') and '..' not in p.split('/'))
+          for item in payload['files']:
+              p=item['path'];assert allowed(p),p
+              assert files.get(p,{}).get('sha')==item['expected'],(p,'baseline SHA mismatch')
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:list(pool.map(load,[x['path'] for x in payload['files'] if x['expected']]))
+          for item in payload['files']:
+              p=item['path'];old=load(p) if item['expected'] else None;before[p]=old
+              if old is not None:
+                  lines=old.splitlines(True)
+                  for op in reversed(item['ops']):
+                      assert 0<=op['start']<=op['end']<=len(lines),(p,'line range')
+                      lines[op['start']:op['end']]=op['text'].splitlines(True)
+                  new=''.join(lines)
+              else:new=item['text']
+              assert blobsha(new)==item['new_sha'],(p,'result SHA mismatch');changed[p]=new
+          def anchors(t):
+              out=set(re.findall(r'<a\s+(?:id|name)=[\"\x27]([^\"\x27]+)',t));used={}
+              for title in re.findall(r'^#{1,6}\s+(.+?)\s*#*$',t,re.M):
+                  title=re.sub(r'<[^>]*>','',title);title=re.sub(r'\[([^]]+)\]\([^)]*\)',r'\1',title);key=re.sub(r'[^\w\-\s]','',title.lower()).replace(' ','-');n=used.get(key,0);used[key]=n+1;out.add(key+('-'+str(n) if n else ''))
+              return out
+          errors=[];preserved=[];checked=0
+          for p,new in changed.items():
+              old=before[p];ids=re.findall(r'<a\s+(?:id|name)=[\"\x27]([^\"\x27]+)',new)
+              assert len(ids)==len(set(ids)),(p,'duplicate anchor')
+              if old is not None and re.fullmatch(r'years/(?:bce|ce)-\d{4}-\d{4}/(?:bce|ce)-\d{4}\.md',p):
+                  assert set(re.findall(r'<a\s+id=[\"\x27]([^\"\x27]+)',old)).issubset(ids),(p,'lost old anchor');preserved.append(p)
+              for link in set(re.findall(r'\]\(([^)]+)\)',new))-set(re.findall(r'\]\(([^)]+)\)',old or '')):
+                  if re.match(r'^(https?://|mailto:|data:)',link):continue
+                  checked+=1;rel,sep,frag=urllib.parse.unquote(link).partition('#');target=posixpath.normpath(posixpath.join(posixpath.dirname(p),rel)) if rel else p
+                  if target not in changed and target not in files:
+                      if any(x.startswith(target.rstrip('/')+'/') for x in files):continue
+                      errors.append([p,link,'missing file']);continue
+                  if frag and target.endswith('.md') and frag not in anchors(load(target)):errors.append([p,link,'missing anchor'])
+          src=changed['sources/摘录/史记-卷019-惠景间侯者年表.md'];rows=[];counts={'text':0,'numeric':0,'empty':0}
+          for line in src.splitlines():
+              m=re.search(r'id="r(\d{3})"',line)
+              if not m:continue
+              rid=int(m.group(1));cols=[c.strip() for c in line.strip().strip('|').split('|')];width=7 if rid<=3 else (6 if rid<=34 else 5)
+              assert len(cols)==width,(rid,len(cols));rows.append([rid,cols])
+              for c in cols[2:]:counts['empty' if not c else ('numeric' if re.fullmatch(r'[〇零一二三四五六七八九十百千亖0-9\s。.,，；;：:]+',c) else 'text')]+=1
+          assert len(rows)==93 and len({r[0] for r in rows})==93
+          assert counts=={'text':166,'numeric':10,'empty':140},counts
+          allpaths=set(files)|set(changed);years=[p for p in allpaths if re.fullmatch(r'years/(?:bce|ce)-\d{4}-\d{4}/(?:bce|ce)-\d{4}\.md',p)]
+          assert len(years)==705,len(years)
+          report={'baseline':baseline,'changed_files':sorted(changed),'new_relative_links_checked':checked,'errors':errors,'old_anchor_files_preserved':preserved,'year_pages':len(years),'source_rows':93,'source_cells':502,'chronological_cells':counts,'result_commit':None}
+          if not errors:
+              tr=api('/git/trees',{'base_tree':base,'tree':[{'path':p,'mode':'100644','type':'blob','content':t} for p,t in changed.items()]})
+              cm=api('/git/commits',{'message':payload['message'],'tree':tr['sha'],'parents':[baseline]});report['result_commit']=cm['sha'];report['result_tree']=tr['sha']
+              ref='refs/heads/work/sj019-reviewed-20261102'
+              try:api('/git/refs',{'ref':ref,'sha':cm['sha']})
+              except urllib.error.HTTPError as e:
+                  if e.code!=422:raise
+                  report['existing_result_ref']=api('/git/ref/heads/work/sj019-reviewed-20261102')['object']['sha']
+          with zipfile.ZipFile('sj019-reviewed.zip','w',zipfile.ZIP_DEFLATED) as z:
+              z.writestr('audit.json',json.dumps(report,ensure_ascii=False,indent=2))
+              for p,t in changed.items():z.writestr('repo/'+p,t)
+          print(json.dumps(report,ensure_ascii=False,indent=2));assert not errors,'New link failures: keep off main'
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
-          name: sj019-sources
-          path: sj019-sources.zip
+          name: sj019-reviewed
+          path: sj019-reviewed.zip
+          if-no-files-found: ignore
           retention-days: 7
