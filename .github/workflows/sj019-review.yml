@@ -1,0 +1,42 @@
+name: SJ019 one-time editorial review
+on:
+  push:
+    branches: [work/sj019-20261102]
+    paths: [.github/workflows/sj019-review.yml, .github/sj019-payload.json]
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Export sources for editorial reading
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: python
+        run: |
+          import urllib.request,urllib.parse,json,base64,zipfile,concurrent.futures
+          data={}; report={}
+          def get(url,token=False):
+              h={'User-Agent':'HistoryChronicle-Editorial/1.0'}
+              if token:h['Authorization']='Bearer '+__import__('os').environ['GH_TOKEN']
+              with urllib.request.urlopen(urllib.request.Request(url,headers=h),timeout=50) as r:return r.read()
+          def wiki(item):
+              key,title=item
+              try:
+                  url='https://zh.wikisource.org/wiki/'+urllib.parse.quote(title)
+                  data[key+'.html']=get(url);report[key]={'url':url,'bytes':len(data[key+'.html'])}
+              except Exception as e:report[key]={'error':str(e)}
+          sources=[('sj019','史記/卷019'),('sj019note','史記三家註/卷019'),('hs016','漢書/卷016'),('hs017','漢書/卷017'),('hs015','漢書/卷015'),('tj012','資治通鑑/卷012'),('tj013','資治通鑑/卷013'),('tj015','資治通鑑/卷015'),('tj016','資治通鑑/卷016'),('sj107','史記/卷107')]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as p:list(p.map(wiki,sources))
+          u='https://api.github.com/repos/zhixin0825/history/git/blobs/e3fdd88dc0dad8e918fb99979f759cf4a17ff144'
+          obj=json.loads(get(u,True));data['01_shiji_full.txt']=base64.b64decode(obj['content'])
+          with zipfile.ZipFile('sj019-sources.zip','w',zipfile.ZIP_DEFLATED) as z:
+              z.writestr('report.json',json.dumps(report,ensure_ascii=False,indent=2))
+              for name,content in data.items():z.writestr(name,content)
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sj019-sources
+          path: sj019-sources.zip
+          retention-days: 7
