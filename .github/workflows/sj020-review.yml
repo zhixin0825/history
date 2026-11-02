@@ -4,30 +4,98 @@ on:
     branches: [work/sj020-20261102]
     paths: [.github/workflows/sj020-review.yml, .github/sj020-payload.json]
 permissions:
-  contents: read
+  contents: write
+concurrency:
+  group: sj020-one-time-review
+  cancel-in-progress: false
 jobs:
   review:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
     steps:
-      - name: Export additional public source witnesses
+      - name: Apply exact reviewed delta and verify before publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          EVENT_SHA: ${{ github.sha }}
         shell: python
         run: |
-          import urllib.request,urllib.parse,zipfile,json,time
-          pages=['資治通鑑/卷'+str(n).zfill(3) for n in range(17,29)]+['漢書/卷'+x for x in ['039','059','060','073','074','089','097上','098']]+['讀史記十表 (四庫全書本)/卷08','資治通鑑考異/卷01']
-          out={};errors={}
-          for title in pages:
-              try:
-                  req=urllib.request.Request('https://zh.wikisource.org/wiki/'+urllib.parse.quote(title),headers={'User-Agent':'HistoryChronicleResearch/1.0 (source verification)'})
-                  with urllib.request.urlopen(req,timeout=45) as r:out[title.replace('/','-')+'.html']=r.read()
-              except Exception as e:errors[title]=str(e)
-              time.sleep(0.25)
-          with zipfile.ZipFile('sj020-more-sources.zip','w',zipfile.ZIP_DEFLATED) as z:
-              for p,b in out.items():z.writestr('public/'+p,b)
-              z.writestr('public-errors.json',json.dumps(errors,ensure_ascii=False))
-          print(json.dumps({'downloaded':len(out),'errors':errors},ensure_ascii=False))
+          import os,json,base64,urllib.request,urllib.error,urllib.parse,lzma,hashlib,re,posixpath,unicodedata,zipfile,time
+          assert os.environ['REPO']=='zhixin0825/history'
+          root='https://api.github.com/repos/'+os.environ['REPO'];base='86a6454abf04c88f150b907ca3a95a5a9e7533ac'
+          def api(path,data=None):
+              h={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','User-Agent':'sj020-editor'}
+              if data is not None:h['Content-Type']='application/json'
+              req=urllib.request.Request(root+path,data=None if data is None else json.dumps(data,ensure_ascii=False).encode(),headers=h)
+              for i in range(4):
+                  try:
+                      with urllib.request.urlopen(req,timeout=60) as r:return json.load(r)
+                  except urllib.error.HTTPError as e:
+                      if e.code not in [429,500,502,503,504] or i==3:raise
+                      time.sleep(2**i)
+          try:d=api('/contents/.github/sj020-payload.json?ref='+os.environ['EVENT_SHA'])
+          except urllib.error.HTTPError as e:
+              if e.code!=404:raise
+              print('Reviewed payload not yet present; main unchanged.');raise SystemExit(0)
+          desc=json.loads(base64.b64decode(d['content']));packed=b''.join(base64.b64decode(api('/git/blobs/'+sha)['content']) for sha in desc['blobs'])
+          assert hashlib.sha256(packed).hexdigest()==desc['sha256'],'transport checksum'
+          p=json.loads(lzma.decompress(packed));assert p['baseline']==base and p['format']=='line-ops-v1'
+          bt=api('/git/commits/'+base)['tree']['sha'];tree=api('/git/trees/'+bt+'?recursive=1');assert not tree['truncated']
+          files={x['path']:x for x in tree['tree'] if x['type']=='blob'};cache={};changed={};before={};hashes={}
+          def digest(s):
+              b=s.encode();return hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest()
+          def load(path):
+              if path in changed:return changed[path]
+              if path not in cache:
+                  q=api('/git/blobs/'+files[path]['sha']);cache[path]=base64.b64decode(q['content']).decode('utf-8');assert digest(cache[path])==files[path]['sha']
+              return cache[path]
+          def ids(t):return re.findall(r'<a\s+(?:id|name)=[\"\x27]([^\"\x27]+)',t)
+          def anchors(t):
+              out=set(ids(t));used={}
+              for title in re.findall(r'^#{1,6}\s+(.+?)\s*#*$',t,re.M):
+                  title=re.sub(r'<[^>]*>','',title);title=re.sub(r'\[([^]]+)\]\([^)]*\)',r'\1',title)
+                  key=''.join(c for c in title.lower() if c in '-_' or c.isspace() or unicodedata.category(c)[0] in ['L','N','M']).replace(' ','-');n=used.get(key,0);used[key]=n+1;out.add(key+('-'+str(n) if n else ''))
+              return out
+          for w in p['writes']:
+              path=w['path'];assert path.endswith('.md') and (path=='README.md' or path.startswith(('years/','sources/','meta/'))) and '..' not in path.split('/')
+              old=load(path) if path in files else ''
+              assert (files[path]['sha'] if path in files else None)==w['expected_sha'],(path,'baseline mismatch')
+              if 'ops' in w:
+                  a=old.splitlines(keepends=True);last=len(a)
+                  for i,j,t in reversed(w['ops']):
+                      assert 0<=i<=j<=last;last=i;a[i:j]=[t]
+                  new=''.join(a)
+              else:new=w['text']
+              assert digest(new)==w['target_sha'],(path,'result mismatch')
+              assert set(ids(old)).issubset(ids(new)),(path,'lost old anchors')
+              assert len(ids(new))==len(set(ids(new))),(path,'duplicate anchors')
+              changed[path]=new;before[path]=old;hashes[path]=digest(new)
+          failures=[];checked=0
+          for path,new in changed.items():
+              links=set(re.findall(r'\]\(([^)]+)\)',new))-set(re.findall(r'\]\(([^)]+)\)',before[path]))
+              for l in links:
+                  if re.match(r'^(https?://|mailto:|data:)',l):continue
+                  checked+=1;rel,sep,frag=urllib.parse.unquote(l).partition('#');target=posixpath.normpath(posixpath.join(posixpath.dirname(path),rel)) if rel else path
+                  if target not in files and target not in changed:
+                      if any(x.startswith(target.rstrip('/')+'/') for x in files):continue
+                      failures.append([path,l,'missing file']);continue
+                  if frag and frag not in anchors(load(target)):failures.append([path,l,'missing anchor'])
+          src=changed['sources/摘录/史记-卷020-建元以来侯者年表.md'];assert len(re.findall(r'<a id="r\d{3}">',src))==73;assert len(re.findall(r'<a id="s\d{3}">',src))==46
+          year_re=r'years/(?:bce|ce)-[^/]+/(?:bce|ce)-\d{4}\.md';years={x for x in set(files)|set(changed) if re.fullmatch(year_re,x)};newyears=[x for x in changed if x not in files and re.fullmatch(year_re,x)]
+          assert len(years)==739 and len(newyears)==34
+          report={'baseline':base,'event_sha':os.environ['EVENT_SHA'],'payload_sha256':desc['sha256'],'changed_files':sorted(changed),'new_years':sorted(newyears),'year_count':len(years),'new_links_checked':checked,'failures':failures,'file_shas':hashes,'result_commit':None,'result_tree':None}
+          if not failures:
+              t=api('/git/trees',{'base_tree':bt,'tree':[{'path':x,'mode':'100644','type':'blob','content':y} for x,y in changed.items()]})
+              c=api('/git/commits',{'message':p['message'],'tree':t['sha'],'parents':[base]});report['result_commit']=c['sha'];report['result_tree']=t['sha']
+              api('/git/refs',{'ref':'refs/heads/work/sj020-reviewed-20261102','sha':c['sha']})
+          with zipfile.ZipFile('sj020-reviewed.zip','w',zipfile.ZIP_DEFLATED) as z:
+              z.writestr('remote-audit.json',json.dumps(report,ensure_ascii=False,indent=2));z.writestr('local-audit.json',json.dumps(p['local_audit'],ensure_ascii=False,indent=2))
+              for path,text in changed.items():z.writestr('repo/'+path,text)
+          print(json.dumps({k:v for k,v in report.items() if k not in ['changed_files','file_shas','new_years']},ensure_ascii=False,indent=2));assert not failures
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
-          name: sj020-more-sources
-          path: sj020-more-sources.zip
+          name: sj020-reviewed
+          path: sj020-reviewed.zip
+          if-no-files-found: ignore
           retention-days: 7
