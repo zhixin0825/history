@@ -536,8 +536,8 @@
       {
         "block_index": 1,
         "local_anchor": "cited-1",
-        "text": "魏惠王 （前400年—前319年），本名 魏 .mw-parser-output ruby.zy{text-align:justify;text-justify:none}.mw-parser-output ruby.zy>rp{user-select:none}.mw-parser-output ruby.zy>rt{font-feature-settings:\"ruby\"1;font-size:90%;user-select:none}.mw-parser-output ruby.zy>rt+rt{padding-left:0.15em} 罃 （ yīng ） ，一作 魏嬰 ， 魏武侯 之子，生於 魏文侯 二十五年（前400年），全谥为 魏文惠王 或 魏惠成王 [ 1 ] [ 2 ] ，通稱 魏惠王 ， 戰國時期 魏國 的第三代 君主 ，在位期間為前370年－前319年。 [ 註 1 ]",
-        "sha256": "e2325a9be58b35b1cfeda7d091af31a9cb661a9f6804ed44e25f39e76b266a79"
+        "text": "魏惠王 （前400年—前319年），本名 魏 罃 （ yīng ） ，一作 魏嬰 ， 魏武侯 之子，生於 魏文侯 二十五年（前400年），全谥为 魏文惠王 或 魏惠成王 [ 1 ] [ 2 ] ，通稱 魏惠王 ， 戰國時期 魏國 的第三代 君主 ，在位期間為前370年－前319年。 [ 註 1 ]",
+        "sha256": "d0c17c94e8a319e464c6a0af17a1348cb8d4c4fc5b109c7e1e2de1f0161970e1"
       },
       {
         "block_index": 4,
@@ -576,7 +576,8 @@
         "sha256": "6df963463ffd778479cb703bcfea0324cff9f7b1103fa0e4f7e641ba0aad237e"
       }
     ],
-    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。",
+    "evidence_text_sanitization": "核对证据按所选段落的文字节点提取，排除 style/script 与编辑控件；图片及其 alt 不作为历史正文证据。可读页的“图像未收录：…”属于整理提示，可能包含原 alt，与证据文字的比较须排除此提示。证据 sha256 计算清洁后文字的 UTF-8，原始主槽与官方解析 HTML 的散列不变。"
   },
   "transformations": [
     "Styles, scripts, editing UI and active external links removed from readable derivative",
