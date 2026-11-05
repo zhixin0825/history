@@ -18,7 +18,7 @@
     "stored_form": "parse API text.* encoded UTF-8, not HTTP response rawbytes"
   },
   "readable_file": "sources/补充阅读/汉书-卷019-维基文库9347363-完整读本.md",
-  "readable_sha256": "315ae4a72b6424f678bdd9632e2282f5d08956333999273458be30f260284736",
+  "readable_sha256": "9ae2da5bd878b66263d67d3212b8b3911779104505a485c51011e69d7e0b94d1",
   "historical_mapping_file": "meta/来源/原始记录/2026-11-05-引用本地化映射.json",
   "historical_mapping_sha256": "248d1ddd11917b39450d06f4255099e20836778d55054456a005d8759db6998e",
   "historical_mapping_count": 3346,
@@ -8168,16 +8168,12 @@
       "label": "《百官公卿表》诸侯王条",
       "historical_target": "sources/本地引用/漢書-卷019.md#ref-931aabdf29ddf9",
       "historical_relative_url": "../../sources/%E6%9C%AC%E5%9C%B0%E5%BC%95%E7%94%A8/%E6%BC%A2%E6%9B%B8-%E5%8D%B7019.md#ref-931aabdf29ddf9",
-      "current_target": "../../sources/%E8%A1%A5%E5%85%85%E9%98%85%E8%AF%BB/%E6%B1%89%E4%B9%A6-%E5%8D%B7019-%E7%BB%B4%E5%9F%BA%E6%96%87%E5%BA%939347363-%E5%AE%8C%E6%95%B4%E8%AF%BB%E6%9C%AC.md#ws019-bce-0145",
-      "source_target": "sources/补充阅读/汉书-卷019-维基文库9347363-完整读本.md#ws019-bce-0145",
+      "current_target": "../../sources/%E8%A1%A5%E5%85%85%E9%98%85%E8%AF%BB/%E6%B1%89%E4%B9%A6-%E5%8D%B7019-%E7%BB%B4%E5%9F%BA%E6%96%87%E5%BA%939347363-%E5%AE%8C%E6%95%B4%E8%AF%BB%E6%9C%AC.md#ws019-section-35",
+      "source_target": "sources/补充阅读/汉书-卷019-维基文库9347363-完整读本.md#ws019-section-35",
       "source_revision": 9347363,
       "version_relation": "actual_acquired_current_wikisource_revision; not identical to prior CCDH or an unrecorded earlier revision",
       "coverage_status": "alternate_witness_context_covered; original_edition_identity_not_asserted",
-      "year_context": {
-        "emperor": "孝景",
-        "original_year_label": "五",
-        "empty_official_cells": false
-      }
+      "coverage_note": "原引用明确指诸侯王制度段，按制度章而非文件年份定位"
     },
     {
       "path": "years/bce-0200-0101/bce-0146.md",
