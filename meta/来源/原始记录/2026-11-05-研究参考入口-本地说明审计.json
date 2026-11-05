@@ -72,33 +72,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://aclanthology.org/2020.lrec-1.98/",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:22 GMT",
-          "Server": "Apache/2.4.41 (Ubuntu)",
-          "Last-Modified": "Thu, 05 Nov 2026 01:57:29 GMT",
-          "ETag": "\"b041-65f7dd1691c98\"",
-          "Accept-Ranges": "bytes",
-          "Content-Length": "45121",
-          "Connection": "close",
-          "Content-Type": "text/html; charset=utf-8"
-        },
         "truncated": false,
         "bytes": 45121,
         "sha256": "e5b373a3ca90f2088730f93bfb1ac766561ae573f91ba315596f6a410dd3e728",
-        "cache_path": ".recovery/completion-research-audit/http-cache/1dd67f577a1bebe0.html",
         "title": "Corpus of Chinese Dynastic Histories: Gender Analysis over Two Millennia - ACL Anthology",
-        "rights_and_metadata_candidates": [
-          "ipt><link rel=stylesheet href=/css/academicons.min.css></noscript><meta content=\"Corpus of Chinese Dynastic Histories: Gender Analysis over Two Millennia\" name=citation_title><meta content=\"Sergey Zinin\" name=citation_author><meta content=\"Yang Xu\" name=citation_author><meta content=\"Proceedings of the Twelfth Language Resources and Evaluation Conference\" name=citation_conference_title><meta content=\"2020/5\" name=citation_publicat",
-          "ion_date><meta content=\"https://aclanthology.org/2020.lrec-1.98.pdf\" name=citation_pdf_url><meta content=\"785\" name=citation_firstpage><meta content=\"793\" name=citation_lastpage><meta property=\"og:title\" content=\"Corpus of Chinese Dynastic Histories: Gender Analysis over Two Millennia\"><meta property=\"og:image\" content=\"https://aclanthology.org/thu",
-          "tem href=/faq/news/>Communication channels</a></li><li><a class=dropdown-item href=/faq/related-work/>Related work</a></li><li><a class=dropdown-item href=/faq/copyright/>Copyright</a></li><li><hr class=dropdown-divider></li><li><a class=dropdown-item href=/info/credits/>Credits</a></li><li><a class=dropdown-item href=/faq/volunteer/>Volunteer</a></li><li><a class=dropdown-item href=/info/development/>Development</a></li><li>",
-          "corpus of these histories, making Classical Chinese low-resource. This project introduces a new open-source corpus of twenty-four dynastic histories covered by Creative Commons license. An original list of Classical Chinese gender-specific terms was developed as a case study for analyzing the historical linguistic use of male and female terms. The study demonstrates considerable stability in the usage of these terms, with dominance ",
-          "r class=\"bg-light bg-gradient py-2 py-xl-3 mt-3 mt-md-4 mt-xl-5\"><div class=container><p class=\"text-muted small px-1\"><span class=\"float-end mt-2 ms-2\"><a rel=license href=http://creativecommons.org/licenses/by/4.0/><img alt=\"Creative Commons License\" style=border-width:0 src=https://i.creativecommons.org/l/by/4.0/88x31.png></a></span>",
-          "ACL materials are Copyright ©&nbsp;1963&ndash;2026 ACL; other materials are copyrighted by their respective copyright holders. Materials prior to 2016 here are licensed under the <a href=https://creativecommons.org/licenses/by-nc-sa/3.0/>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License</a>. Permission is granted to make copies for the purposes of teaching and research. Materials published in o",
-          "r after 2016 are licensed on a <a href=https://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License</a>.</p><p class=\"text-muted small px-1\">The ACL Anthology is managed and built by the <a href=/info/credits/>ACL Anthology team</a> of volunteers.</p><p class=\"text-muted small px-1\"><i>Site last built on 05 November 2026 at 01:50 UTC with <a href=https://gi"
-        ],
-        "pdf_links": [
-          "https://aclanthology.org/2020.lrec-1.98.pdf"
-        ],
         "text_length": 14416
       },
       "confidence": "high_original_pdf_and_specific_license"
@@ -151,29 +128,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E3%80%8A%E7%A7%A6%E5%A7%8B%E7%9A%87%E3%80%8B/6164",
-        "headers": {
-          "Content-Length": "876703",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=BC6F18FF7FEEB0BEF2EE99F9610FE75C:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "1794028552",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 876703,
         "sha256": "5808a68fe12ceac233e222a7f82622f87d3cfc47d3d3232516971aa5dc47da87",
-        "cache_path": ".recovery/completion-research-audit/http-cache/57f5e9b11828c3ab.html",
         "title": "秦始皇（中国历史上第一个称皇帝的君主，秦朝建立者）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 26953
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -226,28 +184,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E4%BC%8A%E5%B0%B9%E6%94%BE%E5%A4%AA%E7%94%B2/1980941?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "173678",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=BC6F18FF7FEEB0BE7F079473B6CEB890:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 173678,
         "sha256": "e9dff877e3819f2aab783c6e4716a00bcc334bafa706d19df85f8f52edb5abfb",
-        "cache_path": ".recovery/completion-research-audit/http-cache/1276d662c9fc9a38.html",
         "title": "伊尹放太甲_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 3533
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -319,29 +259,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E4%BD%99%E7%A5%AD/0?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "112811",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=BC6F18FF7FEEB0BE975397AA4A05F807:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 112811,
         "sha256": "0ec46b86a94820eee76eae161b0cd4441c69b3042fd3b17d8bbc59b6b1f13042",
-        "cache_path": ".recovery/completion-research-audit/http-cache/c8508aa9f8464627.html",
         "title": "余祭_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 1166
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -394,28 +315,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%88%98%E5%90%AF/1629700",
-        "headers": {
-          "Content-Length": "392902",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=049DD2E91F0E3E012634FE320BF1E0A1:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 392902,
         "sha256": "8ebae006ade74815d47cd1d4f324ab0810b9ffe9f47cc3e2f8024c5d4fd324d5",
-        "cache_path": ".recovery/completion-research-audit/http-cache/a1060a7bc153a3ce.html",
         "title": "刘启（西汉第六位皇帝）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 11280
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -468,28 +371,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%88%98%E5%BD%BB/477056",
-        "headers": {
-          "Content-Length": "994083",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=049DD2E91F0E3E019E5AEE4F229CBE55:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 994083,
         "sha256": "2111c4de6cb269d90517ea9302d4764a3d6e1f30833503019e1cf68ca7bbe49a",
-        "cache_path": ".recovery/completion-research-audit/http-cache/b125aedc23bd196b.html",
         "title": "刘彻（西汉第七位皇帝，中国历史上的政治家、军事家、战略家、文学家）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 46554
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -542,28 +427,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%88%98%E6%81%92/657",
-        "headers": {
-          "Content-Length": "515597",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=049DD2E91F0E3E018CC9A2A46E8DA6A2:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 515597,
         "sha256": "4a2b4647e94070bcf432bcd0e1dba22f74e168de7c7773c40c545b190a61d78d",
-        "cache_path": ".recovery/completion-research-audit/http-cache/d4da5532c44f6e79.html",
         "title": "刘恒（汉朝第五位皇帝）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 18389
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -616,28 +483,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%88%98%E9%82%A6/129493",
-        "headers": {
-          "Content-Length": "1694126",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=742D29BD1E79FFFD14076BE2B13289A1:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 1694126,
         "sha256": "e78bcee53c1875a315059ff0468afa03ec4a0ee60791be1d97541b94b8f716da",
-        "cache_path": ".recovery/completion-research-audit/http-cache/073847758bddc6d4.html",
         "title": "刘邦（西汉开国皇帝，政治家、战略家和军事家）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 51814
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -690,29 +539,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%90%95%E9%9B%89/85327",
-        "headers": {
-          "Content-Length": "878161",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=BC6F18FF7FEEB0BEAA9F36BB3DD82A70:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 878161,
         "sha256": "982b714a24a202ce3eb88860ac8d8e70c2242a79c35ce3720617c49247e15e6a",
-        "cache_path": ".recovery/completion-research-audit/http-cache/247f4b1ce7585863.html",
         "title": "吕雉（西汉初年女政治家，汉高帝刘邦之妻）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "B0/7241314?fromModule=lemma_inlink\" target=\"_blank\" data-from-module=\"\">吕台</a></span><span class=\"text_ePhio J-lemma-content-lemma-text\" data-text=\"true\">为吕王，吕雉许可。</span><span class=\"supWrap_x_d9A J-supWrap J-lemma-content-lemma-sup-item\"><sup data-tag=\"ref\"> [252-254]<em id=\"sup-252\" data-ctrid=\"vywOgfk0scoR\"></em><em id=\"sup-253\"></em><em id=\"sup-254\"></em></sup></span><span class=\"text_ePhio J-lemma-content-lemma-te",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 24711
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -765,28 +595,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%95%86%E9%9E%85%E5%8F%98%E6%B3%95/104551?fromModule=lemma",
-        "headers": {
-          "Content-Length": "244827",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=BC6F18FF7FEEB0BE73B9C184D6A1B361:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 244827,
         "sha256": "b360e45d45fe3abffd0306477d8837721cc350500c3538794caec10cf5d027e9",
-        "cache_path": ".recovery/completion-research-audit/http-cache/8216ff0546c14ce6.html",
         "title": "商鞅变法（中国战国时期秦国的制度变革活动）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 4790
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -839,28 +651,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%A4%8F%E5%95%86%E5%91%A8%E5%B9%B4%E8%A1%A8/10945006?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "143600",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=BC6F18FF7FEEB0BEEF3F04D6494CA364:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 143600,
         "sha256": "a6937551b773ad04cbed4d2c2ab39250b3881e1d874de3ce01cb06e175e9c13d",
-        "cache_path": ".recovery/completion-research-audit/http-cache/94b8a7dea8af09e2.html",
         "title": "夏商周年表_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 2701
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -913,29 +707,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%A4%8F%E5%95%86%E5%91%A8%E6%96%AD%E4%BB%A3%E5%B7%A5%E7%A8%8B/0?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "267145",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=049DD2E91F0E3E0199A89BE6BCE4AB78:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "1813202538",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 267145,
         "sha256": "ff4a2e1a9c0c0e551ceb3a420a1fc62590e43111cc97af3e565e1cb6abb444ef",
-        "cache_path": ".recovery/completion-research-audit/http-cache/3425ce2eaac8a25f.html",
         "title": "夏商周断代工程_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 12339
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -986,28 +761,10 @@
         "checked_utc": "2026-11-05T10:32:28Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%B0%91%E5%BA%B7%E4%B8%AD%E5%85%B4/1390650?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "138608",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:28 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=049DD2E91F0E3E014F2B7874204BC282:FG=1; expires=Fri, 05-Nov-27 10:32:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 138608,
         "sha256": "ea576311207e92b1ea6c19a00daad1361015a7ec0ea9f44b0edffee826fb6d76",
-        "cache_path": ".recovery/completion-research-audit/http-cache/967c6ee4db3d03f4.html",
         "title": "少康中兴_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 2628
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1060,29 +817,10 @@
         "checked_utc": "2026-11-05T10:32:31Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%B0%91%E7%BF%81/6816988?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "179236",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:43 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=81E73912DB68581B6804D410A19870FA:FG=1; expires=Fri, 05-Nov-27 10:32:43 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 179236,
         "sha256": "5e81b7cf25a3718130ee96bd086114150323a7246dbfa2857866c756c880b73a",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5323a0a494344f1b.html",
         "title": "少翁_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 5869
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1133,28 +871,10 @@
         "checked_utc": "2026-11-05T10:32:36Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%B8%9D%E6%8C%9A/2451806?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "157831",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:53 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=D2C81B7771E30D970F1AAC595D7B6731:FG=1; expires=Fri, 05-Nov-27 10:32:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 157831,
         "sha256": "64f64762fc0f3e2eaef07b9d2826d7f86f238f349b2579e5308f55503b805d0d",
-        "cache_path": ".recovery/completion-research-audit/http-cache/1432f53874d9c3e5.html",
         "title": "帝挚_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 1410
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1209,28 +929,10 @@
         "checked_utc": "2026-11-05T10:32:36Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E5%BC%A0%E7%A6%B9/17571",
-        "headers": {
-          "Content-Length": "195630",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:32:53 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=1CEB47DBDA9A1ABCE551B560EDAFE211:FG=1; expires=Fri, 05-Nov-27 10:32:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 195630,
         "sha256": "17de7350c1600489473ea31c4fea951e5327d27f346b5adb319085a342b9b523",
-        "cache_path": ".recovery/completion-research-audit/http-cache/ce89b17a21dbe8b8.html",
         "title": "张禹（西汉大臣）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 5627
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1285,29 +987,10 @@
         "checked_utc": "2026-11-05T10:32:42Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E6%97%A0%E5%BD%8A/16604711?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "122126",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:33:02 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=6F1C373A38DABB15EC23C45D6EF7F1A5:FG=1; expires=Fri, 05-Nov-27 10:33:02 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 122126,
         "sha256": "64dc7b5529734f053ce2c9e4bcd3b76a6f45fc181b9fda2e613903a781962269",
-        "cache_path": ".recovery/completion-research-audit/http-cache/6dc7dae3e885dba1.html",
         "title": "无彊_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 2274
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1379,29 +1062,10 @@
         "checked_utc": "2026-11-05T10:32:42Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E6%99%8B%E6%98%AD%E4%BE%AF/1276054",
-        "headers": {
-          "Content-Length": "106040",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:33:02 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=A702671A95BFD24EDC825B2BC8E468CF:FG=1; expires=Fri, 05-Nov-27 10:33:02 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 106040,
         "sha256": "5e8d50ead5ba29ace7f2f2db66bc0c2a8d7074524fae0c5dca4b703ad173ca58",
-        "cache_path": ".recovery/completion-research-audit/http-cache/9f2058bd6f891664.html",
         "title": "晋昭侯_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 1301
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1454,29 +1118,10 @@
         "checked_utc": "2026-11-05T10:32:47Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E6%B1%89%E5%85%B4%E4%BB%A5%E6%9D%A5%E8%AF%B8%E4%BE%AF%E7%8E%8B%E5%B9%B4%E8%A1%A8/2391771?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "171698",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:33:40 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=0231AA3A40992729EE608678E34854BD:FG=1; expires=Fri, 05-Nov-27 10:33:40 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 171698,
         "sha256": "8bed456d698ff3523c7e2a7d62a8f820d0f2840386e3122af52c822de27104e4",
-        "cache_path": ".recovery/completion-research-audit/http-cache/1649baed72dbbff2.html",
         "title": "汉兴以来诸侯王年表_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 7892
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1579,29 +1224,10 @@
         "checked_utc": "2026-11-05T10:33:02Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E7%A7%A6%E5%AE%AA%E5%85%AC/0?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "131645",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:33:40 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=F8662C048523E023CBBFCCD94AB6E48C:FG=1; expires=Fri, 05-Nov-27 10:33:40 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 131645,
         "sha256": "5d562e10e0e7ba074ddce8ff65bf267b556ea19cfa303661d4a9c38cb7450ce5",
-        "cache_path": ".recovery/completion-research-audit/http-cache/bb4c02eee9f0c13c.html",
         "title": "秦宪公_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 1861
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1654,28 +1280,10 @@
         "checked_utc": "2026-11-05T10:33:19Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E7%A7%A6%E6%A5%9A%E4%B9%8B%E9%99%85%E6%9C%88%E8%A1%A8/2391677?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "655413",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:33:40 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=F8662C048523E0234A67F5CE4A806532:FG=1; expires=Fri, 05-Nov-27 10:33:40 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 655413,
         "sha256": "3201e84da06d8889cca657d4343a993ad284c95fc5a510d14b743328fd25b27d",
-        "cache_path": ".recovery/completion-research-audit/http-cache/168a2b7f6c8b0890.html",
         "title": "秦楚之际月表_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 11194
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1729,28 +1337,10 @@
         "checked_utc": "2026-11-05T10:33:19Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E8%A5%BF%E6%A5%9A/3745853",
-        "headers": {
-          "Content-Length": "214438",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:33:42 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=AF587904BA2F44D5E896841BBFD1E3A0:FG=1; expires=Fri, 05-Nov-27 10:33:42 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 214438,
         "sha256": "bf54c53b5c826278732ca98aa4aafd771ec9cee1528907c2bc7c018dd0250fa6",
-        "cache_path": ".recovery/completion-research-audit/http-cache/e4d8a5943e04f21c.html",
         "title": "西楚（秦汉之间项羽建立的政权）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 2874
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1824,28 +1414,10 @@
         "checked_utc": "2026-11-05T10:33:40Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E9%83%91%E6%A1%93%E5%85%AC/8678929",
-        "headers": {
-          "Content-Length": "164791",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:34:00 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=D73318DD7FCC00A2E2E971E7A3540BE6:FG=1; expires=Fri, 05-Nov-27 10:34:00 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 164791,
         "sha256": "d2983e282f38177cef2a4109e3ae21ebbbc9a5e89d17dfa640524eef31d9c5d9",
-        "cache_path": ".recovery/completion-research-audit/http-cache/bbc0d1f8cd234fa4.html",
         "title": "郑桓公_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 3556
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1916,29 +1488,10 @@
         "checked_utc": "2026-11-05T10:33:40Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E9%99%88%E6%83%A0%E5%85%AC/0?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "122984",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:34:00 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=4483227DF8DBA8AC83BDE5F485C4D44E:FG=1; expires=Fri, 05-Nov-27 10:34:00 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 122984,
         "sha256": "fb23dcd5651d374fc5ef74d929d931d6723128bd18ea0bd17f289eee828844e9",
-        "cache_path": ".recovery/completion-research-audit/http-cache/b13539fd67108804.html",
         "title": "陈惠公_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 1786
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -1991,28 +1544,10 @@
         "checked_utc": "2026-11-05T10:33:40Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E9%A1%B9%E7%BE%BD/7005?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "1095590",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:34:03 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=6814F8915A21E895D5A18591B2CAB680:FG=1; expires=Fri, 05-Nov-27 10:34:03 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 1095590,
         "sha256": "12550fe052907e3666c811438aed5da058a0857fd1a53aae3cafacbc160491d7",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5561607577824f42.html",
         "title": "项羽（中国古代著名军事家，西楚霸王）_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 27536
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2066,28 +1601,10 @@
         "checked_utc": "2026-11-05T10:33:40Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E9%AB%98%E7%A5%96%E5%8A%9F%E8%87%A3%E4%BE%AF%E8%80%85%E5%B9%B4%E8%A1%A8/2391880?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "585895",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:34:03 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=E813099E5D8528F400E8DB7BF4385E59:FG=1; expires=Fri, 05-Nov-27 10:34:03 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 585895,
         "sha256": "58f84b58657baad15a3a3bff3120af2173869d80a537d3e6a88e6a12a22954aa",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5931289c96ab02ec.html",
         "title": "高祖功臣侯者年表_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 21860
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2142,28 +1659,10 @@
         "checked_utc": "2026-11-05T10:33:42Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E9%AD%8F%E6%83%A0%E7%8E%8B/0?fromModule=lemma_inlink",
-        "headers": {
-          "Content-Length": "502193",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:34:03 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=6814F8915A21E8953996F00633C8F963:FG=1; expires=Fri, 05-Nov-27 10:34:03 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 502193,
         "sha256": "067667de22d1fed30b21a509bc732f040a3e07c3a6c6f6070dea81fe6ef7d35b",
-        "cache_path": ".recovery/completion-research-audit/http-cache/787e690b1c213679.html",
         "title": "魏惠王_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 17880
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2238,29 +1737,10 @@
         "checked_utc": "2026-11-05T10:33:44Z",
         "status": 200,
         "final_url": "https://bkso.baidu.com/item/%E9%B2%81%E5%AD%9D%E5%85%AC/0",
-        "headers": {
-          "Content-Length": "121719",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:34:12 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=9A0B2A86C268BFB8C90F0C7193395752:FG=1; expires=Fri, 05-Nov-27 10:34:12 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Cache-Expired-At": "0",
-          "X-Data-Version": "1.0.178.2",
-          "X-Ssr-Render-Version": "1.0.330.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 121719,
         "sha256": "0e3a3390ae54a6f33c8e7bc8a8a910c3bd6c9d3fff31a7098c6d521686b08fba",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5a536c2b9c266984.html",
         "title": "鲁孝公_百度百科",
-        "rights_and_metadata_candidates": [
-          "-5aaa-87ee-a4b681a8122a type=\"text/css\">.index-module_pageHeader__jSG5w{background:#fff}</style><style id=49bec857-be5e-5a08-91f9-142c8deda1d6 type=\"text/css\">.copyright{color:#333;font-size:12px;text-align:center}.copyright a{color:#338de6;-webkit-text-decoration:none;text-decoration:none}.copyright .copyright-img{border:0;display:inline-block;vertical-align:text-bottom}.copyright .recordcode{height:16px;line-height:16px;pad",
-          "ding-top:6px;text-align:center}.copyright .recordcode .icon-police{background:url(https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/icon-police_5f07082.png) 0 0 no-repeat;display:inline-block;height:16px;margin-right:6px;margin-top:-4px;vertical-align:middle;width:14px}</style><s",
-          "oreferrer\">投诉侵权信息</a><a target=\"_blank\" href=\"http://help.baidu.com/newadd?prod_id=10&amp;category=5\" rel=\"noreferrer\">封禁查询与解封</a></div></div></div><div class=\"copyright\"><p>©2026 Baidu <a href=\"http://www.baidu.com/duty/\" target=\"_blank\" rel=\"noreferrer\">使用百度前必读</a> | <a href=\"http://help.baidu.com/question?prod_en=baike&amp;class=89&amp;id=1637\" target=\"_blank\" rel=\"noreferrer\">百科协议</a> | <a href=\"http://help.baidu.com/ques",
-          "href=\"/operation/cooperation\" target=\"_blank\">百度百科合作平台</a> | <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer\">京ICP证030173号 </a><img class=\"copyright-img\" width=\"13\" height=\"16\" src=\"https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png\"/></p><p class=\"recordcode\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001\" target=\"_blank\" rel=\"noreferrer\""
-        ],
-        "pdf_links": [],
         "text_length": 1608
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2311,31 +1791,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://books.google.com.sg/books?id=Yk6yQQAACAAJ&redir_esc=y",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:21 GMT",
-          "Expires": "Thu, 05 Nov 2026 10:30:21 GMT",
-          "Cache-Control": "private, max-age=0",
-          "X-Frame-Options": "SAMEORIGIN",
-          "X-XSS-Protection": "1; mode=block",
-          "Strict-Transport-Security": "max-age=604800",
-          "Content-Type": "text/html; charset=ISO-8859-1",
-          "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
-          "X-Content-Type-Options": "nosniff",
-          "Server": "OFE/0.1",
-          "Set-Cookie": "NID=CuUBCAESlwEBM9Agl_1kLtiKBBNpH6-lXnqt8LZfbbXL4PpjA2XG6kKRnG-kJ1aTziN3J9dx1IVAt9bApy_835tC_tbYJLkwQ8VMX_L7Y3GOVqUPDhhHFdThScmAm0IVtPqNxqbADtqCFGeDiOX-Ws2N5Rt-nC4ogBHm11pTZ8CqHoCepC14ZVQJRSn6t7JuQbGmBuMFyaHIP9d60gRZKAEyRQFwSkLP-zYKq88TEh2hj0ZUMlDbz4VCLDPw6wMDLTlZkszcmPfenCI7W-m9vHXh-fbbLIOA66tnAjI2FwY4Pw3VQuTZAQ; expires=Fri, 07-May-2027 10:30:21 GMT; path=/; domain=.google.com.sg; HttpOnly",
-          "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "Accept-Ranges": "none",
-          "Vary": "Accept-Encoding",
-          "Connection": "close",
-          "Transfer-Encoding": "chunked"
-        },
         "truncated": false,
         "bytes": 18825,
         "sha256": "182a8c04cceedb0ab76e297648fee21bb7d42be2ad4bf2d80f533680d4b3aa33",
-        "cache_path": ".recovery/completion-research-audit/http-cache/da12437a199d417b.html",
         "title": "资治通鉴/第二十册/卷二百八十五至二百九十四后晋齐王开运二年乙巳八月起后周世宗 ... - 司马光 - Google Books",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 861
       },
       "confidence": "bibliographic_metadata_only"
@@ -2386,35 +1845,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://ccj.pku.edu.cn/Article/info?aid=271015579",
-        "headers": {
-          "Server": "nginx",
-          "Date": "Thu, 05 Nov 2026 10:30:22 GMT",
-          "Content-Type": "text/html; charset=utf-8",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Cache-Control": "no-cache, no-store",
-          "Content-Language": "en-US",
-          "Pragma": "no-cache",
-          "Set-Cookie": ".AspNetCore.Antiforgery.Ocm5m4H9DKY=CfDJ8ApI5N5wcOBOkFpU8Nwktl5Ws5mLDBWfJfg2I2GQFXn2pHQlJ1Okf6OOJylIDRBKmazMrWOPc3IoK8fh3m7qK26h5QDxOGOIH8BBDotkfNCzgOFEejohdm6utUt0T5fSxZqd9QmdP3LW6JYQhEa9aG8; path=/; samesite=strict; httponly",
-          "Content-Security-Policy": "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://hm.baidu.com https://tjs.sjs.sinajs.cn; img-src 'self' data: https://hm.baidu.com; font-src 'self' data: https://at.alicdn.com",
-          "X-Content-Type-Options": "nosniff",
-          "X-Frame-Options": "SAMEORIGIN",
-          "X-XSS-Protection": "1; mode=block",
-          "X-Download-Options": "noopen",
-          "X-Permitted-Cross-Domain-Policies": "none",
-          "Permissions-Policy": "geolocation=(self)",
-          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
-        },
         "truncated": false,
         "bytes": 72892,
         "sha256": "4df0790454b4b91d088f81e4144f44c84187b74d09e2a0a94c59cab4f4ab1071",
-        "cache_path": ".recovery/completion-research-audit/http-cache/515d705585d20493.html",
         "title": "主父偃献策推恩与汉武帝下推恩令应为元朔二年辨",
-        "rights_and_metadata_candidates": [
-          "                    <!-- 版权声明 -->\r",
-          "                    ©2012-2023 北京大学 版权所有<br>\r"
-        ],
-        "pdf_links": [],
         "text_length": 3214
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2465,22 +1899,9 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://ccsndb.ncl.edu.tw/nclccs/pdf/01_033_001_01_01.pdf",
-        "headers": {
-          "Content-Type": "application/pdf",
-          "Content-Length": "1616347",
-          "Connection": "close",
-          "Date": "Thu, 05 Nov 2026 10:30:21 GMT",
-          "Server": "Apache",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Last-Modified": "Thu, 28 May 2015 03:35:59 GMT",
-          "Accept-Ranges": "bytes",
-          "Content-Security-Policy": "default-src 'self';script-src 'self' 'unsafe-eval' 'nonce-rAnd0m' 'sha256-3N60FuqeqIV2qy++ny1L2Bpa+tZYPkXr2vvbYocG1FU=' 'unsafe-hashes' 'unsafe-inline' ajax.googleapis.com ;img-src 'self' data:;style-src 'self' 'unsafe-eval' 'unsafe-inline';font-src 'self' 'unsafe-eval' 'unsafe-inline' ;connect-src 'self';frame-src 'self'; frame-ancestors 'self';media-src 'self';object-src 'self';manifest-src 'self';form-action 'self';",
-          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
-        },
         "truncated": false,
         "bytes": 1616347,
-        "sha256": "9363bc5f14f7fbba4429b0682c0149a1e33b5cbf332cf4b6124f34a346fcea70",
-        "cache_path": ".recovery/completion-research-audit/http-cache/920b6c1491bb02b4.pdf"
+        "sha256": "9363bc5f14f7fbba4429b0682c0149a1e33b5cbf332cf4b6124f34a346fcea70"
       },
       "confidence": "current_original_content_and_existing_project_commentary"
     },
@@ -2551,31 +1972,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://chu.yangtzeu.edu.cn/info/1009/1554.htm",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:22 GMT",
-          "Server": "**********",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Last-Modified": "Mon, 03 Nov 2025 17:43:21 GMT",
-          "Accept-Ranges": "bytes",
-          "Content-Length": "169089",
-          "Cache-Control": "max-age=600",
-          "Expires": "Thu, 05 Nov 2026 10:40:22 GMT",
-          "Vary": "Accept-Encoding",
-          "ETag": "\"29481-642b44059959f-gzip\"",
-          "Connection": "close",
-          "Content-Type": "text/html",
-          "Content-Language": "zh-CN"
-        },
         "truncated": false,
         "bytes": 169089,
         "sha256": "83c9db1fb9aa86fb83735b4b840e4f7443e3f2962cdce3d005769de604984083",
-        "cache_path": ".recovery/completion-research-audit/http-cache/c1c0fd3f1bd52c0e.html",
         "title": "楚国历史大事记-荆楚文化网",
-        "rights_and_metadata_candidates": [
-          "    <div><!-- 版权内容请在本组件\"内容配置-版权\"处填写 -->\r",
-          "<p>版权所有：湖北省普通高校人文社科重点研究基地 荆楚文化研究中心&nbsp;</p>\r"
-        ],
-        "pdf_links": [],
         "text_length": 34937
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2628,26 +2028,9 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://cl.site.nthu.edu.tw/var/file/401/1401/img/833773150.pdf",
-        "headers": {
-          "date": "Thu, 05 Nov 2026 10:30:21 GMT",
-          "content-type": "application/pdf",
-          "content-length": "964127",
-          "last-modified": "Sun, 25 Jun 2023 14:37:47 GMT",
-          "etag": "\"6498513b-eb61f\"",
-          "x-frame-options": "SAMEORIGIN",
-          "x-xss-protection": "1; mode=block",
-          "expires": "Thu, 05 Nov 2026 10:30:23 GMT",
-          "cache-control": "max-age=2",
-          "accept-ranges": "bytes",
-          "x-content-type-options": "nosniff",
-          "strict-transport-security": "max-age=63072000; includeSubDomains",
-          "connection": "close",
-          "Set-Cookie": "TS01aa7484=01acdd542f6d9b925128ebe2a430ef0d53a0dd908c1fde2eac40b39fac5bfc388a4a7c1242f59db8e605828706e57ef56ee5aa02a9; Path=/; Domain=.cl.site.nthu.edu.tw; "
-        },
         "truncated": false,
         "bytes": 964127,
-        "sha256": "0ef5c549439cc4df16f9d18a2013a8e1befe21e64fb99474fa39ec1b5a891b2c",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5f90f34adbe90474.pdf"
+        "sha256": "0ef5c549439cc4df16f9d18a2013a8e1befe21e64fb99474fa39ec1b5a891b2c"
       },
       "confidence": "current_original_content_and_existing_project_commentary"
     },
@@ -2699,98 +2082,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://www.cambridge.org/core/journals/antiquity/article/migration-in-bronze-age-southern-china-multidisciplinary-investigations-of-elite-chu-burials-in-jingzhou/9F23C78CFDDE8612BF19E7496F8CD196",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:23 GMT",
-          "Content-Type": "text/html; charset=utf-8",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "cf-cache-status": "DYNAMIC",
-          "Cache-Control": "no-cache, no-store, must-revalidate",
-          "Set-Cookie": "aca-session=Fe26.2**f8d6cb99874bee12fc81b507788f76a6f0d40e018d670b745262055b53d448d7*DL3tj9bE5tReZPvdtjrq3Q*sXz7KIn1wFI2Vwfe0tQz8FZ3tkVFdrHoiKm1RZVnyYHLwOIlokD4TQbMHX2pKVZAfH1uo2bz1k82hV1a9cKOKEJOVuXBeqjAv8aAIhXnRN8**715740d05ad73171616dc6450290df44e83e178bf1853389d5403afb5bb35dd8*RCx6mYnjYrPOij5D_g8JuVqWzdyd51HZAR5dt8XQT70; Secure; HttpOnly; SameSite=Lax; Path=/",
-          "set-cookie": "aca-session=Fe26.2**f8d6cb99874bee12fc81b507788f76a6f0d40e018d670b745262055b53d448d7*DL3tj9bE5tReZPvdtjrq3Q*sXz7KIn1wFI2Vwfe0tQz8FZ3tkVFdrHoiKm1RZVnyYHLwOIlokD4TQbMHX2pKVZAfH1uo2bz1k82hV1a9cKOKEJOVuXBeqjAv8aAIhXnRN8**715740d05ad73171616dc6450290df44e83e178bf1853389d5403afb5bb35dd8*RCx6mYnjYrPOij5D_g8JuVqWzdyd51HZAR5dt8XQT70; Secure; HttpOnly; SameSite=Lax; Path=/",
-          "Expires": "0",
-          "Pragma": "no-cache",
-          "Referrer-Policy": "no-referrer-when-downgrade",
-          "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
-          "tdm-policy": "https://www.cambridge.org/core/tdm/tdm-policy.json",
-          "tdm-reservation": "1",
-          "Vary": "Accept-Encoding",
-          "Via": "1.1 varnish (Varnish/6.0)",
-          "X-Content-Type-Options": "nosniff",
-          "X-DNS-Prefetch-Control": "off",
-          "X-Download-Options": "noopen",
-          "X-Frame-Options": "SAMEORIGIN",
-          "x-served-by": "",
-          "X-Varnish": "778363169",
-          "X-XSS-Protection": "1; mode=block",
-          "Server": "cloudflare",
-          "CF-RAY": "a55b2ec80cdcf87a-SIN"
-        },
         "truncated": false,
         "bytes": 827745,
         "sha256": "91833727d9ebc51fa78dc478a825ab415c6c4d926cee987a4b6a7f53119c0a30",
-        "cache_path": ".recovery/completion-research-audit/http-cache/4b03766ac1407719.html",
         "title": "Migration in Bronze Age southern China: multidisciplinary investigations of elite Chu burials in Jingzhou | Antiquity | Cambridge Core",
-        "rights_and_metadata_candidates": [
-          "        <meta name=\"citation_title\"  content=\"Migration in Bronze Age southern China: multidisciplinary investigations of elite Chu burials in Jingzhou\">",
-          "        <meta name=\"citation_author\"  content=\"Yiran Xu\">",
-          "        <meta name=\"citation_author\"  content=\"Pengfei Sheng\">",
-          "        <meta name=\"citation_author\"  content=\"Jianxue Xiong\">",
-          "        <meta name=\"citation_author\"  content=\"Hailiang Meng\">",
-          "        <meta name=\"citation_author\"  content=\"Pianpian Wei\">",
-          "        <meta name=\"citation_author\"  content=\"Chang Sun\">",
-          "        <meta name=\"citation_author\"  content=\"Hanqing Jia\">",
-          "        <meta name=\"citation_author\"  content=\"Jianye Liu\">",
-          "        <meta name=\"citation_author\"  content=\"Yong Tian\">",
-          "        <meta name=\"citation_author\"  content=\"Fan Sun\">",
-          "        <meta name=\"citation_author\"  content=\"Shaoqing Wen\">",
-          "        <meta name=\"citation_pdf_url\"  content=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F23C78CFDDE8612BF19E7496F8CD196/S0003598X22000138a.pdf/div-class-title-migration-in-bronze-age-southern-china-multidisciplinary-investigations-of-elite-chu-burials-in-jingzhou",
-          "i><a href=\"/core/browse-subjects/statistics-and-probability\" target=\"\">Statistics and Probability</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><!--[--><li>Open access</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>All open access publishing</li><ol><!--[--><li><a href=\"/core/publications/open-access\" target=\"\">Open access</a></li><li><a href=\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL&",
-          "amp;statuses=PUBLISHED&amp;sort=titleSort:asc\" target=\"\">Open access journals</a></li><li><a href=\"/core/publications/open-access/research-open?aggs[productTypes][filters]=JOURNAL&amp;statuses=PUBLISHED&amp;sort=titleSort:asc\" target=\"\">Research open journals</a></li><li><a href=\"/core/publications/open-access/hybrid-open-acce",
-          "ss-journals?aggs[productTypes][filters]=JOURNAL&amp;statuses=PUBLISHED&amp;sort=titleSort:asc\" target=\"\">Journals containing open access</a></li><li><a href=\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL_ARTICLE\" target=\"\">Open access articles</a></li><li><a href=\"/core/publications/open-access/listing?aggs[productTypes][filters]=BOOK&amp;sort=canonical.date:desc\" ",
-          "target=\"\">Open access books</a></li><li><a href=\"/core/publications/elements/published-elements?aggs%5BopenAccess%5D%5Bfilters%5D=7275BA1E84CA769210167A6A66523B47&amp;aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&amp;searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493\" target=\"\">Open a",
-          "s/journals\" target=\"\">All journal subjects</a></li><li><a href=\"/core/publications/journals\" target=\"\">Search journals</a></li><!--]--></ol><!--]--><!--[--><li>Open access</li><ol><!--[--><li><a href=\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL&amp;statuses=PUBLISHED&amp;sort=titleSort:asc\" target=\"\">Open access journals</a></li><li><a href=\"/core/publications/open-access/research-open?aggs[produc",
-          "ations/open-access/hybrid-open-access-journals?aggs[productTypes][filters]=JOURNAL&amp;statuses=PUBLISHED&amp;sort=titleSort:asc\" target=\"\">Journals containing open access</a></li><li><a href=\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL_ARTICLE\" target=\"\">Open access articles</a></li><!--]--></ol><!--]--><!--[--><li>Collections</li><ol><!--[--><li><a href=\"/core/publications/collections/cambridge-",
-          "ons/books\" target=\"\">Books</a></li><li><a href=\"/core/publications/open-access/listing?aggs[productTypes][filters]=BOOK&amp;sort=canonical.date:desc\" target=\"\">Open access books</a></li><li><a href=\"/core/publications/books/listing?aggs[productDate][filters]=Last+3+months&amp;aggs[productTypes][filters]=BOOK&amp;sort=canonical.date:desc\" target=\"\">New books</a></li><li><a href=\"/core/publications/collections/flip-it-open\" targe",
-          "D%5Bfilters%5D=7275BA1E84CA769210167A6A66523B47&amp;aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&amp;searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493\" target=\"\">Open access Elements</a></li><li><a href=\"/core/publications/elements/published-elements?aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&amp;aggs%5BproductDate%5D%5Bfilters%5D=Last%203%20months&amp;searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493\" target=\"\">New Elements</a><",
-          "><li><a href=\"/core/services/authors/corresponding-author\" target=\"\">Corresponding author</a></li><li><a href=\"/core/services/authors/seeking-permission-to-use-copyrighted-material\" target=\"\">Seeking permission to use copyrighted material</a></li><li><a href=\"/core/services/authors/publishing-supplementary-material\" target=\"\">Publishing supplementary material</a></li><li><a href=\"/core/services/authors/preparing-accessible-ma",
-          "ors/anonymising-your-manuscript\" target=\"\">Anonymising your manuscript</a></li><li><a href=\"/core/services/authors/publishing-open-access\" target=\"\">Publishing open access</a></li><li><a href=\"/core/services/authors/convert-your-article-to-open-access\" target=\"\">Convert your article to Gold Open Access</a></li><!--]--></ol><!--]--><!--[--><li>Journals (cont.)</li><ol><!--[--><li><a href=\"/core/services/authors/preparing-and-sub",
-          " href=\"/core/services/authors/books\" target=\"\">Books</a></li><li><a href=\"/core/services/authors/publishing-an-open-access-book\" target=\"\">Publishing your book open access</a></li><li><a href=\"/core/services/authors/marketing-your-book\" target=\"\">Marketing your book</a></li><li><a href=\"/core/services/authors/elements-user-guides\" target=\"\">Author guides for Cambridge Elements</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><",
-          "core/services/editors/peer-review-for-editors\" target=\"\">Peer review for editors</a></li><li><a href=\"/core/services/editors/open-access-for-editors\" target=\"\">Open access for editors</a></li><li><a href=\"/core/services/editors/policies-and-guidelines\" target=\"\">Policies and guidelines</a></li><!--]--></ol><!--]--><!--[--><li>Resources</li><ol><!--[--><li><a href=\"/core/services/editors/the-editors-role\" target=\"\">The editor&#3",
-          "s</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>Information</li><ol><!--[--><li><a href=\"/core/services/librarians/open-access-for-librarians\" target=\"\">Open Access for Librarians</a></li><li><a href=\"https://www.cambridge.org/core/services/open-access-policies/read-and-publish-agreements\" target=\"\">Transformative agreements</a></li><li><a href=\"/core/services/librarians/transformative-agreements-faqs\" target=\"\">Transfor",
-          ">Our Team</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><!--]--></ol><!--]--><!--[--><li>Open research</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>Open access policies</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>Open access policies</li><ol><!--[--><li><a href=\"/core/services/open-research-policies/open-research\" target=\"\">Open research</a></li><li><a href=\"/core/services/open-research-policies/open-access",
-          "-policies\" target=\"\">Open access policies</a></li><li><a href=\"/core/services/open-research-policies/text-and-data-mining\" target=\"\">Text and data mining</a></li><li><a href=\"/core/services/open-research-policies/preprint-policy\" target=\"\">Preprint policy</a></li><!--]--></ol><!--]--><!--[--",
-          "><li>Journals</li><ol><!--[--><li><a href=\"/core/services/open-research-policies/open-access-journals\" target=\"\">Open access journals</a></li><li><a href=\"/core/services/open-research-policies/gold-open-access-journals\" target=\"\">Gold Open Access journals</a></li><li><a href=\"/core/services/open-research-policies/green-open-access-policy-for-journals\" target=\"\">Green Open Access po",
-          "als</a></li><!--]--></ol><!--]--><!--[--><li>Books and Elements</li><ol><!--[--><li><a href=\"/core/services/open-research-policies/open-access-books\" target=\"\">Open access books</a></li><li><a href=\"/core/services/open-research-policies/gold-open-access-books\" target=\"\">Gold open access books</a></li><li><a href=\"/core/services/open-research-policies/green-open-access-policy-for-books\" target=\"\">Green Open Access policy for boo",
-          "ks</a></li><li><a href=\"/core/services/open-research-policies/open-access-elements\" target=\"\">Open access Elements</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><!--[--><li>Open access publishing</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>About open access</li><ol><!--[--><li><a href=\"/core/services/open-access-publishing/open-research\" target=\"\">Op",
-          "en research</a></li><li><a href=\"/core/services/open-access-publishing/open-access\" target=\"\">What is open access?</a></li><li><a href=\"/core/services/open-access-publishing/open-access-glossary\" target=\"\">Open access glossary</a></li><li><a href=\"/core/services/open-access-publishing/open-access-myths\" target=\"\">Open access myths</a></li><li><a href=\"/core/services/open",
-          "-access-publishing/hybrid-open-access-faqs\" target=\"\">Hybrid Open Access FAQs</a></li><li><a href=\"/core/eligibility-checker\" target=\"\">Eligibility checker</a></li><!--]--></ol><!--]--><!--[--><li>Open access resources</li><ol><!--[--><li><a href=\"/core/services/open-access-publishing/open-access-resources\" target=\"\">Open access r",
-          "esources</a></li><li><a href=\"/core/services/open-access-publishing/benefits-of-open-access\" target=\"\">Benefits of open access</a></li><li><a href=\"/core/services/open-access-publishing/creative-commons-licenses\" target=\"\">Creative commons licences</a></li><li><a href=\"/core/services/open-access-publishing/funder-policies-and-mandates\" target=\"\">Funder policies and mandates</a></li><",
-          "Article type definitions</a></li><li><a href=\"/core/services/open-access-publishing/convert-your-article-to-open-access\" target=\"\">Convert your article to Gold Open Access</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><!--[--><li>Open research initiatives</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>Research transparency</li><ol><!--[--><li><a href=\"/core/services/open-research-initiatives/transparency-and-openness\"",
-          "></li><!--]--></ol><!--]--><!--[--><li>Journal flips</li><ol><!--[--><li><a href=\"/core/services/open-research-initiatives/open-access-journal-flips\" target=\"\">Open access journal flips</a></li><li><a href=\"/core/services/open-research-initiatives/oa-journal-flip-faqs\" target=\"\">OA Journal Flip FAQs</a></li><!--]--></ol><!--]--><!--[--><li>Flip it Open</li><ol><!--[--><li><a href=\"/core/services/open-research-initiatives/flip-i",
-          "><a href=\"/core/services/open-research-initiatives/flip-it-open-faqs\" target=\"\">Flip it Open FAQs</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><!--[--><li>Open access funding</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>Open access funding</li><ol><!--[--><li><a href=\"/core/services/open-access-funding/funding-open-access-publication\" target=\"\">Funding open access publication</a></li><li><a href=\"/core/services/ope",
-          "n Equity Initiative</a></li><li><a href=\"/core/services/open-access-funding/completing-a-rightslink-open-access-transaction\" target=\"\">Completing a RightsLink (open access) transaction</a></li><!--]--></ol><!--]--><!--]--></ol><!--]--><!--[--><li> Cambridge Open Engage</li><ol><!--[--><!--]--></ol><ol><!--[--><!--[--><li>  Cambridge Open Engage</li><ol><!--[--><li><a href=\"/core/services/cambridge-open-engage/cambridge-open-eng",
-          "k-8\",\"label\":\"Statistics and Probability\",\"openExternal\":false,\"url\":\"/core/browse-subjects/statistics-and-probability\"}]}]},{\"id\":\"menu_item-0_cat-1\",\"label\":\"Open access\",\"openExternal\":null,\"url\":\"/core/publications/open-access\",\"menuTopics\":[{\"id\":\"menu_item-0_cat-1_subCat-0\",\"label\":\"All open access publishing\",\"openExternal\":null,\"url\":\"\",\"menuLinks\":[{\"id\":\"menu_item-0_cat-1_subCat-0_link-0\",\"label\":\"Open access\",\"openEx",
-          "ternal\":false,\"url\":\"/core/publications/open-access\"},{\"id\":\"menu_item-0_cat-1_subCat-0_link-1\",\"label\":\"Open access journals\",\"openExternal\":false,\"url\":\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc\"},{\"id\":\"menu_item-0_cat-1_subCat-0_link-2\",\"label\":\"Research open journals\",\"openExternal\":false,\"url\":\"/co",
-          "esearch-open?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc\"},{\"id\":\"menu_item-0_cat-1_subCat-0_link-3\",\"label\":\"Journals containing open access\",\"openExternal\":false,\"url\":\"/core/publications/open-access/hybrid-open-access-journals?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc\"},{\"id\":\"menu_item-0_cat-1_subCat-0_link-4\",\"label\":\"Open access articles\",\"openExternal\":false,\"",
-          "url\":\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL_ARTICLE\"},{\"id\":\"menu_item-0_cat-1_subCat-0_link-5\",\"label\":\"Open access books\",\"openExternal\":false,\"url\":\"/core/publications/open-access/listing?aggs[productTypes][filters]=BOOK&sort=canonical.date:desc\"},{\"id\":\"menu_item-0_cat-1_subCat-0_link-6\",\"label\":\"Open access Elements\",\"openExternal\":false,\"url\":\"/core/publications/eleme",
-          "item-0_cat-2_subCat-0_link-1\",\"label\":\"Search journals\",\"openExternal\":false,\"url\":\"/core/publications/journals\"}]},{\"id\":\"menu_item-0_cat-2_subCat-1\",\"label\":\"Open access\",\"openExternal\":null,\"url\":\"\",\"menuLinks\":[{\"id\":\"menu_item-0_cat-2_subCat-1_link-0\",\"label\":\"Open access journals\",\"openExternal\":false,\"url\":\"/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc\"},",
-          "esearch-open?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc\"},{\"id\":\"menu_item-0_cat-2_subCat-1_link-2\",\"label\":\"Journals containing open access\",\"openExternal\":false,\"url\":\"/core/publications/open-access/hybrid-open-access-journals?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc\"},{\"id\":\"menu_item-0_cat-2_subCat-1_link-3\",\"label\":\"Open access articles\",\"openExternal\":false,\"",
-          "\":\"menu_item-0_cat-3_subCat-0_link-0\",\"label\":\"Books\",\"openExternal\":false,\"url\":\"/core/publications/books\"},{\"id\":\"menu_item-0_cat-3_subCat-0_link-1\",\"label\":\"Open access books\",\"openExternal\":false,\"url\":\"/core/publications/open-access/listing?aggs[productTypes][filters]=BOOK&sort=canonical.date:desc\"},{\"id\":\"menu_item-0_cat-3_subCat-0_link-2\",\"label\":\"New books\",\"openExternal\":false,\"url\":\"/core/publications/books/listing?ag",
-          "label\":\"Elements series\",\"openExternal\":false,\"url\":\"/core/publications/elements/cambridge-elements-series\"},{\"id\":\"menu_item-0_cat-4_subCat-0_link-2\",\"label\":\"Open access Elements\",\"openExternal\":false,\"url\":\"/core/publications/elements/published-elements?aggs%5BopenAccess%5D%5Bfilters%5D=7275BA1E84CA769210167A6A66523B47&aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493\"},{\"id\":\"menu_",
-          " author\",\"openExternal\":false,\"url\":\"/core/services/authors/corresponding-author\"},{\"id\":\"menu_item-1_cat-2_subCat-0_link-3\",\"label\":\"Seeking permission to use copyrighted material\",\"openExternal\":false,\"url\":\"/core/services/authors/seeking-permission-to-use-copyrighted-material\"},{\"id\":\"menu_item-1_cat-2_subCat-0_link-4\",\"label\":\"Publishing supplementary material\",\"openExternal\":false,\"url\":\"/core/services/authors/publishing",
-          "your manuscript\",\"openExternal\":false,\"url\":\"/core/services/authors/anonymising-your-manuscript\"},{\"id\":\"menu_item-1_cat-2_subCat-1_link-3\",\"label\":\"Publishing open access\",\"openExternal\":false,\"url\":\"/core/services/authors/publishing-open-access\"},{\"id\":\"menu_item-1_cat-2_subCat-1_link-4\",\"label\":\"Convert your article to Gold Open Access\",\"openExternal\":false,\"url\":\"/core/services/authors/convert-your-article-to-open-access\"}]",
-          "at-3_link-0\",\"label\":\"Books\",\"openExternal\":false,\"url\":\"/core/services/authors/books\"},{\"id\":\"menu_item-1_cat-2_subCat-3_link-1\",\"label\":\"Publishing your book open access\",\"openExternal\":false,\"url\":\"/core/services/authors/publishing-an-open-access-book\"},{\"id\":\"menu_item-1_cat-2_subCat-3_link-2\",\"label\":\"Marketing your book\",\"openExternal\":false,\"url\":\"/core/services/authors/marketing-your-book\"},{\"id\":\"menu_item-1_cat-2_subC",
-          "abel\":\"Peer review for editors\",\"openExternal\":false,\"url\":\"/core/services/editors/peer-review-for-editors\"},{\"id\":\"menu_item-1_cat-4_subCat-0_link-2\",\"label\":\"Open access for editors\",\"openExternal\":false,\"url\":\"/core/services/editors/open-access-for-editors\"},{\"id\":\"menu_item-1_cat-4_subCat-0_link-3\",\"label\":\"Policies and guidelines\",\"openExternal\":false,\"url\":\"/core/services/editors/policies-and-guidelines\"}]},{\"id\":\"menu_it",
-          "uTopics\":[{\"id\":\"menu_item-1_cat-5_subCat-0\",\"label\":\"Information\",\"openExternal\":null,\"url\":\"\",\"menuLinks\":[{\"id\":\"menu_item-1_cat-5_subCat-0_link-0\",\"label\":\"Open Access for Librarians\",\"openExternal\":false,\"url\":\"/core/services/librarians/open-access-for-librarians\"},{\"id\":\"menu_item-1_cat-5_subCat-0_link-1\",\"label\":\"Transformative agreements\",\"openExternal\":false,\"url\":\"https://www.cambridge.org/core/services/open-access-po",
-          "ners/our-team\"}]}]}]},{\"id\":\"menu_item-2\",\"label\":\"Open research\",\"openExternal\":null,\"url\":\"\",\"isMegaMenu\":true,\"menuCats\":[{\"id\":\"menu_item-2_cat-0\",\"label\":\"Open access policies\",\"openExternal\":null,\"url\":\"/core/services/open-research-policies/open-access-policies\",\"menuTopics\":[{\"id\":\"menu_item-2_cat-0_subCat-0\",\"label\":\"Open access policies\",\"openExternal\":null,\"url\":\"\",\"menuLinks\":[{\"id\":\"menu_item-2_cat-0_subCat-0_link-0",
-          "\",\"label\":\"Open research\",\"openExternal\":false,\"url\":\"/core/services/open-research-policies/open-research\"},{\"id\":\"menu_item-2_cat-0_subCat-0_link-1\",\"label\":\"Open access policies\",\"openExternal\":false,\"url\":\"/core/services/open-research-policies/open-access-policies\"},{\"id\":\"menu_item-2_cat-0_subCat-0_link-2\",\"label\":\"Text and data mining\",\"openExternal\":false,\"url\":\"/core/services/open-research-policies/text-and-data-mining\"",
-          "t-policy\"}]},{\"id\":\"menu_item-2_cat-0_subCat-1\",\"label\":\"Journals\",\"openExternal\":null,\"url\":\"\",\"menuLinks\":[{\"id\":\"menu_item-2_cat-0_subCat-1_link-0\",\"label\":\"Open access journals\",\"openExternal\":false,\"url\":\"/core/services/open-research-policies/open-access-journals\"},{\"id\":\"menu_item-2_cat-0_subCat-1_link-1\",\"label\":\"Gold Open Access journals\",\"openExternal\":false,\"url\":\"/core/services/open-research-policies/gold-open-access",
-          "-journals\"},{\"id\":\"menu_item-2_cat-0_subCat-1_link-2\",\"label\":\"Green Open Access policy for journals\",\"openExternal\":false,\"url\":\"/core/services/open-research-policies/green-open-access-policy-for-journals\"},{\"id\":\"menu_item-2_cat-0_subCat-1_link-3\",\"label\":\"Transparent pricing policy for journals\",\"openExternal\":false,\"url\":\"/core/servic"
-        ],
-        "pdf_links": [
-          "/core/services/aop-cambridge-core/content/view/9F23C78CFDDE8612BF19E7496F8CD196/S0003598X22000138a.pdf/migration-in-bronze-age-southern-china-multidisciplinary-investigations-of-elite-chu-burials-in-jingzhou.pdf"
-        ],
         "text_length": 31291
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2844,32 +2139,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://edt.cqvip.com/journal/jgwc/article/520625422",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:23 GMT",
-          "Content-Type": "text/html; charset=utf-8",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "set-cookie": "journal-code=jgwc; Path=/; Secure; HttpOnly; SameSite=lax",
-          "x-bootstrap-source": "network",
-          "x-middleware-rewrite": "/academic/article/520625422",
-          "link": "<https://zz-editorial-file.oss-cn-hangzhou.aliyuncs.com/image/permanent/9e247b4d2669f11df64013a2357186dd.jpg>; rel=preload; as=\"image\", </journal/_next/static/chunks/baf285e1761390de.css>; rel=preload; as=\"style\"",
-          "X-Powered-By": "Next.js",
-          "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
-          "X-Custom-Header": "Hello World 2"
-        },
         "truncated": false,
         "bytes": 58271,
         "sha256": "7a438139f94f0a1ba132d139e098f7dcc085224571e34fd99edbea8a283a3776",
-        "cache_path": ".recovery/completion-research-audit/http-cache/e6171cb42e78092f.html",
         "title": "今古文创-魏惠王前元纪年考——兼论魏武侯纪年问题",
-        "rights_and_metadata_candidates": [
-          "\">暂无数据</p></div></section><section class=\"bg-gradient-to-br from-[#1e3a8a] to-[#3b5998] rounded-lg shadow-sm p-4 text-white\"><h3 class=\"font-bold mb-2 text-sm\">版权声明</h3><p class=\"text-xs text-blue-100 leading-relaxed\">本文版权归编辑部所有。未经书面授权，不得转载、摘编或利用其他方式使用本文内容。</p></section></div></div></div><!--$--><!--/$--></div><footer class=\"mt-8\"><div class=\"bg-[#1e3a8a] text-white\"><div class=\"max-w-7xl mx-auto px-4 py-8\"><div class=",
-          "v class=\"mx-auto max-w-7xl px-4 py-4\"><div class=\"flex flex-wrap items-center gap-3 text-xs text-blue-200\"><div class=\"flex flex-wrap items-center gap-3\"><span>版权所有<!-- --> © <!-- -->2026<!-- --> <!-- -->今古文创编辑部</span><span>|</span><span>本系统由维普斟知设计开发</span></div></div></div></div></footer></div><script src=\"/journal/_next/static/chunks/bea43ede62d4acc3.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f",
-          "仔细阅读，每项都认可后，才能继续投稿。\\\",\\\"submitCommitmentSelect\\\":\\\"[\\\\\\\"本文内容没有泄露国家及相关单位的任何机密，包括技术秘密和商业秘密。\\\\\\\",\\\\\\\"本文作者承诺，本文所有的研究，遭循学术伦理规范，没有学术不端行为。\\\\\\\",\\\\\\\"本文作者署名顺序已经得到所有作者的认可，版权转让协议需全体作者签字。\\\\\\\",\\\\\\\"上传稿件需匿名，不可包含中英文作者信息、项目资助信息。\\\\\\\"]\\\",\\\"submitTemplate\\\":\\\"\\\",\\\"fixedProcess\\\":1,\\\"foundingYear\\\":2020,\\\"qikanSeal\\\":\\\"\\\",\\\"manuscriptAllocation\\\":4,\\\"authorRoute\\\":\\\"jgwc\\\",\\\"customAuthorRoute\\\":\\\"jgwc\\\",\\\"editorRoute\\\":\\\"jgwc\\\",\\\"customEdit",
-          "-br from-[#1e3a8a] to-[#3b5998] rounded-lg shadow-sm p-4 text-white\\\",\\\"children\\\":[[\\\"$\\\",\\\"h3\\\",null,{\\\"className\\\":\\\"font-bold mb-2 text-sm\\\",\\\"children\\\":\\\"版权声明\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"text-xs text-blue-100 leading-relaxed\\\",\\\"children\\\":\\\"本文版权归编辑部所有。未经书面授权，不得转载、摘编或利用其他方式使用本文内容。\\\"}]]}]]}]\\n\"])</script></body></html>"
-        ],
-        "pdf_links": [],
         "text_length": 1028
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -2922,26 +2195,10 @@
         "checked_utc": "2026-11-05T10:34:03Z",
         "status": 200,
         "final_url": "https://fdgwz.org.cn/Web/Show/1490",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:34:11 GMT",
-          "Connection": "close",
-          "Content-Length": "134631"
-        },
         "truncated": false,
         "bytes": 134631,
         "sha256": "e216aecd1eed5f695fe6b265bfa1eafb3e5953eed33f84de3ab1d7b8f6cde09d",
-        "cache_path": ".recovery/completion-research-audit/http-cache/a7ecdb7c1ba2252a.html",
         "title": "朱淵清：從校勘學到歷史學-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 22354
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3011,26 +2268,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://fdgwz.org.cn/Web/Show/1760",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:26 GMT",
-          "Connection": "close",
-          "Content-Length": "65282"
-        },
         "truncated": false,
         "bytes": 65282,
         "sha256": "2cb2719ec0a989f3758c51efac8f0c27cbe521b716cb1cfaec601ed657263379",
-        "cache_path": ".recovery/completion-research-audit/http-cache/730e33db843eb1f3.html",
         "title": "清華讀書會：《清華大學藏戰國竹簡》（貳）研讀劄記（二）-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 8720
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3081,26 +2322,10 @@
         "checked_utc": "2026-11-05T10:34:05Z",
         "status": 200,
         "final_url": "https://fdgwz.org.cn/Web/Show/1895",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:34:15 GMT",
-          "Connection": "close",
-          "Content-Length": "133841"
-        },
         "truncated": false,
         "bytes": 133841,
         "sha256": "95d30b446f66d60f80a70f292fc7b55b3e0814134fe852799c75e2d3ce1396cf",
-        "cache_path": ".recovery/completion-research-audit/http-cache/403a192ddf928728.html",
         "title": "魏棟：清華簡《繫年》“周亡王九年”及相關問題新探-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 20704
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3173,40 +2398,10 @@
         "checked_utc": "2026-11-05T10:30:20Z",
         "status": 200,
         "final_url": "https://finance.sina.com.cn/jjxw/2022-04-29/doc-imcwiwst4667146.shtml",
-        "headers": {
-          "Server": "Tengine",
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Date": "Thu, 05 Nov 2026 10:30:21 GMT",
-          "Vary": "Accept-Encoding",
-          "ETag": "W/\"626b4855-17651\"V=32179E4F",
-          "X-Powered-By": "shci_v1.13",
-          "Expires": "Thu, 05 Nov 2026 10:32:21 GMT",
-          "Cache-Control": "max-age=120",
-          "X-Via-SSL": "ssl.28.sinag1.hn1.lb.sinanode.com",
-          "Edge-Copy-Time": "1793874621064",
-          "Via": "http/1.1 cmcc.huanan2.union.35 (ApacheTrafficServer/6.2.1 [cMsSfW]), cache4.l2so158-2[14,15,200-0,M], cache23.l2so158-2[16,0], cache23.l2so158-2[16,0], ens-cache43.l2hk11[32,31,200-0,M], ens-cache45.l2hk11[33,0], ens-cache45.l2hk11[34,0], cache32.l2sg2[75,74,200-0,M], cache7.l2sg2[76,0], cache7.l2sg2[76,0], ens-cache16.sg28[77,77,200-0,M], ens-cache14.sg28[80,0]",
-          "X-Via-CDN": "f=aliyun,s=ens-cache14.sg28,c=18.136.197.111;f=sinaedge,s=ctc.guangzhou.union.50.nb.sinaedge.com,c=120.241.4.136;f=Edge,s=cmcc.huanan2.union.35,c=10.33.67.50;f=edge,s=ctc.guangzhou.bsd-storage.200.nb.sinaedge.com,c=10.34.253.28;",
-          "X-Via-Edge": "1793874621061270c090a3243210a0498e1b1",
-          "Age": "0",
-          "Ali-Swift-Global-Savetime": "1793874621",
-          "X-Cache": "MISS TCP_MISS dirn:-2:-2",
-          "X-Swift-SaveTime": "Thu, 05 Nov 2026 10:30:21 GMT",
-          "X-Swift-CacheTime": "120",
-          "Timing-Allow-Origin": "*",
-          "EagleId": "a3b525a217938746209746787e"
-        },
         "truncated": false,
         "bytes": 116709,
         "sha256": "c75c7ad3252f3a61cb0150d62a8fce689817f9cc3c4f058c3a2dfea126f2310f",
-        "cache_path": ".recovery/completion-research-audit/http-cache/4d5e8e3757106448.html",
         "title": "辛德勇读《史记》｜多余的周国之君|太子_新浪财经_新浪网",
-        "rights_and_metadata_candidates": [
-          "                    <p class=\"copyright\">Copyright © 1996-2022 SINA Corporation</p>",
-          "                    <p>All Rights Reserved 新浪公司 <a href=\"http://www.sina.com.cn/intro/copyright.shtml\" target=\"_blank\">版权所有</a></p>"
-        ],
-        "pdf_links": [],
         "text_length": 10687
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3308,27 +2503,10 @@
         "checked_utc": "2026-11-05T10:30:22Z",
         "status": 200,
         "final_url": "https://html.rhhz.net/WNSFXYXB/html/5d71d1b7-6139-4d00-855f-51901beef4d3.htm",
-        "headers": {
-          "Server": "nginx/1.13.8",
-          "Date": "Thu, 05 Nov 2026 10:30:24 GMT",
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "Expires": "Sat, 05 Dec 2026 10:30:24 GMT",
-          "Cache-Control": "max-age=2592000",
-          "Access-Control-Allow-Origin": "*"
-        },
         "truncated": false,
         "bytes": 45152,
         "sha256": "56df0f9a85d6ad156e5e5c9adbbcdefb848e547f35dd2626051744fe43c0f9ba",
-        "cache_path": ".recovery/completion-research-audit/http-cache/2cecca0c2c648ee0.html",
         "title": "《礼书》来源问题论衡",
-        "rights_and_metadata_candidates": [
-          "<!-- licenses default -->\r",
-          "<meta name=\"dc.rights\" content=\"http://creativecommons.org/licenses/by/3.0/\"/>\r"
-        ],
-        "pdf_links": [],
         "text_length": 11604
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3379,24 +2557,10 @@
         "checked_utc": "2026-11-05T10:30:22Z",
         "status": 200,
         "final_url": "https://html.rhhz.net/WNSFXYXB/html/7e92cc01-480c-41a3-9603-de1a1523591c.htm",
-        "headers": {
-          "Server": "nginx/1.13.8",
-          "Date": "Thu, 05 Nov 2026 10:30:24 GMT",
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "Expires": "Sat, 05 Dec 2026 10:30:24 GMT",
-          "Cache-Control": "max-age=2592000",
-          "Access-Control-Allow-Origin": "*"
-        },
         "truncated": false,
         "bytes": 43475,
         "sha256": "2f69410576765d2c0e8844a97e66d073ffc9cba8a25626ce21dc72de1684cac5",
-        "cache_path": ".recovery/completion-research-audit/http-cache/3644b7b64676c678.html",
         "title": "《史记·乐书》礼乐论浅析",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 11572
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3447,27 +2611,10 @@
         "checked_utc": "2026-11-05T10:30:22Z",
         "status": 200,
         "final_url": "https://html.rhhz.net/WNSFXYXB/html/fb5f12b5-961a-4db4-a7c8-a676b5bba5a8.htm",
-        "headers": {
-          "Server": "nginx/1.13.8",
-          "Date": "Thu, 05 Nov 2026 10:30:24 GMT",
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "Expires": "Sat, 05 Dec 2026 10:30:24 GMT",
-          "Cache-Control": "max-age=2592000",
-          "Access-Control-Allow-Origin": "*"
-        },
         "truncated": false,
         "bytes": 42392,
         "sha256": "5212440eee926af59c76cdd2f2d8170ef7f1ecf85b65b3f123eb5611e9576c09",
-        "cache_path": ".recovery/completion-research-audit/http-cache/440849ed4650a65a.html",
         "title": "修订本《史记》中的纪日问题",
-        "rights_and_metadata_candidates": [
-          "<!-- licenses default -->\r",
-          "<meta name=\"dc.rights\" content=\"http://creativecommons.org/licenses/by/3.0/\"/>\r"
-        ],
-        "pdf_links": [],
         "text_length": 10603
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -3802,38 +2949,10 @@
         "checked_utc": "2026-11-05T10:34:41Z",
         "status": 200,
         "final_url": "https://ndlsearch.ndl.go.jp/books/R000000004-I031332726",
-        "headers": {
-          "Content-Type": "text/html;charset=utf-8",
-          "Content-Length": "243704",
-          "Connection": "close",
-          "Date": "Thu, 05 Nov 2026 10:34:53 GMT",
-          "ETag": "\"3b7f8-Q5wRvhtwSYAhpTHIiCdwPTMKSbY\"",
-          "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
-          "Expires": "0",
-          "Pragma": "no-cache",
-          "X-Cache": "Miss from cloudfront",
-          "Via": "1.1 68daf5ddc4c36236469db3f39e254baa.cloudfront.net (CloudFront)",
-          "X-Amz-Cf-Pop": "SIN3-P2",
-          "Alt-Svc": "h3=\":443\"; ma=86400",
-          "X-Amz-Cf-Id": "4IZeqPR7q1FGHfArI9sHBGiL2FR5D25AVkkC1YzfJVWlDCuQOih1yA==",
-          "X-XSS-Protection": "1; mode=block",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Referrer-Policy": "strict-origin-when-cross-origin",
-          "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.datadoghq-browser-agent.com https://jpsearch.go.jp https://*.awswaf.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://jpsearch.go.jp https://*.awswaf.com https://cdn.jsdelivr.net; img-src * blob: data:; connect-src 'self' https://browser-intake-datadoghq.com https://*.browser-intake-datadoghq.com https://9v7tjveeei.execute-api.ap-northeast-1.amazonaws.com https://www.google-analytics.com https://jpsearch.go.jp https://*.awswaf.com; font-src 'self' https://fonts.gstatic.com https://jpsearch.go.jp https://*.awswaf.com https://cdn.jsdelivr.net; form-action 'self' https://warp.ndl.go.jp; media-src 'self' blob: data:; frame-ancestors 'none'; worker-src blob:; frame-src https://jpsearch.go.jp;",
-          "X-Content-Type-Options": "nosniff",
-          "Strict-Transport-Security": "max-age=31536000"
-        },
         "truncated": false,
         "bytes": 243704,
         "sha256": "6b176fcec63f770ccbba20dc2352fc410de6d392df2e2cd2c187ad4c7af45bd1",
-        "cache_path": ".recovery/completion-research-audit/http-cache/b93f392b7546790b.html",
         "title": "孔子世家疏證 | NDLサーチ | 国立国会図書館",
-        "rights_and_metadata_candidates": [
-          "bottom][data-v-651af461]{align-items:flex-end}}</style><style>.global-footer-nav-sns-external[data-v-f7b521cf]{padding:.25rem 2px}</style><style>.global-footer-copyright a[data-v-8f172f19]{color:#666}.is-dark .global-footer-copyright a[data-v-8f172f19]{color:#f2f2f2}.global-footer-copyright .page-number-label[data-v-8f172f19]{background-color:#fcfcfc;border-radius:.25rem;margin-right:2rem;padding:2px .25rem}.is-dark .global-f",
-          "ooter-copyright .page-number-label[data-v-8f172f19]{background-color:#404040}</style><style>.base-separator[data-v-856dde95]{display:inline-block}.base-separator[color=separator][data-v-856dde95]{background-color:#dbdbdb}.base-separator[color=text-box-border][data-v-856dde95",
-          "----></a><!--]--></li><!--]--><!----><!--]--></ul><!--]--></li><!--]--><!--]--></ul><!--]--></div></nav><!--]--></div><div class=\"base-layout-row global-footer-copyright has-text-body-s\" horizontal-align=\"split\" vertical-align=\"top\" mobile-horizontal-align=\"left\" flex-wrap mobile-direction=\"column\" mobile-gap=\"16\" data-v-a6bf0a44 data-v-8f172f19 data-v-99ea7693><!--[--><div class=\"base-layout-row\" gap=\"16\" horizontal-align=\"l"
-        ],
-        "pdf_links": [],
         "text_length": 1840
       },
       "confidence": "bibliographic_metadata_only"
@@ -3884,38 +3003,10 @@
         "checked_utc": "2026-11-05T10:34:43Z",
         "status": 200,
         "final_url": "https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&q-title=%22%E6%98%A5%E7%A7%8B%E5%B7%A6%E5%82%B3%E6%B3%A8%22&size=20",
-        "headers": {
-          "Content-Type": "text/html;charset=utf-8",
-          "Content-Length": "419247",
-          "Connection": "close",
-          "Date": "Thu, 05 Nov 2026 10:35:05 GMT",
-          "ETag": "\"665af-Dqlp2AKfbjX2coC78XAfzkdwxTc\"",
-          "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
-          "Expires": "0",
-          "Pragma": "no-cache",
-          "X-Cache": "Miss from cloudfront",
-          "Via": "1.1 7a210e10ec8495884c252083bcdbcc12.cloudfront.net (CloudFront)",
-          "X-Amz-Cf-Pop": "SIN3-P2",
-          "Alt-Svc": "h3=\":443\"; ma=86400",
-          "X-Amz-Cf-Id": "D2aV7biPuZSuPBHSCi_iPMl-S7WNckrvNnQ7X7SRbpN6d8e3fSYz2w==",
-          "X-XSS-Protection": "1; mode=block",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Referrer-Policy": "strict-origin-when-cross-origin",
-          "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.datadoghq-browser-agent.com https://jpsearch.go.jp https://*.awswaf.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://jpsearch.go.jp https://*.awswaf.com https://cdn.jsdelivr.net; img-src * blob: data:; connect-src 'self' https://browser-intake-datadoghq.com https://*.browser-intake-datadoghq.com https://9v7tjveeei.execute-api.ap-northeast-1.amazonaws.com https://www.google-analytics.com https://jpsearch.go.jp https://*.awswaf.com; font-src 'self' https://fonts.gstatic.com https://jpsearch.go.jp https://*.awswaf.com https://cdn.jsdelivr.net; form-action 'self' https://warp.ndl.go.jp; media-src 'self' blob: data:; frame-ancestors 'none'; worker-src blob:; frame-src https://jpsearch.go.jp;",
-          "X-Content-Type-Options": "nosniff",
-          "Strict-Transport-Security": "max-age=31536000"
-        },
         "truncated": false,
         "bytes": 419247,
         "sha256": "a624d5227a5846e087e0358d93f3c209b0ab298b3c874195bb0e36c448732b15",
-        "cache_path": ".recovery/completion-research-audit/http-cache/0b7ce4b709fc6b76.html",
         "title": "「\"春秋左傳注\"」の検索結果 | NDLサーチ | 国立国会図書館",
-        "rights_and_metadata_candidates": [
-          "bottom][data-v-651af461]{align-items:flex-end}}</style><style>.global-footer-nav-sns-external[data-v-f7b521cf]{padding:.25rem 2px}</style><style>.global-footer-copyright a[data-v-8f172f19]{color:#666}.is-dark .global-footer-copyright a[data-v-8f172f19]{color:#f2f2f2}.global-footer-copyright .page-number-label[data-v-8f172f19]{background-color:#fcfcfc;border-radius:.25rem;margin-right:2rem;padding:2px .25rem}.is-dark .global-f",
-          "ooter-copyright .page-number-label[data-v-8f172f19]{background-color:#404040}</style><style>.base-separator[data-v-856dde95]{display:inline-block}.base-separator[color=separator][data-v-856dde95]{background-color:#dbdbdb}.base-separator[color=text-box-border][data-v-856dde95",
-          "----></a><!--]--></li><!--]--><!----><!--]--></ul><!--]--></li><!--]--><!--]--></ul><!--]--></div></nav><!--]--></div><div class=\"base-layout-row global-footer-copyright has-text-body-s\" horizontal-align=\"split\" vertical-align=\"top\" mobile-horizontal-align=\"left\" flex-wrap mobile-direction=\"column\" mobile-gap=\"16\" data-v-a6bf0a44 data-v-8f172f19 data-v-99ea7693><!--[--><div class=\"base-layout-row\" gap=\"16\" horizontal-align=\"l"
-        ],
-        "pdf_links": [],
         "text_length": 2598
       },
       "confidence": "bibliographic_metadata_only"
@@ -3966,28 +3057,10 @@
         "checked_utc": "2026-11-05T10:34:43Z",
         "status": 200,
         "final_url": "https://osf.io/tp729/",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:35:13 GMT",
-          "Content-Type": "text/html",
-          "Content-Length": "4207",
-          "Connection": "close",
-          "Last-Modified": "Tue, 03 Nov 2026 01:06:38 GMT",
-          "Vary": "Accept-Encoding",
-          "ETag": "\"6ae9339e-106f\"",
-          "Strict-Transport-Security": "max-age=31536000",
-          "X-Frame-Options": "SAMEORIGIN",
-          "X-Content-Type-Options": "nosniff",
-          "Referrer-Policy": "strict-origin",
-          "Permissions-Policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), bluetooth=()",
-          "Accept-Ranges": "bytes"
-        },
         "truncated": false,
         "bytes": 4207,
         "sha256": "181194287ca0a0b36b500f54c14eba0c4ea96b1ea733556e8d895cbcbe336cf5",
-        "cache_path": ".recovery/completion-research-audit/http-cache/8e6a8467c5ed7afb.html",
         "title": "OSF",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 38
       },
       "confidence": "existing_project_commentary_only_not_current_source_confirmation"
@@ -4057,28 +3130,10 @@
         "checked_utc": "2026-11-05T10:35:05Z",
         "status": 200,
         "final_url": "https://repository.kulib.kyoto-u.ac.jp/bitstream/2433/261862/1/lit60_1.pdf",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:35:48 GMT",
-          "Server": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_qos/11.74",
-          "X-Powered-By": "Express",
-          "X-RateLimit-Limit": "500",
-          "X-RateLimit-Remaining": "499",
-          "X-RateLimit-Reset": "1793875009",
-          "Cache-Control": "max-age=604800",
-          "Accept-Ranges": "bytes",
-          "Last-Modified": "Mon, 05 Oct 2026 22:33:51 GMT",
-          "ETag": "W/\"bf2-1a10e33b3c6\"",
-          "Content-Type": "text/html; charset=UTF-8",
-          "Content-Length": "3058",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 3058,
         "sha256": "96390a027c3be423b20a21884c18fde4efb741d219248a65758aab1d00c7887c",
-        "cache_path": ".recovery/completion-research-audit/http-cache/8ce568c4524396db.html",
         "title": "Kyoto University Research Information Repository",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 108
       },
       "confidence": "existing_project_commentary_only_not_current_source_confirmation"
@@ -4153,32 +3208,10 @@
         "checked_utc": "2026-11-05T10:35:05Z",
         "status": 200,
         "final_url": "https://scholarship.libraries.rutgers.edu/esploro/outputs/acceptedManuscript/A-new-textual-study-of-the/991031933295804646",
-        "headers": {
-          "X-Request-ID": "N0W14bPu9l",
-          "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
-          "Set-Cookie": "JSESSIONID=7C0B873F9B0DA748D79556E487A49104.app03.na04.prod.alma.dc01.hosted.exlibrisgroup.com%3A1801; Path=/; Secure; HttpOnly; SameSite=None",
-          "Accept-Ranges": "bytes",
-          "ETag": "W/\"2328-1793213068000\"",
-          "Last-Modified": "Wed, 28 Oct 2026 18:44:28 GMT",
-          "Cache-Control": "max-age=0",
-          "Expires": "Thu, 05 Nov 2026 10:35:29 GMT",
-          "Content-Security-Policy": "object-src blob: 'self' *.exlibrisgroup.com *.exlibrisgroup.com.cn www.google-analytics.com stats.g.doubleclick.net s3.amazonaws.com www.youtube.com youtube.com *.contentdm.oclc.org iiif.nlm.nih.gov scholarship.libraries.rutgers.edu scholarship.libraries.rutgers.edu  ;worker-src blob: 'self' *.exlibrisgroup.com *.exlibrisgroup.com.cn www.google-analytics.com stats.g.doubleclick.net s3.amazonaws.com www.youtube.com youtube.com artic.contentdm.oclc.org scholarship.libraries.rutgers.edu scholarship.libraries.rutgers.edu  ;upgrade-insecure-requests; report-uri /infra/CSPReportEndpoint.jsp; report-to csp-report-endpoint; ",
-          "Report-To": "{\"max_age\":10886400,\"endpoints\":[{\"url\":\"https://na04.alma.exlibrisgroup.com/infra/CSPReportEndpoint.jsp\"}],\"group\":\"csp-report-endpoint\"}",
-          "X-Content-Type-Options": "nosniff",
-          "vary": "accept-encoding",
-          "Content-Type": "text/html",
-          "Content-Length": "2328",
-          "Date": "Thu, 05 Nov 2026 10:35:29 GMT",
-          "Connection": "close",
-          "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
-        },
         "truncated": false,
         "bytes": 2328,
         "sha256": "0bf2cb7491c80152dbf68b7b7ce3193dc2bb64b75bcc7991e5ba47205e15501e",
-        "cache_path": ".recovery/completion-research-audit/http-cache/fcf780ddc9ebf6d7.html",
         "title": "Research Portal",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 120
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4231,34 +3264,10 @@
         "checked_utc": "2026-11-05T10:30:39Z",
         "status": 200,
         "final_url": "https://shandong-chorography.org/database/zzmj/section/25/article/11/",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:40 GMT",
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Server": "cloudflare",
-          "last-modified": "Sun, 11 Oct 2026 04:41:41 GMT",
-          "vary": "Accept-Encoding",
-          "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
-          "x-ua-compatible": "IE=Edge,chrome=1",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "x-xss-protection": "1; mode=block",
-          "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
-          "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mFSMGNLDrdsWJptEbRXzVPLLOlJPCFFrfz3mAZHRTdSjvvgJVKjXA3Yl0ploGWBdpv6lKX0c6P6Y0ILbVesXJgxVy5sYBdbCnbCAJBdLHby%2BgMRc5SKTfS84Dw4DjThvTfPcRR7I%2Fx4lNMQ%3D\"}]}",
-          "cf-cache-status": "DYNAMIC",
-          "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-          "Speculation-Rules": "\"/cdn-cgi/speculation\"",
-          "CF-RAY": "a55b2f333b2dd976-SIN",
-          "alt-svc": "h3=\":443\"; ma=86400"
-        },
         "truncated": false,
         "bytes": 36867,
         "sha256": "d386c59e0d1eeaeb7b7e1266681208eeb27b7cd455f913e2841c3b61cc08b1bc",
-        "cache_path": ".recovery/completion-research-audit/http-cache/918d9c9ba0d411c9.html",
         "title": "第二章孔子年谱｜孔子志｜诸子名家库｜山东地情档案",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 9805
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4352,26 +3361,10 @@
         "checked_utc": "2026-11-05T10:30:39Z",
         "status": 200,
         "final_url": "https://sxtt.cbpt.cnki.net/portal/journal/portal/client/paper/b843d1be938770fc1945e80d426081fe",
-        "headers": {
-          "server": "nginx",
-          "date": "Thu, 05 Nov 2026 10:30:40 GMT",
-          "content-type": "text/html;charset=UTF-8",
-          "transfer-encoding": "chunked",
-          "access-control-allow-origin": "*",
-          "access-control-allow-headers": "Origin,Content-Type,Content-Length,Content-Disposition,Authorization,Accept,X-Requested-With,token,authorization",
-          "access-control-allow-methods": "PUT,POST,GET,DELETE,OPTIONS",
-          "content-language": "en",
-          "sid-p": "U20601",
-          "set-cookie": "SID_cbpt=206001; path=/; Secure",
-          "connection": "close"
-        },
         "truncated": false,
         "bytes": 99244,
         "sha256": "fc7b5b5a4319a632995e1e06b942971fcc61a82498edf971921a4f5acadfb31a",
-        "cache_path": ".recovery/completion-research-audit/http-cache/4119cef753d31627.html",
         "title": "时间频率学报",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 4053
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4431,26 +3424,10 @@
         "checked_utc": "2026-11-05T10:35:05Z",
         "status": 200,
         "final_url": "https://sxtt.cbpt.cnki.net/portal/journal/portal/client/paper/c24c99217a4e213395b69c801db08d38",
-        "headers": {
-          "server": "nginx",
-          "date": "Thu, 05 Nov 2026 10:35:14 GMT",
-          "content-type": "text/html;charset=UTF-8",
-          "transfer-encoding": "chunked",
-          "access-control-allow-origin": "*",
-          "access-control-allow-headers": "Origin,Content-Type,Content-Length,Content-Disposition,Authorization,Accept,X-Requested-With,token,authorization",
-          "access-control-allow-methods": "PUT,POST,GET,DELETE,OPTIONS",
-          "content-language": "en",
-          "sid-p": "U20604",
-          "set-cookie": "SID_cbpt=206004; path=/; Secure",
-          "connection": "close"
-        },
         "truncated": false,
         "bytes": 98795,
         "sha256": "fbb7c9e6bc6ec82f7d0f7d475740b915dec1a5bf336e39fdcf61fc87fe80014f",
-        "cache_path": ".recovery/completion-research-audit/http-cache/774d7feabf8c9cbc.html",
         "title": "时间频率学报",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 3408
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4504,26 +3481,10 @@
         "checked_utc": "2026-11-05T10:35:05Z",
         "status": 200,
         "final_url": "https://wapbaike.baidu.com/item/%E4%B8%83%E5%9B%BD%E4%B9%8B%E4%B9%B1/250007",
-        "headers": {
-          "Content-Length": "177494",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:35:29 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=EF83BD43AA028F75ECCD0882F5F7D783:FG=1; expires=Fri, 05-Nov-27 10:35:29 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.1",
-          "X-Ssr-Render-Version": "1.0.80.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 177494,
         "sha256": "4b41c79402e5c6ccf6209897f7759699b2191b10606d673b289a660d6ce090b2",
-        "cache_path": ".recovery/completion-research-audit/http-cache/d0943f8ead5f65df.html",
         "title": "七国之乱（中国西汉时期历史事件）_百度百科",
-        "rights_and_metadata_candidates": [
-          "lass=\"index_dot__Ca4gm\"></span><span class=\"index_dot__Ca4gm\"></span><span class=\"index_dot__Ca4gm\"></span></div></div></div></div><div></div><div class=\"index_copyRight__f4aue\"><div class=\"index_copyRightTop__ns45K\"><div class=\"index_linkItem__9QlRb\">意见反馈</div><div class=\"index_linkItem__9QlRb\">权威合作</div><div class=\"index_linkItem__9QlRb\">百科协议</div><div class=\"index_linkItem__9QlRb\">本人编辑</div></div><div class=\"index_copyRigh",
-          "\"><span>百度百科是免费编辑平台，无收费代编服务</span><span class=\"index_statementGap__Y8f_y\"> | </span><span class=\"index_statementDetail__DyH6E\">详情</span></div><div class=\"index_copyRightBottom__dL8SM\"><div class=\"index_baikeLogo__FrigQ\"><img class=\"index_logoImage__YoGhm\" src=\"https://baikebcs.bdimg.com/front-end/swanapp-baike/common/baike-logo.svg\"/></div><div class=\"index_baikeIcp__vv2I4\">Baidu 京ICP证030173号</div></div></div><!--/$--><div cl"
-        ],
-        "pdf_links": [],
         "text_length": 6667
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4594,29 +3555,10 @@
         "checked_utc": "2026-11-05T10:35:07Z",
         "status": 200,
         "final_url": "https://wapbaike.baidu.com/item/%E5%AD%90%E4%BA%A7/1102614",
-        "headers": {
-          "Content-Length": "682724",
-          "Content-Type": "text/html; charset=utf-8",
-          "Date": "Thu, 05 Nov 2026 10:35:29 GMT",
-          "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \"",
-          "Set-Cookie": "BAIDUID=EF83BD43AA028F75D0B903F38E524BCD:FG=1; expires=Fri, 05-Nov-27 10:35:29 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1",
-          "X-Data-Version": "1.0.178.1",
-          "X-Ssr-Render-Version": "1.0.80.1",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 682724,
         "sha256": "12ab22e474c3ec8989e607110525cd0ae648108053bf06a1fe1e0d6c54bd0142",
-        "cache_path": ".recovery/completion-research-audit/http-cache/620735b11e615907.html",
         "title": "子产（春秋时期著名政治家、思想家）_百度百科",
-        "rights_and_metadata_candidates": [
-          "lass=\"index_dot__Ca4gm\"></span><span class=\"index_dot__Ca4gm\"></span><span class=\"index_dot__Ca4gm\"></span></div></div></div></div><div></div><div class=\"index_copyRight__f4aue\"><div class=\"index_copyRightTop__ns45K\"><div class=\"index_linkItem__9QlRb\">意见反馈</div><div class=\"index_linkItem__9QlRb\">权威合作</div><div class=\"index_linkItem__9QlRb\">百科协议</div><div class=\"index_linkItem__9QlRb\">本人编辑</div></div><div class=\"index_copyRigh",
-          "\"><span>百度百科是免费编辑平台，无收费代编服务</span><span class=\"index_statementGap__Y8f_y\"> | </span><span class=\"index_statementDetail__DyH6E\">详情</span></div><div class=\"index_copyRightBottom__dL8SM\"><div class=\"index_baikeLogo__FrigQ\"><img class=\"index_logoImage__YoGhm\" src=\"https://baikebcs.bdimg.com/front-end/swanapp-baike/common/baike-logo.svg\"/></div><div class=\"index_baikeIcp__vv2I4\">Baidu 京ICP证030173号</div></div></div><!--/$--><div cl",
-          "QwMTYwOTI0ZDk,g_3,x_10,y_10,type_RlpLYWk=,a_-30,size_28,color_00000040,skc_ffffff40,skw_1,layout_tile\"}],\"index\":268,\"isPublic\":\"1\",\"name\":\"本书为该社据征集得来的画册影印编纂而成，版权页无编者姓名，据孔网等著录信息补充。\",\"place\":\"石家庄\",\"publishYear\":\"1996\",\"publisher\":\"河北美术出版社\",\"refPage\":\"129—130\",\"title\":\"中国历代帝王名臣像真迹\",\"type\":2,\"uuid\":\"u6Pb4uHYcfFw\"},\"index\":268,\"old\":false,\"tag\":\"ref\",\"uuid\":\"u6Pb4uHYcfFw\"},{\"italic\":true,\"length\":1,\"tag\":\"text\",\"text\":\"）\"}",
-          "QwMTYwOTI0ZDk,g_3,x_10,y_10,type_RlpLYWk=,a_-30,size_28,color_00000040,skc_ffffff40,skw_1,layout_tile\"}],\"index\":268,\"isPublic\":\"1\",\"name\":\"本书为该社据征集得来的画册影印编纂而成，版权页无编者姓名，据孔网等著录信息补充。\",\"place\":\"石家庄\",\"publishYear\":\"1996\",\"publisher\":\"河北美术出版社\",\"refPage\":\"129—130\",\"title\":\"中国历代帝王名臣像真迹\",\"type\":2,\"uuid\":\"u6Pb4uHYcfFw\"},\"index\":268,\"old\":false,\"tag\":\"ref\",\"uuid\":\"u6Pb4uHYcfFw\"}],\"length\":102,\"tag\":\"paragraph\",\"uuid\":\"gncmv8194a",
-          "eejeNAMpu\",\"encodeUrl\":\"533aYdO6cr3_z3kATPaCz_73NHvHZY6ovueCUbBzzqIP0XOpX5nyFI8n788q-6Y1R0XIv5Utc94clP3lCklF7-gQcbp8CKoinHXhC3ef\"},{\"name\":\"本书为该社据征集得来的画册影印编纂而成，版权页无编者姓名，据孔网等著录信息补充。\",\"type\":2,\"title\":\"中国历代帝王名臣像真迹\",\"isPublic\":\"1\",\"author\":\"栾保群等编\",\"publisher\":\"河北美术出版社\",\"place\":\"石家庄\",\"publishYear\":\"1996\",\"refPage\":\"129—130\",\"index\":268,\"uuid\":\"u6Pb4uHYcfFw\",\"imgs\":[{\"url\":\"fd039245d688d43f8794c0372f46c51b0ef41ad58de4\",\"vie"
-        ],
-        "pdf_links": [],
         "text_length": 21040
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4775,34 +3717,10 @@
         "checked_utc": "2026-11-05T10:30:39Z",
         "status": 200,
         "final_url": "https://www.airitilibrary.com/Article/Detail/P20170210001-201409-201705180017-201705180017-105-136",
-        "headers": {
-          "Server": "nginx/1.18.0 (Ubuntu)",
-          "Date": "Thu, 05 Nov 2026 10:30:40 GMT",
-          "Content-Type": "text/html; charset=utf-8",
-          "Content-Length": "155928",
-          "Connection": "close",
-          "Cache-Control": "private",
-          "Set-Cookie": "ASP.NET_SessionId=wjs0vdzbw2cqiafrcbvri04w; path=/; secure; HttpOnly; SameSite=Lax",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "X-Frame-Options": "DENY",
-          "Content-Security-Policy": "frame-ancestors 'self'; object-src 'none'; default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com https://accounts.google.com https://unpkg.com https://www.amcharts.com https://static.hotjar.com https://script.hotjar.com https://www.google-analytics.com https://www.googletagmanager.com https://code.jquery.com https://connect.facebook.net https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://www.facebook.com https://accounts.google.com https://www.google.com https://docs.google.com https://www.youtube.com https://player.soundon.fm; img-src 'self' https://www.google.com.tw https://images.unsplash.com; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://stats.g.doubleclick.net https://cdn.jsdelivr.net https://www.facebook.com",
-          "Permissions-Policy": "camera=(), microphone=(), geolocation=(), fullscreen=()"
-        },
         "truncated": false,
         "bytes": 155928,
         "sha256": "7793795f8739d562999a7f81978648eff749c707dc40818583df5917a7057f41",
-        "cache_path": ".recovery/completion-research-audit/http-cache/e4b0b3738b1e7605.html",
         "title": "從「夾谷之會」的詮釋觀察漢初的孔子形象 = An observation of the image of Confucius from the interpretations of ＂Meeting of Jia Valley＂ in the early Han Dynasty｜Airiti Library 華藝線上圖書館",
-        "rights_and_metadata_candidates": [
-          "    <meta name='citation_author' content='謝秉憲' />\r",
-          "    <meta name='citation_title' content='從「夾谷之會」的詮釋觀察漢初的孔子形象' />\r",
-          "                    if (result.ReturnMessage === '用戶未經授權') {\r",
-          "                            授權華藝\r",
-          "                                <a href=\"/Home/JournalAuthorization\">授權問題</a>\r",
-          "    <div class=\"copyrightWrap\"><span>© 2021 Airiti Inc. All rights reserved.</span></div>\r"
-        ],
-        "pdf_links": [],
         "text_length": 4905
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4873,27 +3791,10 @@
         "checked_utc": "2026-11-05T10:30:40Z",
         "status": 200,
         "final_url": "https://www.bjqtm.com/gzzx/gnyw/%E9%9D%92%E9%93%9C%E8%BE%89%E8%80%80-%E6%8E%A2%E8%AE%BF%E5%AE%9D%E9%B8%A1%E9%9D%92%E9%93%9C%E5%99%A8%E5%8D%9A%E7%89%A9%E9%99%A2%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F",
-        "headers": {
-          "Server": "nginx",
-          "Date": "Thu, 05 Nov 2026 10:30:41 GMT",
-          "Content-Type": "text/html; charset=UTF-8",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "X-Pingback": "https://www.bjqtm.com/xmlrpc.php",
-          "Link": "<https://www.bjqtm.com/wp-json/>; rel=\"https://api.w.org/\"",
-          "Strict-Transport-Security": "max-age=31536000",
-          "Alt-Svc": "quic=\":443\"; h3=\":443\"; h3-29=\":443\"; h3-27=\":443\";h3-25=\":443\"; h3-T050=\":443\"; h3-Q050=\":443\";h3-Q049=\":443\";h3-Q048=\":443\"; h3-Q046=\":443\"; h3-Q043=\":443\""
-        },
         "truncated": false,
         "bytes": 139198,
         "sha256": "b05852c950264fb0c60de38a217479f8ff958038375bf0d92aae0ea159f497eb",
-        "cache_path": ".recovery/completion-research-audit/http-cache/6b19e25191602982.html",
         "title": "“青铜辉耀” 探访宝鸡青铜器博物院的“国家宝藏” - 宝鸡青铜器博物院",
-        "rights_and_metadata_candidates": [
-          "<p class=\"has-text-align-center has-base-2-color has-text-color has-link-color has-small-font-size wp-elements-11 wp-block-paragraph\">Copyrights © 2015-2025 宝鸡青铜器博物院 版权所有&nbsp;<a href=\"https://beian.miit.gov.cn/\" target=\"_blank\" rel=\"noreferrer noopener\">陕ICP备15013383号-1</a></p>"
-        ],
-        "pdf_links": [],
         "text_length": 7127
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -4944,35 +3845,10 @@
         "checked_utc": "2026-11-05T10:30:41Z",
         "status": 200,
         "final_url": "https://www.bmy.com.cn/aboutYingZheng.html",
-        "headers": {
-          "Server": "Tengine",
-          "Content-Type": "text/html; charset=utf-8",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "Date": "Thu, 05 Nov 2026 10:30:45 GMT",
-          "Set-Cookie": "PHPSESSID=bp4spnjldvf6vml1h4gl6jjmvv; path=/",
-          "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
-          "Pragma": "no-cache",
-          "Cache-control": "no-cache",
-          "X-Frame-Options": "SAMEORIGIN",
-          "X-Xss-Protection": "1",
-          "zx-host": "www.bmy.com.cn",
-          "Via": "cache27.l2cn9347[97,96,200-0,M], cache27.l2cn9347[98,0], kunlun1.cn9067[867,867,200-0,M], kunlun7.cn9067[868,0]",
-          "Ali-Swift-Global-Savetime": "1793874645",
-          "X-Cache": "MISS TCP_MISS dirn:-2:-2",
-          "X-Swift-SaveTime": "Thu, 05 Nov 2026 10:30:45 GMT",
-          "X-Swift-CacheTime": "0",
-          "Timing-Allow-Origin": "*",
-          "EagleId": "01c21f0c17938746446756984e"
-        },
         "truncated": false,
         "bytes": 12982,
         "sha256": "f7a7304690375b337f595fe2d815269f302cc4c720ff1e39b41f4f348511b73d",
-        "cache_path": ".recovery/completion-research-audit/http-cache/215b0d84af14244a.html",
         "title": "关于秦始皇_秦始皇帝陵博物院官网",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 913
       },
       "confidence": "existing_project_commentary_only_not_current_source_confirmation"
@@ -5161,26 +4037,10 @@
         "checked_utc": "2026-11-05T10:30:42Z",
         "status": 200,
         "final_url": "https://www.chinakongzi.org/content/2862_35479.html",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:44 GMT",
-          "Content-Type": "text/html; charset=utf-8",
-          "Content-Length": "56188",
-          "Connection": "close",
-          "Server": "wswaf",
-          "X-Powered-By": "thinkjs-3.2.15",
-          "x-via": "1.1 PS-HKG-045nl33:7 (Cdn Cache Server V2.0), 1.1 PS-HND-04VgP113:15 (Cdn Cache Server V2.0), 1.1 PS-SIN-04nIX61:7 (Cdn Cache Server V2.0)",
-          "x-ws-request-id": "6aec5ad4_PS-SIN-04nIX61_3884-15181"
-        },
         "truncated": false,
         "bytes": 56188,
         "sha256": "b6ca5e78ef3c07541b8fd18345474bf3454e433628247f259118cd24d156dea3",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5ebd257c1d676578.html",
         "title": "孔子行年考（五）",
-        "rights_and_metadata_candidates": [
-          "        <span class=\"statement\">文章、图片版权归原作者所有，如有侵权请联系删除</span>\r",
-          "      鲁公网安备37010302000632号    鲁ICP备15031955号    Copyright © 2001-2025    www.chinakongzi.org All Right Reserved\r"
-        ],
-        "pdf_links": [],
         "text_length": 13272
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -5252,30 +4112,10 @@
         "checked_utc": "2026-11-05T10:30:44Z",
         "status": 200,
         "final_url": "https://www.chinakongzi.org/rw/xszj/jiangguanghui/200705/t20070520_20896.htm",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:45 GMT",
-          "Content-Type": "text/html",
-          "Content-Length": "303836",
-          "Connection": "close",
-          "Server": "wswaf",
-          "Last-Modified": "Thu, 11 May 2023 05:50:58 GMT",
-          "ETag": "\"645c8242-4a2dc\"",
-          "Expires": "Thu, 05 Nov 2026 10:30:44 GMT",
-          "Cache-Control": "no-cache",
-          "Accept-Ranges": "bytes",
-          "x-via": "1.1 PS-HKG-045nl33:2 (Cdn Cache Server V2.0), 1.1 PS-KHH-01cyS117:3 (Cdn Cache Server V2.0), 1.1 PS-SIN-04nIX61:3 (Cdn Cache Server V2.0)",
-          "x-ws-request-id": "6aec5ad4_PS-SIN-04nIX61_2269-16745"
-        },
         "truncated": false,
         "bytes": 303836,
         "sha256": "6ab9b09d1a53f8584168d112e3de46e1492b38d1c7e6ae3c6a84ff6c46eeea52",
-        "cache_path": ".recovery/completion-research-audit/http-cache/ca0e569aea3b3347.html",
         "title": "姜广辉_中国孔子网",
-        "rights_and_metadata_candidates": [
-          "                        <div class=\"zr_bj\" style=\"font-size:14px;\">文章、图片版权归原作者所有，如有侵权请联系删除！</div>",
-          "                <a href=\"http://beian.miit.gov.cn\" style=\"color:#d96f6c;\">鲁ICP备15031955号</a> Copyright &copy; 2001-2010 www.chinakongzi.org All Right Reserved&nbsp;&nbsp;&nbsp;主办：中国孔子基金会秘书处"
-        ],
-        "pdf_links": [],
         "text_length": 12888
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -5345,27 +4185,10 @@
         "checked_utc": "2026-11-05T10:30:44Z",
         "status": 200,
         "final_url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202108/t20210802_250931.shtml",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:45 GMT",
-          "Content-Type": "text/html; charset=utf8",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "WZWS-RAY": "012-1793874645.793-src-s11zzuc-s6zzuc",
-          "Cache-Control": "max-age=14400",
-          "age": "0",
-          "VAR-Cache": "miss:Primer"
-        },
         "truncated": false,
         "bytes": 31412,
         "sha256": "a63db6cc9cfd3ef534f96afc7435aef204ccd0d7b9ba36b37d95cc67a1cf55d0",
-        "cache_path": ".recovery/completion-research-audit/http-cache/d28aaaa133fdafd0.html",
         "title": "“利”青铜簋_中国国家博物馆官方网站",
-        "rights_and_metadata_candidates": [
-          "                <a target=\"_blank\" href=\"/shxg/bqsm/\">版权声明</a>",
-          "                    <span class=\"ln\">中国国家博物馆版权所有</span>"
-        ],
-        "pdf_links": [],
         "text_length": 1737
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -5437,29 +4260,10 @@
         "checked_utc": "2026-11-05T10:30:45Z",
         "status": 200,
         "final_url": "https://www.chunghwabook.com.hk/book/detail/id/1378029545429739203",
-        "headers": {
-          "server": "nginx/1.20.2",
-          "date": "Thu, 05 Nov 2026 10:30:45 GMT",
-          "content-type": "text/html; charset=UTF-8",
-          "transfer-encoding": "chunked",
-          "x-powered-by": "PHP/7.4.34-dev",
-          "set-cookie": "PHPSESSID=d62pb61uq5cn3ke3uagf9a9m06; path=/",
-          "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
-          "cache-control": "no-store, no-cache, must-revalidate",
-          "pragma": "no-cache",
-          "connection": "close"
-        },
         "truncated": false,
         "bytes": 173223,
         "sha256": "25d3fcbc9d4073df8bd6dd5276c2df1dff91bdda79982a83b2c9a8cda70b9284",
-        "cache_path": ".recovery/completion-research-audit/http-cache/7ae9f1efe1c3c719.html",
         "title": "中華書局 戰國縱橫家書全註全譯",
-        "rights_and_metadata_candidates": [
-          "                <div class=\"copyright\">版權所有 不得轉載 中華書局(香港)有限公司 ©  Chung Hwa Book Co. (H.K.) Ltd. All Rights Reserved.</div>\r"
-        ],
-        "pdf_links": [
-          "https://www.chunghwabook.com.hk/upload/files/2026/10_13/40b8f79795ecfe7a89c99f2dc485fa1c.pdf"
-        ],
         "text_length": 7622
       },
       "confidence": "bibliographic_metadata_only"
@@ -5592,27 +4396,10 @@
         "checked_utc": "2026-11-05T10:30:45Z",
         "status": 200,
         "final_url": "https://www.cssn.cn/kgxc/kgxc_xccz/202207/t20220728_5430268.shtml",
-        "headers": {
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Server": "nginx",
-          "Date": "Thu, 05 Nov 2026 10:36:03 GMT",
-          "Vary": "Accept-Encoding",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Set-Cookie": "SF_cookie_2=29467669; expires=Thu, 05-Nov-2026 10:33:15 GMT; path=/"
-        },
         "truncated": false,
         "bytes": 45726,
         "sha256": "8520cf1c52e8215c696a4998bb9f59bb9134b373dca731905ade2e3e059cfdf9",
-        "cache_path": ".recovery/completion-research-audit/http-cache/e841d25c35f7d5de.html",
         "title": "考古研究中的夏朝寻踪-中国社会科学网",
-        "rights_and_metadata_candidates": [
-          "    <span>互联网新闻信息服务许可证：10120220003</span>",
-          "    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>",
-          "    <span>Copyright &copy; 2011-2026 by www.cssn.cn all rights reserved</span>"
-        ],
-        "pdf_links": [],
         "text_length": 7876
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -5682,27 +4469,10 @@
         "checked_utc": "2026-11-05T10:30:48Z",
         "status": 200,
         "final_url": "https://www.cssn.cn/lsx/lsx_kgx/202210/t20221024_5552691.shtml",
-        "headers": {
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Server": "nginx",
-          "Date": "Thu, 05 Nov 2026 10:36:04 GMT",
-          "Vary": "Accept-Encoding",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Set-Cookie": "SF_cookie_2=29467669; expires=Thu, 05-Nov-2026 10:33:16 GMT; path=/"
-        },
         "truncated": false,
         "bytes": 62609,
         "sha256": "f202dbd690428925d24207811d553850b2c909c204ede856d8779b94c5a237a7",
-        "cache_path": ".recovery/completion-research-audit/http-cache/e0467dcd4ffc5788.html",
         "title": "从洹北商城到殷墟商邑:城市规划与建设的嬗变-中国社会科学网",
-        "rights_and_metadata_candidates": [
-          "    <span>互联网新闻信息服务许可证：10120220003</span>",
-          "    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>",
-          "    <span>Copyright &copy; 2011-2026 by www.cssn.cn all rights reserved</span>"
-        ],
-        "pdf_links": [],
         "text_length": 13625
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -5827,27 +4597,10 @@
         "checked_utc": "2026-11-05T10:30:50Z",
         "status": 200,
         "final_url": "https://www.cssn.cn/skgz/bwyc/202307/t20230719_5668994.shtml",
-        "headers": {
-          "Content-Type": "text/html",
-          "Transfer-Encoding": "chunked",
-          "Connection": "close",
-          "Server": "nginx",
-          "Date": "Thu, 05 Nov 2026 10:36:04 GMT",
-          "Vary": "Accept-Encoding",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Set-Cookie": "SF_cookie_2=29467669; expires=Thu, 05-Nov-2026 10:33:16 GMT; path=/"
-        },
         "truncated": false,
         "bytes": 46776,
         "sha256": "1fefc54b1aa64a08b343b053d1e42b9ed052abe4afa5b1a655de05f348aa0319",
-        "cache_path": ".recovery/completion-research-audit/http-cache/841c4e52347ea4cf.html",
         "title": "中山国史探索的疑议与新证-中国社会科学网",
-        "rights_and_metadata_candidates": [
-          "    <span>互联网新闻信息服务许可证：10120220003</span>",
-          "    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>",
-          "    <span>Copyright &copy; 2011-2026 by www.cssn.cn all rights reserved</span>"
-        ],
-        "pdf_links": [],
         "text_length": 6298
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -5936,26 +4689,10 @@
         "checked_utc": "2026-11-05T10:30:50Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/1760",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:50 GMT",
-          "Connection": "close",
-          "Content-Length": "65282"
-        },
         "truncated": false,
         "bytes": 65282,
         "sha256": "6b86835e318409cd97237a5d5ec6666b89b05e18fb8062844fbeead648c12729",
-        "cache_path": ".recovery/completion-research-audit/http-cache/eb0dc1d7a2faba14.html",
         "title": "清華讀書會：《清華大學藏戰國竹簡》（貳）研讀劄記（二）-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 8720
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6134,26 +4871,10 @@
         "checked_utc": "2026-11-05T10:30:50Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/1943",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:51 GMT",
-          "Connection": "close",
-          "Content-Length": "106190"
-        },
         "truncated": false,
         "bytes": 106190,
         "sha256": "d00ae65328fa72b3e4c940e7b1c63690b40e0c05daa79c5e4274018c66e1c70f",
-        "cache_path": ".recovery/completion-research-audit/http-cache/e0b861255be85172.html",
         "title": "馬衛東、王政冬：清華簡《繫年》三晉伐齊考-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 13763
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6226,26 +4947,10 @@
         "checked_utc": "2026-11-05T10:30:51Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/1987",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:53 GMT",
-          "Connection": "close",
-          "Content-Length": "23006"
-        },
         "truncated": false,
         "bytes": 23006,
         "sha256": "95a77246efa4e903f5b7af53f726753a1f8eae759a48936e487bf044ef0af9ba",
-        "cache_path": ".recovery/completion-research-audit/http-cache/da7a8e9ac4529784.html",
         "title": "孫振興：清華简《繫年》标点質疑一則-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 2148
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6317,28 +5022,10 @@
         "checked_utc": "2026-11-05T10:30:51Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/2259",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:53 GMT",
-          "Connection": "close",
-          "Content-Length": "59559"
-        },
         "truncated": false,
         "bytes": 59559,
         "sha256": "b0e67150f555243300296c01196f1e5859e56c5df1ea8f33c494aafa404574be",
-        "cache_path": ".recovery/completion-research-audit/http-cache/0bbfce83d39d89e0.html",
         "title": "李守奎：清华簡《繫年》“莫囂昜為”考論-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [
-          "lunwen/1319李守奎：清华简《系年》“莫嚣昜为”考论.pdf"
-        ],
         "text_length": 8482
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6482,26 +5169,10 @@
         "checked_utc": "2026-11-05T10:30:51Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/2426",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:53 GMT",
-          "Connection": "close",
-          "Content-Length": "154683"
-        },
         "truncated": false,
         "bytes": 154683,
         "sha256": "3557312f778a2e651841325f3dd7df4818d678f225e58eda06b35dc93bafb6e9",
-        "cache_path": ".recovery/completion-research-audit/http-cache/17187a80820bcda4.html",
         "title": "蘇建洲：也論清華簡《繫年》“莫囂昜為”-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 13244
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6697,26 +5368,10 @@
         "checked_utc": "2026-11-05T10:30:51Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/3072",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:53 GMT",
-          "Connection": "close",
-          "Content-Length": "50995"
-        },
         "truncated": false,
         "bytes": 50995,
         "sha256": "f4ebf1defd6ddaff89548dea89b9f30772051e80c35071cf880ff8268151075c",
-        "cache_path": ".recovery/completion-research-audit/http-cache/a2d786c99c82b927.html",
         "title": "王政冬：田莊子至齊威王間田齊諸君年代考-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 5057
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6767,26 +5422,10 @@
         "checked_utc": "2026-11-05T10:30:53Z",
         "status": 200,
         "final_url": "https://www.fdgwz.org.cn/Web/Show/923",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Server": "Microsoft-IIS/10.0",
-          "X-AspNetMvc-Version": "4.0",
-          "X-AspNet-Version": "4.0.30319",
-          "X-Powered-By": "ASP.NET",
-          "Date": "Thu, 05 Nov 2026 10:30:53 GMT",
-          "Connection": "close",
-          "Content-Length": "181559"
-        },
         "truncated": false,
         "bytes": 181559,
         "sha256": "2c80ce2509408b9878788fef12537db199e309e5b91f500459f8e706f091da1c",
-        "cache_path": ".recovery/completion-research-audit/http-cache/78a66e999341a0f8.html",
         "title": "蔡哲茂：契生昭明辨-复旦大学出土文献与古文字研究中心",
-        "rights_and_metadata_candidates": [
-          "<p>Copyright 2008-2018复旦大学出土文献与古文字研究中心版权所有 沪ICP备10035774号 地址：复旦大学光华楼西主楼27楼  邮编：200433&nbsp;</p>"
-        ],
-        "pdf_links": [],
         "text_length": 16970
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -6985,30 +5624,10 @@
         "checked_utc": "2026-11-05T10:30:59Z",
         "status": 200,
         "final_url": "https://www.njmuseum.com/files/wshl/rbbook/gb/25/shiji/sj044.html",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:31:00 GMT",
-          "Content-Type": "text/html",
-          "Content-Length": "31307",
-          "Connection": "close",
-          "Vary": "Accept-Encoding",
-          "Last-Modified": "Tue, 27 Jan 2026 06:42:12 GMT",
-          "ETag": "\"69785e44-7a4b\"",
-          "X-Content-Type-Options": "nosniff",
-          "X-Frame-Options": "SAMEORIGIN",
-          "X-XSS-Protection": "1; mode=block",
-          "X-Download-Options": "noopen",
-          "X-Permitted-Cross-Domain-Policies": "none",
-          "Referrer-Policy": "strict-origin-when-cross-origin",
-          "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://hm.baidu.com https://dcs.conac.cn https://matomous.adwebcloud.com; font-src 'self' data: at.alicdn.com",
-          "Accept-Ranges": "bytes"
-        },
         "truncated": false,
         "bytes": 31307,
         "sha256": "65fd1fffdeefc4b2b6aa4517817a880e8b537cd17e356a26c71cb85c4714b47b",
-        "cache_path": ".recovery/completion-research-audit/http-cache/89a31fd3fd621e81.html",
         "title": "史记",
-        "rights_and_metadata_candidates": [],
-        "pdf_links": [],
         "text_length": 16013
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -7215,34 +5834,10 @@
         "checked_utc": "2026-11-05T10:30:59Z",
         "status": 200,
         "final_url": "https://www.sanmin.com.tw/product/index/011154269",
-        "headers": {
-          "Cache-Control": "private",
-          "Content-Type": "text/html; charset=utf-8",
-          "Set-Cookie": "ASP.NET_SessionId=43a2zxw0o2v2sdombejxmpgc; path=/; secure; HttpOnly; SameSite=Lax",
-          "X-Frame-Options": "DENY",
-          "Content-Security-Policy": "frame-ancestors 'none'",
-          "Date": "Thu, 05 Nov 2026 10:30:59 GMT",
-          "Connection": "close",
-          "Content-Length": "127276",
-          "Strict-Transport-Security": "max-age=177211688; includeSubDomains"
-        },
         "truncated": false,
         "bytes": 127276,
         "sha256": "56b46f18ecee80e7310675f455927517c61ece14ab58d9e2207fc1155d548334",
-        "cache_path": ".recovery/completion-research-audit/http-cache/da053dfead168247.html",
         "title": "先秦諸子繫年(上/下)(限量精裝毛邊本)(附贈藏書票) - 三民網路書店",
-        "rights_and_metadata_candidates": [
-          "                    <div class=\"copyright fs-14 lh-20 w260 m0\">\r",
-          "                        <div>Copyright © San Min Book Co.,Ltd.<br /> All Rights Reserved.</div>\r"
-        ],
-        "pdf_links": [
-          "https://cdnec.sanmin.com.tw/downloads/ec/圖書目錄.pdf",
-          "https://cdnec.sanmin.com.tw/downloads/ec/小山丘童書圖書目錄.pdf",
-          "https://cdnec.sanmin.com.tw/downloads/ec/兒童及青少年圖書目錄.pdf",
-          "https://cdnec.sanmin.com.tw/downloads/ec/古籍圖書目錄.pdf",
-          "https://cdnec.sanmin.com.tw/downloads/ec/古典圖書目錄.pdf",
-          "https://cdnec.sanmin.com.tw/downloads/ec/畢業禮品.pdf"
-        ],
         "text_length": 11333
       },
       "confidence": "bibliographic_metadata_only"
@@ -7332,27 +5927,10 @@
         "checked_utc": "2026-11-05T10:30:59Z",
         "status": 200,
         "final_url": "https://www.wzbwg.com/newsinfo/11809",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:31:05 GMT",
-          "Server": "0123",
-          "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
-          "Pragma": "no-cache",
-          "Cache-control": "private",
-          "X-Powered-By": "ZMCloud",
-          "Set-Cookie": "security_session_verify=54e97a6c60d6078860911da6884da874; expires=Sun, 08-Nov-26 18:31:05 GMT; path=/; HttpOnly",
-          "Connection": "close",
-          "Transfer-Encoding": "chunked",
-          "Content-Type": "text/html; charset=utf-8"
-        },
         "truncated": false,
         "bytes": 60507,
         "sha256": "0e3d36873749ad666a7a4b7918665b012377947143fe688b5c00b86c4816b817",
-        "cache_path": ".recovery/completion-research-audit/http-cache/a04cc898bc695045.html",
         "title": "马王堆汉墓出土印章与封泥之再研究 - 中国文字博物馆",
-        "rights_and_metadata_candidates": [
-          "                <div>中国文字博物馆　版权所有&emsp;</div>\r"
-        ],
-        "pdf_links": [],
         "text_length": 9099
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -7455,28 +6033,10 @@
         "checked_utc": "2026-11-05T10:30:59Z",
         "status": 200,
         "final_url": "https://www1.ihp.sinica.edu.tw/en/Research/Groups/scriptaSinica",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:30:59 GMT",
-          "Cache-Control": "no-cache, private",
-          "Set-Cookie": "XSRF-TOKEN=eyJpdiI6InZwajBlMDJXTFZHMkUycm9qdEpDVVE9PSIsInZhbHVlIjoiVWU4Q2VVdlpkTkJzNGx0dWlpZWV5Z2pxUGtrT0pQSDljdExOamN3QU4raUVQdzcxbkZCdWRIYWk0ZE5VazhxWSIsIm1hYyI6IjY0Y2JkZmI3NjcwZTJiZDNlNzAwYThmYmNkYjEyMTJjOWJiZmJhMDVmZmU4ZGFhMWZlYjU0OTUxN2I4MThmOTgifQ%3D%3D; expires=Thu, 05-Nov-2026 12:30:59 GMT; Max-Age=7200; path=/; secure; samesite=lax",
-          "Pragma": "no-cache",
-          "Expires": "0",
-          "Content-Type": "text/html; charset=UTF-8",
-          "Connection": "close"
-        },
         "truncated": false,
         "bytes": 68490,
         "sha256": "1bd40502a0fcb88edf1a96b95dd0849f89184f2aaf51581aae5796e97a72a027",
-        "cache_path": ".recovery/completion-research-audit/http-cache/5c6dbc455b4b00c4.html",
         "title": "Scripta Sinica Research Group｜Institute of History and Philology, Academia Sinica",
-        "rights_and_metadata_candidates": [
-          "        <div id=\"box-copyright\">",
-          "            Copyright &#xA9; 2021 Institute of History and Philology All Rights Reserved.<span>Do not use the information on this website without authorization.</span>"
-        ],
-        "pdf_links": [
-          "https://www1.ihp.sinica.edu.tw/storage/11_open/2023-Publications-1211.pdf",
-          "/upload/史語所公開項目彙整表114更新.pdf"
-        ],
         "text_length": 8973
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -7547,31 +6107,10 @@
         "checked_utc": "2026-11-05T10:30:59Z",
         "status": 200,
         "final_url": "https://wxs.swu.edu.cn/info/1025/1484.htm",
-        "headers": {
-          "Date": "Thu, 05 Nov 2026 10:29:27 GMT",
-          "Content-Type": "text/html",
-          "Content-Length": "25527",
-          "Connection": "close",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Last-Modified": "Wed, 26 Aug 2026 14:49:22 GMT",
-          "Accept-Ranges": "bytes",
-          "Cache-Control": "max-age=600",
-          "Expires": "Thu, 05 Nov 2026 10:39:38 GMT",
-          "Vary": "Accept-Encoding",
-          "ETag": "\"63b7-659f4532cedf4-gzip\"",
-          "Content-Language": "zh-CN"
-        },
         "truncated": false,
         "bytes": 25527,
         "sha256": "51a71c131243113d59e19708a1388ded2c16722ba33cb6f0c8ffa5ea6abd41e0",
-        "cache_path": ".recovery/completion-research-audit/http-cache/0bd53da33709df74.html",
         "title": "【首】胡平生 | 安大簡《詩經》“矦”為“魏風”說-西南大学汉语言文献研究所",
-        "rights_and_metadata_candidates": [
-          "            <div>版权所有：西南大学汉语言文献研究所</div>\r"
-        ],
-        "pdf_links": [
-          "/__local/3/64/47/79A83DFE9A8EDAB791CF8D3C429_24B9C798_5E123.pdf?e=.pdf"
-        ],
         "text_length": 3236
       },
       "confidence": "current_original_content_and_existing_project_commentary"
@@ -7643,28 +6182,9 @@
         "checked_utc": "2026-11-05T10:30:59Z",
         "status": 200,
         "final_url": "https://xb.hsu.edu.cn/_upload/article/files/57/28/3894139b489182e3b9676de45df5/56c761e3-83c0-4a38-8556-2f26d55a4af3.pdf",
-        "headers": {
-          "Server": "nginx",
-          "Date": "Thu, 05 Nov 2026 10:31:00 GMT",
-          "Content-Type": "application/pdf",
-          "Content-Length": "446689",
-          "Connection": "close",
-          "X-Frame-Options": "SAMEORIGIN",
-          "Frame-Options": "SAMEORIGIN",
-          "Last-Modified": "Wed, 27 Apr 2016 07:47:54 GMT",
-          "ETag": "\"6d0e1-53172a0997e80\"",
-          "Accept-Ranges": "bytes",
-          "Content-Security-Policy": "default-src * 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline' 'unsafe-eval' ;script-src * 'unsafe-inline' 'unsafe-eval';img-src data: https:",
-          "X-XSS-Protection": "1; mode=block",
-          "X-Download-Options": "noopen",
-          "X-Permitted-Cross-Domain-Policies": "master-only",
-          "Referrer-Policy": "no-referrer-when-downgrade",
-          "X-Content-Type-Options": "nosniff"
-        },
         "truncated": false,
         "bytes": 446689,
-        "sha256": "0115806cf4c8180ad46957a0f6e3f145bbdacb277bb0706da925d610c969687b",
-        "cache_path": ".recovery/completion-research-audit/http-cache/10ec5659fff42c4b.pdf"
+        "sha256": "0115806cf4c8180ad46957a0f6e3f145bbdacb277bb0706da925d610c969687b"
       },
       "confidence": "current_original_content_and_existing_project_commentary"
     },
