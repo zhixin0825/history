@@ -1,0 +1,174 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/陳惠公",
+  "requested_title": "陳惠公",
+  "resolved_title": "陳惠公",
+  "pageid": 356753,
+  "revision": {
+    "revid": 87005443,
+    "parentid": 83224681,
+    "user": "Thần Đồng Cổ Nhạc",
+    "timestamp": "2025-04-26T23:11:29Z",
+    "size": 939,
+    "sha1": "ae55428946e6e9f79f4138eb378e1c71fde195b3"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E9%99%B3%E6%83%A0%E5%85%AC&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=87005443&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=87005443&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E9%99%B3%E6%83%A0%E5%85%AC&prop=contributors&pclimit=max",
+  "contributors_count": 18,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:48.251502+00:00",
+  "raw_content_sha256": "07d93e154c0854a587a23f613d16d1569287b0345b233ff7645fa33bad83fdb0",
+  "rendered_html_sha256": "d61a86b67229c9c642f5385c4ad3f1c2dc661605b51676a6dab2186483ac1724",
+  "api_response_sha256": "0398a54c927075c64d0652d3cfb227529251083a2bd7ea51427f6b9a31dcc6ae",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "參考文獻",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "陳惠公",
+      "byteoffset": 266,
+      "anchor": "參考文獻",
+      "linkAnchor": "參考文獻"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/陳惠公",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/陳惠公-87005443.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/陳惠公-87005443.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/陳惠公-87005443.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=87005443",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E9%99%B3%E6%83%A0%E5%85%AC&action=history&offset=20250426231129",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 356753,
+              "ns": 0,
+              "title": "陳惠公",
+              "anoncontributors": 2,
+              "contributors": [
+                {
+                  "userid": 19862,
+                  "name": "Dirrival"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 105520,
+                  "name": "CommonsDelinker"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 9489,
+                  "name": "Winertai"
+                },
+                {
+                  "userid": 47915,
+                  "name": "1j1z2"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 1157999,
+                  "name": "KLBot2"
+                },
+                {
+                  "userid": 1153617,
+                  "name": "YFdyh-bot"
+                },
+                {
+                  "userid": 2667509,
+                  "name": "Green Starbucks"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2704427,
+                  "name": "A010f06f5d5df5d55df55ew5ew3"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 3023890,
+                  "name": "Kethyga"
+                },
+                {
+                  "userid": 3300926,
+                  "name": "Perinbaba"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "导言明确前529复辟、追前533为元年，实际在位前529—506共24年。复国与追记元年继续分层，不把追记元年写成实际复国时间。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "陳惠公 （？—前506年）， 媯 姓 ，名 吳 ，為 春秋 諸侯國 陳國 君主之一，他為 陳哀公 孫子、 太子偃師 的兒子，前534年11月，陳國被 楚國 所滅， 楚灵王 派楚將 穿封戌 駐守於 陳國 ，人稱陳公。 [ 1 ] 後 楚平王 立，為了與諸侯和解，於前529年 復辟 他為陳國君主，他追以前533年為元年，在位期間為前529年—前506年，共在位24年。",
+        "sha256": "0d22271ef73faaa0af04bd2e21ecb33f6081da794bad32f23443735e9efa2e5a"
+      },
+      {
+        "block_index": 3,
+        "local_anchor": "cited-3",
+        "text": "前任： 穿封戌 春秋 陳國 君主 在位期間前529年—前506年，共在位24年 繼任： 陳懷公",
+        "sha256": "324303228328a14f967256e979d861e9f3ccb7877f14e94e09bfd6288fe7e67b"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "ae55428946e6e9f79f4138eb378e1c71fde195b3"
+}

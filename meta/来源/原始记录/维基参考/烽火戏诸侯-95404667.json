@@ -1,0 +1,486 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/烽火戏诸侯",
+  "requested_title": "烽火戏诸侯",
+  "resolved_title": "褒姒",
+  "pageid": 389397,
+  "revision": {
+    "revid": 95404667,
+    "parentid": 95069460,
+    "user": "Aronlee90",
+    "timestamp": "2026-11-04T14:41:39Z",
+    "size": 9247,
+    "sha1": "92e36732609f9f9f1db1e32a97b171ef182a646a"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [
+    {
+      "from": "烽火戏诸侯",
+      "to": "褒姒",
+      "tofragment": "烽火戲諸侯"
+    }
+  ],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E7%83%BD%E7%81%AB%E6%88%8F%E8%AF%B8%E4%BE%AF&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=95404667&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=95404667&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E8%A4%92%E5%A7%92&prop=contributors&pclimit=max",
+  "contributors_count": 79,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:43.604460+00:00",
+  "raw_content_sha256": "7f8a2ec97bf72c87436c192132e23596c6f2cc9a3f7e89df6144313f9ab7bb8a",
+  "rendered_html_sha256": "68c468e0e92a7d4798a85d0b71778c55f46498d1c629e5a8bd9e2eeb1c83abf9",
+  "api_response_sha256": "d67310448fdaf00b4f5c1a98819a37da8c9ce2598c6278a6c01cb6dbb748d0db",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "生平",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "褒姒",
+      "byteoffset": 477,
+      "anchor": "生平",
+      "linkAnchor": "生平"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "考據",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "褒姒",
+      "byteoffset": 1192,
+      "anchor": "考據",
+      "linkAnchor": "考據"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "烽火戲諸侯",
+      "number": "3",
+      "index": "3",
+      "fromtitle": "褒姒",
+      "byteoffset": 1462,
+      "anchor": "烽火戲諸侯",
+      "linkAnchor": "烽火戲諸侯"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "疑義",
+      "number": "4",
+      "index": "4",
+      "fromtitle": "褒姒",
+      "byteoffset": 3254,
+      "anchor": "疑義",
+      "linkAnchor": "疑義"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注釋参考",
+      "number": "5",
+      "index": "5",
+      "fromtitle": "褒姒",
+      "byteoffset": 4009,
+      "anchor": "注釋参考",
+      "linkAnchor": "注釋参考"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/烽火戏诸侯",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/烽火戏诸侯-95404667.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/烽火戏诸侯-95404667.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/烽火戏诸侯-95404667.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=95404667",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E8%A4%92%E5%A7%92&action=history&offset=20261104144139",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 389397,
+              "ns": 0,
+              "title": "褒姒",
+              "anoncontributors": 61,
+              "contributors": [
+                {
+                  "userid": 504154,
+                  "name": "Liangent-bot"
+                },
+                {
+                  "userid": 195959,
+                  "name": "Koala0090"
+                },
+                {
+                  "userid": 400936,
+                  "name": "Kolyma"
+                },
+                {
+                  "userid": 19862,
+                  "name": "Dirrival"
+                },
+                {
+                  "userid": 796173,
+                  "name": "EmausBot"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 39332,
+                  "name": "Nlu"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 408425,
+                  "name": "Cbls1911"
+                },
+                {
+                  "userid": 1890236,
+                  "name": "StevenK234"
+                },
+                {
+                  "userid": 1960229,
+                  "name": "Antigng"
+                },
+                {
+                  "userid": 19228,
+                  "name": "Tombus20032000"
+                },
+                {
+                  "userid": 1026327,
+                  "name": "如沐西风"
+                },
+                {
+                  "userid": 28923,
+                  "name": "Outlookxp"
+                },
+                {
+                  "userid": 1011905,
+                  "name": "日期20220626"
+                },
+                {
+                  "userid": 646996,
+                  "name": "Nickice"
+                },
+                {
+                  "userid": 166421,
+                  "name": "Taochein"
+                },
+                {
+                  "userid": 1067373,
+                  "name": "Lanwi1"
+                },
+                {
+                  "userid": 1628158,
+                  "name": "Longway22"
+                },
+                {
+                  "userid": 816133,
+                  "name": "Aronlee90"
+                },
+                {
+                  "userid": 1566971,
+                  "name": "太史子义慈"
+                },
+                {
+                  "userid": 1810982,
+                  "name": "AsharaDayne"
+                },
+                {
+                  "userid": 129065,
+                  "name": "Kloisiie"
+                },
+                {
+                  "userid": 1058308,
+                  "name": "星辰之叹"
+                },
+                {
+                  "userid": 83587,
+                  "name": "Ws227"
+                },
+                {
+                  "userid": 17504,
+                  "name": "Minghong"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 716385,
+                  "name": "Kaifeng.zhu"
+                },
+                {
+                  "userid": 77237,
+                  "name": "Klasnicinhk"
+                },
+                {
+                  "userid": 14848,
+                  "name": "Elnino199127"
+                },
+                {
+                  "userid": 20679,
+                  "name": "Mongol"
+                },
+                {
+                  "userid": 47915,
+                  "name": "1j1z2"
+                },
+                {
+                  "userid": 9835,
+                  "name": "Zy26"
+                },
+                {
+                  "userid": 30483,
+                  "name": "Tsiaojian lee"
+                },
+                {
+                  "userid": 175619,
+                  "name": "VolkovBot"
+                },
+                {
+                  "userid": 646230,
+                  "name": "北極企鵝觀賞團"
+                },
+                {
+                  "userid": 1315028,
+                  "name": "Davidzdh"
+                },
+                {
+                  "userid": 2637,
+                  "name": "TunnelESON"
+                },
+                {
+                  "userid": 518741,
+                  "name": "Fxqf"
+                },
+                {
+                  "userid": 68530,
+                  "name": "Underbar dk"
+                },
+                {
+                  "userid": 2085229,
+                  "name": "Hzh"
+                },
+                {
+                  "userid": 1409334,
+                  "name": "Yanrs17"
+                },
+                {
+                  "userid": 1370162,
+                  "name": "Kaikeung"
+                },
+                {
+                  "userid": 817473,
+                  "name": "SZJX"
+                },
+                {
+                  "userid": 1007181,
+                  "name": "Lot"
+                },
+                {
+                  "userid": 135216,
+                  "name": "维尼尔基"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 1470721,
+                  "name": "LLnnn252"
+                },
+                {
+                  "userid": 2450890,
+                  "name": "射命丸"
+                },
+                {
+                  "userid": 7272,
+                  "name": "Wolfan"
+                },
+                {
+                  "userid": 18470,
+                  "name": "Nguyễn Thanh Quang"
+                },
+                {
+                  "userid": 41096,
+                  "name": "Wwkk"
+                },
+                {
+                  "userid": 407120,
+                  "name": "Smokingdog"
+                },
+                {
+                  "userid": 430427,
+                  "name": "Albambot"
+                },
+                {
+                  "userid": 487863,
+                  "name": "Crabhu"
+                },
+                {
+                  "userid": 513231,
+                  "name": "Hjh474"
+                },
+                {
+                  "userid": 527028,
+                  "name": "Ngwi"
+                },
+                {
+                  "userid": 706307,
+                  "name": "777sms"
+                },
+                {
+                  "userid": 1178237,
+                  "name": "Jessechi"
+                },
+                {
+                  "userid": 1211510,
+                  "name": "Fdglt"
+                },
+                {
+                  "userid": 1570210,
+                  "name": "Jzby2008"
+                },
+                {
+                  "userid": 1880137,
+                  "name": "Imycd"
+                },
+                {
+                  "userid": 2400600,
+                  "name": "最是啼鹃负春心"
+                },
+                {
+                  "userid": 2456007,
+                  "name": "Penwait"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2766756,
+                  "name": "Bighornedowl"
+                },
+                {
+                  "userid": 2797542,
+                  "name": "Clod Huang"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 2818946,
+                  "name": "Fonzols"
+                },
+                {
+                  "userid": 3004911,
+                  "name": "妃紅"
+                },
+                {
+                  "userid": 3014310,
+                  "name": "Cjsyr12345"
+                },
+                {
+                  "userid": 3022842,
+                  "name": "Top90626"
+                },
+                {
+                  "userid": 3176378,
+                  "name": "Evesiesta"
+                },
+                {
+                  "userid": 3312320,
+                  "name": "Chingli77"
+                },
+                {
+                  "userid": 3515083,
+                  "name": "Urgunjembi"
+                },
+                {
+                  "userid": 3955387,
+                  "name": "Twelephant-bot"
+                },
+                {
+                  "userid": 4137717,
+                  "name": "David0730"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "原地址“烽火戏诸侯”重定向“褒姒”。条目分别保存传统故事、后世小说及“疑义”中钱穆、李峰和清华简意见；不把叙事或质疑的任一层直接改成绝对确证。",
+    "selected_blocks": [
+      {
+        "block_index": 11,
+        "local_anchor": "cited-11",
+        "text": "周幽王廢了 申后 、太子 宜臼 ，立褒姒為王后、伯服為太子，申后帶其子奔至外家 申國 （今 河南 南陽 北，一说西近 犬戎 ）。褒姒冷若冰霜，雖然當上王后，兒子 伯服 也于周幽王八年（前774年）被立為太子，但她卻很少有笑容。 周幽王 為了取悅褒姒，发出重赏，谁能诱发褒姒一笑，赏以千金 [ 2 ] 。周幽王納了 虢石父 之議，舉 烽火 召集 諸侯 於 驪山 前（ 陝西 臨潼 ），諸侯匆忙趕至，卻發覺並非寇匪侵犯，只見周幽王和褒姒在台上飲酒作樂，只好狼狽地退走，褒姒終於開心地大笑了，周幽王大喜。",
+        "sha256": "14aa9764aa3f4b778d0236860d995ba64e87d417afa816c473e1db942de4ae1c"
+      },
+      {
+        "block_index": 12,
+        "local_anchor": "cited-12",
+        "text": "前771年 申后 之父 申侯 聯絡 鄫 侯以及犬戎入寇， 大舉進攻 鎬京 [ 3 ] ，此時 周幽王 正與褒姒縱情淫樂、吃喝玩樂，不知外面出了大事，後來周幽王舉烽火示警，諸侯 以為又是騙局 而不願前往，戎兵殺周幽王、祭公易、尹球、 郑桓公 和 虢石父 於戲（今陝西臨潼東），虏走褒姒，“尽取周赂而去” [ 4 ] ，褒姒被擄後，從此下落不明。故《 诗经 · 小雅 ·正月》云：“赫赫 宗周 （指周朝），褒姒灭之。”。",
+        "sha256": "bf2b4ec2edbc4c76c630eb2dc41710ddebe18cf4557e7d047e3cd09904083a6d"
+      },
+      {
+        "block_index": 15,
+        "local_anchor": "cited-15",
+        "text": "《 東周列國志 》也提到周幽王想要褒姒笑，形成烽火戲諸侯。申侯勸諫廢申后立褒妃的幽王，不要重蹈桀寵 妹喜 以亡夏，以及紂寵 妲己 以亡商的覆轍，但被幽王認為亂言，因而要進攻申國。 [ 7 ] 申侯得知幽王要進攻申國，但自己國力太小，不敵王師時，大夫呂章建議聯合西戎先發制人，形成 犬戎攻周之戰 。幽王遣人舉烽火，但已被多次戲弄的諸侯都不派兵救援。犬戎主砍死幽王並殺伯服。褒姒被擄後自縊而亡。 [ 8 ] 一说褒姒被申兵与戎卒所杀，伯服被黜为庶人。",
+        "sha256": "269006d632417ae8fef9ad278494d2c10f9d26fea147fc58903846782643a927"
+      },
+      {
+        "block_index": 17,
+        "local_anchor": "cited-17",
+        "text": "钱穆 在《 国史大纲 》一書对此提出疑义：“此委巷小人之谈。诸侯并不能见烽同至，至而闻无寇，亦必休兵信宿而去，此有何可笑？举烽传警，乃汉人备匈奴事耳。骊山一役，由幽王举兵讨申，更无需举烽。”李峰《西周的滅亡》一書認為没有證據能說明先秦已有烽火台的設施，目前發現的烽火台遺跡全是漢代所留。況且此事最早的記錄是出自呂氏春秋，寫的是“擊鼓戲諸侯”，然 史記 卻記是「烽火戲諸侯」，二者差異甚大。",
+        "sha256": "640140a3d030b9b7e5cb99a893c9854b5bea73dd40a960f9120ad7745bea1336"
+      },
+      {
+        "block_index": 18,
+        "local_anchor": "cited-18",
+        "text": "2012年初， 清华大学 整理获赠的战国竹简（“ 清华简 ”）时，发现竹简上的记述与“烽火戲諸侯”相左。清华大学收藏的战国竹简记载，周幽王主动进攻原来的申后外家申國，申侯联络戎族打败周王，西周因而灭亡。竹简上并没有“烽火戲諸侯”的故事。清华大学出土文献研究与保护中心刘国忠教授称，史学界就此可以断定烽火戲諸侯并非西周灭亡的原因，甚至可以断定这个故事根本就是编造。 [ 9 ]",
+        "sha256": "50ba848c9d198d88ae923ba298f29042ef97f26571e77504319354569bd3a638"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "92e36732609f9f9f1db1e32a97b171ef182a646a"
+}

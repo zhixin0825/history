@@ -1,0 +1,419 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/太甲",
+  "requested_title": "太甲",
+  "resolved_title": "太甲",
+  "pageid": 109446,
+  "revision": {
+    "revid": 91754023,
+    "parentid": 88520381,
+    "user": "HSU98",
+    "timestamp": "2026-03-04T01:28:12Z",
+    "size": 3978,
+    "sha1": "5119059475f17af402845479cd6e185f088bba4b"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%A4%AA%E7%94%B2&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=91754023&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=91754023&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%A4%AA%E7%94%B2&prop=contributors&pclimit=max",
+  "contributors_count": 61,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:35.590748+00:00",
+  "raw_content_sha256": "b08423308839d6af007735da7ed677b7113d791a06ee31043b6a88db0082fc26",
+  "rendered_html_sha256": "027d620a39e56932ccd33abf396a35cd9dc4136d841e1b9fff3629bfe83e407e",
+  "api_response_sha256": "fc2097fd0bd5f07fe3f04ca345d8ec2de2df14de1b9b2e6fe537bc4b8c9d2662",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "在位年數",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "太甲",
+      "byteoffset": 1166,
+      "anchor": "在位年數",
+      "linkAnchor": "在位年數"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "名言",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "太甲",
+      "byteoffset": 1387,
+      "anchor": "名言",
+      "linkAnchor": "名言"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "妻",
+      "number": "3",
+      "index": "3",
+      "fromtitle": "太甲",
+      "byteoffset": 1440,
+      "anchor": "妻",
+      "linkAnchor": "妻"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注釋",
+      "number": "4",
+      "index": "4",
+      "fromtitle": "太甲",
+      "byteoffset": 1514,
+      "anchor": "注釋",
+      "linkAnchor": "注釋"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "參見",
+      "number": "5",
+      "index": "5",
+      "fromtitle": "太甲",
+      "byteoffset": 1540,
+      "anchor": "參見",
+      "linkAnchor": "參見"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注釋",
+      "number": "6",
+      "index": "6",
+      "fromtitle": "太甲",
+      "byteoffset": 1595,
+      "anchor": "注釋_2",
+      "linkAnchor": "注釋_2"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/太甲",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/太甲-91754023.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/太甲-91754023.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/太甲-91754023.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=91754023",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E5%A4%AA%E7%94%B2&action=history&offset=20260304012812",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 109446,
+              "ns": 0,
+              "title": "太甲",
+              "anoncontributors": 14,
+              "contributors": [
+                {
+                  "userid": 19862,
+                  "name": "Dirrival"
+                },
+                {
+                  "userid": 46136,
+                  "name": "Mewaqua"
+                },
+                {
+                  "userid": 933,
+                  "name": "Tomchiukc"
+                },
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 1937408,
+                  "name": "Cewbot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 1572602,
+                  "name": "Sanmosa"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 1854,
+                  "name": "Sz-iwbot"
+                },
+                {
+                  "userid": 408425,
+                  "name": "Cbls1911"
+                },
+                {
+                  "userid": 1548841,
+                  "name": "逐风天地"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 816179,
+                  "name": "O-ring"
+                },
+                {
+                  "userid": 1011905,
+                  "name": "日期20220626"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 59964,
+                  "name": "Cp111"
+                },
+                {
+                  "userid": 18267,
+                  "name": "Ffaarr"
+                },
+                {
+                  "userid": 690,
+                  "name": "Gakmo"
+                },
+                {
+                  "userid": 2976,
+                  "name": "Sbl"
+                },
+                {
+                  "userid": 175619,
+                  "name": "VolkovBot"
+                },
+                {
+                  "userid": 452664,
+                  "name": "Loveless"
+                },
+                {
+                  "userid": 237446,
+                  "name": "SieBot"
+                },
+                {
+                  "userid": 39133,
+                  "name": "Shibo77"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 2534710,
+                  "name": "Discardpath"
+                },
+                {
+                  "userid": 1034133,
+                  "name": "Makecat-bot"
+                },
+                {
+                  "userid": 786485,
+                  "name": "冰霜葵"
+                },
+                {
+                  "userid": 135786,
+                  "name": "STcatBot"
+                },
+                {
+                  "userid": 42173,
+                  "name": "FlaBot"
+                },
+                {
+                  "userid": 11573,
+                  "name": "Yuyu"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 2402247,
+                  "name": "Mydjsound"
+                },
+                {
+                  "userid": 546822,
+                  "name": "ArthurBot"
+                },
+                {
+                  "userid": 283574,
+                  "name": "Webridge"
+                },
+                {
+                  "userid": 557967,
+                  "name": "朝鲜的轮子"
+                },
+                {
+                  "userid": 1010813,
+                  "name": "維基小霸王"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 21643,
+                  "name": "Zuxy"
+                },
+                {
+                  "userid": 20409,
+                  "name": "昆仑神"
+                },
+                {
+                  "userid": 22603,
+                  "name": "太和"
+                },
+                {
+                  "userid": 41096,
+                  "name": "Wwkk"
+                },
+                {
+                  "userid": 44271,
+                  "name": "Nutcracker"
+                },
+                {
+                  "userid": 182491,
+                  "name": "Molar"
+                },
+                {
+                  "userid": 239579,
+                  "name": "Qqqyyy"
+                },
+                {
+                  "userid": 358320,
+                  "name": "PixelBot"
+                },
+                {
+                  "userid": 469277,
+                  "name": "MystBot"
+                },
+                {
+                  "userid": 476563,
+                  "name": "龍威"
+                },
+                {
+                  "userid": 1081210,
+                  "name": "Mapayna"
+                },
+                {
+                  "userid": 1450990,
+                  "name": "智文2"
+                },
+                {
+                  "userid": 2210717,
+                  "name": "Asaszxzx"
+                },
+                {
+                  "userid": 2232686,
+                  "name": "微雨竹"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2264104,
+                  "name": "Bill9999360"
+                },
+                {
+                  "userid": 2299424,
+                  "name": "Veritashero"
+                },
+                {
+                  "userid": 2408900,
+                  "name": "冉雲"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 2933656,
+                  "name": "Keroroyl"
+                },
+                {
+                  "userid": 3238609,
+                  "name": "HSU98"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对《史记》伊尹还政与《竹书纪年》太甲杀伊尹两说及各自引文。页面另有第三种推测，均保留为条目所述，不据此选择不一致的在位年。",
+    "selected_blocks": [
+      {
+        "block_index": 2,
+        "local_anchor": "cited-2",
+        "text": "据《史记》记载，太甲在位初年，任用 伊尹 为相，商朝比较强盛。可是太甲三年时，太甲开始按照自己性子办事，以残暴的手段对付 百姓 、 奴隶 ，伊尹便把太甲 流放 到 桐 之宮。三年後，伊尹见太甲改过自新 [ 2 ] ，便郑重地将 政權 交返给太甲。太甲 復辟 后，沉痛接受教训，成为了一个勤政爱民、励精图治的圣君。",
+        "sha256": "2361eece45ba0d93056b53c9355bfe3c277755c7c40571041f7a270ef4d87156"
+      },
+      {
+        "block_index": 3,
+        "local_anchor": "cited-3",
+        "text": "不過，另一本史書《 竹書紀年 》對此卻有不同的描述：伊尹放逐太甲后，自立為王，7年後，太甲潛回殺掉 篡位 的伊尹，並改立伊尹的兒子 伊陟 和 伊奮 繼承伊家 [ 3 ] 。",
+        "sha256": "77ce6a44d6745c31e4a9ae63eb2757d41eb5777599747bbe9af123ce1e3dd599"
+      },
+      {
+        "block_index": 4,
+        "local_anchor": "cited-4",
+        "text": "更有一種說法認為 商湯 長子 太丁 逝時，湯尚健在，立次子 外丙 為太子，而湯逝後，太甲奪權，在其叔父外丙（以及 仲壬 ）之前即位，破壞了嫡長子繼承制度。這可能是文獻記載中多稱太甲起初不賢的緣故，所以伊尹放太甲於桐，並作《伊訓》、《肆命》、《徂后》使其反省悔過。期間伊尹復立湯次子外丙、三子仲壬相繼為王，但二人年邁，總共在位六年便過世。太甲在桐宮修德，認識到自己的過錯，伊尹見此便迎接太甲回都，還政於太甲。但這便無法解釋太丁可能曾經繼位的證據，學者江林昌根据周祭祀谱中太丁先于太甲，认为太丁曾经即位。 [ 4 ]",
+        "sha256": "775088c5ad241309cd7827cb433bc5bf894242a75fc5b60efd243fbf1d2eefcb"
+      },
+      {
+        "block_index": 21,
+        "local_anchor": "cited-21",
+        "text": "^ 《史記·殷本紀》：“太甲，成湯適長孫也，是為帝太甲。帝太甲元年， 伊尹 作伊訓，作肆命，作徂后。帝太甲既立三年，不明，暴虐，不遵湯法，亂德，於是伊尹放之於桐宮。三年，伊尹攝行政當國，以朝諸侯。帝太甲居桐宮三年，悔過自責，反善，於是伊尹乃迎帝太甲而授之政。帝太甲修德，諸侯咸歸殷，百姓以寧。伊尹嘉之，乃作太甲訓三篇，褒帝太甲，稱太宗。”",
+        "sha256": "733dabc47ad2bb866069b895446ec692c49aff92c669ee838a1781faa6ced38d"
+      },
+      {
+        "block_index": 23,
+        "local_anchor": "cited-23",
+        "text": "^ 《竹书纪年》记载：“ 仲壬 崩，伊尹放太甲于桐，乃自立也。伊尹即位，放太甲七年。太甲潜出自桐杀伊尹，乃立其子伊陟、伊奋，命复其父之田宅而中分之”。",
+        "sha256": "128020f5e0ea7830c63cd11716f0a70b661a46e0afc05ac32287e2ac75ad9928"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "5119059475f17af402845479cd6e185f088bba4b"
+}

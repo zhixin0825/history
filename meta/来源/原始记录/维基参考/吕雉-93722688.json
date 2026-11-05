@@ -1,0 +1,1077 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/吕雉",
+  "requested_title": "吕雉",
+  "resolved_title": "吕雉",
+  "pageid": 95981,
+  "revision": {
+    "revid": 93722688,
+    "parentid": 93371230,
+    "user": "~2026-41968-67",
+    "temp": true,
+    "timestamp": "2026-08-01T02:40:33Z",
+    "size": 50911,
+    "sha1": "b378390dfe50360520757026558d9a44e46e2a52"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%90%95%E9%9B%89&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=93722688&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=93722688&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%90%95%E9%9B%89&prop=contributors&pclimit=max",
+  "contributors_count": 162,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:32.290023+00:00",
+  "raw_content_sha256": "dea893dfe619bdd09da7d9f173600f858c1d7e159a5247e339bb78ca1595e84e",
+  "rendered_html_sha256": "ef78473556a2b0bf9abf7ce83a574e1f02835fc4a3a7ab0b0614744e6280a19a",
+  "api_response_sha256": "5b51d0e63222f1cf339619a0c311b1d53851ba906538ea9862b1437b3465079b",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "早年生活",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "吕雉",
+      "byteoffset": 3661,
+      "anchor": "早年生活",
+      "linkAnchor": "早年生活"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "下嫁劉邦",
+      "number": "1.1",
+      "index": "2",
+      "fromtitle": "吕雉",
+      "byteoffset": 3673,
+      "anchor": "下嫁劉邦",
+      "linkAnchor": "下嫁劉邦"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "糟糠之妻",
+      "number": "1.2",
+      "index": "3",
+      "fromtitle": "吕雉",
+      "byteoffset": 4916,
+      "anchor": "糟糠之妻",
+      "linkAnchor": "糟糠之妻"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "富貴之相",
+      "number": "1.3",
+      "index": "4",
+      "fromtitle": "吕雉",
+      "byteoffset": 5248,
+      "anchor": "富貴之相",
+      "linkAnchor": "富貴之相"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "為夫入獄",
+      "number": "1.4",
+      "index": "5",
+      "fromtitle": "吕雉",
+      "byteoffset": 5747,
+      "anchor": "為夫入獄",
+      "linkAnchor": "為夫入獄"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "淪為楚囚",
+      "number": "2",
+      "index": "6",
+      "fromtitle": "吕雉",
+      "byteoffset": 6032,
+      "anchor": "淪為楚囚",
+      "linkAnchor": "淪為楚囚"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "太子之争",
+      "number": "3",
+      "index": "7",
+      "fromtitle": "吕雉",
+      "byteoffset": 6732,
+      "anchor": "太子之争",
+      "linkAnchor": "太子之争"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "張良獻計",
+      "number": "3.1",
+      "index": "8",
+      "fromtitle": "吕雉",
+      "byteoffset": 7051,
+      "anchor": "張良獻計",
+      "linkAnchor": "張良獻計"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "誅殺功臣",
+      "number": "4",
+      "index": "9",
+      "fromtitle": "吕雉",
+      "byteoffset": 8704,
+      "anchor": "誅殺功臣",
+      "linkAnchor": "誅殺功臣"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "病榻問相",
+      "number": "5",
+      "index": "10",
+      "fromtitle": "吕雉",
+      "byteoffset": 9121,
+      "anchor": "病榻問相",
+      "linkAnchor": "病榻問相"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "尊為太后",
+      "number": "6",
+      "index": "11",
+      "fromtitle": "吕雉",
+      "byteoffset": 9658,
+      "anchor": "尊為太后",
+      "linkAnchor": "尊為太后"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "人彘事件",
+      "number": "6.1",
+      "index": "12",
+      "fromtitle": "吕雉",
+      "byteoffset": 9883,
+      "anchor": "人彘事件",
+      "linkAnchor": "人彘事件"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "主持政務",
+      "number": "6.2",
+      "index": "13",
+      "fromtitle": "吕雉",
+      "byteoffset": 10303,
+      "anchor": "主持政務",
+      "linkAnchor": "主持政務"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "臨朝稱制",
+      "number": "7",
+      "index": "14",
+      "fromtitle": "吕雉",
+      "byteoffset": 10704,
+      "anchor": "臨朝稱制",
+      "linkAnchor": "臨朝稱制"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "前少帝",
+      "number": "7.1",
+      "index": "15",
+      "fromtitle": "吕雉",
+      "byteoffset": 11301,
+      "anchor": "前少帝",
+      "linkAnchor": "前少帝"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "後少帝",
+      "number": "7.2",
+      "index": "16",
+      "fromtitle": "吕雉",
+      "byteoffset": 11782,
+      "anchor": "後少帝",
+      "linkAnchor": "後少帝"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "内封諸呂",
+      "number": "7.3",
+      "index": "17",
+      "fromtitle": "吕雉",
+      "byteoffset": 12194,
+      "anchor": "内封諸呂",
+      "linkAnchor": "内封諸呂"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "外和匈奴",
+      "number": "7.4",
+      "index": "18",
+      "fromtitle": "吕雉",
+      "byteoffset": 12628,
+      "anchor": "外和匈奴",
+      "linkAnchor": "外和匈奴"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "呂后駕崩",
+      "number": "8",
+      "index": "19",
+      "fromtitle": "吕雉",
+      "byteoffset": 14093,
+      "anchor": "呂后駕崩",
+      "linkAnchor": "呂后駕崩"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "評價",
+      "number": "9",
+      "index": "20",
+      "fromtitle": "吕雉",
+      "byteoffset": 15686,
+      "anchor": "評價",
+      "linkAnchor": "評價"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "絮語",
+      "number": "9.1",
+      "index": "21",
+      "fromtitle": "吕雉",
+      "byteoffset": 15695,
+      "anchor": "絮語",
+      "linkAnchor": "絮語"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "總評",
+      "number": "9.2",
+      "index": "22",
+      "fromtitle": "吕雉",
+      "byteoffset": 17525,
+      "anchor": "總評",
+      "linkAnchor": "總評"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "纪年",
+      "number": "10",
+      "index": "23",
+      "fromtitle": "吕雉",
+      "byteoffset": 17921,
+      "anchor": "纪年",
+      "linkAnchor": "纪年"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "世系图",
+      "number": "11",
+      "index": "24",
+      "fromtitle": "吕雉",
+      "byteoffset": 18230,
+      "anchor": "世系图",
+      "linkAnchor": "世系图"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "影視形象",
+      "number": "12",
+      "index": "25",
+      "fromtitle": "吕雉",
+      "byteoffset": 19101,
+      "anchor": "影視形象",
+      "linkAnchor": "影視形象"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考文献",
+      "number": "13",
+      "index": "26",
+      "fromtitle": "吕雉",
+      "byteoffset": 20644,
+      "anchor": "参考文献",
+      "linkAnchor": "参考文献"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "引用",
+      "number": "13.1",
+      "index": "27",
+      "fromtitle": "吕雉",
+      "byteoffset": 20655,
+      "anchor": "引用",
+      "linkAnchor": "引用"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "书目",
+      "number": "13.2",
+      "index": "28",
+      "fromtitle": "吕雉",
+      "byteoffset": 20681,
+      "anchor": "书目",
+      "linkAnchor": "书目"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "延伸阅读",
+      "number": "14",
+      "index": "29",
+      "fromtitle": "吕雉",
+      "byteoffset": 20773,
+      "anchor": "延伸阅读",
+      "linkAnchor": "延伸阅读"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/吕雉",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/吕雉-93722688.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/吕雉-93722688.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/吕雉-93722688.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=93722688",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E5%90%95%E9%9B%89&action=history&offset=20260801024033",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 95981,
+              "ns": 0,
+              "title": "吕雉",
+              "anoncontributors": 104,
+              "contributors": [
+                {
+                  "userid": 504154,
+                  "name": "Liangent-bot"
+                },
+                {
+                  "userid": 2066416,
+                  "name": "佛祖西来"
+                },
+                {
+                  "userid": 796173,
+                  "name": "EmausBot"
+                },
+                {
+                  "userid": 899028,
+                  "name": "Xiplus"
+                },
+                {
+                  "userid": 933,
+                  "name": "Tomchiukc"
+                },
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 1937408,
+                  "name": "Cewbot"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 39332,
+                  "name": "Nlu"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 2284888,
+                  "name": "Willy1018"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 1572602,
+                  "name": "Sanmosa"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 1854,
+                  "name": "Sz-iwbot"
+                },
+                {
+                  "userid": 408425,
+                  "name": "Cbls1911"
+                },
+                {
+                  "userid": 2471225,
+                  "name": "BigBullfrog"
+                },
+                {
+                  "userid": 19228,
+                  "name": "Tombus20032000"
+                },
+                {
+                  "userid": 1201250,
+                  "name": "Dexbot"
+                },
+                {
+                  "userid": 2345075,
+                  "name": "Ohtashinichiro"
+                },
+                {
+                  "userid": 556669,
+                  "name": "Silvermetals"
+                },
+                {
+                  "userid": 886047,
+                  "name": "Cwek"
+                },
+                {
+                  "userid": 28923,
+                  "name": "Outlookxp"
+                },
+                {
+                  "userid": 105520,
+                  "name": "CommonsDelinker"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 43581,
+                  "name": "Iokseng"
+                },
+                {
+                  "userid": 1011905,
+                  "name": "日期20220626"
+                },
+                {
+                  "userid": 602004,
+                  "name": "淺藍雪"
+                },
+                {
+                  "userid": 2170119,
+                  "name": "Raymon090"
+                },
+                {
+                  "userid": 130035,
+                  "name": "Ccck2004"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 816133,
+                  "name": "Aronlee90"
+                },
+                {
+                  "userid": 2389813,
+                  "name": "Valerianb24"
+                },
+                {
+                  "userid": 1331030,
+                  "name": "Marxistfounder"
+                },
+                {
+                  "userid": 891599,
+                  "name": "Zanhe"
+                },
+                {
+                  "userid": 153505,
+                  "name": "Ypzrgy1225"
+                },
+                {
+                  "userid": 664498,
+                  "name": "Sgsg"
+                },
+                {
+                  "userid": 56268,
+                  "name": "Ibekolu"
+                },
+                {
+                  "userid": 93181,
+                  "name": "RekishiEJ"
+                },
+                {
+                  "userid": 579868,
+                  "name": "Pyruvate"
+                },
+                {
+                  "userid": 169553,
+                  "name": "淡月抄"
+                },
+                {
+                  "userid": 83587,
+                  "name": "Ws227"
+                },
+                {
+                  "userid": 81369,
+                  "name": "Alexbot"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 337274,
+                  "name": "Assisass"
+                },
+                {
+                  "userid": 9,
+                  "name": "Ktsquare"
+                },
+                {
+                  "userid": 18267,
+                  "name": "Ffaarr"
+                },
+                {
+                  "userid": 47915,
+                  "name": "1j1z2"
+                },
+                {
+                  "userid": 175619,
+                  "name": "VolkovBot"
+                },
+                {
+                  "userid": 452664,
+                  "name": "Loveless"
+                },
+                {
+                  "userid": 237446,
+                  "name": "SieBot"
+                },
+                {
+                  "userid": 36692,
+                  "name": "长夜无风"
+                },
+                {
+                  "userid": 696263,
+                  "name": "Dinamik-bot"
+                },
+                {
+                  "userid": 891729,
+                  "name": "WikitanvirBot"
+                },
+                {
+                  "userid": 1657243,
+                  "name": "Formuse"
+                },
+                {
+                  "userid": 1346854,
+                  "name": "Techyan"
+                },
+                {
+                  "userid": 646230,
+                  "name": "北極企鵝觀賞團"
+                },
+                {
+                  "userid": 1153623,
+                  "name": "LECer"
+                },
+                {
+                  "userid": 160631,
+                  "name": "蘇州宇文宙武"
+                },
+                {
+                  "userid": 42223,
+                  "name": "PhiLiP"
+                },
+                {
+                  "userid": 2637,
+                  "name": "TunnelESON"
+                },
+                {
+                  "userid": 1197893,
+                  "name": "Youngjohnny"
+                },
+                {
+                  "userid": 2567178,
+                  "name": "Dolldoly"
+                },
+                {
+                  "userid": 1359991,
+                  "name": "Asbtrl361442"
+                },
+                {
+                  "userid": 284449,
+                  "name": "Symplectopedia"
+                },
+                {
+                  "userid": 2268214,
+                  "name": "李佐堯"
+                },
+                {
+                  "userid": 1058755,
+                  "name": "Yebuzhen"
+                },
+                {
+                  "userid": 2327111,
+                  "name": "Tx9032f99"
+                },
+                {
+                  "userid": 577015,
+                  "name": "Goodmartin"
+                },
+                {
+                  "userid": 509328,
+                  "name": "Matthew lai70"
+                },
+                {
+                  "userid": 539749,
+                  "name": "Hikaruangeel"
+                },
+                {
+                  "userid": 982886,
+                  "name": "冷咖啡"
+                },
+                {
+                  "userid": 2399133,
+                  "name": "Celtics2020"
+                },
+                {
+                  "userid": 28683,
+                  "name": "鸟甲"
+                },
+                {
+                  "userid": 71258,
+                  "name": "Escarbot"
+                },
+                {
+                  "userid": 925911,
+                  "name": "NeoBatfreak"
+                },
+                {
+                  "userid": 10982,
+                  "name": "Πrate"
+                },
+                {
+                  "userid": 395811,
+                  "name": "Alfredo ougaowen"
+                },
+                {
+                  "userid": 404012,
+                  "name": "FdcnBot"
+                },
+                {
+                  "userid": 2402247,
+                  "name": "Mydjsound"
+                },
+                {
+                  "userid": 2661240,
+                  "name": "HRWang"
+                },
+                {
+                  "userid": 484129,
+                  "name": "Nallimbot"
+                },
+                {
+                  "userid": 546822,
+                  "name": "ArthurBot"
+                },
+                {
+                  "userid": 669928,
+                  "name": "TobeBot"
+                },
+                {
+                  "userid": 459882,
+                  "name": "Zorrobot"
+                },
+                {
+                  "userid": 135216,
+                  "name": "维尼尔基"
+                },
+                {
+                  "userid": 60402,
+                  "name": "Littletung"
+                },
+                {
+                  "userid": 452047,
+                  "name": "SpBot"
+                },
+                {
+                  "userid": 97111,
+                  "name": "下一次登录"
+                },
+                {
+                  "userid": 1010813,
+                  "name": "維基小霸王"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 21643,
+                  "name": "Zuxy"
+                },
+                {
+                  "userid": 9680,
+                  "name": "枫…秋絮"
+                },
+                {
+                  "userid": 10027,
+                  "name": "Captmjc"
+                },
+                {
+                  "userid": 12963,
+                  "name": "Wooddoo"
+                },
+                {
+                  "userid": 13426,
+                  "name": "Itsminecookies"
+                },
+                {
+                  "userid": 22083,
+                  "name": "Pubuhan"
+                },
+                {
+                  "userid": 23374,
+                  "name": "Lleux"
+                },
+                {
+                  "userid": 23600,
+                  "name": "Ericyuen"
+                },
+                {
+                  "userid": 26820,
+                  "name": "似水驕陽"
+                },
+                {
+                  "userid": 28031,
+                  "name": "Herbertxu"
+                },
+                {
+                  "userid": 28448,
+                  "name": "Usuallysmile"
+                },
+                {
+                  "userid": 43203,
+                  "name": "Ffn"
+                },
+                {
+                  "userid": 43769,
+                  "name": "Mconfucian"
+                },
+                {
+                  "userid": 44346,
+                  "name": "中美友好"
+                },
+                {
+                  "userid": 47390,
+                  "name": "民國九十五年"
+                },
+                {
+                  "userid": 61879,
+                  "name": "DavidEason"
+                },
+                {
+                  "userid": 78072,
+                  "name": "Heavenheart"
+                },
+                {
+                  "userid": 164953,
+                  "name": "Tukulka"
+                },
+                {
+                  "userid": 192234,
+                  "name": "ST47"
+                },
+                {
+                  "userid": 239579,
+                  "name": "Qqqyyy"
+                },
+                {
+                  "userid": 340531,
+                  "name": "Alexander1989780803"
+                },
+                {
+                  "userid": 343409,
+                  "name": "Ptt5566"
+                },
+                {
+                  "userid": 390844,
+                  "name": "L1c2h3"
+                },
+                {
+                  "userid": 430427,
+                  "name": "Albambot"
+                },
+                {
+                  "userid": 480744,
+                  "name": "虞海"
+                },
+                {
+                  "userid": 530715,
+                  "name": "Skkp666"
+                },
+                {
+                  "userid": 553240,
+                  "name": "Ivantalk"
+                },
+                {
+                  "userid": 578097,
+                  "name": "Rubinbot"
+                },
+                {
+                  "userid": 614610,
+                  "name": "Mmm333"
+                },
+                {
+                  "userid": 614791,
+                  "name": "吕耕"
+                },
+                {
+                  "userid": 656811,
+                  "name": "楷叔講古"
+                },
+                {
+                  "userid": 807857,
+                  "name": "Ctkkenny"
+                },
+                {
+                  "userid": 835978,
+                  "name": "JhsBot"
+                },
+                {
+                  "userid": 859556,
+                  "name": "九翼天使"
+                },
+                {
+                  "userid": 896412,
+                  "name": "汗罕"
+                },
+                {
+                  "userid": 950630,
+                  "name": "Maalikwong"
+                },
+                {
+                  "userid": 1081210,
+                  "name": "Mapayna"
+                },
+                {
+                  "userid": 1259048,
+                  "name": "Hmgqzx"
+                },
+                {
+                  "userid": 1520631,
+                  "name": "昏君"
+                },
+                {
+                  "userid": 1684878,
+                  "name": "江边月"
+                },
+                {
+                  "userid": 1799034,
+                  "name": "Astorknlam"
+                },
+                {
+                  "userid": 2151694,
+                  "name": "Wepwawetemsaf"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2277364,
+                  "name": "Wikiarea"
+                },
+                {
+                  "userid": 2313878,
+                  "name": "Han Quedi"
+                },
+                {
+                  "userid": 2429948,
+                  "name": "Jen9097"
+                },
+                {
+                  "userid": 2449577,
+                  "name": "Gkler"
+                },
+                {
+                  "userid": 2490529,
+                  "name": "Boogi wu"
+                },
+                {
+                  "userid": 2610972,
+                  "name": "落丶雨"
+                },
+                {
+                  "userid": 2722111,
+                  "name": "FrutigerAero8"
+                },
+                {
+                  "userid": 2734330,
+                  "name": "魔琴"
+                },
+                {
+                  "userid": 2747229,
+                  "name": "Peijent"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 2863550,
+                  "name": "秦瑤月"
+                },
+                {
+                  "userid": 3005669,
+                  "name": "夏土贤"
+                },
+                {
+                  "userid": 3020067,
+                  "name": "Begonium"
+                },
+                {
+                  "userid": 3027210,
+                  "name": "MarkusLiang"
+                },
+                {
+                  "userid": 3054734,
+                  "name": "Coddlebean"
+                },
+                {
+                  "userid": 3094013,
+                  "name": "The Puki desu"
+                },
+                {
+                  "userid": 3105212,
+                  "name": "Jiaweipan"
+                },
+                {
+                  "userid": 3263401,
+                  "name": "Quartr"
+                },
+                {
+                  "userid": 3300926,
+                  "name": "Perinbaba"
+                },
+                {
+                  "userid": 3327759,
+                  "name": "MinamotonoYoritomo"
+                },
+                {
+                  "userid": 3696014,
+                  "name": "杜翰佑"
+                },
+                {
+                  "userid": 3765384,
+                  "name": "衍慶"
+                },
+                {
+                  "userid": 3943492,
+                  "name": "~2025-37878-77"
+                },
+                {
+                  "userid": 3958479,
+                  "name": "~2025-40570-09"
+                },
+                {
+                  "userid": 4101629,
+                  "name": "Weiericuu"
+                },
+                {
+                  "userid": 4205239,
+                  "name": "~2026-41968-67"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对“内封诸吕”段集中在高后元年列诸吕封王、导言前180卒及狂犬病为后世论文意见。集中叙述不替代逐年原文；不将病因意见写成确诊事实。",
+    "selected_blocks": [
+      {
+        "block_index": 6,
+        "local_anchor": "cited-6",
+        "text": "呂太后稱制期間曾大封親族為王。前180年8月18日（ 七月三十 ），呂雉逝世。后世有学术论文 [ 18 ] 认为，吕雉的死因是 狂犬病 。 周勃 、 陳平 等人 剷除呂氏家族力量 ，更立漢高祖第四子代王繼承宗廟，是為 漢文帝 。",
+        "sha256": "19fa0b614e0187e5b6765b4f48db7eef75cf12ab3f4f466d0e502d59b254bdf7"
+      },
+      {
+        "block_index": 65,
+        "local_anchor": "cited-65",
+        "text": "呂后追封他已故的兩個哥哥，大哥呂侯為悼武王，呂釋之為趙昭王，以此作封立諸呂為王的開端。",
+        "sha256": "c723b366adab5b9172249c370e1ac14a1bf3f308019bb40b72d5678702947310"
+      },
+      {
+        "block_index": 66,
+        "local_anchor": "cited-66",
+        "text": "高后元年（前187年），封侄 呂台 為呂王， 呂產 為梁王， 呂祿 為趙王，侄孫 呂通 為燕王，追尊父 呂文 為呂宣王，封女兒魯元公主的兒子張偃為魯王，將 呂祿 的女兒嫁給 劉章 ，封劉章為朱虛侯，封呂釋之的兒子 呂種 為沛侯，封外甥 呂平 扶柳侯。",
+        "sha256": "1173079d72febce936cc97a5e022de68dd77d6d6ae0e0dd4a9985e3a96c1c510"
+      },
+      {
+        "block_index": 67,
+        "local_anchor": "cited-67",
+        "text": "高后二年（前186年），呂台去世，諡號肅王，封其子 呂嘉 代呂台為呂王。",
+        "sha256": "23da08fb444c5fe2c6ec74fbfb2d6f152496f99ba6cdedb7de4a6f6624c973c2"
+      },
+      {
+        "block_index": 68,
+        "local_anchor": "cited-68",
+        "text": "高后四年（前184年），又封其妹 呂媭 為臨光侯，侄子 呂他 為俞侯，呂更始為贅其侯，呂忿為呂城侯。呂后先後分封呂氏家族十幾人為王為侯。",
+        "sha256": "5d08a5494e7cc2a9ec197e3c9ba7f94a58dbfd0ca9002b03b5d7b2818dbcc774"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "b378390dfe50360520757026558d9a44e46e2a52"
+}

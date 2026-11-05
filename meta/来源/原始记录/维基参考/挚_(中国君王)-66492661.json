@@ -1,0 +1,257 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/挚_(中国君王)",
+  "requested_title": "挚 (中国君王)",
+  "resolved_title": "挚 (中国君王)",
+  "pageid": 89001,
+  "revision": {
+    "revid": 66492661,
+    "parentid": 66492253,
+    "user": "Mys 721tx",
+    "timestamp": "2021-07-09T00:02:38Z",
+    "size": 774,
+    "sha1": "ba6253d944440380e79ce8b4fd974bec5764e1e8"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E6%8C%9A+%28%E4%B8%AD%E5%9B%BD%E5%90%9B%E7%8E%8B%29&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=66492661&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=66492661&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E6%8C%9A+%28%E4%B8%AD%E5%9B%BD%E5%90%9B%E7%8E%8B%29&prop=contributors&pclimit=max",
+  "contributors_count": 36,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:38.779875+00:00",
+  "raw_content_sha256": "1400d8699c1434b960e328ad69e64012e43266c6db595381e63c377ba353d611",
+  "rendered_html_sha256": "75e9730fa334a5004ec778c8778629edaa6b8dd0850ca208aeb0074b2ee854ba",
+  "api_response_sha256": "e747e01bdc074d6067ac433802b5f9b9161e8f26df38e6c0e7db051d47164f63",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "相關",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "挚_(中国君王)",
+      "byteoffset": 215,
+      "anchor": "相關",
+      "linkAnchor": "相關"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考文献",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "挚_(中国君王)",
+      "byteoffset": 321,
+      "anchor": "参考文献",
+      "linkAnchor": "参考文献"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/挚 (中国君王)",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/挚_(中国君王)-66492661.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/挚_(中国君王)-66492661.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/挚_(中国君王)-66492661.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=66492661",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E6%8C%9A%20%28%E4%B8%AD%E5%9B%BD%E5%90%9B%E7%8E%8B%29&action=history&offset=20210709000238",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 89001,
+              "ns": 0,
+              "title": "挚 (中国君王)",
+              "anoncontributors": 13,
+              "contributors": [
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 1009545,
+                  "name": "FODCOC"
+                },
+                {
+                  "userid": 39332,
+                  "name": "Nlu"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 10070,
+                  "name": "Jasonzhuocn"
+                },
+                {
+                  "userid": 1890236,
+                  "name": "StevenK234"
+                },
+                {
+                  "userid": 687728,
+                  "name": "Mys 721tx"
+                },
+                {
+                  "userid": 43581,
+                  "name": "Iokseng"
+                },
+                {
+                  "userid": 2170119,
+                  "name": "Raymon090"
+                },
+                {
+                  "userid": 563591,
+                  "name": "Xqbot"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 83587,
+                  "name": "Ws227"
+                },
+                {
+                  "userid": 1149551,
+                  "name": "WanJiaQi"
+                },
+                {
+                  "userid": 18267,
+                  "name": "Ffaarr"
+                },
+                {
+                  "userid": 47915,
+                  "name": "1j1z2"
+                },
+                {
+                  "userid": 284449,
+                  "name": "Symplectopedia"
+                },
+                {
+                  "userid": 622222,
+                  "name": "燈火闌珊處"
+                },
+                {
+                  "userid": 273419,
+                  "name": "Idioma-bot"
+                },
+                {
+                  "userid": 134033,
+                  "name": "HKSYT"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 26389,
+                  "name": "Stargate756"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 15033,
+                  "name": "Kichyou"
+                },
+                {
+                  "userid": 70125,
+                  "name": "影武者"
+                },
+                {
+                  "userid": 73994,
+                  "name": "Jujensia"
+                },
+                {
+                  "userid": 268425,
+                  "name": "大利稽"
+                },
+                {
+                  "userid": 463237,
+                  "name": "Muro Bot"
+                },
+                {
+                  "userid": 502030,
+                  "name": "Naikiw"
+                },
+                {
+                  "userid": 566475,
+                  "name": "Mar vin kaiser"
+                },
+                {
+                  "userid": 790708,
+                  "name": "Dionysus 005"
+                },
+                {
+                  "userid": 818894,
+                  "name": "HRoestBot"
+                },
+                {
+                  "userid": 936445,
+                  "name": "Stenvenhe"
+                },
+                {
+                  "userid": 1102478,
+                  "name": "Minsbot"
+                },
+                {
+                  "userid": 1422728,
+                  "name": "昃典度"
+                },
+                {
+                  "userid": 2408900,
+                  "name": "冉雲"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "条目导言记受喾之禅、九年后让尧，注引《文献通考》“政微弱”禅位。其生卒仍不详；九年和禅位属于相应传说文献，不能变成可靠绝对年代。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "挚 （？—？）， 中國 上古傳說的君王，帝 嚳 次妃 常宜 的兒子， 嚳 的長子。虽然其母在兄弟们的生母中地位最低，但因是长子，受嚳之禪而繼皇位，九年後 禪讓 給弟弟 尧 [ 1 ] 。他出生地是在清化（今 河南省 焦作市 博爱县 城东）。",
+        "sha256": "3778f336632b59e092ba2a75eef4aa08d2a1404af418bdd77bc600f1b512d44e"
+      },
+      {
+        "block_index": 5,
+        "local_anchor": "cited-5",
+        "text": "^ 《文献通考·卷二百五十三 帝系考四》帝喾崩，帝挚代立。挚在位九年，政微弱，弟唐侯放勋德盛，乃禅位焉",
+        "sha256": "3697e74871117b63fa1c1f1e68d81e875a25b4e4f1f0f9ddd87bd1241cdff084"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "ba6253d944440380e79ce8b4fd974bec5764e1e8"
+}

@@ -1,0 +1,1369 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/子產",
+  "requested_title": "子產",
+  "resolved_title": "子产",
+  "pageid": 1427,
+  "revision": {
+    "revid": 95303071,
+    "parentid": 94289230,
+    "user": "Xinjian963",
+    "timestamp": "2026-10-27T10:45:14Z",
+    "size": 186394,
+    "sha1": "9e180ab16c305121561921e99fa50f071d630a75"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [
+    {
+      "from": "子產",
+      "to": "子产"
+    }
+  ],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%AD%90%E7%94%A2&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=95303071&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=95303071&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%AD%90%E4%BA%A7&prop=contributors&pclimit=max",
+  "contributors_count": 72,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:36.945293+00:00",
+  "raw_content_sha256": "28870eddac3ad537c19f763714540c7601a50f9c5f3b7082abff3a1824f6d798",
+  "rendered_html_sha256": "331ca2008042bc00c32539f1056a38ac3e075ca06ade30290feb5956c6821ed4",
+  "api_response_sha256": "6d49af7ad0d6a78dc288ae4877941f5e8935c6443608d7ac6e3e002e8bc62b4f",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "身世姓氏",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "子产",
+      "byteoffset": 1271,
+      "anchor": "身世姓氏",
+      "linkAnchor": "身世姓氏"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "生平",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "子产",
+      "byteoffset": 2224,
+      "anchor": "生平",
+      "linkAnchor": "生平"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "料兵祸",
+      "number": "2.1",
+      "index": "3",
+      "fromtitle": "子产",
+      "byteoffset": 2233,
+      "anchor": "料兵祸",
+      "linkAnchor": "料兵祸"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "平叛",
+      "number": "2.2",
+      "index": "4",
+      "fromtitle": "子产",
+      "byteoffset": 3159,
+      "anchor": "平叛",
+      "linkAnchor": "平叛"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "焚载书",
+      "number": "2.3",
+      "index": "5",
+      "fromtitle": "子产",
+      "byteoffset": 3809,
+      "anchor": "焚载书",
+      "linkAnchor": "焚载书"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "父仇得报",
+      "number": "2.4",
+      "index": "6",
+      "fromtitle": "子产",
+      "byteoffset": 4277,
+      "anchor": "父仇得报",
+      "linkAnchor": "父仇得报"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "为卿",
+      "number": "2.5",
+      "index": "7",
+      "fromtitle": "子产",
+      "byteoffset": 4585,
+      "anchor": "为卿",
+      "linkAnchor": "为卿"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "朝晋",
+      "number": "2.6",
+      "index": "8",
+      "fromtitle": "子产",
+      "byteoffset": 4879,
+      "anchor": "朝晋",
+      "linkAnchor": "朝晋"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "告范宣子轻币",
+      "number": "2.7",
+      "index": "9",
+      "fromtitle": "子产",
+      "byteoffset": 6016,
+      "anchor": "告范宣子轻币",
+      "linkAnchor": "告范宣子轻币"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "攻陈",
+      "number": "2.8",
+      "index": "10",
+      "fromtitle": "子产",
+      "byteoffset": 7018,
+      "anchor": "攻陈",
+      "linkAnchor": "攻陈"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "献捷于晋",
+      "number": "2.9",
+      "index": "11",
+      "fromtitle": "子产",
+      "byteoffset": 7526,
+      "anchor": "献捷于晋",
+      "linkAnchor": "献捷于晋"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "政事问答",
+      "number": "2.10",
+      "index": "12",
+      "fromtitle": "子产",
+      "byteoffset": 9061,
+      "anchor": "政事问答",
+      "linkAnchor": "政事问答"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "辞邑",
+      "number": "2.11",
+      "index": "13",
+      "fromtitle": "子产",
+      "byteoffset": 9479,
+      "anchor": "辞邑",
+      "linkAnchor": "辞邑"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "释俘",
+      "number": "2.12",
+      "index": "14",
+      "fromtitle": "子产",
+      "byteoffset": 9853,
+      "anchor": "释俘",
+      "linkAnchor": "释俘"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "不御敌",
+      "number": "2.13",
+      "index": "15",
+      "fromtitle": "子产",
+      "byteoffset": 10392,
+      "anchor": "不御敌",
+      "linkAnchor": "不御敌"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "享礼赋诗",
+      "number": "2.14",
+      "index": "16",
+      "fromtitle": "子产",
+      "byteoffset": 10926,
+      "anchor": "享礼赋诗",
+      "linkAnchor": "享礼赋诗"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "料蔡侯有祸",
+      "number": "2.15",
+      "index": "17",
+      "fromtitle": "子产",
+      "byteoffset": 11524,
+      "anchor": "料蔡侯有祸",
+      "linkAnchor": "料蔡侯有祸"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "入楚国不为坛",
+      "number": "2.16",
+      "index": "18",
+      "fromtitle": "子产",
+      "byteoffset": 12019,
+      "anchor": "入楚国不为坛",
+      "linkAnchor": "入楚国不为坛"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "友季札",
+      "number": "2.17",
+      "index": "19",
+      "fromtitle": "子产",
+      "byteoffset": 12733,
+      "anchor": "友季札",
+      "linkAnchor": "友季札"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "裨谌属望子产",
+      "number": "2.18",
+      "index": "20",
+      "fromtitle": "子产",
+      "byteoffset": 13043,
+      "anchor": "裨谌属望子产",
+      "linkAnchor": "裨谌属望子产"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "论驷良之争",
+      "number": "2.19",
+      "index": "21",
+      "fromtitle": "子产",
+      "byteoffset": 13761,
+      "anchor": "论驷良之争",
+      "linkAnchor": "论驷良之争"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "料陈将亡",
+      "number": "2.20",
+      "index": "22",
+      "fromtitle": "子产",
+      "byteoffset": 14092,
+      "anchor": "料陈将亡",
+      "linkAnchor": "料陈将亡"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "葬伯有",
+      "number": "2.21",
+      "index": "23",
+      "fromtitle": "子产",
+      "byteoffset": 14788,
+      "anchor": "葬伯有",
+      "linkAnchor": "葬伯有"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "为政",
+      "number": "2.22",
+      "index": "24",
+      "fromtitle": "子产",
+      "byteoffset": 16198,
+      "anchor": "为政",
+      "linkAnchor": "为政"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "贿伯石",
+      "number": "2.22.1",
+      "index": "25",
+      "fromtitle": "子产",
+      "byteoffset": 16412,
+      "anchor": "贿伯石",
+      "linkAnchor": "贿伯石"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "施政",
+      "number": "2.22.2",
+      "index": "26",
+      "fromtitle": "子产",
+      "byteoffset": 17058,
+      "anchor": "施政",
+      "linkAnchor": "施政"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "复丰卷",
+      "number": "2.22.3",
+      "index": "27",
+      "fromtitle": "子产",
+      "byteoffset": 17232,
+      "anchor": "复丰卷",
+      "linkAnchor": "复丰卷"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "舆人之诵",
+      "number": "2.22.4",
+      "index": "28",
+      "fromtitle": "子产",
+      "byteoffset": 17516,
+      "anchor": "舆人之诵",
+      "linkAnchor": "舆人之诵"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "坏晋馆垣",
+      "number": "2.23",
+      "index": "29",
+      "fromtitle": "子产",
+      "byteoffset": 17744,
+      "anchor": "坏晋馆垣",
+      "linkAnchor": "坏晋馆垣"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "择能而使",
+      "number": "2.24",
+      "index": "30",
+      "fromtitle": "子产",
+      "byteoffset": 19657,
+      "anchor": "择能而使",
+      "linkAnchor": "择能而使"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "不毁乡校",
+      "number": "2.25",
+      "index": "31",
+      "fromtitle": "子产",
+      "byteoffset": 20514,
+      "anchor": "不毁乡校",
+      "linkAnchor": "不毁乡校"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "论尹何为邑",
+      "number": "2.26",
+      "index": "32",
+      "fromtitle": "子产",
+      "byteoffset": 21368,
+      "anchor": "论尹何为邑",
+      "linkAnchor": "论尹何为邑"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "却楚逆女以兵",
+      "number": "2.27",
+      "index": "33",
+      "fromtitle": "子产",
+      "byteoffset": 22511,
+      "anchor": "却楚逆女以兵",
+      "linkAnchor": "却楚逆女以兵"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "享礼赵孟",
+      "number": "2.28",
+      "index": "34",
+      "fromtitle": "子产",
+      "byteoffset": 23071,
+      "anchor": "享礼赵孟",
+      "linkAnchor": "享礼赵孟"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "逐子南",
+      "number": "2.29",
+      "index": "35",
+      "fromtitle": "子产",
+      "byteoffset": 23514,
+      "anchor": "逐子南",
+      "linkAnchor": "逐子南"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "薰隧之盟",
+      "number": "2.30",
+      "index": "36",
+      "fromtitle": "子产",
+      "byteoffset": 24854,
+      "anchor": "薰隧之盟",
+      "linkAnchor": "薰隧之盟"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "论晋侯疾",
+      "number": "2.31",
+      "index": "37",
+      "fromtitle": "子产",
+      "byteoffset": 25116,
+      "anchor": "论晋侯疾",
+      "linkAnchor": "论晋侯疾"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "料楚公子将王及盟会",
+      "number": "2.32",
+      "index": "38",
+      "fromtitle": "子产",
+      "byteoffset": 26922,
+      "anchor": "料楚公子将王及盟会",
+      "linkAnchor": "料楚公子将王及盟会"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "杀子晳",
+      "number": "2.33",
+      "index": "39",
+      "fromtitle": "子产",
+      "byteoffset": 27491,
+      "anchor": "杀子晳",
+      "linkAnchor": "杀子晳"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "入楚盟于申",
+      "number": "2.34",
+      "index": "40",
+      "fromtitle": "子产",
+      "byteoffset": 28287,
+      "anchor": "入楚盟于申",
+      "linkAnchor": "入楚盟于申"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "作丘赋",
+      "number": "2.35",
+      "index": "41",
+      "fromtitle": "子产",
+      "byteoffset": 30234,
+      "anchor": "作丘赋",
+      "linkAnchor": "作丘赋"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "佐郑伯会邢丘",
+      "number": "2.36",
+      "index": "42",
+      "fromtitle": "子产",
+      "byteoffset": 30832,
+      "anchor": "佐郑伯会邢丘",
+      "linkAnchor": "佐郑伯会邢丘"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "铸刑书",
+      "number": "2.37",
+      "index": "43",
+      "fromtitle": "子产",
+      "byteoffset": 31046,
+      "anchor": "铸刑书",
+      "linkAnchor": "铸刑书"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "劳楚公子",
+      "number": "2.38",
+      "index": "44",
+      "fromtitle": "子产",
+      "byteoffset": 32439,
+      "anchor": "劳楚公子",
+      "linkAnchor": "劳楚公子"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "释梦",
+      "number": "2.39",
+      "index": "45",
+      "fromtitle": "子产",
+      "byteoffset": 32926,
+      "anchor": "释梦",
+      "linkAnchor": "释梦"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "归晋州田",
+      "number": "2.40",
+      "index": "46",
+      "fromtitle": "子产",
+      "byteoffset": 33551,
+      "anchor": "归晋州田",
+      "linkAnchor": "归晋州田"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "息鬼",
+      "number": "2.41",
+      "index": "47",
+      "fromtitle": "子产",
+      "byteoffset": 34127,
+      "anchor": "息鬼",
+      "linkAnchor": "息鬼"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "答韩宣子",
+      "number": "2.42",
+      "index": "48",
+      "fromtitle": "子产",
+      "byteoffset": 35196,
+      "anchor": "答韩宣子",
+      "linkAnchor": "答韩宣子"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "问裨灶",
+      "number": "2.43",
+      "index": "49",
+      "fromtitle": "子产",
+      "byteoffset": 35614,
+      "anchor": "问裨灶",
+      "linkAnchor": "问裨灶"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "裨灶言星",
+      "number": "2.44",
+      "index": "50",
+      "fromtitle": "子产",
+      "byteoffset": 35947,
+      "anchor": "裨灶言星",
+      "linkAnchor": "裨灶言星"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "论丧",
+      "number": "2.45",
+      "index": "51",
+      "fromtitle": "子产",
+      "byteoffset": 36278,
+      "anchor": "论丧",
+      "linkAnchor": "论丧"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "料蔡与楚王",
+      "number": "2.46",
+      "index": "52",
+      "fromtitle": "子产",
+      "byteoffset": 36889,
+      "anchor": "料蔡与楚王",
+      "linkAnchor": "料蔡与楚王"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "葬郑伯",
+      "number": "2.47",
+      "index": "53",
+      "fromtitle": "子产",
+      "byteoffset": 37277,
+      "anchor": "葬郑伯",
+      "linkAnchor": "葬郑伯"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "佐郑伯辞享",
+      "number": "2.48",
+      "index": "54",
+      "fromtitle": "子产",
+      "byteoffset": 37837,
+      "anchor": "佐郑伯辞享",
+      "linkAnchor": "佐郑伯辞享"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "平丘之会",
+      "number": "2.49",
+      "index": "55",
+      "fromtitle": "子产",
+      "byteoffset": 38032,
+      "anchor": "平丘之会",
+      "linkAnchor": "平丘之会"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "韩宣子来聘",
+      "number": "2.50",
+      "index": "56",
+      "fromtitle": "子产",
+      "byteoffset": 39480,
+      "anchor": "韩宣子来聘",
+      "linkAnchor": "韩宣子来聘"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "怒富子谏",
+      "number": "2.50.1",
+      "index": "57",
+      "fromtitle": "子产",
+      "byteoffset": 39494,
+      "anchor": "怒富子谏",
+      "linkAnchor": "怒富子谏"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "不与玉环",
+      "number": "2.50.2",
+      "index": "58",
+      "fromtitle": "子产",
+      "byteoffset": 40437,
+      "anchor": "不与玉环",
+      "linkAnchor": "不与玉环"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "送韩子",
+      "number": "2.50.3",
+      "index": "59",
+      "fromtitle": "子产",
+      "byteoffset": 42085,
+      "anchor": "送韩子",
+      "linkAnchor": "送韩子"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "爱护山林",
+      "number": "2.51",
+      "index": "60",
+      "fromtitle": "子产",
+      "byteoffset": 42850,
+      "anchor": "爱护山林",
+      "linkAnchor": "爱护山林"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "火灾",
+      "number": "2.52",
+      "index": "61",
+      "fromtitle": "子产",
+      "byteoffset": 43075,
+      "anchor": "火灾",
+      "linkAnchor": "火灾"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "辞晋使者",
+      "number": "2.53",
+      "index": "62",
+      "fromtitle": "子产",
+      "byteoffset": 45676,
+      "anchor": "辞晋使者",
+      "linkAnchor": "辞晋使者"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "龙斗弗祭",
+      "number": "2.54",
+      "index": "63",
+      "fromtitle": "子产",
+      "byteoffset": 46547,
+      "anchor": "龙斗弗祭",
+      "linkAnchor": "龙斗弗祭"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "辞世",
+      "number": "2.55",
+      "index": "64",
+      "fromtitle": "子产",
+      "byteoffset": 46798,
+      "anchor": "辞世",
+      "linkAnchor": "辞世"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "身后",
+      "number": "2.56",
+      "index": "65",
+      "fromtitle": "子产",
+      "byteoffset": 47763,
+      "anchor": "身后",
+      "linkAnchor": "身后"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "评价",
+      "number": "3",
+      "index": "66",
+      "fromtitle": "子产",
+      "byteoffset": 49644,
+      "anchor": "评价",
+      "linkAnchor": "评价"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "逸事",
+      "number": "4",
+      "index": "67",
+      "fromtitle": "子产",
+      "byteoffset": 54506,
+      "anchor": "逸事",
+      "linkAnchor": "逸事"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "与兀者同师伯昏无人",
+      "number": "4.1",
+      "index": "68",
+      "fromtitle": "子产",
+      "byteoffset": 54515,
+      "anchor": "与兀者同师伯昏无人",
+      "linkAnchor": "与兀者同师伯昏无人"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "默察奸情",
+      "number": "4.2",
+      "index": "69",
+      "fromtitle": "子产",
+      "byteoffset": 55729,
+      "anchor": "默察奸情",
+      "linkAnchor": "默察奸情"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "兄荒酒弟耽色",
+      "number": "4.3",
+      "index": "70",
+      "fromtitle": "子产",
+      "byteoffset": 56197,
+      "anchor": "兄荒酒弟耽色",
+      "linkAnchor": "兄荒酒弟耽色"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "邓析骫法",
+      "number": "4.4",
+      "index": "71",
+      "fromtitle": "子产",
+      "byteoffset": 58120,
+      "anchor": "邓析骫法",
+      "linkAnchor": "邓析骫法"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "见壶丘子林",
+      "number": "4.5",
+      "index": "72",
+      "fromtitle": "子产",
+      "byteoffset": 59211,
+      "anchor": "见壶丘子林",
+      "linkAnchor": "见壶丘子林"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "赋诗却敌",
+      "number": "4.6",
+      "index": "73",
+      "fromtitle": "子产",
+      "byteoffset": 59512,
+      "anchor": "赋诗却敌",
+      "linkAnchor": "赋诗却敌"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "君臣交儆",
+      "number": "4.7",
+      "index": "74",
+      "fromtitle": "子产",
+      "byteoffset": 59867,
+      "anchor": "君臣交儆",
+      "linkAnchor": "君臣交儆"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "以乘与济人",
+      "number": "4.8",
+      "index": "75",
+      "fromtitle": "子产",
+      "byteoffset": 60771,
+      "anchor": "以乘与济人",
+      "linkAnchor": "以乘与济人"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "欺于校人",
+      "number": "4.9",
+      "index": "76",
+      "fromtitle": "子产",
+      "byteoffset": 61063,
+      "anchor": "欺于校人",
+      "linkAnchor": "欺于校人"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "父责",
+      "number": "4.10",
+      "index": "77",
+      "fromtitle": "子产",
+      "byteoffset": 61407,
+      "anchor": "父责",
+      "linkAnchor": "父责"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "样貌",
+      "number": "5",
+      "index": "78",
+      "fromtitle": "子产",
+      "byteoffset": 61666,
+      "anchor": "样貌",
+      "linkAnchor": "样貌"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "后裔",
+      "number": "6",
+      "index": "79",
+      "fromtitle": "子产",
+      "byteoffset": 61942,
+      "anchor": "后裔",
+      "linkAnchor": "后裔"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "墓祠",
+      "number": "7",
+      "index": "80",
+      "fromtitle": "子产",
+      "byteoffset": 62114,
+      "anchor": "墓祠",
+      "linkAnchor": "墓祠"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "标杆",
+      "number": "8",
+      "index": "81",
+      "fromtitle": "子产",
+      "byteoffset": 63799,
+      "anchor": "标杆",
+      "linkAnchor": "标杆"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "纪念",
+      "number": "9",
+      "index": "82",
+      "fromtitle": "子产",
+      "byteoffset": 64618,
+      "anchor": "纪念",
+      "linkAnchor": "纪念"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "后世诗赞",
+      "number": "10",
+      "index": "83",
+      "fromtitle": "子产",
+      "byteoffset": 65051,
+      "anchor": "后世诗赞",
+      "linkAnchor": "后世诗赞"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "史料索引",
+      "number": "11",
+      "index": "84",
+      "fromtitle": "子产",
+      "byteoffset": 65564,
+      "anchor": "史料索引",
+      "linkAnchor": "史料索引"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "其他",
+      "number": "12",
+      "index": "85",
+      "fromtitle": "子产",
+      "byteoffset": 65870,
+      "anchor": "其他",
+      "linkAnchor": "其他"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注释",
+      "number": "13",
+      "index": "86",
+      "fromtitle": "子产",
+      "byteoffset": 66811,
+      "anchor": "注释",
+      "linkAnchor": "注释"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "延伸阅读",
+      "number": "14",
+      "index": "87",
+      "fromtitle": "子产",
+      "byteoffset": 66872,
+      "anchor": "延伸阅读",
+      "linkAnchor": "延伸阅读"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考资料",
+      "number": "15",
+      "index": "88",
+      "fromtitle": "子产",
+      "byteoffset": 66916,
+      "anchor": "参考资料",
+      "linkAnchor": "参考资料"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "外部链接",
+      "number": "16",
+      "index": "89",
+      "fromtitle": "子产",
+      "byteoffset": 66942,
+      "anchor": "外部链接",
+      "linkAnchor": "外部链接"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/子產",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/子產-95303071.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/子產-95303071.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/子產-95303071.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=95303071",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E5%AD%90%E4%BA%A7&action=history&offset=20261027104514",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 1427,
+              "ns": 0,
+              "title": "子产",
+              "anoncontributors": 18,
+              "contributors": [
+                {
+                  "userid": 504154,
+                  "name": "Liangent-bot"
+                },
+                {
+                  "userid": 933,
+                  "name": "Tomchiukc"
+                },
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 83117,
+                  "name": "Wolfch"
+                },
+                {
+                  "userid": 1937408,
+                  "name": "Cewbot"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 2478273,
+                  "name": "Fire-and-Ice"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 1854,
+                  "name": "Sz-iwbot"
+                },
+                {
+                  "userid": 1960229,
+                  "name": "Antigng"
+                },
+                {
+                  "userid": 53109,
+                  "name": "Cherjau"
+                },
+                {
+                  "userid": 2291073,
+                  "name": "丁子君"
+                },
+                {
+                  "userid": 28923,
+                  "name": "Outlookxp"
+                },
+                {
+                  "userid": 43581,
+                  "name": "Iokseng"
+                },
+                {
+                  "userid": 314203,
+                  "name": "A5948736"
+                },
+                {
+                  "userid": 563591,
+                  "name": "Xqbot"
+                },
+                {
+                  "userid": 21389,
+                  "name": "Chobot"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 574168,
+                  "name": "Will629"
+                },
+                {
+                  "userid": 2133052,
+                  "name": "Allenkong11"
+                },
+                {
+                  "userid": 72748,
+                  "name": "Nivekin"
+                },
+                {
+                  "userid": 34451,
+                  "name": "Flamelai"
+                },
+                {
+                  "userid": 1759621,
+                  "name": "Velvel2"
+                },
+                {
+                  "userid": 56268,
+                  "name": "Ibekolu"
+                },
+                {
+                  "userid": 81369,
+                  "name": "Alexbot"
+                },
+                {
+                  "userid": 24820,
+                  "name": "水水"
+                },
+                {
+                  "userid": 18267,
+                  "name": "Ffaarr"
+                },
+                {
+                  "userid": 175619,
+                  "name": "VolkovBot"
+                },
+                {
+                  "userid": 452664,
+                  "name": "Loveless"
+                },
+                {
+                  "userid": 306582,
+                  "name": "Sealva"
+                },
+                {
+                  "userid": 2210474,
+                  "name": "Meidosensei"
+                },
+                {
+                  "userid": 1469417,
+                  "name": "Tiouraren"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 1534684,
+                  "name": "Guz511"
+                },
+                {
+                  "userid": 2153066,
+                  "name": "Vc06697"
+                },
+                {
+                  "userid": 2212967,
+                  "name": "崇德象贤"
+                },
+                {
+                  "userid": 15993,
+                  "name": "Iflwlou"
+                },
+                {
+                  "userid": 28258,
+                  "name": "Kp2729"
+                },
+                {
+                  "userid": 1034133,
+                  "name": "Makecat-bot"
+                },
+                {
+                  "userid": 135786,
+                  "name": "STcatBot"
+                },
+                {
+                  "userid": 11113,
+                  "name": "Hunry"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 404012,
+                  "name": "FdcnBot"
+                },
+                {
+                  "userid": 1670797,
+                  "name": "空间的拓荒者"
+                },
+                {
+                  "userid": 135216,
+                  "name": "维尼尔基"
+                },
+                {
+                  "userid": 283574,
+                  "name": "Webridge"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 2137070,
+                  "name": "Mickie-Mickie"
+                },
+                {
+                  "userid": 15211,
+                  "name": "Hamham"
+                },
+                {
+                  "userid": 19363,
+                  "name": "Confuzion"
+                },
+                {
+                  "userid": 43758,
+                  "name": "Dzb0715"
+                },
+                {
+                  "userid": 394015,
+                  "name": "Kuo.chaoyi"
+                },
+                {
+                  "userid": 476563,
+                  "name": "龍威"
+                },
+                {
+                  "userid": 692912,
+                  "name": "Mr.Xen"
+                },
+                {
+                  "userid": 744041,
+                  "name": "Kinming"
+                },
+                {
+                  "userid": 856196,
+                  "name": "AleksandrGertsen"
+                },
+                {
+                  "userid": 1422993,
+                  "name": "Neolegalist"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2484905,
+                  "name": "CHih-See Hsie"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 2921754,
+                  "name": "12З4567"
+                },
+                {
+                  "userid": 3023890,
+                  "name": "Kethyga"
+                },
+                {
+                  "userid": 3107548,
+                  "name": "阿道"
+                },
+                {
+                  "userid": 3118873,
+                  "name": "Dreamer-bot"
+                },
+                {
+                  "userid": 3223351,
+                  "name": "泥金"
+                },
+                {
+                  "userid": 3230825,
+                  "name": "Ning-Bot"
+                },
+                {
+                  "userid": 3871038,
+                  "name": "耄耋哈气了"
+                },
+                {
+                  "userid": 4282330,
+                  "name": "Xinjian963"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "重点核对“辞世”段：前522生病，告子太叔政事，数月后卒，子太叔继政。完整长条目已保存，但只对本次所引卒年与继政范围作实读核对，不宣称全部生平逐句审订。",
+    "selected_blocks": [
+      {
+        "block_index": 1,
+        "local_anchor": "cited-1",
+        "text": "国侨 郑国为政 鄭子產像（取自清乾隆年間《歷代名臣像解》） 君主 出生 不明 一般認為約在公元前585年（ 鄭悼公 二年）至前578年（ 鄭成公 七年）間 [ 1 ] 逝世 公元前522年（ 鄭定公 八年） 子嗣 国参 谥号 成 政权 春秋时期 父親 子国",
+        "sha256": "a89adc742c09c4091290cd6b09044d17ca2d285256320aae68408894e7a91bba"
+      },
+      {
+        "block_index": 167,
+        "local_anchor": "cited-167",
+        "text": "前522年，子产生了病，对 子太叔 说：“我死以后，您必定担任 为政 。只有有德行的人能够用宽大来使百姓服从，其次就莫如严厉。火势猛烈，百姓看着就害怕，所以很少有人死于火。水性懦弱，百姓轻视并玩弄它，很多人就死在水中。所以宽大不容易。”子产病了几个月就死去了。子太叔执政，不忍心严厉却奉行宽大政策。郑国盗贼很多，聚集在芦苇塘里。子太叔后悔了，说：“我早点听从子产他老人家的话，就不至于到这一步。”于是发动徒兵攻打藏在芦苇丛生的湖泽里的盗贼，将他们全部杀死，其余盗贼稍稍收敛了一些。 [ 111 ]",
+        "sha256": "39b48925041572b7e21f5d3a6005c76b22b20d2b67a14b334a29619ef93b8697"
+      },
+      {
+        "block_index": 168,
+        "local_anchor": "cited-168",
+        "text": "孔子说：“好啊！政事宽大，百姓就怠慢，怠馒就用严厉来纠正。政事严厉，百姓就受到伤害，伤害就实施宽大。用宽大调节严厉，用严厉调节宽大，因此政事调和。《 诗经 》说，‘百姓已经很辛劳，差不多可以稍稍安康。赐恩给中原各国，用以安定四方’，这是实施宽大。‘不要放纵随声附和的人，以约束不良之人。应当制止侵夺残暴的人，他们从来不怕法度’，这是用严厉来纠正。‘安抚边远，柔服近邦，用来安定我的君王’，这是用和平来安定国家。又说，‘不争强不急躁，不刚猛不柔弱。施政平和宽裕，各种福禄都聚集’，这是和协的顶点。”子产去世后，孔子听到这消息，流着眼泪说：“他的仁爱，是古人流传下来的遗风啊。” [ 112 ] [ 113 ]",
+        "sha256": "d9447b09b7facb248c7a9317c750395eab66ac10aa6223943c13f96cca663c42"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "9e180ab16c305121561921e99fa50f071d630a75"
+}

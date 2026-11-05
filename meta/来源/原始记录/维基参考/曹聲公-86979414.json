@@ -1,0 +1,162 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/曹聲公",
+  "requested_title": "曹聲公",
+  "resolved_title": "曹声公",
+  "pageid": 360282,
+  "revision": {
+    "revid": 86979414,
+    "parentid": 86979407,
+    "user": "Thần Đồng Cổ Nhạc",
+    "timestamp": "2025-04-24T20:48:16Z",
+    "size": 621,
+    "sha1": "e0cbbd6c29f2b2c39996959686ddced3a094fe3b"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [
+    {
+      "from": "曹聲公",
+      "to": "曹声公"
+    }
+  ],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E6%9B%B9%E8%81%B2%E5%85%AC&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=86979414&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=86979414&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E6%9B%B9%E5%A3%B0%E5%85%AC&prop=contributors&pclimit=max",
+  "contributors_count": 14,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:40.371557+00:00",
+  "raw_content_sha256": "fbd00ed6b7c4565b0dc97264902dccb44812f7fa534fbb7339acb8ee8f18aba6",
+  "rendered_html_sha256": "fa4d1752ceaf66437bb2875444d58fb115319a1b1120b011df29bc27b09735f6",
+  "api_response_sha256": "38674c7cae59080cc392f0f93409716a8d4d7bd13e9f5286690c5172554cd00a",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "參考文獻",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "曹声公",
+      "byteoffset": 137,
+      "anchor": "參考文獻",
+      "linkAnchor": "參考文獻"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/曹聲公",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/曹聲公-86979414.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/曹聲公-86979414.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/曹聲公-86979414.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=86979414",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E6%9B%B9%E5%A3%B0%E5%85%AC&action=history&offset=20250424204816",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 360282,
+              "ns": 0,
+              "title": "曹声公",
+              "contributors": [
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 491438,
+                  "name": "Ochbot"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 9489,
+                  "name": "Winertai"
+                },
+                {
+                  "userid": 519149,
+                  "name": "AddisWang"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 885967,
+                  "name": "ChuispastonBot"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 810037,
+                  "name": "Trungda"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 2817186,
+                  "name": "Haowang7"
+                },
+                {
+                  "userid": 3023890,
+                  "name": "Kethyga"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "短条目明确曹声公亦称曹襄公，前514—510，姬通弑杀。用于同一继承槽的异称核对，不另造一位国君。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "曹声公 （？－前510年），亦称曹襄公, 姬 姓，名 野 ，為 春秋 諸侯國 曹國 君主之一，他為 曹悼公 弟弟，承襲曹悼公擔任該國君主，前514年上任，於前510年，被平公弟 姬通 弑杀，在位5年。",
+        "sha256": "cc0943d28f9f4e06600c87b557c618a4ffe8c3b4c6b03710829c27d870990896"
+      },
+      {
+        "block_index": 3,
+        "local_anchor": "cited-3",
+        "text": "前任： 曹悼公 春秋 曹國 君主 前514年－前510年 繼任： 曹隱公",
+        "sha256": "c8dd57d6da3c290ebd922cae746f320404102947042a75b6691fef6f092d76aa"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "e0cbbd6c29f2b2c39996959686ddced3a094fe3b"
+}

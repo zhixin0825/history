@@ -1,0 +1,447 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/商鞅变法",
+  "requested_title": "商鞅变法",
+  "resolved_title": "商鞅变法",
+  "pageid": 24871,
+  "revision": {
+    "revid": 91663882,
+    "parentid": 89568538,
+    "user": "Shizhao",
+    "timestamp": "2026-02-25T08:22:34Z",
+    "size": 10021,
+    "sha1": "74a5a2157e5ef9f7c486c99ac92f30d288038903"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%95%86%E9%9E%85%E5%8F%98%E6%B3%95&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=91663882&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=91663882&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%95%86%E9%9E%85%E5%8F%98%E6%B3%95&prop=contributors&pclimit=max",
+  "contributors_count": 64,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:34.280121+00:00",
+  "raw_content_sha256": "d986e25a959b2507304e641304302191d1333ce0aadaad6cbaa4261d7af8b929",
+  "rendered_html_sha256": "2b34bbee66cfb39d1512d8a326a17d568625fd930337653188747c82c30e7774",
+  "api_response_sha256": "078135777c9d502407635057dbb3dd2bc2696c58c3082d80e3bab0260c32063e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "變法内容",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 209,
+      "anchor": "變法内容",
+      "linkAnchor": "變法内容"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "商鞅入秦",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 1313,
+      "anchor": "商鞅入秦",
+      "linkAnchor": "商鞅入秦"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "垦草令",
+      "number": "2.1",
+      "index": "3",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 2105,
+      "anchor": "垦草令",
+      "linkAnchor": "垦草令"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "第一次变法",
+      "number": "2.2",
+      "index": "4",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 2736,
+      "anchor": "第一次变法",
+      "linkAnchor": "第一次变法"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "第二次变法",
+      "number": "2.3",
+      "index": "5",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 3214,
+      "anchor": "第二次变法",
+      "linkAnchor": "第二次变法"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "歷史影响",
+      "number": "3",
+      "index": "6",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 3962,
+      "anchor": "歷史影响",
+      "linkAnchor": "歷史影响"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注释",
+      "number": "4",
+      "index": "7",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 4117,
+      "anchor": "注释",
+      "linkAnchor": "注释"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考文献",
+      "number": "5",
+      "index": "8",
+      "fromtitle": "商鞅变法",
+      "byteoffset": 4140,
+      "anchor": "参考文献",
+      "linkAnchor": "参考文献"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/商鞅变法",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/商鞅变法-91663882.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/商鞅变法-91663882.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/商鞅变法-91663882.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=91663882",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E5%95%86%E9%9E%85%E5%8F%98%E6%B3%95&action=history&offset=20260225082234",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 24871,
+              "ns": 0,
+              "title": "商鞅变法",
+              "anoncontributors": 37,
+              "contributors": [
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 2478273,
+                  "name": "Fire-and-Ice"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 495071,
+                  "name": "Walter Grassroot"
+                },
+                {
+                  "userid": 2291073,
+                  "name": "丁子君"
+                },
+                {
+                  "userid": 886047,
+                  "name": "Cwek"
+                },
+                {
+                  "userid": 28923,
+                  "name": "Outlookxp"
+                },
+                {
+                  "userid": 1586693,
+                  "name": "Tigerzeng"
+                },
+                {
+                  "userid": 602004,
+                  "name": "淺藍雪"
+                },
+                {
+                  "userid": 816133,
+                  "name": "Aronlee90"
+                },
+                {
+                  "userid": 2133052,
+                  "name": "Allenkong11"
+                },
+                {
+                  "userid": 1365690,
+                  "name": "Ginson Lim"
+                },
+                {
+                  "userid": 1543564,
+                  "name": "Peacearth"
+                },
+                {
+                  "userid": 78653,
+                  "name": "Sweater"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 11967,
+                  "name": "Fauzty"
+                },
+                {
+                  "userid": 493119,
+                  "name": "Wwbread"
+                },
+                {
+                  "userid": 47915,
+                  "name": "1j1z2"
+                },
+                {
+                  "userid": 2976,
+                  "name": "Sbl"
+                },
+                {
+                  "userid": 1657243,
+                  "name": "Formuse"
+                },
+                {
+                  "userid": 1176753,
+                  "name": "Qiyue2001"
+                },
+                {
+                  "userid": 757371,
+                  "name": "Siyuwj"
+                },
+                {
+                  "userid": 2435325,
+                  "name": "Lesson1"
+                },
+                {
+                  "userid": 499755,
+                  "name": "Verbty2987"
+                },
+                {
+                  "userid": 1591267,
+                  "name": "WPCleaner (bot)"
+                },
+                {
+                  "userid": 2334645,
+                  "name": "南環"
+                },
+                {
+                  "userid": 1298603,
+                  "name": "Joeinwiki"
+                },
+                {
+                  "userid": 135216,
+                  "name": "维尼尔基"
+                },
+                {
+                  "userid": 1249258,
+                  "name": "Kwlam259"
+                },
+                {
+                  "userid": 1041039,
+                  "name": "CaseyLeung"
+                },
+                {
+                  "userid": 960129,
+                  "name": "乌拉跨氪"
+                },
+                {
+                  "userid": 5313,
+                  "name": "Jamguo"
+                },
+                {
+                  "userid": 10254,
+                  "name": "Alexcn"
+                },
+                {
+                  "userid": 43758,
+                  "name": "Dzb0715"
+                },
+                {
+                  "userid": 91034,
+                  "name": "Dmushk"
+                },
+                {
+                  "userid": 442181,
+                  "name": "Wangxiaodong520a"
+                },
+                {
+                  "userid": 503238,
+                  "name": "McQueen2008"
+                },
+                {
+                  "userid": 557993,
+                  "name": "Akirasaiko"
+                },
+                {
+                  "userid": 611804,
+                  "name": "奔流沙"
+                },
+                {
+                  "userid": 1109237,
+                  "name": "明月华阳"
+                },
+                {
+                  "userid": 1183391,
+                  "name": "Zdnazo"
+                },
+                {
+                  "userid": 1348783,
+                  "name": "陳為維"
+                },
+                {
+                  "userid": 1349442,
+                  "name": "Yuxing815"
+                },
+                {
+                  "userid": 2005844,
+                  "name": "易春秋99"
+                },
+                {
+                  "userid": 2140322,
+                  "name": "梁正惟"
+                },
+                {
+                  "userid": 2350020,
+                  "name": "Croissant33"
+                },
+                {
+                  "userid": 2391296,
+                  "name": "Saturneric"
+                },
+                {
+                  "userid": 2433798,
+                  "name": "Alana wang"
+                },
+                {
+                  "userid": 2449654,
+                  "name": "Jiaweiyu2"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 3041907,
+                  "name": "迷你果醬"
+                },
+                {
+                  "userid": 3100369,
+                  "name": "Er54545555"
+                },
+                {
+                  "userid": 3133260,
+                  "name": "Fumikas Sagisavas"
+                },
+                {
+                  "userid": 3155519,
+                  "name": "Tfb2021"
+                },
+                {
+                  "userid": 3213227,
+                  "name": "Laokui233"
+                },
+                {
+                  "userid": 3254331,
+                  "name": "Walker114514"
+                },
+                {
+                  "userid": 3312625,
+                  "name": "Esnlbsf"
+                },
+                {
+                  "userid": 3386866,
+                  "name": "Quzhengliu"
+                },
+                {
+                  "userid": 3474963,
+                  "name": "Angevin978"
+                },
+                {
+                  "userid": 3794269,
+                  "name": "缘来缘去"
+                },
+                {
+                  "userid": 3866739,
+                  "name": "~2025-67426-6"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对第一次前356、第二次前350的概述及“第二次变法”段前350营建、次年迁都的写法。另存垦草令年代争议注释；不据百科概述更动本纪、年表既有判断。",
+    "selected_blocks": [
+      {
+        "block_index": 1,
+        "local_anchor": "cited-1",
+        "text": "商鞅变法 是 法家 思想家 商鞅 在 秦孝公 支持下，於公元前356年在 秦國 实施的政治改革。改革分两次進行，首次始於公元前356年，第二次始於公元前350年。经过商鞅变法，秦国 富國強兵 ，奠定秦国在 戰國七雄 中的实力，对秦國的崛起发挥重要的作用。变法建立的制度也是 秦始皇 管理秦國的基礎。",
+        "sha256": "ee3888904b6b5629934d8ef21fe17ca4d77e133d36a862f0ca0a6fbfdd6c3d50"
+      },
+      {
+        "block_index": 10,
+        "local_anchor": "cited-10",
+        "text": "《垦草令》在秦国成功实施后，秦孝公于前356年任命商鞅为 左庶长 ，在秦国国内实行第一次变法。 [ 8 ] 主要内容为：改革户籍制度，实行 什伍连坐法 、明令军法，奖励军功、废除 世卿世禄 制度、建立 二十等军功爵制 、奖励耕织，重农抑商，严惩私斗、改法为律，制定 秦律 和推行小家庭制。",
+        "sha256": "7f1482162021aa719e83ebad6a0f829deb3444c02337a033a9860543dbbb631b"
+      },
+      {
+        "block_index": 13,
+        "local_anchor": "cited-13",
+        "text": "咸阳 （今陕西省 咸阳市 东北）位于 关中平原 中部，北依高原，南临 渭河 ，顺渭河而下可直入黄河， 终南山 与渭河之间可直通 函谷关 。为便于向函谷关以东发展，秦孝公于前350年命商鞅征调士卒，按照 鲁国 、卫国的国都规模修筑冀阙宫廷，营造新都，并于次年将国都从栎阳迁至咸阳，同时命商鞅在秦国国内进行第二次变法。 [ 11 ] [ 12 ] 主要内容为：开阡陌封疆，废 井田 ，制辕田，允许土地私有及买卖、推行县制、加收 口赋 、统一 度量衡 、燔诗书而明法令，塞私门之请，禁游宦之民和执行分户令。",
+        "sha256": "685d996aed8efc16dc9c5b6ddaf79367b042aae3b9809ce2bef58be3c0d79724"
+      },
+      {
+        "block_index": 18,
+        "local_anchor": "cited-18",
+        "text": "^ 关于商鞅变法的时间，许多记载为前356年，实际变法之争结束后，秦孝公就决定变法，而《垦草令》就是商鞅向秦孝公提出的变法方案，见 [ 5 ] [ 6 ] 。《垦草令》原文已失传，高亨的《商君书注释》认为《垦草令》是根据《商君书·垦令》拟定而成，林剑鸣和郑良树支持这一观点，但杨宽所著《战国史料编年辑证》对这一观点持怀疑态度，见杨所著《战国史料编年辑证》第289页。 [ 7 ]",
+        "sha256": "199a723706e119d7718f21b725f3e785888bf8334187ff2c39c4cc405acfe938"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "74a5a2157e5ef9f7c486c99ac92f30d288038903"
+}

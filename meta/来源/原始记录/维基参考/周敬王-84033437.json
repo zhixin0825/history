@@ -1,0 +1,255 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/周敬王",
+  "requested_title": "周敬王",
+  "resolved_title": "周敬王",
+  "pageid": 177811,
+  "revision": {
+    "revid": 84033437,
+    "parentid": 83301596,
+    "user": "Brian850528",
+    "timestamp": "2024-08-31T08:27:19Z",
+    "size": 2675,
+    "sha1": "d4729bfe9bd0a3698bb1a9ba91e7ceb29249e32e"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%91%A8%E6%95%AC%E7%8E%8B&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=84033437&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=84033437&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E5%91%A8%E6%95%AC%E7%8E%8B&prop=contributors&pclimit=max",
+  "contributors_count": 34,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:33.831123+00:00",
+  "raw_content_sha256": "a2e1b0bfdfefb7bc6cb3397b91e2dee8ec536fbe4467bf0e2597b80e325e482b",
+  "rendered_html_sha256": "254619e7d6c97802cef1b151222d7426244280167eb2f577d0895fa1d4dd06e2",
+  "api_response_sha256": "4785bde1544100d35722417ca838b56af3625d82c4b655c920af8a29fdae8e38",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "在位年與西曆對照表",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "周敬王",
+      "byteoffset": 1025,
+      "anchor": "在位年與西曆對照表",
+      "linkAnchor": "在位年與西曆對照表"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注释",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "周敬王",
+      "byteoffset": 1060,
+      "anchor": "注释",
+      "linkAnchor": "注释"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/周敬王",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/周敬王-84033437.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/周敬王-84033437.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/周敬王-84033437.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=84033437",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E5%91%A8%E6%95%AC%E7%8E%8B&action=history&offset=20240831082719",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 177811,
+              "ns": 0,
+              "title": "周敬王",
+              "anoncontributors": 12,
+              "contributors": [
+                {
+                  "userid": 46136,
+                  "name": "Mewaqua"
+                },
+                {
+                  "userid": 796173,
+                  "name": "EmausBot"
+                },
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 19228,
+                  "name": "Tombus20032000"
+                },
+                {
+                  "userid": 314203,
+                  "name": "A5948736"
+                },
+                {
+                  "userid": 816179,
+                  "name": "O-ring"
+                },
+                {
+                  "userid": 563591,
+                  "name": "Xqbot"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 862244,
+                  "name": "Ma3r"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 9,
+                  "name": "Ktsquare"
+                },
+                {
+                  "userid": 140837,
+                  "name": "Tiyoringo"
+                },
+                {
+                  "userid": 183005,
+                  "name": "TXiKiBoT"
+                },
+                {
+                  "userid": 160631,
+                  "name": "蘇州宇文宙武"
+                },
+                {
+                  "userid": 2435325,
+                  "name": "Lesson1"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 134033,
+                  "name": "HKSYT"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 283574,
+                  "name": "Webridge"
+                },
+                {
+                  "userid": 26279,
+                  "name": "Polyhedron"
+                },
+                {
+                  "userid": 97111,
+                  "name": "下一次登录"
+                },
+                {
+                  "userid": 26389,
+                  "name": "Stargate756"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 50840,
+                  "name": "River1 chow"
+                },
+                {
+                  "userid": 469277,
+                  "name": "MystBot"
+                },
+                {
+                  "userid": 1427304,
+                  "name": "Brian850528"
+                },
+                {
+                  "userid": 1880137,
+                  "name": "Imycd"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 3118873,
+                  "name": "Dreamer-bot"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "导言与在位框列前476；页尾承袭表列前477，注释又列42、43、44年三种文献口径。差异真实保留，不通过统一百科数值消除古籍矛盾。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "周敬王 东周天子 君主 統治 前519年—前476年 逝世 前476年 安葬 周三王陵 子嗣 周元王 政权 周朝 父親 周景王 首都 成周",
+        "sha256": "d1f15cbc067f074ef91133cc8f8f470bf2f66552c263fe17b6ef1fdfe4320a1b"
+      },
+      {
+        "block_index": 11,
+        "local_anchor": "cited-11",
+        "text": "^ 周敬王在位之年有三種說法：《史记·十二诸侯年表第二》记“甲子四十三敬王崩”，《史记·周本纪第四》则记“四十二年，敬王崩”。【集解】 徐广 曰：“皇甫谧曰敬王四十四年，元己卯，崩壬戌也。” 邵雍 記“乙丑周敬王崩”，亦本 皇甫謐 “敬王四十四年”之說。",
+        "sha256": "a63f85037252dff2e3c9333ef810ac9683b7da2200249286978aa99fbea055f1"
+      },
+      {
+        "block_index": 12,
+        "local_anchor": "cited-12",
+        "text": "前任： 周悼王 周天子 前519年-前477年 繼任： 周元王",
+        "sha256": "1b1bb0e5b7fe497a7d7362265d06b857ec9bfa9954a08cd49dbbd2efc5d32c86"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "d4729bfe9bd0a3698bb1a9ba91e7ceb29249e32e"
+}

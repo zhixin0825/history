@@ -1,0 +1,3230 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/秦始皇",
+  "requested_title": "秦始皇",
+  "resolved_title": "秦始皇",
+  "pageid": 958,
+  "revision": {
+    "revid": 94788854,
+    "parentid": 94584059,
+    "user": "Twelephant-bot",
+    "timestamp": "2026-10-06T06:22:24Z",
+    "size": 270648,
+    "sha1": "3c81e2f04bd1c0eb40bf41daded1a415f2d25fec"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E7%A7%A6%E5%A7%8B%E7%9A%87&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=94788854&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=94788854&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E7%A7%A6%E5%A7%8B%E7%9A%87&prop=contributors&pclimit=max",
+  "contributors_count": 497,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:46.424436+00:00",
+  "raw_content_sha256": "a961ab35dbb5e90ff4cb746308055e72a7a1827c809a89d5ccb165ba9e93ce23",
+  "rendered_html_sha256": "6ee1ff8954f1793d9db2ec92b8c427f2688caaf2868f48d367dc323c74e54765",
+  "api_response_sha256": "67eb44e24db8af4f2ba4aa6edb42471611839c6449ef78802e1937586b030b2d",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "称呼",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "秦始皇",
+      "byteoffset": 4422,
+      "anchor": "称呼",
+      "linkAnchor": "称呼"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "早年生活",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "秦始皇",
+      "byteoffset": 6666,
+      "anchor": "早年生活",
+      "linkAnchor": "早年生活"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "人質之子",
+      "number": "2.1",
+      "index": "3",
+      "fromtitle": "秦始皇",
+      "byteoffset": 6678,
+      "anchor": "人質之子",
+      "linkAnchor": "人質之子"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "安然返秦",
+      "number": "2.2",
+      "index": "4",
+      "fromtitle": "秦始皇",
+      "byteoffset": 8199,
+      "anchor": "安然返秦",
+      "linkAnchor": "安然返秦"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "身世之謎",
+      "number": "2.3",
+      "index": "5",
+      "fromtitle": "秦始皇",
+      "byteoffset": 9226,
+      "anchor": "身世之謎",
+      "linkAnchor": "身世之謎"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "即位",
+      "number": "3",
+      "index": "6",
+      "fromtitle": "秦始皇",
+      "byteoffset": 13510,
+      "anchor": "即位",
+      "linkAnchor": "即位"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "成蟜叛變",
+      "number": "3.1",
+      "index": "7",
+      "fromtitle": "秦始皇",
+      "byteoffset": 14836,
+      "anchor": "成蟜叛變",
+      "linkAnchor": "成蟜叛變"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "嫪毐之亂",
+      "number": "3.2",
+      "index": "8",
+      "fromtitle": "秦始皇",
+      "byteoffset": 16669,
+      "anchor": "嫪毐之亂",
+      "linkAnchor": "嫪毐之亂"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "呂不韋失勢",
+      "number": "3.3",
+      "index": "9",
+      "fromtitle": "秦始皇",
+      "byteoffset": 20490,
+      "anchor": "呂不韋失勢",
+      "linkAnchor": "呂不韋失勢"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "殲滅六國",
+      "number": "4",
+      "index": "10",
+      "fromtitle": "秦始皇",
+      "byteoffset": 22338,
+      "anchor": "殲滅六國",
+      "linkAnchor": "殲滅六國"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "滅六國前的預備",
+      "number": "4.1",
+      "index": "11",
+      "fromtitle": "秦始皇",
+      "byteoffset": 22349,
+      "anchor": "滅六國前的預備",
+      "linkAnchor": "滅六國前的預備"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "鄭國渠",
+      "number": "4.1.1",
+      "index": "12",
+      "fromtitle": "秦始皇",
+      "byteoffset": 22667,
+      "anchor": "鄭國渠",
+      "linkAnchor": "鄭國渠"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "諫逐客書與李斯",
+      "number": "4.1.2",
+      "index": "13",
+      "fromtitle": "秦始皇",
+      "byteoffset": 23932,
+      "anchor": "諫逐客書與李斯",
+      "linkAnchor": "諫逐客書與李斯"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "徵辟韓非",
+      "number": "4.1.3",
+      "index": "14",
+      "fromtitle": "秦始皇",
+      "byteoffset": 25059,
+      "anchor": "徵辟韓非",
+      "linkAnchor": "徵辟韓非"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "歼灭六国",
+      "number": "4.2",
+      "index": "15",
+      "fromtitle": "秦始皇",
+      "byteoffset": 27533,
+      "anchor": "歼灭六国",
+      "linkAnchor": "歼灭六国"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "總方針",
+      "number": "4.2.1",
+      "index": "16",
+      "fromtitle": "秦始皇",
+      "byteoffset": 27688,
+      "anchor": "總方針",
+      "linkAnchor": "總方針"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "削弱趙國",
+      "number": "4.2.2",
+      "index": "17",
+      "fromtitle": "秦始皇",
+      "byteoffset": 29162,
+      "anchor": "削弱趙國",
+      "linkAnchor": "削弱趙國"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "滅韓趙兩國",
+      "number": "4.2.3",
+      "index": "18",
+      "fromtitle": "秦始皇",
+      "byteoffset": 31099,
+      "anchor": "滅韓趙兩國",
+      "linkAnchor": "滅韓趙兩國"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "新鄭騷亂",
+      "number": "4.2.4",
+      "index": "19",
+      "fromtitle": "秦始皇",
+      "byteoffset": 34033,
+      "anchor": "新鄭騷亂",
+      "linkAnchor": "新鄭騷亂"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "滅魏國",
+      "number": "4.2.5",
+      "index": "20",
+      "fromtitle": "秦始皇",
+      "byteoffset": 34867,
+      "anchor": "滅魏國",
+      "linkAnchor": "滅魏國"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "昌平君叛秦",
+      "number": "4.2.6",
+      "index": "21",
+      "fromtitle": "秦始皇",
+      "byteoffset": 35804,
+      "anchor": "昌平君叛秦",
+      "linkAnchor": "昌平君叛秦"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "王翦灭楚",
+      "number": "4.2.7",
+      "index": "22",
+      "fromtitle": "秦始皇",
+      "byteoffset": 39349,
+      "anchor": "王翦灭楚",
+      "linkAnchor": "王翦灭楚"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "荊軻刺秦與滅燕",
+      "number": "4.2.8",
+      "index": "23",
+      "fromtitle": "秦始皇",
+      "byteoffset": 41337,
+      "anchor": "荊軻刺秦與滅燕",
+      "linkAnchor": "荊軻刺秦與滅燕"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "滅齊國",
+      "number": "4.2.9",
+      "index": "24",
+      "fromtitle": "秦始皇",
+      "byteoffset": 47653,
+      "anchor": "滅齊國",
+      "linkAnchor": "滅齊國"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "衛君角解國",
+      "number": "4.2.10",
+      "index": "25",
+      "fromtitle": "秦始皇",
+      "byteoffset": 49950,
+      "anchor": "衛君角解國",
+      "linkAnchor": "衛君角解國"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "分析",
+      "number": "4.3",
+      "index": "26",
+      "fromtitle": "秦始皇",
+      "byteoffset": 51048,
+      "anchor": "分析",
+      "linkAnchor": "分析"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "政治措施",
+      "number": "5",
+      "index": "27",
+      "fromtitle": "秦始皇",
+      "byteoffset": 54137,
+      "anchor": "政治措施",
+      "linkAnchor": "政治措施"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "初并天下诏和称皇帝",
+      "number": "5.1",
+      "index": "28",
+      "fromtitle": "秦始皇",
+      "byteoffset": 54198,
+      "anchor": "初并天下诏和称皇帝",
+      "linkAnchor": "初并天下诏和称皇帝"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "五德終始說",
+      "number": "5.2",
+      "index": "29",
+      "fromtitle": "秦始皇",
+      "byteoffset": 56412,
+      "anchor": "五德終始說",
+      "linkAnchor": "五德終始說"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "三公九卿",
+      "number": "5.3",
+      "index": "30",
+      "fromtitle": "秦始皇",
+      "byteoffset": 57167,
+      "anchor": "三公九卿",
+      "linkAnchor": "三公九卿"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "採用郡縣制",
+      "number": "5.4",
+      "index": "31",
+      "fromtitle": "秦始皇",
+      "byteoffset": 58231,
+      "anchor": "採用郡縣制",
+      "linkAnchor": "採用郡縣制"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "銷毀兵器",
+      "number": "5.5",
+      "index": "32",
+      "fromtitle": "秦始皇",
+      "byteoffset": 61533,
+      "anchor": "銷毀兵器",
+      "linkAnchor": "銷毀兵器"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "去險阻，墜城廓",
+      "number": "5.6",
+      "index": "33",
+      "fromtitle": "秦始皇",
+      "byteoffset": 61755,
+      "anchor": "去險阻，墜城廓",
+      "linkAnchor": "去險阻，墜城廓"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "徙置富豪",
+      "number": "5.7",
+      "index": "34",
+      "fromtitle": "秦始皇",
+      "byteoffset": 62995,
+      "anchor": "徙置富豪",
+      "linkAnchor": "徙置富豪"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "統一文字",
+      "number": "5.8",
+      "index": "35",
+      "fromtitle": "秦始皇",
+      "byteoffset": 63774,
+      "anchor": "統一文字",
+      "linkAnchor": "統一文字"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "經濟措施",
+      "number": "6",
+      "index": "36",
+      "fromtitle": "秦始皇",
+      "byteoffset": 65156,
+      "anchor": "經濟措施",
+      "linkAnchor": "經濟措施"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "統一度量衡",
+      "number": "6.1",
+      "index": "37",
+      "fromtitle": "秦始皇",
+      "byteoffset": 65167,
+      "anchor": "統一度量衡",
+      "linkAnchor": "統一度量衡"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "統一貨幣",
+      "number": "6.2",
+      "index": "38",
+      "fromtitle": "秦始皇",
+      "byteoffset": 67305,
+      "anchor": "統一貨幣",
+      "linkAnchor": "統一貨幣"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "重農抑商",
+      "number": "6.3",
+      "index": "39",
+      "fromtitle": "秦始皇",
+      "byteoffset": 68543,
+      "anchor": "重農抑商",
+      "linkAnchor": "重農抑商"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "使黔首自實田",
+      "number": "6.4",
+      "index": "40",
+      "fromtitle": "秦始皇",
+      "byteoffset": 69440,
+      "anchor": "使黔首自實田",
+      "linkAnchor": "使黔首自實田"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "軍事建設",
+      "number": "7",
+      "index": "41",
+      "fromtitle": "秦始皇",
+      "byteoffset": 70503,
+      "anchor": "軍事建設",
+      "linkAnchor": "軍事建設"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "修築長城",
+      "number": "7.1",
+      "index": "42",
+      "fromtitle": "秦始皇",
+      "byteoffset": 70563,
+      "anchor": "修築長城",
+      "linkAnchor": "修築長城"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "築馳道與車同軌",
+      "number": "7.2",
+      "index": "43",
+      "fromtitle": "秦始皇",
+      "byteoffset": 71743,
+      "anchor": "築馳道與車同軌",
+      "linkAnchor": "築馳道與車同軌"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "開鑿靈渠",
+      "number": "7.3",
+      "index": "44",
+      "fromtitle": "秦始皇",
+      "byteoffset": 73328,
+      "anchor": "開鑿靈渠",
+      "linkAnchor": "開鑿靈渠"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "大兴土木",
+      "number": "8",
+      "index": "45",
+      "fromtitle": "秦始皇",
+      "byteoffset": 75036,
+      "anchor": "大兴土木",
+      "linkAnchor": "大兴土木"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "秦始皇時期建造的宮殿",
+      "number": "8.1",
+      "index": "46",
+      "fromtitle": "秦始皇",
+      "byteoffset": 75047,
+      "anchor": "秦始皇時期建造的宮殿",
+      "linkAnchor": "秦始皇時期建造的宮殿"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "阿房宮",
+      "number": "8.2",
+      "index": "47",
+      "fromtitle": "秦始皇",
+      "byteoffset": 77417,
+      "anchor": "阿房宮",
+      "linkAnchor": "阿房宮"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "驪山陵",
+      "number": "8.3",
+      "index": "48",
+      "fromtitle": "秦始皇",
+      "byteoffset": 80927,
+      "anchor": "驪山陵",
+      "linkAnchor": "驪山陵"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "兵馬俑",
+      "number": "8.4",
+      "index": "49",
+      "fromtitle": "秦始皇",
+      "byteoffset": 85151,
+      "anchor": "兵馬俑",
+      "linkAnchor": "兵馬俑"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "開疆拓土",
+      "number": "9",
+      "index": "50",
+      "fromtitle": "秦始皇",
+      "byteoffset": 86013,
+      "anchor": "開疆拓土",
+      "linkAnchor": "開疆拓土"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "北伐匈奴",
+      "number": "9.1",
+      "index": "51",
+      "fromtitle": "秦始皇",
+      "byteoffset": 86215,
+      "anchor": "北伐匈奴",
+      "linkAnchor": "北伐匈奴"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "南征百越",
+      "number": "9.2",
+      "index": "52",
+      "fromtitle": "秦始皇",
+      "byteoffset": 89388,
+      "anchor": "南征百越",
+      "linkAnchor": "南征百越"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "深入嶺南",
+      "number": "9.2.1",
+      "index": "53",
+      "fromtitle": "秦始皇",
+      "byteoffset": 91101,
+      "anchor": "深入嶺南",
+      "linkAnchor": "深入嶺南"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "越人反攻",
+      "number": "9.2.2",
+      "index": "54",
+      "fromtitle": "秦始皇",
+      "byteoffset": 91565,
+      "anchor": "越人反攻",
+      "linkAnchor": "越人反攻"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "戰事僵持",
+      "number": "9.2.3",
+      "index": "55",
+      "fromtitle": "秦始皇",
+      "byteoffset": 92123,
+      "anchor": "戰事僵持",
+      "linkAnchor": "戰事僵持"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "移民戍邊",
+      "number": "9.2.4",
+      "index": "56",
+      "fromtitle": "秦始皇",
+      "byteoffset": 93067,
+      "anchor": "移民戍邊",
+      "linkAnchor": "移民戍邊"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "天下巡遊",
+      "number": "10",
+      "index": "57",
+      "fromtitle": "秦始皇",
+      "byteoffset": 94918,
+      "anchor": "天下巡遊",
+      "linkAnchor": "天下巡遊"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "追求長生",
+      "number": "11",
+      "index": "58",
+      "fromtitle": "秦始皇",
+      "byteoffset": 96001,
+      "anchor": "追求長生",
+      "linkAnchor": "追求長生"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "遭遇暗殺事件",
+      "number": "12",
+      "index": "59",
+      "fromtitle": "秦始皇",
+      "byteoffset": 96331,
+      "anchor": "遭遇暗殺事件",
+      "linkAnchor": "遭遇暗殺事件"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "高漸離暗殺未遂",
+      "number": "12.1",
+      "index": "60",
+      "fromtitle": "秦始皇",
+      "byteoffset": 96413,
+      "anchor": "高漸離暗殺未遂",
+      "linkAnchor": "高漸離暗殺未遂"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "博浪沙行刺事件",
+      "number": "12.2",
+      "index": "61",
+      "fromtitle": "秦始皇",
+      "byteoffset": 97526,
+      "anchor": "博浪沙行刺事件",
+      "linkAnchor": "博浪沙行刺事件"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "咸陽暗殺事件",
+      "number": "12.3",
+      "index": "62",
+      "fromtitle": "秦始皇",
+      "byteoffset": 98381,
+      "anchor": "咸陽暗殺事件",
+      "linkAnchor": "咸陽暗殺事件"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "焚书坑儒",
+      "number": "13",
+      "index": "63",
+      "fromtitle": "秦始皇",
+      "byteoffset": 98637,
+      "anchor": "焚书坑儒",
+      "linkAnchor": "焚书坑儒"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "祖龍之死",
+      "number": "14",
+      "index": "64",
+      "fromtitle": "秦始皇",
+      "byteoffset": 99685,
+      "anchor": "祖龍之死",
+      "linkAnchor": "祖龍之死"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "凶兆出現",
+      "number": "14.1",
+      "index": "65",
+      "fromtitle": "秦始皇",
+      "byteoffset": 99760,
+      "anchor": "凶兆出現",
+      "linkAnchor": "凶兆出現"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "最後的巡遊",
+      "number": "14.2",
+      "index": "66",
+      "fromtitle": "秦始皇",
+      "byteoffset": 101272,
+      "anchor": "最後的巡遊",
+      "linkAnchor": "最後的巡遊"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "身後",
+      "number": "15",
+      "index": "67",
+      "fromtitle": "秦始皇",
+      "byteoffset": 106166,
+      "anchor": "身後",
+      "linkAnchor": "身後"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "沙丘之變",
+      "number": "15.1",
+      "index": "68",
+      "fromtitle": "秦始皇",
+      "byteoffset": 106175,
+      "anchor": "沙丘之變",
+      "linkAnchor": "沙丘之變"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "秦朝滅亡",
+      "number": "15.2",
+      "index": "69",
+      "fromtitle": "秦始皇",
+      "byteoffset": 107299,
+      "anchor": "秦朝滅亡",
+      "linkAnchor": "秦朝滅亡"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "趙佗獨立",
+      "number": "15.3",
+      "index": "70",
+      "fromtitle": "秦始皇",
+      "byteoffset": 107629,
+      "anchor": "趙佗獨立",
+      "linkAnchor": "趙佗獨立"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "軼事",
+      "number": "16",
+      "index": "71",
+      "fromtitle": "秦始皇",
+      "byteoffset": 109672,
+      "anchor": "軼事",
+      "linkAnchor": "軼事"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "秦始皇的身高",
+      "number": "16.1",
+      "index": "72",
+      "fromtitle": "秦始皇",
+      "byteoffset": 109751,
+      "anchor": "秦始皇的身高",
+      "linkAnchor": "秦始皇的身高"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "秦始皇的佩劍",
+      "number": "16.2",
+      "index": "73",
+      "fromtitle": "秦始皇",
+      "byteoffset": 110337,
+      "anchor": "秦始皇的佩劍",
+      "linkAnchor": "秦始皇的佩劍"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "秦始皇討論禪讓",
+      "number": "16.3",
+      "index": "74",
+      "fromtitle": "秦始皇",
+      "byteoffset": 110600,
+      "anchor": "秦始皇討論禪讓",
+      "linkAnchor": "秦始皇討論禪讓"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "徐福东渡",
+      "number": "16.4",
+      "index": "75",
+      "fromtitle": "秦始皇",
+      "byteoffset": 111664,
+      "anchor": "徐福东渡",
+      "linkAnchor": "徐福东渡"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "評價",
+      "number": "17",
+      "index": "76",
+      "fromtitle": "秦始皇",
+      "byteoffset": 111801,
+      "anchor": "評價",
+      "linkAnchor": "評價"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "在位年與西曆對照表",
+      "number": "18",
+      "index": "77",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112187,
+      "anchor": "在位年與西曆對照表",
+      "linkAnchor": "在位年與西曆對照表"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "家庭",
+      "number": "19",
+      "index": "78",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112222,
+      "anchor": "家庭",
+      "linkAnchor": "家庭"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "父母",
+      "number": "19.1",
+      "index": "79",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112231,
+      "anchor": "父母",
+      "linkAnchor": "父母"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "叔伯",
+      "number": "19.2",
+      "index": "80",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112277,
+      "anchor": "叔伯",
+      "linkAnchor": "叔伯"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "弟弟",
+      "number": "19.3",
+      "index": "81",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112299,
+      "anchor": "弟弟",
+      "linkAnchor": "弟弟"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "后妃",
+      "number": "19.4",
+      "index": "82",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112356,
+      "anchor": "后妃",
+      "linkAnchor": "后妃"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "子女",
+      "number": "19.5",
+      "index": "83",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112787,
+      "anchor": "子女",
+      "linkAnchor": "子女"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "公子",
+      "number": "19.5.1",
+      "index": "84",
+      "fromtitle": "秦始皇",
+      "byteoffset": 112798,
+      "anchor": "公子",
+      "linkAnchor": "公子"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "公主",
+      "number": "19.5.2",
+      "index": "85",
+      "fromtitle": "秦始皇",
+      "byteoffset": 113065,
+      "anchor": "公主",
+      "linkAnchor": "公主"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "影視作品",
+      "number": "20",
+      "index": "86",
+      "fromtitle": "秦始皇",
+      "byteoffset": 113244,
+      "anchor": "影視作品",
+      "linkAnchor": "影視作品"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "電視劇",
+      "number": "20.1",
+      "index": "87",
+      "fromtitle": "秦始皇",
+      "byteoffset": 113253,
+      "anchor": "電視劇",
+      "linkAnchor": "電視劇"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "電影",
+      "number": "20.2",
+      "index": "88",
+      "fromtitle": "秦始皇",
+      "byteoffset": 114322,
+      "anchor": "電影",
+      "linkAnchor": "電影"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "紀錄片",
+      "number": "20.3",
+      "index": "89",
+      "fromtitle": "秦始皇",
+      "byteoffset": 114909,
+      "anchor": "紀錄片",
+      "linkAnchor": "紀錄片"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "歌劇",
+      "number": "20.4",
+      "index": "90",
+      "fromtitle": "秦始皇",
+      "byteoffset": 115820,
+      "anchor": "歌劇",
+      "linkAnchor": "歌劇"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "遊戲",
+      "number": "20.5",
+      "index": "91",
+      "fromtitle": "秦始皇",
+      "byteoffset": 115904,
+      "anchor": "遊戲",
+      "linkAnchor": "遊戲"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "其他",
+      "number": "20.6",
+      "index": "92",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116072,
+      "anchor": "其他",
+      "linkAnchor": "其他"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "文藝作品",
+      "number": "21",
+      "index": "93",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116160,
+      "anchor": "文藝作品",
+      "linkAnchor": "文藝作品"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "書籍",
+      "number": "21.1",
+      "index": "94",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116171,
+      "anchor": "書籍",
+      "linkAnchor": "書籍"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "歌劇",
+      "number": "21.2",
+      "index": "95",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116416,
+      "anchor": "歌劇_2",
+      "linkAnchor": "歌劇_2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "漫畫",
+      "number": "21.3",
+      "index": "96",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116500,
+      "anchor": "漫畫",
+      "linkAnchor": "漫畫"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "註解",
+      "number": "22",
+      "index": "97",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116593,
+      "anchor": "註解",
+      "linkAnchor": "註解"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考文献",
+      "number": "23",
+      "index": "98",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116614,
+      "anchor": "参考文献",
+      "linkAnchor": "参考文献"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "引用古籍",
+      "number": "23.1",
+      "index": "99",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116625,
+      "anchor": "引用古籍",
+      "linkAnchor": "引用古籍"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "引用今籍",
+      "number": "23.2",
+      "index": "100",
+      "fromtitle": "秦始皇",
+      "byteoffset": 116691,
+      "anchor": "引用今籍",
+      "linkAnchor": "引用今籍"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "延伸阅读",
+      "number": "24",
+      "index": "101",
+      "fromtitle": "秦始皇",
+      "byteoffset": 118225,
+      "anchor": "延伸阅读",
+      "linkAnchor": "延伸阅读"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "外部链接",
+      "number": "25",
+      "index": "102",
+      "fromtitle": "秦始皇",
+      "byteoffset": 118268,
+      "anchor": "外部链接",
+      "linkAnchor": "外部链接"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "相關條目",
+      "number": "26",
+      "index": "103",
+      "fromtitle": "秦始皇",
+      "byteoffset": 118771,
+      "anchor": "相關條目",
+      "linkAnchor": "相關條目"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/秦始皇",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/秦始皇-94788854.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/秦始皇-94788854.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/秦始皇-94788854.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=94788854",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E7%A7%A6%E5%A7%8B%E7%9A%87&action=history&offset=20261006062224",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 958,
+              "ns": 0,
+              "title": "秦始皇",
+              "anoncontributors": 421,
+              "contributors": [
+                {
+                  "userid": 2457570,
+                  "name": "Soaring swallow"
+                },
+                {
+                  "userid": 1415756,
+                  "name": "Renamed user ZzzZzzZzz"
+                },
+                {
+                  "userid": 504154,
+                  "name": "Liangent-bot"
+                },
+                {
+                  "userid": 657101,
+                  "name": "Jimmy-bot"
+                },
+                {
+                  "userid": 2227967,
+                  "name": "蟲蟲飛"
+                },
+                {
+                  "userid": 147847,
+                  "name": "ATR50"
+                },
+                {
+                  "userid": 46136,
+                  "name": "Mewaqua"
+                },
+                {
+                  "userid": 2156442,
+                  "name": "Antigng-bot"
+                },
+                {
+                  "userid": 796173,
+                  "name": "EmausBot"
+                },
+                {
+                  "userid": 899028,
+                  "name": "Xiplus"
+                },
+                {
+                  "userid": 562398,
+                  "name": "ArikamaI"
+                },
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 83117,
+                  "name": "Wolfch"
+                },
+                {
+                  "userid": 193187,
+                  "name": "P798888"
+                },
+                {
+                  "userid": 1604651,
+                  "name": "AINH"
+                },
+                {
+                  "userid": 1937408,
+                  "name": "Cewbot"
+                },
+                {
+                  "userid": 1257031,
+                  "name": "Happyseeu"
+                },
+                {
+                  "userid": 248442,
+                  "name": "AT"
+                },
+                {
+                  "userid": 1081625,
+                  "name": "Xander9527"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 2478273,
+                  "name": "Fire-and-Ice"
+                },
+                {
+                  "userid": 511509,
+                  "name": "Hat600"
+                },
+                {
+                  "userid": 1955003,
+                  "name": "Vozhuo"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 1854,
+                  "name": "Sz-iwbot"
+                },
+                {
+                  "userid": 408425,
+                  "name": "Cbls1911"
+                },
+                {
+                  "userid": 1214802,
+                  "name": "CommInt'l"
+                },
+                {
+                  "userid": 831040,
+                  "name": "胡葡萄"
+                },
+                {
+                  "userid": 863767,
+                  "name": "Huandy618"
+                },
+                {
+                  "userid": 1246495,
+                  "name": "A635683851"
+                },
+                {
+                  "userid": 2453982,
+                  "name": "Vikarna"
+                },
+                {
+                  "userid": 674985,
+                  "name": "Justice305"
+                },
+                {
+                  "userid": 853415,
+                  "name": "Ffffnm"
+                },
+                {
+                  "userid": 687728,
+                  "name": "Mys 721tx"
+                },
+                {
+                  "userid": 19228,
+                  "name": "Tombus20032000"
+                },
+                {
+                  "userid": 871753,
+                  "name": "Comrade John"
+                },
+                {
+                  "userid": 1201250,
+                  "name": "Dexbot"
+                },
+                {
+                  "userid": 371615,
+                  "name": "Itw"
+                },
+                {
+                  "userid": 2395729,
+                  "name": "Nycuer"
+                },
+                {
+                  "userid": 786692,
+                  "name": "Qwe112"
+                },
+                {
+                  "userid": 28923,
+                  "name": "Outlookxp"
+                },
+                {
+                  "userid": 105520,
+                  "name": "CommonsDelinker"
+                },
+                {
+                  "userid": 1558102,
+                  "name": "420peace"
+                },
+                {
+                  "userid": 1586693,
+                  "name": "Tigerzeng"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 468674,
+                  "name": "LaaknorBot"
+                },
+                {
+                  "userid": 314203,
+                  "name": "A5948736"
+                },
+                {
+                  "userid": 100064,
+                  "name": "Yhinz17"
+                },
+                {
+                  "userid": 2376297,
+                  "name": "Arnie97-Bot"
+                },
+                {
+                  "userid": 2152219,
+                  "name": "和平-bot"
+                },
+                {
+                  "userid": 646996,
+                  "name": "Nickice"
+                },
+                {
+                  "userid": 602004,
+                  "name": "淺藍雪"
+                },
+                {
+                  "userid": 2170119,
+                  "name": "Raymon090"
+                },
+                {
+                  "userid": 155573,
+                  "name": "X24685"
+                },
+                {
+                  "userid": 729280,
+                  "name": "Sdf"
+                },
+                {
+                  "userid": 15230,
+                  "name": "Kanashimi"
+                },
+                {
+                  "userid": 261788,
+                  "name": "哲里"
+                },
+                {
+                  "userid": 82128,
+                  "name": "Alberth2"
+                },
+                {
+                  "userid": 487005,
+                  "name": "Manchiu"
+                },
+                {
+                  "userid": 50285,
+                  "name": "YSG"
+                },
+                {
+                  "userid": 1016603,
+                  "name": "AvicBot"
+                },
+                {
+                  "userid": 563591,
+                  "name": "Xqbot"
+                },
+                {
+                  "userid": 547639,
+                  "name": "Tianyamm2"
+                },
+                {
+                  "userid": 1996473,
+                  "name": "Tw drama"
+                },
+                {
+                  "userid": 957956,
+                  "name": "吉太小唯"
+                },
+                {
+                  "userid": 816563,
+                  "name": "Boattoad"
+                },
+                {
+                  "userid": 21389,
+                  "name": "Chobot"
+                },
+                {
+                  "userid": 1065185,
+                  "name": "3singooo"
+                },
+                {
+                  "userid": 1134584,
+                  "name": "Thomas.Lu"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 816133,
+                  "name": "Aronlee90"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 1638927,
+                  "name": "WhitePhosphorus"
+                },
+                {
+                  "userid": 1331030,
+                  "name": "Marxistfounder"
+                },
+                {
+                  "userid": 923633,
+                  "name": "Huangdan2060"
+                },
+                {
+                  "userid": 16250,
+                  "name": "彭鹏"
+                },
+                {
+                  "userid": 879360,
+                  "name": "Kerolf666"
+                },
+                {
+                  "userid": 2353084,
+                  "name": "TongcyDai"
+                },
+                {
+                  "userid": 891599,
+                  "name": "Zanhe"
+                },
+                {
+                  "userid": 1566971,
+                  "name": "太史子义慈"
+                },
+                {
+                  "userid": 446017,
+                  "name": "Victor0209"
+                },
+                {
+                  "userid": 2372221,
+                  "name": "Utoppiaa575"
+                },
+                {
+                  "userid": 2244831,
+                  "name": "SickManWP"
+                },
+                {
+                  "userid": 56268,
+                  "name": "Ibekolu"
+                },
+                {
+                  "userid": 1825500,
+                  "name": "AlexLeeCN"
+                },
+                {
+                  "userid": 156865,
+                  "name": "今古庸龍"
+                },
+                {
+                  "userid": 348282,
+                  "name": "P-bot"
+                },
+                {
+                  "userid": 2134334,
+                  "name": "Nv7801"
+                },
+                {
+                  "userid": 1167315,
+                  "name": "Salix56"
+                },
+                {
+                  "userid": 2484045,
+                  "name": "GnolizX"
+                },
+                {
+                  "userid": 93181,
+                  "name": "RekishiEJ"
+                },
+                {
+                  "userid": 169553,
+                  "name": "淡月抄"
+                },
+                {
+                  "userid": 11110,
+                  "name": "Vina-iwbot"
+                },
+                {
+                  "userid": 1138453,
+                  "name": "SiuMai"
+                },
+                {
+                  "userid": 17504,
+                  "name": "Minghong"
+                },
+                {
+                  "userid": 81369,
+                  "name": "Alexbot"
+                },
+                {
+                  "userid": 78653,
+                  "name": "Sweater"
+                },
+                {
+                  "userid": 695636,
+                  "name": "Barter84"
+                },
+                {
+                  "userid": 24820,
+                  "name": "水水"
+                },
+                {
+                  "userid": 40754,
+                  "name": "Satricky2005"
+                },
+                {
+                  "userid": 716385,
+                  "name": "Kaifeng.zhu"
+                },
+                {
+                  "userid": 59964,
+                  "name": "Cp111"
+                },
+                {
+                  "userid": 200580,
+                  "name": "創造未來，迎接康莊"
+                },
+                {
+                  "userid": 14848,
+                  "name": "Elnino199127"
+                },
+                {
+                  "userid": 2368646,
+                  "name": "Adece033090"
+                },
+                {
+                  "userid": 114155,
+                  "name": "Cdip150"
+                },
+                {
+                  "userid": 337274,
+                  "name": "Assisass"
+                },
+                {
+                  "userid": 1493172,
+                  "name": "T0110613"
+                },
+                {
+                  "userid": 2618946,
+                  "name": "Bagida520"
+                },
+                {
+                  "userid": 9,
+                  "name": "Ktsquare"
+                },
+                {
+                  "userid": 12259,
+                  "name": "RalfX"
+                },
+                {
+                  "userid": 12270,
+                  "name": "Sl"
+                },
+                {
+                  "userid": 13769,
+                  "name": "Fdcn"
+                },
+                {
+                  "userid": 47915,
+                  "name": "1j1z2"
+                },
+                {
+                  "userid": 1027546,
+                  "name": "Time killer"
+                },
+                {
+                  "userid": 1577013,
+                  "name": "578985s"
+                },
+                {
+                  "userid": 274638,
+                  "name": "Kiddy 19822003"
+                },
+                {
+                  "userid": 2651569,
+                  "name": "86A32980X"
+                },
+                {
+                  "userid": 9835,
+                  "name": "Zy26"
+                },
+                {
+                  "userid": 549962,
+                  "name": "Miffy bunny"
+                },
+                {
+                  "userid": 12110,
+                  "name": "Vipuser"
+                },
+                {
+                  "userid": 597,
+                  "name": "Cncs wikipedia"
+                },
+                {
+                  "userid": 1777,
+                  "name": "金翅大鹏鸟"
+                },
+                {
+                  "userid": 30483,
+                  "name": "Tsiaojian lee"
+                },
+                {
+                  "userid": 175619,
+                  "name": "VolkovBot"
+                },
+                {
+                  "userid": 183005,
+                  "name": "TXiKiBoT"
+                },
+                {
+                  "userid": 563026,
+                  "name": "ALBot"
+                },
+                {
+                  "userid": 237446,
+                  "name": "SieBot"
+                },
+                {
+                  "userid": 252699,
+                  "name": "Liangent"
+                },
+                {
+                  "userid": 684170,
+                  "name": "RedBot"
+                },
+                {
+                  "userid": 681592,
+                  "name": "KamikazeBot"
+                },
+                {
+                  "userid": 39133,
+                  "name": "Shibo77"
+                },
+                {
+                  "userid": 37446,
+                  "name": "刻意"
+                },
+                {
+                  "userid": 15440,
+                  "name": "Isnow"
+                },
+                {
+                  "userid": 696263,
+                  "name": "Dinamik-bot"
+                },
+                {
+                  "userid": 336824,
+                  "name": "Kegns"
+                },
+                {
+                  "userid": 891729,
+                  "name": "WikitanvirBot"
+                },
+                {
+                  "userid": 44555,
+                  "name": "Hvn0413"
+                },
+                {
+                  "userid": 969840,
+                  "name": "MerlIwBot"
+                },
+                {
+                  "userid": 439433,
+                  "name": "Legolas1024"
+                },
+                {
+                  "userid": 16962,
+                  "name": "Wangyunfeng"
+                },
+                {
+                  "userid": 753694,
+                  "name": "Njzjz"
+                },
+                {
+                  "userid": 1268560,
+                  "name": "George6VI"
+                },
+                {
+                  "userid": 646230,
+                  "name": "北極企鵝觀賞團"
+                },
+                {
+                  "userid": 174451,
+                  "name": "SSR2000"
+                },
+                {
+                  "userid": 2435325,
+                  "name": "Lesson1"
+                },
+                {
+                  "userid": 1457583,
+                  "name": "Earth Resident"
+                },
+                {
+                  "userid": 2637,
+                  "name": "TunnelESON"
+                },
+                {
+                  "userid": 1982048,
+                  "name": "Chenyijia001"
+                },
+                {
+                  "userid": 2011810,
+                  "name": "Lnnocentius"
+                },
+                {
+                  "userid": 1197893,
+                  "name": "Youngjohnny"
+                },
+                {
+                  "userid": 1252596,
+                  "name": "ネイ"
+                },
+                {
+                  "userid": 2210474,
+                  "name": "Meidosensei"
+                },
+                {
+                  "userid": 1999716,
+                  "name": "Nbfreeh"
+                },
+                {
+                  "userid": 27472,
+                  "name": "Leeyc0"
+                },
+                {
+                  "userid": 11,
+                  "name": "Mountain"
+                },
+                {
+                  "userid": 2603,
+                  "name": "Koyn"
+                },
+                {
+                  "userid": 284449,
+                  "name": "Symplectopedia"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 2268214,
+                  "name": "李佐堯"
+                },
+                {
+                  "userid": 838335,
+                  "name": "Makecat"
+                },
+                {
+                  "userid": 41972,
+                  "name": "Germandemat"
+                },
+                {
+                  "userid": 1591267,
+                  "name": "WPCleaner (bot)"
+                },
+                {
+                  "userid": 442096,
+                  "name": "MelancholieBot"
+                },
+                {
+                  "userid": 747476,
+                  "name": "AH829"
+                },
+                {
+                  "userid": 51743,
+                  "name": "Xinbenlv"
+                },
+                {
+                  "userid": 834818,
+                  "name": "Wangxuan8331800"
+                },
+                {
+                  "userid": 1112346,
+                  "name": "Brick and Jade"
+                },
+                {
+                  "userid": 2262762,
+                  "name": "Hxd3721"
+                },
+                {
+                  "userid": 539749,
+                  "name": "Hikaruangeel"
+                },
+                {
+                  "userid": 22267,
+                  "name": "Whhalbert"
+                },
+                {
+                  "userid": 28683,
+                  "name": "鸟甲"
+                },
+                {
+                  "userid": 2280154,
+                  "name": "許阿品"
+                },
+                {
+                  "userid": 300274,
+                  "name": "Earl of China"
+                },
+                {
+                  "userid": 40545,
+                  "name": "Stewart"
+                },
+                {
+                  "userid": 2626985,
+                  "name": "Dr. Hud"
+                },
+                {
+                  "userid": 157556,
+                  "name": "Gzdavidwong"
+                },
+                {
+                  "userid": 967626,
+                  "name": "Jacky138"
+                },
+                {
+                  "userid": 15993,
+                  "name": "Iflwlou"
+                },
+                {
+                  "userid": 28258,
+                  "name": "Kp2729"
+                },
+                {
+                  "userid": 95139,
+                  "name": "Chiefwei"
+                },
+                {
+                  "userid": 68104,
+                  "name": "郭123"
+                },
+                {
+                  "userid": 786485,
+                  "name": "冰霜葵"
+                },
+                {
+                  "userid": 6641,
+                  "name": "Vinama3171"
+                },
+                {
+                  "userid": 273419,
+                  "name": "Idioma-bot"
+                },
+                {
+                  "userid": 71258,
+                  "name": "Escarbot"
+                },
+                {
+                  "userid": 250427,
+                  "name": "BotMultichill"
+                },
+                {
+                  "userid": 2142613,
+                  "name": "Simonfqy"
+                },
+                {
+                  "userid": 359372,
+                  "name": "Lauyulam"
+                },
+                {
+                  "userid": 28077,
+                  "name": "YurikBot"
+                },
+                {
+                  "userid": 42173,
+                  "name": "FlaBot"
+                },
+                {
+                  "userid": 87784,
+                  "name": "Thijs!bot"
+                },
+                {
+                  "userid": 159896,
+                  "name": "Rei-bot"
+                },
+                {
+                  "userid": 87619,
+                  "name": "JAnDbot"
+                },
+                {
+                  "userid": 1298603,
+                  "name": "Joeinwiki"
+                },
+                {
+                  "userid": 452403,
+                  "name": "傲凌空"
+                },
+                {
+                  "userid": 1253043,
+                  "name": "Wetrace"
+                },
+                {
+                  "userid": 10982,
+                  "name": "Πrate"
+                },
+                {
+                  "userid": 11573,
+                  "name": "Yuyu"
+                },
+                {
+                  "userid": 2111507,
+                  "name": "Vanished user 1929210"
+                },
+                {
+                  "userid": 72362,
+                  "name": "Evers"
+                },
+                {
+                  "userid": 1401447,
+                  "name": "GZWDer"
+                },
+                {
+                  "userid": 1196134,
+                  "name": "黃建程"
+                },
+                {
+                  "userid": 1321842,
+                  "name": "Acrux1119"
+                },
+                {
+                  "userid": 2280840,
+                  "name": "七月鴨"
+                },
+                {
+                  "userid": 26489,
+                  "name": "Ricky36"
+                },
+                {
+                  "userid": 134033,
+                  "name": "HKSYT"
+                },
+                {
+                  "userid": 478532,
+                  "name": "Ptbotgourou"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 404012,
+                  "name": "FdcnBot"
+                },
+                {
+                  "userid": 1626461,
+                  "name": "王家林"
+                },
+                {
+                  "userid": 2660456,
+                  "name": "幺于"
+                },
+                {
+                  "userid": 2525333,
+                  "name": "CaryCheng"
+                },
+                {
+                  "userid": 2661240,
+                  "name": "HRWang"
+                },
+                {
+                  "userid": 228481,
+                  "name": "Eddiecpwong"
+                },
+                {
+                  "userid": 557673,
+                  "name": "Thering29"
+                },
+                {
+                  "userid": 2436590,
+                  "name": "Shq912"
+                },
+                {
+                  "userid": 41586,
+                  "name": "Chlewbot"
+                },
+                {
+                  "userid": 227211,
+                  "name": "YonaBot"
+                },
+                {
+                  "userid": 484129,
+                  "name": "Nallimbot"
+                },
+                {
+                  "userid": 446900,
+                  "name": "CarsracBot"
+                },
+                {
+                  "userid": 546822,
+                  "name": "ArthurBot"
+                },
+                {
+                  "userid": 669928,
+                  "name": "TobeBot"
+                },
+                {
+                  "userid": 459882,
+                  "name": "Zorrobot"
+                },
+                {
+                  "userid": 55227,
+                  "name": "Cloudcolors"
+                },
+                {
+                  "userid": 32,
+                  "name": "Wshun"
+                },
+                {
+                  "userid": 135216,
+                  "name": "维尼尔基"
+                },
+                {
+                  "userid": 2569088,
+                  "name": "要是能重來"
+                },
+                {
+                  "userid": 1153617,
+                  "name": "YFdyh-bot"
+                },
+                {
+                  "userid": 701807,
+                  "name": "FoxBot"
+                },
+                {
+                  "userid": 2515309,
+                  "name": "Merkenik"
+                },
+                {
+                  "userid": 302011,
+                  "name": "PipepBot"
+                },
+                {
+                  "userid": 27195,
+                  "name": "Summitguy"
+                },
+                {
+                  "userid": 29714,
+                  "name": "Hyh1048576"
+                },
+                {
+                  "userid": 2554110,
+                  "name": "Onpoli2018"
+                },
+                {
+                  "userid": 815110,
+                  "name": "EdiTurn"
+                },
+                {
+                  "userid": 2324877,
+                  "name": "野狐蝉"
+                },
+                {
+                  "userid": 611387,
+                  "name": "Tusooa"
+                },
+                {
+                  "userid": 26389,
+                  "name": "Stargate756"
+                },
+                {
+                  "userid": 1817053,
+                  "name": "Charlie Qi"
+                },
+                {
+                  "userid": 1010813,
+                  "name": "維基小霸王"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 1239477,
+                  "name": "王衍钊"
+                },
+                {
+                  "userid": 881176,
+                  "name": "Zcm11"
+                },
+                {
+                  "userid": 1023290,
+                  "name": "Tjl1128"
+                },
+                {
+                  "userid": 82234,
+                  "name": "Angelalive"
+                },
+                {
+                  "userid": 110520,
+                  "name": "Pedrotangtang"
+                },
+                {
+                  "userid": 10259,
+                  "name": "Douglasfrankfort"
+                },
+                {
+                  "userid": 24655,
+                  "name": "Hanteng"
+                },
+                {
+                  "userid": 430424,
+                  "name": "SilvonenBot"
+                },
+                {
+                  "userid": 1388331,
+                  "name": "Fashionster"
+                },
+                {
+                  "userid": 555807,
+                  "name": "Y-take"
+                },
+                {
+                  "userid": 196816,
+                  "name": "Rafom"
+                },
+                {
+                  "userid": 3,
+                  "name": "Formulax"
+                },
+                {
+                  "userid": 34,
+                  "name": "Menchi"
+                },
+                {
+                  "userid": 112,
+                  "name": "Owlgod"
+                },
+                {
+                  "userid": 238,
+                  "name": "Colipon"
+                },
+                {
+                  "userid": 1007,
+                  "name": "Dersonlwd"
+                },
+                {
+                  "userid": 1080,
+                  "name": "Jobinson"
+                },
+                {
+                  "userid": 2071,
+                  "name": "Sajuuk~zhwiki"
+                },
+                {
+                  "userid": 2402,
+                  "name": "凌波微步"
+                },
+                {
+                  "userid": 11160,
+                  "name": "Howard1980"
+                },
+                {
+                  "userid": 12963,
+                  "name": "Wooddoo"
+                },
+                {
+                  "userid": 13493,
+                  "name": "Refrain"
+                },
+                {
+                  "userid": 13721,
+                  "name": "东东狐"
+                },
+                {
+                  "userid": 14477,
+                  "name": "火星蜥蜴"
+                },
+                {
+                  "userid": 15246,
+                  "name": "Zhuwq"
+                },
+                {
+                  "userid": 16912,
+                  "name": "Eng02019"
+                },
+                {
+                  "userid": 19003,
+                  "name": "Hkl8324"
+                },
+                {
+                  "userid": 22896,
+                  "name": "凯利*鲍威尔"
+                },
+                {
+                  "userid": 22994,
+                  "name": "TestDaF"
+                },
+                {
+                  "userid": 23955,
+                  "name": "Emcc"
+                },
+                {
+                  "userid": 26685,
+                  "name": "CyeZBot~zhwiki"
+                },
+                {
+                  "userid": 26820,
+                  "name": "似水驕陽"
+                },
+                {
+                  "userid": 28527,
+                  "name": "一嗝"
+                },
+                {
+                  "userid": 30079,
+                  "name": "Tianxiaozhang"
+                },
+                {
+                  "userid": 34998,
+                  "name": "Advisor"
+                },
+                {
+                  "userid": 39680,
+                  "name": "Davidqql"
+                },
+                {
+                  "userid": 41970,
+                  "name": "RoboDick~zhwiki"
+                },
+                {
+                  "userid": 42415,
+                  "name": "阿拉丁燃灯"
+                },
+                {
+                  "userid": 44130,
+                  "name": "Martinfung"
+                },
+                {
+                  "userid": 60460,
+                  "name": "Sampsonlee"
+                },
+                {
+                  "userid": 64518,
+                  "name": "Oufat"
+                },
+                {
+                  "userid": 65049,
+                  "name": "Hou26"
+                },
+                {
+                  "userid": 70125,
+                  "name": "影武者"
+                },
+                {
+                  "userid": 74296,
+                  "name": "I7114080"
+                },
+                {
+                  "userid": 74579,
+                  "name": "Ytthterence"
+                },
+                {
+                  "userid": 75800,
+                  "name": "Ysh 008"
+                },
+                {
+                  "userid": 76748,
+                  "name": "Fengerzh"
+                },
+                {
+                  "userid": 87879,
+                  "name": "Chung6578"
+                },
+                {
+                  "userid": 97283,
+                  "name": "大雷神"
+                },
+                {
+                  "userid": 97713,
+                  "name": "Aapmpm"
+                },
+                {
+                  "userid": 118598,
+                  "name": "Haaqfun"
+                },
+                {
+                  "userid": 131863,
+                  "name": "Gisbrother"
+                },
+                {
+                  "userid": 132602,
+                  "name": "Lkopeter"
+                },
+                {
+                  "userid": 144474,
+                  "name": "Wyj210"
+                },
+                {
+                  "userid": 147196,
+                  "name": "Ngkachun1982"
+                },
+                {
+                  "userid": 152231,
+                  "name": "Doudouliu"
+                },
+                {
+                  "userid": 154288,
+                  "name": "Xixihaha06"
+                },
+                {
+                  "userid": 157198,
+                  "name": "Sotzewai"
+                },
+                {
+                  "userid": 173267,
+                  "name": "Winnie000mo"
+                },
+                {
+                  "userid": 176604,
+                  "name": "Leeearnest"
+                },
+                {
+                  "userid": 178590,
+                  "name": "Rumina"
+                },
+                {
+                  "userid": 185729,
+                  "name": "Woc2006"
+                },
+                {
+                  "userid": 186429,
+                  "name": "Hawyih"
+                },
+                {
+                  "userid": 188901,
+                  "name": "Mmo chief"
+                },
+                {
+                  "userid": 190969,
+                  "name": "Alan Cheang"
+                },
+                {
+                  "userid": 194997,
+                  "name": "Winniesophie"
+                },
+                {
+                  "userid": 214439,
+                  "name": "Kolyudov"
+                },
+                {
+                  "userid": 219849,
+                  "name": "中華國"
+                },
+                {
+                  "userid": 223462,
+                  "name": "Xtctjames"
+                },
+                {
+                  "userid": 238891,
+                  "name": "Prince Max"
+                },
+                {
+                  "userid": 252426,
+                  "name": "Dimensions"
+                },
+                {
+                  "userid": 254379,
+                  "name": "Thisisivor"
+                },
+                {
+                  "userid": 261575,
+                  "name": "IamNotyet"
+                },
+                {
+                  "userid": 270992,
+                  "name": "666 g27"
+                },
+                {
+                  "userid": 279357,
+                  "name": "Kittykuromi"
+                },
+                {
+                  "userid": 281270,
+                  "name": "Supergofai"
+                },
+                {
+                  "userid": 308635,
+                  "name": "ASavelius"
+                },
+                {
+                  "userid": 337088,
+                  "name": "Crision cn"
+                },
+                {
+                  "userid": 340684,
+                  "name": "Litter"
+                },
+                {
+                  "userid": 343125,
+                  "name": "Yutingkuo"
+                },
+                {
+                  "userid": 358337,
+                  "name": "玖巧仔"
+                },
+                {
+                  "userid": 368791,
+                  "name": "上官大夫"
+                },
+                {
+                  "userid": 387678,
+                  "name": "Paca8183"
+                },
+                {
+                  "userid": 387697,
+                  "name": "Kelvinng9725"
+                },
+                {
+                  "userid": 391383,
+                  "name": "KO.135"
+                },
+                {
+                  "userid": 391769,
+                  "name": "Benjwong"
+                },
+                {
+                  "userid": 394015,
+                  "name": "Kuo.chaoyi"
+                },
+                {
+                  "userid": 405008,
+                  "name": "Osteowuu"
+                },
+                {
+                  "userid": 422990,
+                  "name": "Rjmaomao"
+                },
+                {
+                  "userid": 425543,
+                  "name": "Abcd1234wiki"
+                },
+                {
+                  "userid": 427273,
+                  "name": "Kuiohk"
+                },
+                {
+                  "userid": 453976,
+                  "name": "David I Beckham"
+                },
+                {
+                  "userid": 459513,
+                  "name": "Julius1982"
+                },
+                {
+                  "userid": 460674,
+                  "name": "Acstar"
+                },
+                {
+                  "userid": 465732,
+                  "name": "Lnhbm"
+                },
+                {
+                  "userid": 466028,
+                  "name": "Rantooya"
+                },
+                {
+                  "userid": 472080,
+                  "name": "PhiLiPout"
+                },
+                {
+                  "userid": 472825,
+                  "name": "Future2040"
+                },
+                {
+                  "userid": 477543,
+                  "name": "Neturalyu"
+                },
+                {
+                  "userid": 478993,
+                  "name": "吴王僚"
+                },
+                {
+                  "userid": 479933,
+                  "name": "Wjswjxl"
+                },
+                {
+                  "userid": 480452,
+                  "name": "王佐之才"
+                },
+                {
+                  "userid": 503530,
+                  "name": "Samlohk"
+                },
+                {
+                  "userid": 514437,
+                  "name": "大司马大将军"
+                },
+                {
+                  "userid": 541928,
+                  "name": "Xnj920327"
+                },
+                {
+                  "userid": 542272,
+                  "name": "Neocon"
+                },
+                {
+                  "userid": 543527,
+                  "name": "DirlBot"
+                },
+                {
+                  "userid": 564159,
+                  "name": "Tomas Tso"
+                },
+                {
+                  "userid": 572185,
+                  "name": "GhalyBot"
+                },
+                {
+                  "userid": 589715,
+                  "name": "Hy1132"
+                },
+                {
+                  "userid": 601760,
+                  "name": "Wmj193"
+                },
+                {
+                  "userid": 610995,
+                  "name": "George Mel"
+                },
+                {
+                  "userid": 614610,
+                  "name": "Mmm333"
+                },
+                {
+                  "userid": 618269,
+                  "name": "DumZiBoT"
+                },
+                {
+                  "userid": 623342,
+                  "name": "Nklinan"
+                },
+                {
+                  "userid": 643908,
+                  "name": "Dalek sg"
+                },
+                {
+                  "userid": 655150,
+                  "name": "Nederlanbs"
+                },
+                {
+                  "userid": 656811,
+                  "name": "楷叔講古"
+                },
+                {
+                  "userid": 682108,
+                  "name": "Austin1001"
+                },
+                {
+                  "userid": 699335,
+                  "name": "Arsenalman81"
+                },
+                {
+                  "userid": 718628,
+                  "name": "Unsonique"
+                },
+                {
+                  "userid": 720389,
+                  "name": "秦王赵政"
+                },
+                {
+                  "userid": 748608,
+                  "name": "Brezza del mare"
+                },
+                {
+                  "userid": 761815,
+                  "name": "Eaglewanli"
+                },
+                {
+                  "userid": 765737,
+                  "name": "Choiling75350"
+                },
+                {
+                  "userid": 790364,
+                  "name": "Hannyi"
+                },
+                {
+                  "userid": 802850,
+                  "name": "Jsjsjs1111"
+                },
+                {
+                  "userid": 839206,
+                  "name": "周子仪"
+                },
+                {
+                  "userid": 851682,
+                  "name": "Inigokwakamigaa"
+                },
+                {
+                  "userid": 879031,
+                  "name": "Vetoheben"
+                },
+                {
+                  "userid": 883961,
+                  "name": "Mys bot"
+                },
+                {
+                  "userid": 890143,
+                  "name": "Ebrambot"
+                },
+                {
+                  "userid": 955085,
+                  "name": "九刀流"
+                },
+                {
+                  "userid": 959140,
+                  "name": "A22ming"
+                },
+                {
+                  "userid": 966392,
+                  "name": "APOCALYPSE X"
+                },
+                {
+                  "userid": 967390,
+                  "name": "Ripchip Bot"
+                },
+                {
+                  "userid": 1025928,
+                  "name": "飄絮映雪"
+                },
+                {
+                  "userid": 1031961,
+                  "name": "全無尊嚴先生"
+                },
+                {
+                  "userid": 1050021,
+                  "name": "Yuanclfeng"
+                },
+                {
+                  "userid": 1059752,
+                  "name": "Huangdiwang"
+                },
+                {
+                  "userid": 1062143,
+                  "name": "QW179119"
+                },
+                {
+                  "userid": 1080310,
+                  "name": "Zou731005"
+                },
+                {
+                  "userid": 1081210,
+                  "name": "Mapayna"
+                },
+                {
+                  "userid": 1103814,
+                  "name": "翼之使者"
+                },
+                {
+                  "userid": 1109847,
+                  "name": "Blur1994"
+                },
+                {
+                  "userid": 1133566,
+                  "name": "我乃野云鹤"
+                },
+                {
+                  "userid": 1161602,
+                  "name": "Vbvan"
+                },
+                {
+                  "userid": 1178882,
+                  "name": "Richard Lee 9"
+                },
+                {
+                  "userid": 1198271,
+                  "name": "Laukaihang"
+                },
+                {
+                  "userid": 1211510,
+                  "name": "Fdglt"
+                },
+                {
+                  "userid": 1229673,
+                  "name": "JesseW900"
+                },
+                {
+                  "userid": 1232591,
+                  "name": "J1996126"
+                },
+                {
+                  "userid": 1259048,
+                  "name": "Hmgqzx"
+                },
+                {
+                  "userid": 1321115,
+                  "name": "Banyangarden"
+                },
+                {
+                  "userid": 1344946,
+                  "name": "Queensroad"
+                },
+                {
+                  "userid": 1385925,
+                  "name": "Daiyuxiao"
+                },
+                {
+                  "userid": 1433681,
+                  "name": "Zhanghao1987"
+                },
+                {
+                  "userid": 1438802,
+                  "name": "51coin"
+                },
+                {
+                  "userid": 1457475,
+                  "name": "Bellabling"
+                },
+                {
+                  "userid": 1469021,
+                  "name": "嬴秦富甲天下"
+                },
+                {
+                  "userid": 1483649,
+                  "name": "Soy taoist"
+                },
+                {
+                  "userid": 1496246,
+                  "name": "秦史"
+                },
+                {
+                  "userid": 1520631,
+                  "name": "昏君"
+                },
+                {
+                  "userid": 1539207,
+                  "name": "Gjtc888"
+                },
+                {
+                  "userid": 1563482,
+                  "name": "AZXAZX"
+                },
+                {
+                  "userid": 1574828,
+                  "name": "12three"
+                },
+                {
+                  "userid": 1575752,
+                  "name": "Uaatt"
+                },
+                {
+                  "userid": 1597445,
+                  "name": "郝隆美尔"
+                },
+                {
+                  "userid": 1606067,
+                  "name": "Chanjillchanjill"
+                },
+                {
+                  "userid": 1623841,
+                  "name": "KevinDVT"
+                },
+                {
+                  "userid": 1633483,
+                  "name": "東方夜辦公室"
+                },
+                {
+                  "userid": 1650207,
+                  "name": "陈项龙"
+                },
+                {
+                  "userid": 1650785,
+                  "name": "Bosco0920"
+                },
+                {
+                  "userid": 1658938,
+                  "name": "에이니스"
+                },
+                {
+                  "userid": 1725580,
+                  "name": "鍾坤容"
+                },
+                {
+                  "userid": 1752978,
+                  "name": "Kevin hung 421"
+                },
+                {
+                  "userid": 1765284,
+                  "name": "LNTC871"
+                },
+                {
+                  "userid": 1794607,
+                  "name": "Vanished user 211120"
+                },
+                {
+                  "userid": 1811206,
+                  "name": "Wargaz"
+                },
+                {
+                  "userid": 1840733,
+                  "name": "男南米"
+                },
+                {
+                  "userid": 1864016,
+                  "name": "Ofimmortality"
+                },
+                {
+                  "userid": 1960989,
+                  "name": "Phoenixandlion"
+                },
+                {
+                  "userid": 2001848,
+                  "name": "Leungchunsing"
+                },
+                {
+                  "userid": 2099596,
+                  "name": "Yh007"
+                },
+                {
+                  "userid": 2126003,
+                  "name": "Ng1218mk2"
+                },
+                {
+                  "userid": 2135304,
+                  "name": "神谕者奈里夫"
+                },
+                {
+                  "userid": 2137650,
+                  "name": "Leunf chi kin"
+                },
+                {
+                  "userid": 2151694,
+                  "name": "Wepwawetemsaf"
+                },
+                {
+                  "userid": 2160179,
+                  "name": "Leo7"
+                },
+                {
+                  "userid": 2163549,
+                  "name": "許書祥"
+                },
+                {
+                  "userid": 2173577,
+                  "name": "Imperoro RealMAN"
+                },
+                {
+                  "userid": 2178064,
+                  "name": "Iddem"
+                },
+                {
+                  "userid": 2226659,
+                  "name": "李笑美"
+                },
+                {
+                  "userid": 2227581,
+                  "name": "HKs09086"
+                },
+                {
+                  "userid": 2234565,
+                  "name": "Wakasa55"
+                },
+                {
+                  "userid": 2272861,
+                  "name": "Premvani"
+                },
+                {
+                  "userid": 2308427,
+                  "name": "Templatecleaner"
+                },
+                {
+                  "userid": 2334461,
+                  "name": "Luckystar1111"
+                },
+                {
+                  "userid": 2341143,
+                  "name": "YMOt"
+                },
+                {
+                  "userid": 2352268,
+                  "name": "Djdddnk"
+                },
+                {
+                  "userid": 2381255,
+                  "name": "Arci-Dragon"
+                },
+                {
+                  "userid": 2396582,
+                  "name": "Q884436"
+                },
+                {
+                  "userid": 2427985,
+                  "name": "TamTamMarco"
+                },
+                {
+                  "userid": 2446325,
+                  "name": "ZSDHY5"
+                },
+                {
+                  "userid": 2450738,
+                  "name": "崖洛"
+                },
+                {
+                  "userid": 2490529,
+                  "name": "Boogi wu"
+                },
+                {
+                  "userid": 2505276,
+                  "name": "Addietor"
+                },
+                {
+                  "userid": 2558858,
+                  "name": "Vitsuha"
+                },
+                {
+                  "userid": 2559627,
+                  "name": "Lyhende"
+                },
+                {
+                  "userid": 2600810,
+                  "name": "早餐"
+                },
+                {
+                  "userid": 2618342,
+                  "name": "Sun8908"
+                },
+                {
+                  "userid": 2640011,
+                  "name": "Liang5276x"
+                },
+                {
+                  "userid": 2674833,
+                  "name": "Augustokremo"
+                },
+                {
+                  "userid": 2702119,
+                  "name": "Firewatertree"
+                },
+                {
+                  "userid": 2706541,
+                  "name": "林永淦"
+                },
+                {
+                  "userid": 2722111,
+                  "name": "FrutigerAero8"
+                },
+                {
+                  "userid": 2727593,
+                  "name": "康聪"
+                },
+                {
+                  "userid": 2728326,
+                  "name": "任晏延"
+                },
+                {
+                  "userid": 2743949,
+                  "name": "Wxmarshall"
+                },
+                {
+                  "userid": 2823061,
+                  "name": "Renamed user 203fdf26960280cc3fc2ddba6f1730c977dce904e0faedd98b6456c84e46d607"
+                },
+                {
+                  "userid": 2876283,
+                  "name": "Iuliusnanus"
+                },
+                {
+                  "userid": 2927358,
+                  "name": "Kylewong3310"
+                },
+                {
+                  "userid": 2937532,
+                  "name": "RedLightPOP"
+                },
+                {
+                  "userid": 2955430,
+                  "name": "Elianli"
+                },
+                {
+                  "userid": 2962110,
+                  "name": "SeikilosLin"
+                },
+                {
+                  "userid": 2971838,
+                  "name": "MilkyDefer"
+                },
+                {
+                  "userid": 3003971,
+                  "name": "Stevenlam11"
+                },
+                {
+                  "userid": 3012626,
+                  "name": "CreeperDigital1903"
+                },
+                {
+                  "userid": 3014529,
+                  "name": "Nrya"
+                },
+                {
+                  "userid": 3026183,
+                  "name": "暁月凛奈"
+                },
+                {
+                  "userid": 3033791,
+                  "name": "SKBNK"
+                },
+                {
+                  "userid": 3047390,
+                  "name": "HKT3593"
+                },
+                {
+                  "userid": 3054734,
+                  "name": "Coddlebean"
+                },
+                {
+                  "userid": 3057730,
+                  "name": "Hbqxahz"
+                },
+                {
+                  "userid": 3096868,
+                  "name": "史通"
+                },
+                {
+                  "userid": 3102692,
+                  "name": "巫恒"
+                },
+                {
+                  "userid": 3107548,
+                  "name": "阿道"
+                },
+                {
+                  "userid": 3123453,
+                  "name": "Waylon1104"
+                },
+                {
+                  "userid": 3134756,
+                  "name": "Kcx36"
+                },
+                {
+                  "userid": 3180395,
+                  "name": "Jjiose1991a"
+                },
+                {
+                  "userid": 3235949,
+                  "name": "S200167"
+                },
+                {
+                  "userid": 3262501,
+                  "name": "Eupakistani"
+                },
+                {
+                  "userid": 3263399,
+                  "name": "Hongkongski"
+                },
+                {
+                  "userid": 3266483,
+                  "name": "Jtkc917"
+                },
+                {
+                  "userid": 3287752,
+                  "name": "EqJjgOa8rVvsRmZL"
+                },
+                {
+                  "userid": 3289519,
+                  "name": "Ashikaga Takauji"
+                },
+                {
+                  "userid": 3340387,
+                  "name": "Ax7890"
+                },
+                {
+                  "userid": 3673589,
+                  "name": "琴生"
+                },
+                {
+                  "userid": 3688068,
+                  "name": "Maximnightingale"
+                },
+                {
+                  "userid": 3794269,
+                  "name": "缘来缘去"
+                },
+                {
+                  "userid": 3845634,
+                  "name": "SchlurcherBot"
+                },
+                {
+                  "userid": 3955387,
+                  "name": "Twelephant-bot"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对信息框前247承位、前246元年，阿房宫始建两说，前213焚书及末次巡游。当前修订末次巡游写“公元前210年年初（秦始皇三十七年十月）”，与旧复核所述版本措辞未必相同；古历年条不按百科简化公历表达迁移。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "秦始皇 後人想像中的秦始皇肖像 秦朝 皇帝 統治 前221年9月10日-前210年7月11日 [ 古⁠ 1 ] （11年61天） 繼任 秦二世 胡亥 秦国国王 統治 前247年7月6日 [ 古⁠ 2 ] -前221年9月10日（25年299天） 前任 秦庄襄王 出生 前259年1月27日 [ 註⁠ 1 ] [ 古⁠ 3 ] 赵国 邯郸城 逝世 前210年7月11日（49岁） [ 註⁠ 2 ] [ 古⁠ 1 ] 秦朝 钜鹿郡 信都县 沙丘平台 （今 河北省 邢台市 广宗县 ） 安葬 秦始皇陵 （今 西安市 臨潼区 下河村） 子嗣 子： 扶蘇 、 公子將閭 、 公子高 、 胡亥 年號 無 尊号 始皇帝 [ 註⁠ 3 ] 政权 秦朝 父親 秦莊襄王 母親 趙姬",
+        "sha256": "2267a80ebac6fafbb1a305e697a77e0de9779b355b8e6d2a98c2c78784d6c623"
+      },
+      {
+        "block_index": 66,
+        "local_anchor": "cited-66",
+        "text": "鄭國渠 在公元前246年（秦王政元年）开始建造 [ 古⁠ 63 ] [ 註⁠ 23 ] ，位於今日中國陝西省涇陽縣上然村涇出口一帶。建議者為來自 韓國 的水利專家 鄭國 ，其真正身份是韓國的 細作 。",
+        "sha256": "3ae70c091e81031940694729b750c8be3db3db747b14edba44409a3e3fcd17cc"
+      },
+      {
+        "block_index": 248,
+        "local_anchor": "cited-248",
+        "text": "對於阿房宮開始建造的時間，《史記》卻有兩個不同的記載。《史記·六國年表》記載開始建造阿房宮的時間為秦始皇28年（公元前219年） [ 古⁠ 253 ] ，但同書的《史記·秦始皇本紀》卻記載為秦始皇三十五年（公元前212年），多數人把後者當作阿房宮的始建時間，較合理的解釋是，秦始皇28年是秦始皇意欲新建「朝宮」的時間，其間醞釀和規劃用去幾年時間，到秦始皇35年才下令動工。",
+        "sha256": "c62c77b59656a3282da468a0d0a8351506fa7d24aea02059bce595b2f3c5ec89"
+      },
+      {
+        "block_index": 326,
+        "local_anchor": "cited-326",
+        "text": "所谓“焚书”，就是公元前213年秦始皇為了統一原 六國 人民的思想和巩固秦朝的统治，開始销毁除《秦记》之外的其他六国的史书，保留关于农业、技术、卜筮和医药的书籍。除了博士官所职，天下敢私藏诗、书、百家语的人，都命令守、尉将其藏书烧掉。有敢聚论《诗》《书》者 弃市 ，以古非今者 族诛 。如果官吏知情隐瞒不报，也和藏书的人同等治罪（《 史記·秦始皇本紀 》）。这一政策从前213年一直执行到前191年汉惠帝除 挟书律 。但也有人认为，一些禁书保存于秦皇家图书馆，直到 项羽 攻破咸阳后纵火，这些书籍才彻底消失。",
+        "sha256": "211c5fa21f1c7c3d38854509c521192bdee44699c523ef78bbe6e74b859e95fc"
+      },
+      {
+        "block_index": 337,
+        "local_anchor": "cited-337",
+        "text": "公元前210年年初（秦始皇三十七年十月），秦始皇踏上他一生中最後一次大型全國巡遊，隨行的包括他的幼子 胡亥 ，左丞相李斯及執掌中車府令的 趙高 ，右丞相 冯去疾 則負責留守京師 [ 古⁠ 328 ] ，其具體巡行路線如下：",
+        "sha256": "f065d2aeac1d15b5dce20b6d8c6d68785ca56fe03b652cc4d1e51a7aa73ff003"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "3c81e2f04bd1c0eb40bf41daded1a415f2d25fec"
+}

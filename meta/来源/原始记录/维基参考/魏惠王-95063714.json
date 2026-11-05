@@ -1,0 +1,588 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/魏惠王",
+  "requested_title": "魏惠王",
+  "resolved_title": "魏惠王",
+  "pageid": 334595,
+  "revision": {
+    "revid": 95063714,
+    "parentid": 93069082,
+    "user": "Twelephant-bot",
+    "timestamp": "2026-10-15T15:03:06Z",
+    "size": 12146,
+    "sha1": "7f48350b1da870a22b93f6d107533278480ef0e3"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E9%AD%8F%E6%83%A0%E7%8E%8B&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=95063714&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=95063714&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E9%AD%8F%E6%83%A0%E7%8E%8B&prop=contributors&pclimit=max",
+  "contributors_count": 63,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:49.248059+00:00",
+  "raw_content_sha256": "d0cf04f4062682bdb0051c7efa6a0803451b69f95ccab347bcdc225cafb1f547",
+  "rendered_html_sha256": "e7f21b58689d07ca94b495b2e85b9d49f237d49b3d5f3b96a278a2cca19d100b",
+  "api_response_sha256": "fc8f2457f87d9fe8276c22191867969437cfb28e6b9679d8c70952b1897f9ca2",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "魏惠王在位年代",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "魏惠王",
+      "byteoffset": 1870,
+      "anchor": "魏惠王在位年代",
+      "linkAnchor": "魏惠王在位年代"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "生平",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "魏惠王",
+      "byteoffset": 2349,
+      "anchor": "生平",
+      "linkAnchor": "生平"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "爭立為君",
+      "number": "2.1",
+      "index": "3",
+      "fromtitle": "魏惠王",
+      "byteoffset": 2359,
+      "anchor": "爭立為君",
+      "linkAnchor": "爭立為君"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "遷都大梁",
+      "number": "2.2",
+      "index": "4",
+      "fromtitle": "魏惠王",
+      "byteoffset": 3292,
+      "anchor": "遷都大梁",
+      "linkAnchor": "遷都大梁"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "圍趙邯鄲",
+      "number": "2.3",
+      "index": "5",
+      "fromtitle": "魏惠王",
+      "byteoffset": 3714,
+      "anchor": "圍趙邯鄲",
+      "linkAnchor": "圍趙邯鄲"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "魏初稱霸",
+      "number": "2.4",
+      "index": "6",
+      "fromtitle": "魏惠王",
+      "byteoffset": 4078,
+      "anchor": "魏初稱霸",
+      "linkAnchor": "魏初稱霸"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "齊秦夾擊",
+      "number": "2.5",
+      "index": "7",
+      "fromtitle": "魏惠王",
+      "byteoffset": 4231,
+      "anchor": "齊秦夾擊",
+      "linkAnchor": "齊秦夾擊"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "徐州相王",
+      "number": "2.6",
+      "index": "8",
+      "fromtitle": "魏惠王",
+      "byteoffset": 4372,
+      "anchor": "徐州相王",
+      "linkAnchor": "徐州相王"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "張儀初為秦相",
+      "number": "2.7",
+      "index": "9",
+      "fromtitle": "魏惠王",
+      "byteoffset": 4613,
+      "anchor": "張儀初為秦相",
+      "linkAnchor": "張儀初為秦相"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "五國相王",
+      "number": "2.8",
+      "index": "10",
+      "fromtitle": "魏惠王",
+      "byteoffset": 4783,
+      "anchor": "五國相王",
+      "linkAnchor": "五國相王"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "文學記載中的惠王",
+      "number": "3",
+      "index": "11",
+      "fromtitle": "魏惠王",
+      "byteoffset": 4940,
+      "anchor": "文學記載中的惠王",
+      "linkAnchor": "文學記載中的惠王"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "家庭",
+      "number": "4",
+      "index": "12",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5239,
+      "anchor": "家庭",
+      "linkAnchor": "家庭"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "影视形象",
+      "number": "5",
+      "index": "13",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5351,
+      "anchor": "影视形象",
+      "linkAnchor": "影视形象"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "電視劇",
+      "number": "5.1",
+      "index": "14",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5362,
+      "anchor": "電視劇",
+      "linkAnchor": "電視劇"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "在位年與西曆對照表",
+      "number": "6",
+      "index": "15",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5475,
+      "anchor": "在位年與西曆對照表",
+      "linkAnchor": "在位年與西曆對照表"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注釋",
+      "number": "7",
+      "index": "16",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5510,
+      "anchor": "注釋",
+      "linkAnchor": "注釋"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "參考文獻",
+      "number": "8",
+      "index": "17",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5533,
+      "anchor": "參考文獻",
+      "linkAnchor": "參考文獻"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "引用",
+      "number": "8.1",
+      "index": "18",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5544,
+      "anchor": "引用",
+      "linkAnchor": "引用"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "書籍",
+      "number": "8.2",
+      "index": "19",
+      "fromtitle": "魏惠王",
+      "byteoffset": 5568,
+      "anchor": "書籍",
+      "linkAnchor": "書籍"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/魏惠王",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/魏惠王-95063714.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/魏惠王-95063714.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/魏惠王-95063714.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=95063714",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E9%AD%8F%E6%83%A0%E7%8E%8B&action=history&offset=20261015150306",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 334595,
+              "ns": 0,
+              "title": "魏惠王",
+              "anoncontributors": 46,
+              "contributors": [
+                {
+                  "userid": 795110,
+                  "name": "HenryXVII"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 39332,
+                  "name": "Nlu"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 853415,
+                  "name": "Ffffnm"
+                },
+                {
+                  "userid": 28923,
+                  "name": "Outlookxp"
+                },
+                {
+                  "userid": 1586693,
+                  "name": "Tigerzeng"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 1409080,
+                  "name": "Aa128050479"
+                },
+                {
+                  "userid": 1011905,
+                  "name": "日期20220626"
+                },
+                {
+                  "userid": 15230,
+                  "name": "Kanashimi"
+                },
+                {
+                  "userid": 1628158,
+                  "name": "Longway22"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 56268,
+                  "name": "Ibekolu"
+                },
+                {
+                  "userid": 348282,
+                  "name": "P-bot"
+                },
+                {
+                  "userid": 93181,
+                  "name": "RekishiEJ"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 9,
+                  "name": "Ktsquare"
+                },
+                {
+                  "userid": 14617,
+                  "name": "高晶"
+                },
+                {
+                  "userid": 1097219,
+                  "name": "Justincheng12345-bot"
+                },
+                {
+                  "userid": 44555,
+                  "name": "Hvn0413"
+                },
+                {
+                  "userid": 160631,
+                  "name": "蘇州宇文宙武"
+                },
+                {
+                  "userid": 2435325,
+                  "name": "Lesson1"
+                },
+                {
+                  "userid": 1252596,
+                  "name": "ネイ"
+                },
+                {
+                  "userid": 284449,
+                  "name": "Symplectopedia"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 442096,
+                  "name": "MelancholieBot"
+                },
+                {
+                  "userid": 1409334,
+                  "name": "Yanrs17"
+                },
+                {
+                  "userid": 1401479,
+                  "name": "银色雪莉"
+                },
+                {
+                  "userid": 28258,
+                  "name": "Kp2729"
+                },
+                {
+                  "userid": 2142613,
+                  "name": "Simonfqy"
+                },
+                {
+                  "userid": 87784,
+                  "name": "Thijs!bot"
+                },
+                {
+                  "userid": 134033,
+                  "name": "HKSYT"
+                },
+                {
+                  "userid": 1670797,
+                  "name": "空间的拓荒者"
+                },
+                {
+                  "userid": 135216,
+                  "name": "维尼尔基"
+                },
+                {
+                  "userid": 844225,
+                  "name": "JackieBot"
+                },
+                {
+                  "userid": 23374,
+                  "name": "Lleux"
+                },
+                {
+                  "userid": 45853,
+                  "name": "Xieza"
+                },
+                {
+                  "userid": 64518,
+                  "name": "Oufat"
+                },
+                {
+                  "userid": 70698,
+                  "name": "Patchao"
+                },
+                {
+                  "userid": 239579,
+                  "name": "Qqqyyy"
+                },
+                {
+                  "userid": 358337,
+                  "name": "玖巧仔"
+                },
+                {
+                  "userid": 508697,
+                  "name": "Louislee01"
+                },
+                {
+                  "userid": 550216,
+                  "name": "Bencmq-bot"
+                },
+                {
+                  "userid": 679202,
+                  "name": "何青青"
+                },
+                {
+                  "userid": 932388,
+                  "name": "莊大尾"
+                },
+                {
+                  "userid": 1081210,
+                  "name": "Mapayna"
+                },
+                {
+                  "userid": 1299112,
+                  "name": "MizBot"
+                },
+                {
+                  "userid": 1887133,
+                  "name": "Mina50927"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2550188,
+                  "name": "Endtoedit"
+                },
+                {
+                  "userid": 2704427,
+                  "name": "A010f06f5d5df5d55df55ew5ew3"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 2889070,
+                  "name": "FradonStar"
+                },
+                {
+                  "userid": 3003971,
+                  "name": "Stevenlam11"
+                },
+                {
+                  "userid": 3012626,
+                  "name": "CreeperDigital1903"
+                },
+                {
+                  "userid": 3242588,
+                  "name": "1562561234a3"
+                },
+                {
+                  "userid": 3300926,
+                  "name": "Perinbaba"
+                },
+                {
+                  "userid": 3955387,
+                  "name": "Twelephant-bot"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对前370争位背景、前369元年、前334后元及前319卒；“在位年代”段明列不同校正方案。信息框与导言承位起年有层次差异，不把所有材料统一为一种算法。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "魏惠王 连环画《孙庞斗智》中的魏惠王画像 統治 前369年－前319年，前334年改年稱後元年 出生 前400年 逝世 前319年 安葬 今 河南省 衛輝市 孙杏村鎮 汲城村 年號 無 谥号 文惠王、惠成王 政权 魏國 父親 魏武侯 母親 不明",
+        "sha256": "0576534507342c395e383c8c2c732739013bed269133e95c61693f75af8e4805"
+      },
+      {
+        "block_index": 1,
+        "local_anchor": "cited-1",
+        "text": "魏惠王 （前400年—前319年），本名 魏 .mw-parser-output ruby.zy{text-align:justify;text-justify:none}.mw-parser-output ruby.zy>rp{user-select:none}.mw-parser-output ruby.zy>rt{font-feature-settings:\"ruby\"1;font-size:90%;user-select:none}.mw-parser-output ruby.zy>rt+rt{padding-left:0.15em} 罃 （ yīng ） ，一作 魏嬰 ， 魏武侯 之子，生於 魏文侯 二十五年（前400年），全谥为 魏文惠王 或 魏惠成王 [ 1 ] [ 2 ] ，通稱 魏惠王 ， 戰國時期 魏國 的第三代 君主 ，在位期間為前370年－前319年。 [ 註 1 ]",
+        "sha256": "e2325a9be58b35b1cfeda7d091af31a9cb661a9f6804ed44e25f39e76b266a79"
+      },
+      {
+        "block_index": 4,
+        "local_anchor": "cited-4",
+        "text": "司馬遷 《 史記 ·六國年表》記魏惠王元年在周烈王六年（前370年），至周顯王三十四年（前335年），在位36年。",
+        "sha256": "7b26c2c4d0ff3b94d5f8adb5473f4d02cf09d6b9f42ff056de4fad7af2610563"
+      },
+      {
+        "block_index": 5,
+        "local_anchor": "cited-5",
+        "text": "自晉代 汲郡 出土《 竹書紀年 》後，學者發現魏惠王在周顯王三十四年時未死，只是改元又稱一年，即魏惠王後元元年。以後如司馬光《資治通鑑》、于鬯的《戰國策年表》，皆作周烈王六年（前370年）至周慎靚王二年（前319年），在位52年。",
+        "sha256": "dcfec66e7689b1f4522f1ee121e0a6107054dda1e82a900c7e8e993484ccda49"
+      },
+      {
+        "block_index": 6,
+        "local_anchor": "cited-6",
+        "text": "爾後雷學淇《竹書紀年義証》、王國維《古本竹書紀年輯校》、錢穆《先秦諸子繫年》等，皆以魏惠王元年在前370年為據，上推文侯、武侯之年世。然未查覺魏惠王元年至稱王改元的三十五年間，《史記》與《紀年》所載史實年代相同之事多有不合，如《史記》多《紀年》一年者有六例，多二年有兩例，年代相合者一件也無 [ 3 ] 。據楊寬考証，魏惠王元年在周烈王七年（前369年）；周顯王三十五年（前334年）稱王改元，至周慎靚王二年（前319年），改元前35年，改元後16年，合計在位51年。",
+        "sha256": "86070db95cc9fde41e096675df5955c209c2abe7827515f641f5fc453ee0037b"
+      },
+      {
+        "block_index": 9,
+        "local_anchor": "cited-9",
+        "text": "魏武侯二十六年（前370年）魏國 國君 魏武侯 去世，由於死前並未確立 繼承人 ，國內發生混亂，魏罃與 公子緩 [ 註 2 ] 互相爭立。七月，公子緩逃亡到達 趙國 邯鄲 。這時 公孫頎 從 宋國 經趙國進入韓國會見 韓懿侯 ，說：「魏罃與公子緩互相爭立為 國君 ，大王可聽說這件事了吧？如今魏罃得到了王錯的輔佐，擁有 上黨 ，只算擁有半個國家。趁這個機會除掉他，一定能打敗魏國的，可不能失去這個機會啊。」懿侯聽了很高興，就跟 趙成侯 合兵一起進攻魏國。",
+        "sha256": "a9d1f21f7298021597b1337bd184389ecb2b0d783c31550bebb7c38f30fbe425"
+      },
+      {
+        "block_index": 10,
+        "local_anchor": "cited-10",
+        "text": "次年（前369年，魏惠王元年）， 濁澤之戰 ，魏國大敗，魏罃被圍困。趙侯對韓侯說：「除掉魏君，讓 公子緩 即位 ，割地後，我們退兵，對我們有利。」韓侯說：「不能這樣。殺死魏君，人們必定會指責我們殘暴，割地退兵，人們必定會指責我們貪婪。不如把魏國分成兩半，一半給予魏罃，一半給予公子緩。魏國分為兩國，不會比宋國、衛國還強，我們就永遠也不會有魏國的禍患了。」趙侯不聽。韓侯不高興，帶領各自的軍隊連夜離去。魏罃則殺死了公子緩，成為了魏國君主，史稱魏惠王。",
+        "sha256": "97df8948d570d48c45f320e2e8c93d850751b8d2c7b0f7eadf507e620b26d9bc"
+      },
+      {
+        "block_index": 29,
+        "local_anchor": "cited-29",
+        "text": "惠王三十六年（前334年），惠王率領韓國和一些小國到 徐州 （今 山東 滕州市 東南）朝見 齊威王 ，尊齊威王為王，齊威王不敢獨自稱王，於是也承認魏的王號，史稱「會 徐州相王 」。惠王並改此年為後元年（前334年）。這標誌著楚國自 楚武王 以來的 诸侯国 唯一称 王 者，地位喪失， 楚威王 對此憤怒不已，“寝不寐，食不飽”。",
+        "sha256": "6df963463ffd778479cb703bcfea0324cff9f7b1103fa0e4f7e641ba0aad237e"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "7f48350b1da870a22b93f6d107533278480ef0e3"
+}

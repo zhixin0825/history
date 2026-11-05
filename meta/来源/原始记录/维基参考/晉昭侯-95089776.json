@@ -1,0 +1,222 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/晉昭侯",
+  "requested_title": "晉昭侯",
+  "resolved_title": "晉昭侯",
+  "pageid": 360893,
+  "revision": {
+    "revid": 95089776,
+    "parentid": 94440945,
+    "user": "星辰之叹",
+    "timestamp": "2026-10-16T12:45:45Z",
+    "size": 4834,
+    "sha1": "8b0397a72b27010c87ac24a12240dd2bbcf0fa6c"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E6%99%89%E6%98%AD%E4%BE%AF&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=95089776&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=95089776&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E6%99%89%E6%98%AD%E4%BE%AF&prop=contributors&pclimit=max",
+  "contributors_count": 23,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:38.937664+00:00",
+  "raw_content_sha256": "17db6f0b217963bc70523b071bdce2b18c26a92d9172f686339c3e5adcc7d2ff",
+  "rendered_html_sha256": "0ea42091b5f8c076d457b292dea4d4a69de26c02ba9dd671dbe5037b435b9246",
+  "api_response_sha256": "dfc92f7e36e42b3999151efaf1ceced9dc87506912b9b0cfc856edf0be4def31",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "生平",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "晉昭侯",
+      "byteoffset": 767,
+      "anchor": "生平",
+      "linkAnchor": "生平"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "曲沃之封",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "晉昭侯",
+      "byteoffset": 1286,
+      "anchor": "曲沃之封",
+      "linkAnchor": "曲沃之封"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考资料",
+      "number": "3",
+      "index": "3",
+      "fromtitle": "晉昭侯",
+      "byteoffset": 1526,
+      "anchor": "参考资料",
+      "linkAnchor": "参考资料"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/晉昭侯",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/晉昭侯-95089776.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/晉昭侯-95089776.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/晉昭侯-95089776.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=95089776",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E6%99%89%E6%98%AD%E4%BE%AF&action=history&offset=20261016124545",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 360893,
+              "ns": 0,
+              "title": "晉昭侯",
+              "anoncontributors": 6,
+              "contributors": [
+                {
+                  "userid": 19862,
+                  "name": "Dirrival"
+                },
+                {
+                  "userid": 46136,
+                  "name": "Mewaqua"
+                },
+                {
+                  "userid": 1009545,
+                  "name": "FODCOC"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 491438,
+                  "name": "Ochbot"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 1058308,
+                  "name": "星辰之叹"
+                },
+                {
+                  "userid": 183005,
+                  "name": "TXiKiBoT"
+                },
+                {
+                  "userid": 563026,
+                  "name": "ALBot"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 87784,
+                  "name": "Thijs!bot"
+                },
+                {
+                  "userid": 44625,
+                  "name": "Options"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 64518,
+                  "name": "Oufat"
+                },
+                {
+                  "userid": 173634,
+                  "name": "Mywood"
+                },
+                {
+                  "userid": 822297,
+                  "name": "TuHan-Bot"
+                },
+                {
+                  "userid": 1048251,
+                  "name": "Chikagelam"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2416349,
+                  "name": "Pure.love.peace"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对前739潘父弑昭侯、成师败还及孝侯继承。页首745—739与页尾746—739并存；不制造统一的唯一在位起年。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "晉昭侯 前745年－前739年 政權 晋国 君主 晉昭侯 歷時 7年 晉昭侯 在位年及 其死后晋国分裂时代的延续 在春秋时代的位置",
+        "sha256": "d13cf2fceae37585525cd9cf80498503bf142d9a4a47a178582f928daef6ed42"
+      },
+      {
+        "block_index": 4,
+        "local_anchor": "cited-4",
+        "text": "晋昭侯七年（前739年），晋国的大夫 潘父 杀死国君晋昭侯，想要迎接曲沃桓叔为国君。曲沃桓叔想要进入晋国，晋国的 国人 起兵进攻曲沃桓叔，曲沃桓叔战败退回曲沃。晋国的国人共同册立晋昭侯的儿子公子平为国君，就是 晋孝侯 ，又杀死了潘父 [ 3 ] [ 4 ] [ 5 ] 。",
+        "sha256": "3db66e98f4ae9df2fa7bfb8921b5d6c5378cad6e461e56ce8b2627485026fd09"
+      },
+      {
+        "block_index": 14,
+        "local_anchor": "cited-14",
+        "text": "前任： 父 晉文侯 晉國君主 前746年－前739年 繼任： 子 晉孝侯",
+        "sha256": "275c034710e7becea73283759a07899038a18e36514faab979dd279344f41b85"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "8b0397a72b27010c87ac24a12240dd2bbcf0fa6c"
+}
