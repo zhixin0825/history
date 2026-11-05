@@ -1933,5 +1933,13 @@
       "new_wiki9347363_license_applies_to_entire_corpus": false
     }
   ],
-  "external_reference_status": "阅读与溯源分类详见同目录服务器整理-外链分类清单，含不明确项；不宣称全库零外链或所有版本相同"
+  "external_reference_status": "阅读与溯源分类详见同目录服务器整理-外链分类清单，含不明确项；不宣称全库零外链或所有版本相同",
+  "historical_snapshot": true,
+  "superseded_by": "meta/来源/原始记录/2026-11-05-剩余项处理-当前状态.json",
+  "current_resolution_summary": {
+    "fixed_versions_obtained": 3,
+    "hanshu019_reviewed": 187,
+    "still_original_external_reading_occurrences": 12,
+    "all_foreign_full_text_archived": false
+  }
 }
