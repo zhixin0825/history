@@ -1,0 +1,1937 @@
+{
+  "schema_version": 1,
+  "scope": "服务器本地整理；未推送；缺项、待核查和旧报告未证实分别计数",
+  "content_snapshot_commit": "b5085fd2f1db147b29b9c19d5374e5ec885836ce",
+  "missing_fixed_revision_count": 3,
+  "missing_fixed_revisions": [
+    {
+      "oldid": "2620452",
+      "title": "春秋經/哀公",
+      "notice": "sources/补充古籍/阅读本/旧固定版-2620452.md",
+      "status": "原固定修订全文未取得",
+      "alternative_witness_equivalence_claimed": false
+    },
+    {
+      "oldid": "2675995",
+      "title": "春秋左氏傳/隱公",
+      "notice": "sources/补充古籍/阅读本/旧固定版-2675995.md",
+      "status": "原固定修订全文未取得",
+      "alternative_witness_equivalence_claimed": false
+    },
+    {
+      "oldid": "7908334",
+      "title": "春秋左氏傳/哀公",
+      "notice": "sources/补充古籍/阅读本/旧固定版-7908334.md",
+      "status": "原固定修订全文未取得",
+      "alternative_witness_equivalence_claimed": false
+    }
+  ],
+  "hanshu019_coverage_review": {
+    "status": "已有CCDH卷019截短，当前映射需逐项核对所引内容；不能把全部候选都判为缺原文",
+    "historical_related_records": 188,
+    "resolved_by_bce0037_trial_records": 1,
+    "remaining_records": 187,
+    "remaining_files": 176,
+    "remaining_records_by_area": {
+      "meta": 12,
+      "sources": 2,
+      "years": 173
+    },
+    "ccdh_file": "sources/二十四史/txt/02_hanshu_full.txt",
+    "ccdh_span": [
+      3210,
+      3319
+    ],
+    "available_new_complete_wikitext": "sources/摘录/原始见证/汉书-卷019-维基文库-9347363.wiki",
+    "available_wikitext_revision": 9347363,
+    "repeat_download_needed": false,
+    "review_records": [
+      {
+        "path": "meta/考证/前0104年-史料与归年说明.md",
+        "start": 1819,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5af06aed92b5ca",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/前0104年-史料与归年说明.md",
+        "start": 5594,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7762e89fe17eca",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/前0205年-史料与归年说明.md",
+        "start": 4326,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-e2c3d39a07252b",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/史记-卷011-纪年与异说.md",
+        "start": 2078,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "百官表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-da7e4b23bb047f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/史记-卷020-纪年与异说.md",
+        "start": 9274,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "百官公卿表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-4238921c1f56d3",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/史记-卷022-纪年与异说.md",
+        "start": 1340,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-c6c7616cf47aae",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/史记-卷022-纪年与异说.md",
+        "start": 3506,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-172b9edc2fd3a8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/史记-卷023-纪年与异说.md",
+        "start": 956,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "汉书百官公卿表典客条",
+        "target": "sources/本地引用/漢書-卷019.md#ref-2ea1e1494c890d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/考证/史记-卷023-纪年与异说.md",
+        "start": 3781,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "汉百官表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-b3dfc3d37d6f96",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/记录/2026-11-03-卷020复核.md",
+        "start": 2804,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "百官表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-190d9334b28dee",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/记录/史记-卷020-后补46条复核.md",
+        "start": 21923,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "百官公卿表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-2e25479b0c62fb",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "meta/记录/史记-卷022-任年数值复核.md",
+        "start": 19857,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书》卷019百官公卿表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5f5feba4c31453",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "sources/摘录/史记-卷011-孝景本纪.md",
+        "start": 4064,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019#衞尉",
+        "label": "百官表卫尉条",
+        "target": "sources/本地引用/漢書-卷019.md#ref-194d3ed1ab7ac9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "sources/摘录/史记-卷022-汉兴以来将相名臣年表.md",
+        "start": 518,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8d05e3279da469",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0020.md",
+        "start": 413,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8bb9c3c52f39e3",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0021.md",
+        "start": 357,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7f2266109531f5",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0022.md",
+        "start": 415,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8b8b012438b2dc",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0023.md",
+        "start": 389,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-bd44e2f2847088",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0025.md",
+        "start": 398,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-3a300c7d627a7a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0026.md",
+        "start": 388,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-6243faca43b683",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0029.md",
+        "start": 407,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-38b9ef8bab5aee",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0030.md",
+        "start": 409,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7922155368ed16",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0033.md",
+        "start": 406,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-75e96897de22b2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0036.md",
+        "start": 380,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-2d4aba030fe5fc",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0041.md",
+        "start": 411,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-d21e132f1bec61",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0042.md",
+        "start": 422,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5855ccc46438b0",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0043.md",
+        "start": 421,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5a392ac82c7f3a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0044.md",
+        "start": 377,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9066febcc9f4cd",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0046.md",
+        "start": 380,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-033a8ee7e6f50e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0047.md",
+        "start": 471,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-44f92f4988e788",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0048.md",
+        "start": 497,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-b9488a4adb9d6e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0049.md",
+        "start": 422,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-dfb907f17a01cf",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0051.md",
+        "start": 552,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-3d7c821c25bf41",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0051.md",
+        "start": 1387,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "漢書/卷019",
+        "target": "sources/本地引用/漢書-卷019.md#ref-58c5bad492e343",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0052.md",
+        "start": 517,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-633c97f9ae2aaa",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0053.md",
+        "start": 611,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-d43d823cde8111",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0053.md",
+        "start": 1610,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "百官公卿表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-ea6263d37bf094",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0054.md",
+        "start": 634,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-6b2332200e54bf",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0055.md",
+        "start": 732,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-47962d44d55f94",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0056.md",
+        "start": 807,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-de3266e7c04e22",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0056.md",
+        "start": 2165,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-846552f04eae7a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0058.md",
+        "start": 498,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9957b3d631e937",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0059.md",
+        "start": 753,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-bd22928c423008",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0059.md",
+        "start": 1508,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "漢書/卷019",
+        "target": "sources/本地引用/漢書-卷019.md#ref-f794fef23a5c43",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0060.md",
+        "start": 564,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-6032155504cf23",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0061.md",
+        "start": 724,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5971d1c0722c47",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0062.md",
+        "start": 640,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8f1ba099f463d8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0063.md",
+        "start": 1299,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-43e6990ee4836f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0064.md",
+        "start": 481,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-6d1f2b7e3a4602",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0065.md",
+        "start": 711,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-50b535fe4bc497",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0065.md",
+        "start": 1780,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-bea8d7d7f346ac",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0066.md",
+        "start": 1746,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5466eac02c2d9d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0066.md",
+        "start": 7416,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-68bd99b181d809",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0067.md",
+        "start": 975,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-b791d66c961e42",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0068.md",
+        "start": 933,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9852bd1508268d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0069.md",
+        "start": 472,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-bb02ba9ed781ae",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0070.md",
+        "start": 574,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-207ed362b8a63c",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0071.md",
+        "start": 829,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-0aa9df7c8568fe",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0072.md",
+        "start": 892,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-ecbf98bc3b34f3",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0073.md",
+        "start": 985,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-6632c4824684c9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0074.md",
+        "start": 933,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-4b3cfe7137df15",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0075.md",
+        "start": 800,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-04b18695d38606",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0076.md",
+        "start": 438,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-dad78084bb9db2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0077.md",
+        "start": 990,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-da98cdf38b0494",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0078.md",
+        "start": 398,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-a6d60094560b23",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0080.md",
+        "start": 1014,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-adf080f553dbf8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0082.md",
+        "start": 484,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-78fac93f0bb99f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0083.md",
+        "start": 582,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-93b973e4bc31ba",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0085.md",
+        "start": 491,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-1237da7c944b79",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0086.md",
+        "start": 512,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-3f5a6640422a4d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0087.md",
+        "start": 2837,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-cdaa6553b5c92f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0088.md",
+        "start": 2245,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-f80ec79ef1d1d2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0089.md",
+        "start": 612,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7cc23ee7774451",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0090.md",
+        "start": 2700,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-fd382394ffd7e4",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0091.md",
+        "start": 1388,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-61d4640bb84bf7",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0093.md",
+        "start": 978,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5ae389905c7c86",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0094.md",
+        "start": 519,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8b21fbd95ad3f6",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0095.md",
+        "start": 444,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "百官公卿表",
+        "target": "sources/本地引用/漢書-卷019.md#ref-23cbb53b993ac6",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0097.md",
+        "start": 568,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-52c95c12c87516",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0098.md",
+        "start": 1036,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-45ae6e11c7e7e8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0100-0001/bce-0100.md",
+        "start": 501,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e0ae9ca799e8b4",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0101.md",
+        "start": 1533,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-ecdae5fbe628c5",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0102.md",
+        "start": 4053,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e171c46d047418",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0103.md",
+        "start": 3949,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e9f47e849cde45",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0105.md",
+        "start": 1347,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-02a3e7371d8ef0",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0106.md",
+        "start": 3694,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7249542c68553f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0107.md",
+        "start": 5776,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e5b764f41d2d4c",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0108.md",
+        "start": 5157,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5acab160b3ebdd",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0109.md",
+        "start": 2959,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8ebdb330a965f5",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0110.md",
+        "start": 11610,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-3fbef6255488d6",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0111.md",
+        "start": 6008,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-0fd510e400a2a2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0112.md",
+        "start": 35660,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-799f6ce18a0fc4",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0113.md",
+        "start": 2449,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-792e67c2dd0ca2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0114.md",
+        "start": 5832,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-c3a3cc7bb62f2c",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0115.md",
+        "start": 8001,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-b46a5f241f9e61",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0116.md",
+        "start": 16020,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-2f290bdc1b3635",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0117.md",
+        "start": 1334,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-58e3d5ac5b10d4",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0118.md",
+        "start": 1542,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7948d8bb4813ba",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0119.md",
+        "start": 6594,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9ac84bf302171c",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0120.md",
+        "start": 2672,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e0638795990d01",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0121.md",
+        "start": 3752,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-32810fbea45954",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0122.md",
+        "start": 7521,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-df5a5320069028",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0123.md",
+        "start": 1635,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9b2c8897c947df",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0124.md",
+        "start": 4471,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-b93b1f4c31463f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0125.md",
+        "start": 3836,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7f1adf360ccd46",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0126.md",
+        "start": 4898,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-8ddf950d8785d7",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0127.md",
+        "start": 4938,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-51b9079bd9c79e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0128.md",
+        "start": 2009,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e246f9579d74fb",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0129.md",
+        "start": 5660,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-817042d603311f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0130.md",
+        "start": 1195,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-35528a6d360c3c",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0131.md",
+        "start": 1650,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-0301dc4193eee5",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0132.md",
+        "start": 3782,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-505f51a9340d54",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0133.md",
+        "start": 4903,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-4a59e0144c8ffb",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0134.md",
+        "start": 1816,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-0e8bc425e96127",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0135.md",
+        "start": 3346,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-5680f85e44afac",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0136.md",
+        "start": 1058,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-1fafc38cafa91d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0137.md",
+        "start": 849,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-bca8f53fc4136a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0138.md",
+        "start": 1121,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9edc24059d22b5",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0139.md",
+        "start": 3258,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-01162fa4418d14",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0140.md",
+        "start": 4429,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-9a1a5ec0f3e22e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0141.md",
+        "start": 1795,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-c7b93024ce4037",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0142.md",
+        "start": 1894,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-bcbf8d9206fa16",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0143.md",
+        "start": 2750,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e8e9bf54764745",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0144.md",
+        "start": 2988,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-a0eed7209a6c46",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0144.md",
+        "start": 5776,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-7a5a44d23aa2cd",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0145.md",
+        "start": 2666,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-e252b1dba6ae12",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0145.md",
+        "start": 5967,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019#諸侯王",
+        "label": "《百官公卿表》诸侯王条",
+        "target": "sources/本地引用/漢書-卷019.md#ref-931aabdf29ddf9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0146.md",
+        "start": 1539,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-557723e775d4d8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0147.md",
+        "start": 2970,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-ff02c2c3e903f9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0148.md",
+        "start": 2125,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-f01fd108fc0c12",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0149.md",
+        "start": 1566,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019.md#ref-1ed5f1552d2739",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0150.md",
+        "start": 1607,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-9ca180d21bb4b2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0151.md",
+        "start": 1994,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-30635b5387c00e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0152.md",
+        "start": 1859,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-ee9729a9db5ed2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0153.md",
+        "start": 2555,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-eaf55e3565b4b7",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0154.md",
+        "start": 4414,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-41d9c7fd037c32",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0155.md",
+        "start": 1716,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-5e00a35083c678",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0156.md",
+        "start": 2113,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-94d650d8fb78fd",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0157.md",
+        "start": 2673,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-3690805840864a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0158.md",
+        "start": 1331,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-29fc0b5a5631c8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0159.md",
+        "start": 1162,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-552f281b39d532",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0160.md",
+        "start": 1225,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-bc25e9d38ef235",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0161.md",
+        "start": 1469,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-29781ea5f9ae34",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0162.md",
+        "start": 1735,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-23b67ea14072d1",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0163.md",
+        "start": 1305,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-78fb156bba345a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0164.md",
+        "start": 2606,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-05042c2dc7f6c2",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0165.md",
+        "start": 2254,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-67bd8362d43e55",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0166.md",
+        "start": 2463,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-66a6e666f27140",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0167.md",
+        "start": 1949,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-e1765880b6f1e9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0168.md",
+        "start": 1873,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-e210f37cd3bcee",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0169.md",
+        "start": 1909,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-cd08b3dbb842a9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0170.md",
+        "start": 1281,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-975a175d4d709d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0171.md",
+        "start": 1333,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-8eb10af84353c4",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0172.md",
+        "start": 1313,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-fc43179f608c3b",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0173.md",
+        "start": 1791,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-823f02d8e71edd",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0174.md",
+        "start": 1734,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-515bf849e9435a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0175.md",
+        "start": 2184,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-d81fb06f05f954",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0176.md",
+        "start": 2872,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-3e1e1ec20f3c3a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0177.md",
+        "start": 2385,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-addc5932b0b6f8",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0178.md",
+        "start": 2308,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-29a6ca0327b553",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0179.md",
+        "start": 3956,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-2b0bddcdc87ca4",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0180.md",
+        "start": 4630,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-27375aa4730957",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0181.md",
+        "start": 1878,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-e17f0dfb87137d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0182.md",
+        "start": 982,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-a0ba9bc38cac32",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0183.md",
+        "start": 710,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-04f1f9ac5a3bf6",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0184.md",
+        "start": 2285,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-92c964ae2e1d14",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0185.md",
+        "start": 701,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-a180cfad67d193",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0186.md",
+        "start": 1066,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-b6d55a80e721f5",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0187.md",
+        "start": 2371,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-ea6ec1a4bdd7d9",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0188.md",
+        "start": 1159,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-62ef41c2b52c62",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0189.md",
+        "start": 813,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-ccc51631be8488",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0190.md",
+        "start": 1524,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-bf3e230f6c1e8a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0191.md",
+        "start": 903,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-bec5587a564817",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0192.md",
+        "start": 845,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-a6902e52c480e7",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0193.md",
+        "start": 1131,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-aa45b7a4b36d1e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0194.md",
+        "start": 1118,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-fba0af46f08858",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0195.md",
+        "start": 3347,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-f43df9ef9a728d",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0196.md",
+        "start": 1394,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-414e84865bf9b1",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0197.md",
+        "start": 1168,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-80dad1e9d17c90",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0198.md",
+        "start": 1096,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-c652ea024d6fae",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0199.md",
+        "start": 1067,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-8f0263d148914a",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0200.md",
+        "start": 1388,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-01ff541507ef13",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0201.md",
+        "start": 1730,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-d340fe4b579be3",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0202.md",
+        "start": 4635,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-eb93fc57389c5f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0203.md",
+        "start": 3693,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-ab04a1260ec70f",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0204.md",
+        "start": 3852,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-a17f5cabf350b6",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0206.md",
+        "start": 6210,
+        "url": "https://zh.wikisource.org/wiki/漢書/卷019b",
+        "label": "《汉书·百官公卿表》",
+        "target": "sources/本地引用/漢書-卷019b.md#ref-c53acb6898902e",
+        "kind": "local_witness_with_original_citation_record",
+        "relation": "alternative_chapter_witness",
+        "source_target": "sources/本地分卷/汉书/汉书-卷019.md#text"
+      }
+    ]
+  },
+  "original_4084_report": {
+    "reported_reference_changes": 4084,
+    "status": "尚未取得逐项清单或可回读成稿，和3346历史候选缺少逐项对应，不能据差额判断丢失数量",
+    "recovered_current_historical_mapping_count": 3346,
+    "difference_is_a_loss_count": false,
+    "source_record_commit": "64d383233dc08310c1da97dcdf381ee7af35f8d2",
+    "source_record_path": "recovery/source-localization-20261105/README.md"
+  },
+  "license_metadata_uncertainty": [
+    {
+      "corpus": "CCDH",
+      "status": "原始语料声明Creative Commons，但既存来源未确定具体许可版本",
+      "new_wiki9347363_license_applies_to_entire_corpus": false
+    }
+  ],
+  "external_reference_status": "阅读与溯源分类详见同目录服务器整理-外链分类清单，含不明确项；不宣称全库零外链或所有版本相同"
+}
