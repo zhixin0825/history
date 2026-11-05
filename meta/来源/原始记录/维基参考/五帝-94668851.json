@@ -1,0 +1,928 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/五帝",
+  "requested_title": "五帝",
+  "resolved_title": "三皇五帝",
+  "pageid": 10958,
+  "revision": {
+    "revid": 94668851,
+    "parentid": 94668823,
+    "user": "王康聪",
+    "timestamp": "2026-09-30T14:22:06Z",
+    "size": 13744,
+    "sha1": "d3d34033f3003313c3ad2349bb3648baf07390f4"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [
+    {
+      "from": "五帝",
+      "to": "三皇五帝",
+      "tofragment": "五帝"
+    }
+  ],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E4%BA%94%E5%B8%9D&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=94668851&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=94668851&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E4%B8%89%E7%9A%87%E4%BA%94%E5%B8%9D&prop=contributors&pclimit=max",
+  "contributors_count": 176,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:28.806363+00:00",
+  "raw_content_sha256": "d9d6f774a76715128039ecc8dcfbffa55083143ebffe8c2f0cce98e493961877",
+  "rendered_html_sha256": "dfaa688687c4677080e3a7e675275534d96a0001a36a8a17120f8ebbedb007a4",
+  "api_response_sha256": "a0d25896fdae98af064512adc5af8c08291377d6295aff77c0a7e9e577efec5e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "史书记载",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 913,
+      "anchor": "史书记载",
+      "linkAnchor": "史书记载"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "三皇",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 2027,
+      "anchor": "三皇",
+      "linkAnchor": "三皇"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "三皇祠祀",
+      "number": "2.1",
+      "index": "3",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 3181,
+      "anchor": "三皇祠祀",
+      "linkAnchor": "三皇祠祀"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "五帝",
+      "number": "3",
+      "index": "4",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 4583,
+      "anchor": "五帝",
+      "linkAnchor": "五帝"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "考古发现",
+      "number": "4",
+      "index": "5",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5123,
+      "anchor": "考古发现",
+      "linkAnchor": "考古发现"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "參見",
+      "number": "5",
+      "index": "6",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5608,
+      "anchor": "參見",
+      "linkAnchor": "參見"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "延伸阅读",
+      "number": "6",
+      "index": "7",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5643,
+      "anchor": "延伸阅读",
+      "linkAnchor": "延伸阅读"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "參考",
+      "number": "7",
+      "index": "8",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5686,
+      "anchor": "參考",
+      "linkAnchor": "參考"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "参考文献",
+      "number": "7.1",
+      "index": "9",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5695,
+      "anchor": "参考文献",
+      "linkAnchor": "参考文献"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "參考資料",
+      "number": "7.2",
+      "index": "10",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5885,
+      "anchor": "參考資料",
+      "linkAnchor": "參考資料"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注釋",
+      "number": "8",
+      "index": "11",
+      "fromtitle": "三皇五帝",
+      "byteoffset": 5992,
+      "anchor": "注釋",
+      "linkAnchor": "注釋"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/五帝",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/五帝-94668851.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/五帝-94668851.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/五帝-94668851.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=94668851",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E4%B8%89%E7%9A%87%E4%BA%94%E5%B8%9D&action=history&offset=20260930142206",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 10958,
+              "ns": 0,
+              "title": "三皇五帝",
+              "anoncontributors": 87,
+              "contributors": [
+                {
+                  "userid": 657101,
+                  "name": "Jimmy-bot"
+                },
+                {
+                  "userid": 933,
+                  "name": "Tomchiukc"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 571245,
+                  "name": "Berthe"
+                },
+                {
+                  "userid": 2383178,
+                  "name": "InternetArchiveBot"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 1854,
+                  "name": "Sz-iwbot"
+                },
+                {
+                  "userid": 408425,
+                  "name": "Cbls1911"
+                },
+                {
+                  "userid": 687728,
+                  "name": "Mys 721tx"
+                },
+                {
+                  "userid": 19228,
+                  "name": "Tombus20032000"
+                },
+                {
+                  "userid": 550461,
+                  "name": "迴廊彼端"
+                },
+                {
+                  "userid": 2291073,
+                  "name": "丁子君"
+                },
+                {
+                  "userid": 43581,
+                  "name": "Iokseng"
+                },
+                {
+                  "userid": 100064,
+                  "name": "Yhinz17"
+                },
+                {
+                  "userid": 1011905,
+                  "name": "日期20220626"
+                },
+                {
+                  "userid": 490385,
+                  "name": "Zaqxs12345"
+                },
+                {
+                  "userid": 2170119,
+                  "name": "Raymon090"
+                },
+                {
+                  "userid": 487005,
+                  "name": "Manchiu"
+                },
+                {
+                  "userid": 563591,
+                  "name": "Xqbot"
+                },
+                {
+                  "userid": 15128,
+                  "name": "Yr"
+                },
+                {
+                  "userid": 21389,
+                  "name": "Chobot"
+                },
+                {
+                  "userid": 130035,
+                  "name": "Ccck2004"
+                },
+                {
+                  "userid": 2159261,
+                  "name": "Dr.Koo"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 879360,
+                  "name": "Kerolf666"
+                },
+                {
+                  "userid": 1936797,
+                  "name": "Kixean777"
+                },
+                {
+                  "userid": 259943,
+                  "name": "Liaon98"
+                },
+                {
+                  "userid": 1058308,
+                  "name": "星辰之叹"
+                },
+                {
+                  "userid": 664498,
+                  "name": "Sgsg"
+                },
+                {
+                  "userid": 1113904,
+                  "name": "Nostalgiacn"
+                },
+                {
+                  "userid": 348282,
+                  "name": "P-bot"
+                },
+                {
+                  "userid": 2484045,
+                  "name": "GnolizX"
+                },
+                {
+                  "userid": 41290,
+                  "name": "Dreamer in Utopia"
+                },
+                {
+                  "userid": 11110,
+                  "name": "Vina-iwbot"
+                },
+                {
+                  "userid": 81369,
+                  "name": "Alexbot"
+                },
+                {
+                  "userid": 78653,
+                  "name": "Sweater"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 9,
+                  "name": "Ktsquare"
+                },
+                {
+                  "userid": 12259,
+                  "name": "RalfX"
+                },
+                {
+                  "userid": 13769,
+                  "name": "Fdcn"
+                },
+                {
+                  "userid": 20679,
+                  "name": "Mongol"
+                },
+                {
+                  "userid": 9835,
+                  "name": "Zy26"
+                },
+                {
+                  "userid": 12110,
+                  "name": "Vipuser"
+                },
+                {
+                  "userid": 597,
+                  "name": "Cncs wikipedia"
+                },
+                {
+                  "userid": 1154,
+                  "name": "Yjh"
+                },
+                {
+                  "userid": 2976,
+                  "name": "Sbl"
+                },
+                {
+                  "userid": 528,
+                  "name": "Wing"
+                },
+                {
+                  "userid": 175619,
+                  "name": "VolkovBot"
+                },
+                {
+                  "userid": 452664,
+                  "name": "Loveless"
+                },
+                {
+                  "userid": 183005,
+                  "name": "TXiKiBoT"
+                },
+                {
+                  "userid": 563026,
+                  "name": "ALBot"
+                },
+                {
+                  "userid": 237446,
+                  "name": "SieBot"
+                },
+                {
+                  "userid": 252699,
+                  "name": "Liangent"
+                },
+                {
+                  "userid": 15440,
+                  "name": "Isnow"
+                },
+                {
+                  "userid": 696263,
+                  "name": "Dinamik-bot"
+                },
+                {
+                  "userid": 891729,
+                  "name": "WikitanvirBot"
+                },
+                {
+                  "userid": 44555,
+                  "name": "Hvn0413"
+                },
+                {
+                  "userid": 753694,
+                  "name": "Njzjz"
+                },
+                {
+                  "userid": 1676776,
+                  "name": "MaxPS"
+                },
+                {
+                  "userid": 1580413,
+                  "name": "DokiMeme"
+                },
+                {
+                  "userid": 42223,
+                  "name": "PhiLiP"
+                },
+                {
+                  "userid": 2367269,
+                  "name": "JNO1"
+                },
+                {
+                  "userid": 1167339,
+                  "name": "2011wp"
+                },
+                {
+                  "userid": 12687,
+                  "name": "Cough"
+                },
+                {
+                  "userid": 13845,
+                  "name": "Wengier"
+                },
+                {
+                  "userid": 2391631,
+                  "name": "AndyAndyAndyAlbert"
+                },
+                {
+                  "userid": 28077,
+                  "name": "YurikBot"
+                },
+                {
+                  "userid": 87784,
+                  "name": "Thijs!bot"
+                },
+                {
+                  "userid": 159896,
+                  "name": "Rei-bot"
+                },
+                {
+                  "userid": 1733683,
+                  "name": "NM9561"
+                },
+                {
+                  "userid": 227057,
+                  "name": "Brookqi"
+                },
+                {
+                  "userid": 10982,
+                  "name": "Πrate"
+                },
+                {
+                  "userid": 27805,
+                  "name": "Jason22"
+                },
+                {
+                  "userid": 1321842,
+                  "name": "Acrux1119"
+                },
+                {
+                  "userid": 395811,
+                  "name": "Alfredo ougaowen"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 1785177,
+                  "name": "山东马超"
+                },
+                {
+                  "userid": 2525333,
+                  "name": "CaryCheng"
+                },
+                {
+                  "userid": 1676,
+                  "name": "Mosesofmason"
+                },
+                {
+                  "userid": 41586,
+                  "name": "Chlewbot"
+                },
+                {
+                  "userid": 32,
+                  "name": "Wshun"
+                },
+                {
+                  "userid": 12416,
+                  "name": "燃"
+                },
+                {
+                  "userid": 1153617,
+                  "name": "YFdyh-bot"
+                },
+                {
+                  "userid": 468416,
+                  "name": "Amirobot"
+                },
+                {
+                  "userid": 36,
+                  "name": "Lorenzarius"
+                },
+                {
+                  "userid": 97111,
+                  "name": "下一次登录"
+                },
+                {
+                  "userid": 1685826,
+                  "name": "Cswquz"
+                },
+                {
+                  "userid": 26389,
+                  "name": "Stargate756"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 82234,
+                  "name": "Angelalive"
+                },
+                {
+                  "userid": 60119,
+                  "name": "TauBot"
+                },
+                {
+                  "userid": 10259,
+                  "name": "Douglasfrankfort"
+                },
+                {
+                  "userid": 100309,
+                  "name": "Evawen"
+                },
+                {
+                  "userid": 5858,
+                  "name": "Bensam"
+                },
+                {
+                  "userid": 1602868,
+                  "name": "Alice33729"
+                },
+                {
+                  "userid": 9443,
+                  "name": "Theodoranian"
+                },
+                {
+                  "userid": 1670,
+                  "name": "Wangguoqin1001"
+                },
+                {
+                  "userid": 6465,
+                  "name": "Wikinu"
+                },
+                {
+                  "userid": 8406,
+                  "name": "Ncuee"
+                },
+                {
+                  "userid": 10000,
+                  "name": "Wzy"
+                },
+                {
+                  "userid": 10254,
+                  "name": "Alexcn"
+                },
+                {
+                  "userid": 12963,
+                  "name": "Wooddoo"
+                },
+                {
+                  "userid": 15211,
+                  "name": "Hamham"
+                },
+                {
+                  "userid": 18164,
+                  "name": "9old9"
+                },
+                {
+                  "userid": 18732,
+                  "name": "Hayabusa future"
+                },
+                {
+                  "userid": 20239,
+                  "name": "Osmond"
+                },
+                {
+                  "userid": 21179,
+                  "name": "Yj41"
+                },
+                {
+                  "userid": 23540,
+                  "name": "Sheng"
+                },
+                {
+                  "userid": 23925,
+                  "name": "Acerperi"
+                },
+                {
+                  "userid": 25817,
+                  "name": "Zwobot"
+                },
+                {
+                  "userid": 41970,
+                  "name": "RoboDick~zhwiki"
+                },
+                {
+                  "userid": 45853,
+                  "name": "Xieza"
+                },
+                {
+                  "userid": 50834,
+                  "name": "Mcs"
+                },
+                {
+                  "userid": 71812,
+                  "name": "無色"
+                },
+                {
+                  "userid": 74296,
+                  "name": "I7114080"
+                },
+                {
+                  "userid": 83685,
+                  "name": "Berting Li"
+                },
+                {
+                  "userid": 96596,
+                  "name": "TaoChungLee"
+                },
+                {
+                  "userid": 97855,
+                  "name": "Oreing"
+                },
+                {
+                  "userid": 143331,
+                  "name": "打倒中華人民共和国!"
+                },
+                {
+                  "userid": 152231,
+                  "name": "Doudouliu"
+                },
+                {
+                  "userid": 171372,
+                  "name": "Guimju"
+                },
+                {
+                  "userid": 172716,
+                  "name": "3反中华人民共和国3"
+                },
+                {
+                  "userid": 202515,
+                  "name": "Cikee"
+                },
+                {
+                  "userid": 219849,
+                  "name": "中華國"
+                },
+                {
+                  "userid": 268425,
+                  "name": "大利稽"
+                },
+                {
+                  "userid": 281355,
+                  "name": "敬生命人(313)"
+                },
+                {
+                  "userid": 357519,
+                  "name": "R. Hillgentleman"
+                },
+                {
+                  "userid": 408793,
+                  "name": "Mocroco"
+                },
+                {
+                  "userid": 428180,
+                  "name": "Jianghanshuaige"
+                },
+                {
+                  "userid": 452359,
+                  "name": "Leong0083"
+                },
+                {
+                  "userid": 455739,
+                  "name": "Anilro"
+                },
+                {
+                  "userid": 489965,
+                  "name": "Xiamipi"
+                },
+                {
+                  "userid": 502030,
+                  "name": "Naikiw"
+                },
+                {
+                  "userid": 597899,
+                  "name": "Stout256"
+                },
+                {
+                  "userid": 629474,
+                  "name": "不止"
+                },
+                {
+                  "userid": 655341,
+                  "name": "ACW~zhwiki"
+                },
+                {
+                  "userid": 790708,
+                  "name": "Dionysus 005"
+                },
+                {
+                  "userid": 936445,
+                  "name": "Stenvenhe"
+                },
+                {
+                  "userid": 1009487,
+                  "name": "Geistcj"
+                },
+                {
+                  "userid": 1223575,
+                  "name": "林木森森"
+                },
+                {
+                  "userid": 1320959,
+                  "name": "Janinga Chang"
+                },
+                {
+                  "userid": 1344147,
+                  "name": "Lizhongfa"
+                },
+                {
+                  "userid": 1546770,
+                  "name": "Chenjian Fu"
+                },
+                {
+                  "userid": 1577044,
+                  "name": "石田成義"
+                },
+                {
+                  "userid": 2157803,
+                  "name": "御寧(芋泥)"
+                },
+                {
+                  "userid": 2271020,
+                  "name": "Dr.qarter"
+                },
+                {
+                  "userid": 2299692,
+                  "name": "Ninedyz"
+                },
+                {
+                  "userid": 2319116,
+                  "name": "Flame9453"
+                },
+                {
+                  "userid": 2430083,
+                  "name": "BAWGCD"
+                },
+                {
+                  "userid": 2519377,
+                  "name": "Easterlies"
+                },
+                {
+                  "userid": 2673364,
+                  "name": "20X-C19"
+                },
+                {
+                  "userid": 2995113,
+                  "name": "纳瓦拉的亨利"
+                },
+                {
+                  "userid": 3014310,
+                  "name": "Cjsyr12345"
+                },
+                {
+                  "userid": 3083110,
+                  "name": "红色幽灵"
+                },
+                {
+                  "userid": 3090932,
+                  "name": "今天吃鰻魚飯"
+                },
+                {
+                  "userid": 3119429,
+                  "name": "子毅小熊"
+                },
+                {
+                  "userid": 3185092,
+                  "name": "GUT412454"
+                },
+                {
+                  "userid": 3186642,
+                  "name": "青陽子"
+                },
+                {
+                  "userid": 3208945,
+                  "name": "月都"
+                },
+                {
+                  "userid": 3225014,
+                  "name": "渡鴉之王"
+                },
+                {
+                  "userid": 3262209,
+                  "name": "TrungQuocVodich"
+                },
+                {
+                  "userid": 3298581,
+                  "name": "CJKVR"
+                },
+                {
+                  "userid": 3320834,
+                  "name": "Renamed user ZQTozZH8HV"
+                },
+                {
+                  "userid": 3401900,
+                  "name": "DFZS"
+                },
+                {
+                  "userid": 3427289,
+                  "name": "楊竣璋"
+                },
+                {
+                  "userid": 3493907,
+                  "name": "Achillo Lux"
+                },
+                {
+                  "userid": 3511155,
+                  "name": "王90？"
+                },
+                {
+                  "userid": 3517914,
+                  "name": "Tisscherry"
+                },
+                {
+                  "userid": 3794269,
+                  "name": "缘来缘去"
+                },
+                {
+                  "userid": 3816199,
+                  "name": "~2025-32243-4"
+                },
+                {
+                  "userid": 3896375,
+                  "name": "~2025-29355-68"
+                },
+                {
+                  "userid": 3980428,
+                  "name": "王康聪"
+                },
+                {
+                  "userid": 4024468,
+                  "name": "Zoranen"
+                },
+                {
+                  "userid": 4189797,
+                  "name": "~2026-39608-81"
+                },
+                {
+                  "userid": 4200092,
+                  "name": "~2026-41283-12"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "原地址“五帝”重定向至“三皇五帝”。本页保存完整条目，核对五帝名单的不同组合；这些传说时代名单不能用于倒推精确生卒年。帝挚材料另见同目录的独立条目。",
+    "selected_blocks": [
+      {
+        "block_index": 1,
+        "local_anchor": "cited-1",
+        "text": "三皇五帝 是 中國傳說時代 的 君王 ，“ 三皇 ”与“ 五帝 ”的合称。按《 史記 》的記述， 夏朝 之前有以 黄帝 為首的五位帝王，大約活躍於 黃河 中游到 渭河 流域 [ 1 ] 。其他古文獻又稱五帝之前，還有 伏羲 、 神農 等 聖王 ，稱為三皇。",
+        "sha256": "339b20d2341dce5b133a0b6fde119cb21259050d68dda089c14fdb97bbdf95a7"
+      },
+      {
+        "block_index": 30,
+        "local_anchor": "cited-30",
+        "text": "少昊 、 顓頊 、 嚳 、 堯 、 舜 （《 尚書·序 》、《 帝王世紀 》）",
+        "sha256": "6ab8e9658222efd07579c2c4541436b575f6fc7d14f95a09835c39ce222b299a"
+      },
+      {
+        "block_index": 78,
+        "local_anchor": "cited-78",
+        "text": "查 论 编 三皇五帝 世系 三皇 《史記索隱·三皇本紀》說法 伏羲 女娲 神农 《帝王世紀》說法 伏羲 神农 黄帝 《尚書大傳》說法 燧人 伏羲 神农 《春秋命历序》说法 天皇 地皇 人皇 五帝 《史記·五帝本紀》、《禮記》和《春秋國語》說法 黄帝 颛顼 帝嚳 帝尧 帝舜 《白虎通義》和《尚書序》說法 少昊 颛顼 帝嚳 帝尧 帝舜 《呂氏春秋》和《淮南子》說法 太昊 （一说即 伏羲 ） 炎帝 黄帝 少昊 颛顼 三皇五帝說法眾說紛紜，三皇版本參考《 司马贞 ·三皇本紀》、《 帝王世紀 》、《 尚书大传 》和《春秋命历序》的說法。五帝參考《 史记 ·五帝本紀》、《 礼记 》和《 春秋 》、《 國語 》說法；《 白虎通義 》和《 尚書 序》說法；《 吕氏春秋 》和《 淮南子 》說法。其他版本参见 三皇五帝 条目中的说明。 三皇五帝 → 夏 → 商 → 周 → 秦 → 汉 → 三国 → 晋 / 十六国 → 南朝 / 北魏 → 北齐 – 北周 → 隋 → 唐 → 五代 – 十國 → 宋 / 西夏 / 辽 / 金 → 元 → 明 → 清 → 民国 / 人民共和国",
+        "sha256": "77fd31e91a531c58974b5cdb621d4bc42dd887390b9565027076fa4039f572dd"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "d3d34033f3003313c3ad2349bb3648baf07390f4"
+}

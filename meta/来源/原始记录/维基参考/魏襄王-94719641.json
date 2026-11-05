@@ -1,0 +1,287 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/魏襄王",
+  "requested_title": "魏襄王",
+  "resolved_title": "魏襄王",
+  "pageid": 334895,
+  "revision": {
+    "revid": 94719641,
+    "parentid": 94719629,
+    "user": "星辰之叹",
+    "timestamp": "2026-10-03T02:01:00Z",
+    "size": 5628,
+    "sha1": "25bfacb76fccf8bc5bc9c291a0bd29230802b66f"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E9%AD%8F%E8%A5%84%E7%8E%8B&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=94719641&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=94719641&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E9%AD%8F%E8%A5%84%E7%8E%8B&prop=contributors&pclimit=max",
+  "contributors_count": 29,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:50.050698+00:00",
+  "raw_content_sha256": "bcc7f23ef985a22bf53c0b7e66ec22b5d85541868b19bcbcd0e3bd12a850c79d",
+  "rendered_html_sha256": "d05c32197eb07d08f9d870ea86a853dca51d0a764861566b9532af16e0aaf736",
+  "api_response_sha256": "475cca4d987ff37ba4d1dc9716893763c8414ae206335bb94276cdc7bd257220",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "生平",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "魏襄王",
+      "byteoffset": 465,
+      "anchor": "生平",
+      "linkAnchor": "生平"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "魏哀王",
+      "number": "2",
+      "index": "2",
+      "fromtitle": "魏襄王",
+      "byteoffset": 1415,
+      "anchor": "魏哀王",
+      "linkAnchor": "魏哀王"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "影视形象",
+      "number": "3",
+      "index": "3",
+      "fromtitle": "魏襄王",
+      "byteoffset": 1849,
+      "anchor": "影视形象",
+      "linkAnchor": "影视形象"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考资料",
+      "number": "4",
+      "index": "4",
+      "fromtitle": "魏襄王",
+      "byteoffset": 1915,
+      "anchor": "参考资料",
+      "linkAnchor": "参考资料"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/魏襄王",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/魏襄王-94719641.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/魏襄王-94719641.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/魏襄王-94719641.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=94719641",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E9%AD%8F%E8%A5%84%E7%8E%8B&action=history&offset=20261003020100",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 334895,
+              "ns": 0,
+              "title": "魏襄王",
+              "anoncontributors": 10,
+              "contributors": [
+                {
+                  "userid": 1009545,
+                  "name": "FODCOC"
+                },
+                {
+                  "userid": 552715,
+                  "name": "Yinweichen-bot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 138,
+                  "name": "Shizhao"
+                },
+                {
+                  "userid": 1586693,
+                  "name": "Tigerzeng"
+                },
+                {
+                  "userid": 43581,
+                  "name": "Iokseng"
+                },
+                {
+                  "userid": 78428,
+                  "name": "Aurora2704"
+                },
+                {
+                  "userid": 6645,
+                  "name": "Shogunzhu"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 1058308,
+                  "name": "星辰之叹"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 14617,
+                  "name": "高晶"
+                },
+                {
+                  "userid": 452664,
+                  "name": "Loveless"
+                },
+                {
+                  "userid": 1252596,
+                  "name": "ネイ"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 28258,
+                  "name": "Kp2729"
+                },
+                {
+                  "userid": 113982,
+                  "name": "Scchiao2000"
+                },
+                {
+                  "userid": 1670797,
+                  "name": "空间的拓荒者"
+                },
+                {
+                  "userid": 844225,
+                  "name": "JackieBot"
+                },
+                {
+                  "userid": 124066,
+                  "name": "星光下的人"
+                },
+                {
+                  "userid": 23374,
+                  "name": "Lleux"
+                },
+                {
+                  "userid": 223462,
+                  "name": "Xtctjames"
+                },
+                {
+                  "userid": 550216,
+                  "name": "Bencmq-bot"
+                },
+                {
+                  "userid": 553240,
+                  "name": "Ivantalk"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 3003971,
+                  "name": "Stevenlam11"
+                },
+                {
+                  "userid": 3100369,
+                  "name": "Er54545555"
+                },
+                {
+                  "userid": 3157119,
+                  "name": "Jackylau3"
+                },
+                {
+                  "userid": 3242588,
+                  "name": "1562561234a3"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对前319承位、前318元年及“魏哀王”段所列《史记》误分和襄哀复谥意见。仅保存相应争论；不在前318另造同时期魏哀王。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "魏襄王 統治 前318年—前296年 出生 ？ 逝世 前296年 安葬 不明 年號 無 谥号 襄王 政权 魏國",
+        "sha256": "8ca1ac2fcb3321a066f03cdea6ef9d3ad94b1e32db80d31f311690686332d719"
+      },
+      {
+        "block_index": 1,
+        "local_anchor": "cited-1",
+        "text": "魏襄王 （?—前296年）， 姬 姓， 魏 氏，名 嗣 ， 魏惠王 之子。魏襄王元年（前318年），魏、 韓 、 趙 、 楚 、 燕 五國合縱攻秦，不克而返。 惠施 為魏出使楚國。前296年魏襄王薨，子 昭王 立。",
+        "sha256": "73d0452827ed7017cb34e193c90c22cbc0cbe9756b67c98268a62f3e327965b6"
+      },
+      {
+        "block_index": 4,
+        "local_anchor": "cited-4",
+        "text": "魏惠王 後元 十六年（前319年），其父魏罃逝世，嗣位魏王，史稱魏襄王。",
+        "sha256": "521452d27a61633aa7efad564e5b74a80a8afda6def1d4f7fe8267779436ae59"
+      },
+      {
+        "block_index": 5,
+        "local_anchor": "cited-5",
+        "text": "襄王元年（前318年），各國在不斷受挫後醒悟，重提 公孫衍 倡議，但早已瓦解的南北合縱，由 楚懷王 羋槐擔任盟主，集結趙、魏、韓、燕、齊五國共同攻擊秦國。 齊國 採用 田文 謀略，答應出兵，卻命遠征軍行動愈加遲緩。五國聯軍抵達函谷關卻不同心，各國皆欲保實力，既不敢也不願先攻。數天後， 秦國 守將 嚴君疾 出奇兵切斷楚國糧道，楚軍因乏食先撤，其他四國亦隨之撤軍。",
+        "sha256": "c3c099e5481a4eb77bcb834127b8f6aed00d571192b949b240d9c84761a71331"
+      },
+      {
+        "block_index": 18,
+        "local_anchor": "cited-18",
+        "text": "据《史记》记载，魏哀王是魏襄王之子，前319年即位為魏國君主。其子魏遫即位為 魏昭王 之後，上其父 諡號 為哀王。",
+        "sha256": "c780d650aa71ef706be36159b0a2e7262e5150bfef6ea0834fe3ffa88be60a8b"
+      },
+      {
+        "block_index": 19,
+        "local_anchor": "cited-19",
+        "text": "魏惠王 于三十六年（前334年）称王，改元重新纪年。 司马迁 误以为魏惠王于三十六年病逝，将魏惠王后元十六年（前334年至前319年）误记为魏襄王在位时间，另设魏哀王填补魏襄王二十三年在位时间（前318年至前296年）。",
+        "sha256": "123883158f690d033ad39963d4dc345fc1f941071b8cc47422d28940ace0602a"
+      },
+      {
+        "block_index": 20,
+        "local_anchor": "cited-20",
+        "text": "据《 竹书纪年 》可知魏哀王即魏襄王。錢穆認為複諡「襄哀王」，或是單稱「襄王」「哀王」。",
+        "sha256": "28d16bbd4f16f3cc3b8ddf411dbc143d2e06bb982764c75d6e83b27d0d9cb66e"
+      },
+      {
+        "block_index": 21,
+        "local_anchor": "cited-21",
+        "text": "1977年 安徽阜阳双古堆一号墓 发掘出土的汉简《 年表 》记载了从西周“共和”到秦统一期间各国君主的谥号、年代和大事记，只是竹简残损严重，中国文物局古文献整理组研究员胡平生从残简中辨识出《年表》中的“襄哀王”是一位魏王 [ 1 ] 。吉林大学文学院历史系副教授马卫东认为，魏襄哀王是多字谥号 [ 2 ] 。",
+        "sha256": "db458e134a39bbeb5dfb0808f9177572d113d5c9e18b821f3badb86ad9163c66"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "25bfacb76fccf8bc5bc9c291a0bd29230802b66f"
+}

@@ -1,0 +1,276 @@
+{
+  "url": "https://zh.wikipedia.org/wiki/秦憲公",
+  "requested_title": "秦憲公",
+  "resolved_title": "秦憲公",
+  "pageid": 310593,
+  "revision": {
+    "revid": 88206949,
+    "parentid": 87839160,
+    "user": "IamNotyet",
+    "timestamp": "2025-07-11T08:21:47Z",
+    "size": 6074,
+    "sha1": "3218175e2ff67701c798f2c4c74d84c9f19553ca"
+  },
+  "rightsinfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "normalization": [],
+  "redirects": [],
+  "lookup_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E7%A7%A6%E6%86%B2%E5%85%AC&redirects=1&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Csize&meta=siteinfo&siprop=rightsinfo",
+  "revision_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=88206949&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Csha1%7Ccontent&rvslots=main",
+  "parse_api": "https://zh.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&oldid=88206949&prop=text%7Csections%7Crevid%7Cdisplaytitle",
+  "contributors_api": "https://zh.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&titles=%E7%A7%A6%E6%86%B2%E5%85%AC&prop=contributors&pclimit=max",
+  "contributors_count": 24,
+  "contributors_scope": "API current page contributor list retrieved at acquisition; includes post-revision contributors if page changes; exact fixed revision history link retained",
+  "retrieved_at": "2026-11-05T10:33:45.511423+00:00",
+  "raw_content_sha256": "86743bcff0d0c58c6882d7379cc6c2690edeebb1d51e91235403289bdb5e75e9",
+  "rendered_html_sha256": "62c3acd9dd17d874674fed61672c3a3d1a55d856714e9f09a2007887ef47fd66",
+  "api_response_sha256": "46f319bdc47aab46f6e5ae57414ddbef54a71b7f2e7f18690ca5de62f319ddc6",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "生平",
+      "number": "1",
+      "index": "1",
+      "fromtitle": "秦憲公",
+      "byteoffset": 814,
+      "anchor": "生平",
+      "linkAnchor": "生平"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "墓葬",
+      "number": "1.1",
+      "index": "2",
+      "fromtitle": "秦憲公",
+      "byteoffset": 1770,
+      "anchor": "墓葬",
+      "linkAnchor": "墓葬"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "家族",
+      "number": "2",
+      "index": "3",
+      "fromtitle": "秦憲公",
+      "byteoffset": 2177,
+      "anchor": "家族",
+      "linkAnchor": "家族"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "妻妾",
+      "number": "2.1",
+      "index": "4",
+      "fromtitle": "秦憲公",
+      "byteoffset": 2184,
+      "anchor": "妻妾",
+      "linkAnchor": "妻妾"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "儿子",
+      "number": "2.2",
+      "index": "5",
+      "fromtitle": "秦憲公",
+      "byteoffset": 2231,
+      "anchor": "儿子",
+      "linkAnchor": "儿子"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "注释",
+      "number": "3",
+      "index": "6",
+      "fromtitle": "秦憲公",
+      "byteoffset": 2640,
+      "anchor": "注释",
+      "linkAnchor": "注释"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "参考资料",
+      "number": "4",
+      "index": "7",
+      "fromtitle": "秦憲公",
+      "byteoffset": 2674,
+      "anchor": "参考资料",
+      "linkAnchor": "参考资料"
+    }
+  ],
+  "directory": "/data3/zhixin/history/.recovery/completion-wikimedia-evidence/秦憲公",
+  "status": "acquired",
+  "local_readable": "sources/补充阅读/维基参考/秦憲公-88206949.md",
+  "local_raw_wikitext": "sources/补充阅读/维基参考/原始修订/秦憲公-88206949.wiki",
+  "local_api_rendered_html": "sources/补充阅读/维基参考/原始修订/秦憲公-88206949.html",
+  "attribution": {
+    "fixed_revision_url": "https://zh.wikipedia.org/w/index.php?oldid=88206949",
+    "history_through_revision_url": "https://zh.wikipedia.org/w/index.php?title=%E7%A7%A6%E6%86%B2%E5%85%AC&action=history&offset=20250711082147",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "contributors_api_responses": [
+      {
+        "batchcomplete": true,
+        "query": {
+          "pages": [
+            {
+              "pageid": 310593,
+              "ns": 0,
+              "title": "秦憲公",
+              "anoncontributors": 4,
+              "contributors": [
+                {
+                  "userid": 19862,
+                  "name": "Dirrival"
+                },
+                {
+                  "userid": 796173,
+                  "name": "EmausBot"
+                },
+                {
+                  "userid": 1937408,
+                  "name": "Cewbot"
+                },
+                {
+                  "userid": 1382735,
+                  "name": "Addbot"
+                },
+                {
+                  "userid": 806926,
+                  "name": "ZéroBot"
+                },
+                {
+                  "userid": 522002,
+                  "name": "立足东方"
+                },
+                {
+                  "userid": 891599,
+                  "name": "Zanhe"
+                },
+                {
+                  "userid": 54389,
+                  "name": "Eliot"
+                },
+                {
+                  "userid": 30483,
+                  "name": "Tsiaojian lee"
+                },
+                {
+                  "userid": 100799,
+                  "name": "DEMONBANE"
+                },
+                {
+                  "userid": 1034133,
+                  "name": "Makecat-bot"
+                },
+                {
+                  "userid": 113982,
+                  "name": "Scchiao2000"
+                },
+                {
+                  "userid": 469931,
+                  "name": "Luckas-bot"
+                },
+                {
+                  "userid": 1010813,
+                  "name": "維基小霸王"
+                },
+                {
+                  "userid": 23955,
+                  "name": "Emcc"
+                },
+                {
+                  "userid": 252426,
+                  "name": "Dimensions"
+                },
+                {
+                  "userid": 261575,
+                  "name": "IamNotyet"
+                },
+                {
+                  "userid": 839206,
+                  "name": "周子仪"
+                },
+                {
+                  "userid": 2258267,
+                  "name": "Thần Đồng Cổ Nhạc"
+                },
+                {
+                  "userid": 2416349,
+                  "name": "Pure.love.peace"
+                },
+                {
+                  "userid": 2753543,
+                  "name": "子燮"
+                },
+                {
+                  "userid": 2814995,
+                  "name": "Yumeto"
+                },
+                {
+                  "userid": 3020441,
+                  "name": "JIMMY WANG 520"
+                },
+                {
+                  "userid": 3669457,
+                  "name": "趙仁王"
+                }
+              ]
+            }
+          ]
+        },
+        "limits": {
+          "contributors": 500
+        }
+      }
+    ],
+    "note": "署名依文章固定修订与修订历史链接；contributors API 为采集时当前贡献者列表，匿名贡献与历史归属以历史页为准，不宣称该名单逐项限定到旧修订。"
+  },
+  "review": {
+    "note": "核对“秦宪公／秦宁公”异名、前718立太子与前716承位及生年框。条目已选取某些考证方案；本项目只保留交叉核对和异文边界，不以框中生日年龄强行统一古文。",
+    "selected_blocks": [
+      {
+        "block_index": 0,
+        "local_anchor": "cited-0",
+        "text": "秦宪公 秦国君主 君主 統治 前716年—前704年 儲君 秦武公 出生 前725年 逝世 前704年 安葬 秦陵山 配偶 正妻：鲁姬子 妾：王姬（称呼不详） 子嗣 秦武公、秦德公、秦出子 谥号 宪公 政权 秦国（春秋） 父親 秦静公 首都 汧渭之会→平阳（西新邑 [ 1 ] ）",
+        "sha256": "12dc070f9e669472f392dd7e31df8f9cd2a5658d7ad4b17b56f02bbcf8af79fc"
+      },
+      {
+        "block_index": 1,
+        "local_anchor": "cited-1",
+        "text": "秦憲公 （前725年—前704年 [ 2 ] ），《 史记 ·秦本纪》和《史记·十二诸侯年表》误作为 秦宁公 [ 註 1 ] ， 嬴 姓， 春秋时期 秦国 君主。 秦文公 之孙， 秦静公 长子，在位12年。",
+        "sha256": "2546922fc105c4b94096c4fb3423caa870c5bc490d2241d607743db50c652060"
+      },
+      {
+        "block_index": 3,
+        "local_anchor": "cited-3",
+        "text": "前718年，秦文公之子秦静公去世，其孙秦憲公被立为太子。 [ 5 ]",
+        "sha256": "223b7e57ee416f92319ba4e6fc9cee0f2089fb9c0a2ffc9cc3f00151b6ec6191"
+      },
+      {
+        "block_index": 4,
+        "local_anchor": "cited-4",
+        "text": "前716年，秦文公去世，秦宪公继位。 [ 6 ]",
+        "sha256": "46374d101a313f3dffe6314ec6668b56409cbf0b5a88339c0a9891247126eb7c"
+      }
+    ],
+    "scope": "仅核对被引议题及有关表注；保存完整条目不等于全文逐句史实审定。"
+  },
+  "transformations": [
+    "Styles, scripts, editing UI and active external links removed from readable derivative",
+    "Images/audio/video excluded; no image license assumed",
+    "All original main-slot text and returned rendered HTML preserved separately",
+    "No history-year prose changed"
+  ],
+  "wikitext_content_sha1": "3218175e2ff67701c798f2c4c74d84c9f19553ca"
+}

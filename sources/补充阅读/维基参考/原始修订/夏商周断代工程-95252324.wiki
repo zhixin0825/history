@@ -1,0 +1,179 @@
+{{Databox}}
+'''夏商周断代工程'''是一个以[[自然科学]]与[[社会科学|人文社会科学]]相结合的方法来研究[[中国]]历史上[[夏朝|夏]]、[[商朝|商]]、[[西周]]三个历史时期的[[年代学]]的科学研究项目，是一个多学科交叉联合攻关的[[系统工程]]。该工程是[[中华人民共和国]]“[[九五计划]]”中的一项国家重点科技攻关项目，由[[李学勤]]、[[仇士华]]、[[李伯谦]]、[[席泽宗]]四位首席科学家领衔<ref name="Li2002">{{cite journal |author=Li Xueqin |authorlink=李学勤 |title=The Xia-Shang-Zhou Chronology Project: Methodology and Results |journal=Journal of East Asian Archaeology |year=2002 |volume=4 |pages=321–333 |doi=10.1163/156852302322454585 |language=en}}</ref>，涉及[[历史学]]、[[考古学]]、[[天文学]]、科技测年等学科，分9个课题、44个专题，直接参与的专家学者达200人。该工程于1996年5月16日正式启动，2000年9月15日通过中华人民共和国验收，2000年11月公布《夏商周断代工程1996—2000年阶段成果报告：简本》。工程成果将中国历史的准确纪年从[[共和 (西周)|共和]]元年（公元前841年）向前推进到[[武王伐纣]]之年的公元前1046年，并将[[夏代]]的始年推定为约公元前2070年。
+
+然而，工程公布后，其方法和结论在国内外学术界引起了持续争议。主要批评包括天象文献解读的可靠性问题、碳十四测年置信区间的选择、考古地层与历史事件对应的不确定性，以及将多元考古文化强行纳入“三代”单一叙事框架的倾向。2003年的国际学术研讨会因[[严重急性呼吸道综合征|SARS]]疫情取消后始终未能重开。尽管存在争议，工程的年代框架已被中国教科书和工具书普遍采用。工程的最终繁本报告《夏商周断代工程报告》历经十多年修订，于2022年6月由科学出版社出版<ref name="韩寒"/>。
+
+== 工程介绍 ==
+=== 背景 ===
+
+[[中华文明]]具有悠久的历史，然而真正有文献记载年代的“[[信史]]”却开始于[[西周]][[共和 (西周)|共和]][[共和元年|元年]]（公元前841年），此前的历史年代都是模糊不清的。[[司马迁]]在《[[史记]]》的{{Wikisource history link|史記|013|三代世表}}中仅记录了[[夏商周]]各王的世系而无具体在位年代，因为此前文献中虽有年代记载，但“咸不同，乖异”，故“疑则传疑”<ref name="Lee2002a">{{cite journal |author=Lee Yun Kuen |title=Building the chronology of early Chinese history |journal=Asian Perspectives |year=2002 |volume=41 |issue=1 |pages=15–42 |doi=10.1353/asi.2002.0006 |url=https://os.pennds.org/archaeobib_filestore/pdf_articles/AP/2002_41_1_Lee.pdf |language=en |access-date=2026-07-02 |archive-url=https://web.archive.org/web/20251206112530/https://os.pennds.org/archaeobib_filestore/pdf_articles/AP/2002_41_1_Lee.pdf |archive-date=2025-12-06 |url-status=live}}</ref>。第一个对共和元年以前中国历史的[[年代学]]作系统研究工作的学者是[[西汉]]晚期的[[刘歆]]，他的推算和研究结果体现在他撰写的《世经》中，该书核心内容后被收录于《[[汉书]]·律历志》。从刘歆以后一直到[[清代]]中叶，又有许多学者对共和元年以前中国历史的年代进行了推算和研究，但由于所用文献基本上不超出司马迁所见，很难有所突破。直至20世纪之前，许多中外著作仍沿用刘歆推算的传统年代，例如将武王伐纣定在公元前1122年<ref name="Shaughnessy1999">{{cite book |author=Edward L. Shaughnessy |authorlink=夏含夷 |chapter=Calendar and Chronology |editor=Michael Loewe |editor2=Edward L. Shaughnessy |title=The Cambridge History of Ancient China |url=https://archive.org/details/cambridgehistory0000unse_i9g4 |publisher=Cambridge University Press |year=1999 |pages=[https://archive.org/details/cambridgehistory0000unse_i9g4/page/19 19]–29 |isbn=978-0521470308 |language=en}}</ref>。
+
+20世纪初，情况开始发生变化。1920年代，以[[顾颉刚]]为代表的[[疑古派]]学者指出，在传统文献中越早的人物出现越晚，并认为夏代历史可能是周人为了支持其[[天命]]观念而虚构的；一些学者甚至质疑商代的真实性<ref name="Lee2002a" />。然而，1899年[[王懿荣]]在“龙骨”上发现了[[甲骨文]]，1928年这批甲骨最终被追溯到河南[[安阳]]的[[殷墟]]遗址。甲骨上的刻辞被确认为商代最后九王（自[[武丁]]以降）的占卜记录，且由此重建的商王世系与《史记》所载高度吻合<ref>{{cite book |author=David N. Keightley |chapter=The Shang: China's first historical dynasty |editor=Michael Loewe |editor2=Edward L. Shaughnessy |title=The Cambridge History of Ancient China |url=https://archive.org/details/cambridgehistory0000unse_i9g4 |publisher=Cambridge University Press |year=1999 |pages=[https://archive.org/details/cambridgehistory0000unse_i9g4/page/234 234]–235 |isbn=978-0521470308 |language=en}}</ref>。
+
+1950年代以后，中国考古学取得了突破性进展：在[[郑州]]附近发现了更早的[[二里岗文化]]商城遗址；1959年在[[偃师]]发现了[[二里头文化]]遗址，碳十四测年显示其繁荣于约公元前2100年至前1800年，大型宫殿基址表明存在有组织国家<ref>{{cite book |author=John K. Fairbank |author2=Merle Goldman |title=China: A New History |edition=2nd |publisher=Harvard University Press |year=2006 |pages=33–35 |isbn=978-0674018280 |language=en}}</ref>。此外，[[四川]][[三星堆遗址|三星堆]]和[[江西]][[吴城文化|吴城]]等长江流域的发现表明，传统文献所载的中原单一叙事远非中国文明起源的全貌<ref name="Lee2002a" />。
+
+=== 立项过程 ===
+
+1994年，国务委员[[宋健]]访问[[埃及]]时，对埃及年代学可上溯至公元前三千纪印象深刻，遂提议在中国进行类似的多学科联合年代学研究<ref name="Shaughnessy2011">{{cite journal |author=Edward L. Shaughnessy |authorlink=夏含夷 |title=Of Riddles and Recoveries: The Bamboo Annals, Ancient Chronology, and the Work of David Nivison |journal=Journal of Chinese Studies |year=2011 |volume=52 |pages=269–290 |url=http://www.cuhk.edu.hk/ics/journal/articles/v52p269.pdf |language=en |access-date=2026-07-02 |archive-url=https://web.archive.org/web/20211023193256/http://www.cuhk.edu.hk/ics/journal/articles/v52p269.pdf |archive-date=2021-10-23 |url-status=live}}</ref>。
+
+1995年秋，[[中华人民共和国国家科学技术委员会|国家科委]]（今[[中华人民共和国科学技术部|科技部]]）主任[[宋健]]邀请在京部分学者召开座谈会，会上宋健提出并与大家讨论建立夏商周断代工程这一设想。1995年底[[中华人民共和国国务院|国务院]]召开会议，成立了夏商周断代工程的领导小组，领导小组由[[中华人民共和国科学技术部|国家科委]]、[[国家自然科学基金委员会]]、[[中国科学院]]、[[中国社会科学院]]、[[中华人民共和国教育部|国家教委]]（今[[中华人民共和国教育部|教育部]]）、[[国家文物局]]、[[中国科学技术协会|中国科协]]共七个单位的领导组成，会议聘请了[[历史]]学家[[李学勤]]、[[碳-14]]专家[[仇士华]]、[[考古]]学家[[李伯谦]]、[[天文]]学家[[席泽宗]]作为工程的首席科学家<ref name="Li2002" />。
+
+1996年春，夏商周断代工程组织了一个由不同学科的21位专家形成的专家组，并拟定了夏商周断代工程可行性论证报告。可行性论证报告在1996年5月得到了通过。1996年5月16日国务院召开会议正式宣布夏商周断代工程开始启动。这一科研项目共分9个课题、44个专题，直接参与的专家学者达200人<ref name="Li2002" />。
+
+=== 工程目标 ===
+*以半信史時代（[[夏朝]]～[[西周]]共和元年前）的年代[[考據]]為目標：
+*為[[西周]][[共和 (西周)|共和]]元年（公元前841年）以前西周諸王，提出較準確的在位年代。
+*為[[商代]]后期[[武丁]]以下各王，提出較准确的在位年代。
+*為[[商代]]前期，提出較基本的年代框架。
+*為[[夏代]]提出基本的年代框架。
+
+=== 研究课题 ===
+#有关夏商周年代、天象、都城文献的整理及可信性研究
+#夏商周天文年代学综合性问题研究
+#夏代年代学研究
+#商代前期年代学研究
+#商代后期年代学研究
+#[[武王伐纣]]年代的研究
+#[[西周]]列王的年代学研究
+#[[放射性碳定年法|碳-14测年技术]]的改进与研究
+#夏商周年代研究的综合与总结
+
+== 研究方法 ==
+
+夏商周断代工程对传世的古代文献和出土的[[甲骨文]]、[[金文]]等材料进行了搜集、整理、鉴定和研究；对其中有关的天文现象和历法记录通过现代天文学给予计算从而推定其年代；同时对有典型意义的考古遗址和墓葬材料进行了整理和分期研究，并进行了必要的发掘，获取样品后进行碳-14测年<ref name="Li2002" />。
+
+=== 西周列王年代 ===
+
+西周时期存世的实物证据以数千件青铜器为主，其中约六十件铭文记载了重要事件的日期，格式为[[干支]]日、月相、月份和王的在位年。但由于西周[[阴阳历]]的置闰规则和月首尚不确定、且铭文通常不具王名，这些日期的推算存在很大困难<ref name="Lee2002a" />。工程采纳了韩国学者方善柱的提议，将古本《[[竹书纪年]]》所载[[周懿王]]元年“[[天再旦]]”解释为公元前899年的一次日出时的[[日环食]]，以此作为西周年代的关键锚点<ref name="Shaughnessy2009">{{cite book |author=Edward L. Shaughnessy |authorlink=夏含夷 |chapter=Chronologies of Ancient China: A Critique of the 'Xia–Shang–Zhou Chronology Project' |editor=Clara Wing-chung Ho |title=Windows on the Chinese World: Reflections by five historians |publisher=Lexington Books |year=2009 |pages=15–28 |isbn=978-0739127698 |language=en}}</ref>。然而，这一解读和所涉及的天文计算受到了其他学者的质疑<ref name="Keenan2002">{{cite journal |author=Douglas J. Keenan |title=Astro-historiographic chronologies of early China are unfounded |journal=East Asian History |year=2002 |volume=23 |pages=61–68 |url=http://www.informath.org/pubs/EAH02a.pdf |language=en |access-date=2007-09-30 |archive-url=https://web.archive.org/web/20070927081446/http://www.informath.org/pubs/EAH02a.pdf |archive-date=2007-09-27 |url-status=live}}</ref><ref name="Stephenson2008">{{cite journal |author=F. Richard Stephenson |title=How reliable are archaic records of large solar eclipses? |journal=Journal for the History of Astronomy |year=2008 |volume=39 |issue=2 |pages=229–250 |doi=10.1177/002182860803900205 |language=en}}</ref>。
+
+=== 武王伐纣 ===
+
+传统史料中关于[[牧野之战|武王伐纣]]的年代至少有四十四种不同说法，范围从公元前1130年至前1018年<ref name="Lee2002a" />。工程采取了考古与天文相结合的路径：通过对周人灭商前的都城[[丰镐遗址]]（[[陕西]][[沣西]]）、晚商[[殷墟]]末期地层及周初都邑的碳十四测年，并运用[[贝叶斯统计|贝叶斯匹配法]]，将武王伐纣的年代范围缩小到公元前1050年至前1020年之间<ref name="Lee2002a" />。
+
+在文献方面，《[[汉书]]》引《[[尚书 (书)|尚书]]·武成》提到伐纣前的[[月食]]，《[[國語 (書)|国语]]》记录了伐纣当天的日月五星位置，古本《竹书纪年》和汉代文献还记载了伐纣前后出现的[[五星连珠|五星聚]]现象——这种罕见天象发生在公元前1059年5月28日<ref name="Zhang2002">{{cite journal |author=Zhang Peiyu |title=Determining Xia–Shang–Zhou Chronology through astronomical records |journal=Journal of East Asian Archaeology |year=2002 |volume=4 |pages=347–358 |language=en}}</ref>。综合考虑碳十四测年范围和天文数据，工程将武王伐纣确定在公元前1046年1月20日，这一日期此前已由美国学者[[大卫·潘克尼尔|David Pankenier]]独立得出<ref name="Pankenier1981">{{cite journal |author=David W. Pankenier |title=Astronomical Dates in Shang and Western Zhou |journal=Early China |year=1981 |volume=7 |pages=2–37 |doi=10.1017/S0362502800005599 |language=en}}</ref>。记载伐纣的关键青铜器[[利簋]]的铭文可以作多种解读，其中一种替代读法导出的日期为公元前1044年1月9日<ref name="Lee2002a" />。
+
+=== 商代后期 ===
+
+商代后期的年代主要依靠[[甲骨文]]中的月食记录和文献中的王年记载。《[[尚书]]·无逸》称[[武丁]]在位五十九年。工程从武丁和[[祖庚]]时期的甲骨卜辞中辨认出五次月食记录，将其与公元前1201年至前1181年之间实际发生的月食匹配，由此推得祖庚元年的起始年代，进而上推武丁元年为公元前1250年<ref>{{cite journal |author=Liu Ci-Yuan |title=Astronomy in the Xia-Shang-Zhou Chronology Project |journal=Journal of Astronomical History and Heritage |year=2002 |volume=5 |issue=1 |pages=1–8 |doi=10.3724/SP.J.1440-2807.2002.01.01 |language=en}}</ref>。
+
+=== 商代前期与夏代 ===
+
+关于商代前期，传统文献记载武丁之前三代的[[盘庚]]迁都于殷（即[[殷墟]]）。工程采用《竹书纪年》中盘庚迁殷至纣亡273年的说法，将盘庚迁殷推定在约公元前1300年<ref name="Li2002" />。
+
+工程将[[二里头文化]]的全部四期归入夏代，同时将偃师商城（距二里头遗址约六公里）的兴建作为商代建立的标志，年代约在公元前1600年<ref name="Li2002" />。由于传世文献所载夏代积年长度超过了二里头文化跨度，工程还将[[龙山文化]]晚期的王湾三期类型也纳入夏代范围<ref name="Li2002" />。依据《竹书纪年》的夏代积年和古文献中关于[[大禹]]时期“五星聚”的记载，工程将夏代的始年推定在约公元前2070年<ref name="Li2002" />。
+
+== 年表 ==
+
+工程从商王[[武丁]]起给出了各王的即位绝对年代。下表将工程的年代结论与《[[剑桥中国上古史]]》所用年代及西汉[[刘歆]]推算的传统年代作一比较<ref name="Shaughnessy1999" /><ref name="XSZCP2000">{{cite report |author=夏商周断代工程专家组 |title=夏商周断代工程1996—2000年阶段成果报告：简本 |publisher=世界图书出版公司 |year=2000 |language=zh-cn}}</ref>：
+
+{| class="wikitable" style="text-align:center“
+|-
+! 朝代 !! 王 !! 工程年代（BC） !! 《剑桥上古史》年代（BC） !! 传统年代（BC）
+|-
+| rowspan="9" | 商 || [[武丁]] || 1250 || 前1198以前 || 1324
+|-
+| [[祖庚]] || 1191 || 后1188 || 1265
+|-
+| [[祖甲]] || — || 约1177 || 1258
+|-
+| [[廪辛]] || — || 约1157 || 1225
+|-
+| [[康丁]] || — || 约1148 || 1219
+|-
+| [[武乙]] || 1147 || 约1131 || 1198
+|-
+| [[文丁]] || 1112 || 约1116 || 1194
+|-
+| [[帝乙]] || 1101 || 1105 || 1191
+|-
+| [[帝辛]]（纣） || 1075 || 1086 || 1154
+|-
+| rowspan="12" | 西周 || [[周武王|武王]] || 1046 || 1045 || 1122
+|-
+| [[周成王|成王]] || 1042 || 1042 || 1115
+|-
+| [[周康王|康王]] || 1020 || 1005 || 1078
+|-
+| [[周昭王|昭王]] || 995 || 977 || 1052
+|-
+| [[周穆王|穆王]] || 976 || 956 || 1001
+|-
+| [[周共王|共王]] || 922 || 917 || 946
+|-
+| [[周懿王|懿王]] || 899 || 899 || 934
+|-
+| [[周孝王|孝王]] || 891 || 872? || 909
+|-
+| [[周夷王|夷王]] || 885 || 865 || 894
+|-
+| [[周厉王|厉王]] || 877 || 857 || 878
+|-
+| [[共和 (西周)|共和]] || 841 || 841 || 841
+|}
+
+商周分界（武王伐纣）为公元前1046年。更早的年代则给出约略框架：盘庚迁殷约公元前1300年<ref name="Lee2002a" />，商代建立约公元前1600年<ref name="Li2002" />，夏代建立约公元前2070年<ref name="Li2002" />。
+
+== 结论与意义 ==
+
+2000年11月9日夏商周断代工程正式公布了《夏商周断代工程1996—2000年阶段成果报告：简本》。依据武王伐纣之年和懿王元年的确立，建立了商王武丁以来的年表和西周诸王年表。《夏商周年表》定夏朝约开始于前2070年，夏商分界大约在公元前1600年（有学者列出更具体年代为公元前1556年，但仍有争议）；盘庚迁都约在公元前1300年，商周分界定为公元前1046年<ref name="XSZCP2000" />。
+
+然而，在2003年8月底召开的讨论繁本的专家会议上，不少与会学者采取了慎重的态度，他们要求对每个学术上有争论的问题都应列出各种不同之意见。由于学者们的这一主张，已大致写好的繁本未能获得通过。最终繁本原稿在2005—2016年阶段经过持续补充修订，2017年交给出版社；2022年6月，《夏商周断代工程报告》由科学出版社出版<ref name="韩寒">{{cite web |author=韩寒 |title=探索中国上古时期的年表 《夏商周断代工程报告》发布 |url=http://cul.china.com.cn/2022-08/24/content_42081692.htm |website=cul.china.com.cn |date=2022-08 |publisher=光明日报 |language=zh-cn |access-date=2023-05-11 |archive-url=https://web.archive.org/web/20230203171727/http://cul.china.com.cn/2022-08/24/content_42081692.htm |archive-date=2023-02-03 |url-status=live}}</ref><ref>{{Cite web|url=https://mp.weixin.qq.com/s/ThS-LFoAOiCSb5XEPNkR8g|title=中古史研究：私家与020 斥巨资，经年累月磨一剑：来了就好|access-date=2022-07-07|archive-date=2022-07-16|archive-url=https://web.archive.org/web/20220716180423/https://mp.weixin.qq.com/s/ThS-LFoAOiCSb5XEPNkR8g|url-status=no}}</ref>。据出版简介，该书是对工程9大课题、44个专题研究的综合与总结。虽然繁本在简本基础上全面修订而成，并承认2000年之后出土的一些青铜器铭文与工程结论存在矛盾，但简本的年代表并未被修改<ref name="Shaughnessy2023">{{cite journal |author=Edward L. Shaughnessy |authorlink=夏含夷 |title=The Xia Shang Zhou Duandai Gongcheng Baogao and its chronology of the Western Zhou dynasty |journal=Early China |year=2023 |volume=46 |pages=351–371 |doi=10.1017/eac.2024.2 |language=en}}</ref>。
+
+== 学术争论 ==
+=== 天文学方法的质疑 ===
+
+Douglas J. Keenan在《东亚历史》（East Asian History）上发表文章，质疑[[周懿王]]元年“天再旦”为公元前899年日食的论断，认为对中国早期年代学的天文—历史编年方法整体上缺乏可靠依据<ref name="Keenan2002" />。他在后续论文中进一步指出，工程在碳十四测年中采用了68%而非国际通行的95%[[置信区间]]，如果使用95%标准，误差范围将大大扩大<ref>{{cite journal |author=Douglas J. Keenan |title=Defence of planetary conjunctions for early Chinese chronology is unmerited |journal=Journal of Astronomical History and Heritage |year=2007 |volume=10 |issue=2 |pages=142–147 |doi=10.3724/SP.J.1440-2807.2007.02.08 |language=en}}</ref>。英国天文学史家F. Richard Stephenson也认为，古文献中关于大日食的记录十分模糊，不能以现代天文学方法精确回推<ref name="Stephenson2008" />。
+
+美国汉学家[[夏含夷]]（Edward L. Shaughnessy）在2009年发表的系统评论中指出，工程采纳韩国学者方善柱关于“天再旦”日食的提议而未注明出处；他还列举了多处天象文献解读的可疑之处<ref name="Shaughnessy2009" />。
+
+=== 考古学方法的质疑 ===
+
+哈佛大学考古学家Yun Kuen Lee（李润权）在《[[亚洲视角]]》（Asian Perspectives）上发表长篇评论，指出工程存在若干方法论问题：考古遗址的地层与特定历史事件的对应关系并不确定（如沣西的地层是否能确指武王伐纣）、碳十四数据的严谨性有待提高；更重要的是，工程将考古学置于“验证传统文献”的从属地位，试图将多元考古文化强行纳入“三代”单一叙事框架，忽视了三星堆、吴城等未被文献记载的高度发达文明<ref name="Lee2002a" />。
+
+=== 青铜器新证据的矛盾 ===
+
+2000年简本公布后出土的部分青铜器铭文与工程的西周年代框架产生了冲突<ref name="Shaughnessy2023" />：
+
+* '''觉公簋'''（Jue Gong gui）：一件年代可能在成王或康王时期的西周早期青铜器，其铭文记载铸器于“王廿又八祀”（王的第二十八年），而工程分配给成王和康王的在位年分别只有22年和25年<ref name="Shaughnessy2023" />。
+* '''君簋'''（Jun gui）：一件被断定为懿王时期的青铜器，铭文称铸于“王十祀”（王的第十年），而工程分配给懿王的在位年仅8年<ref name="Shaughnessy2023" />。
+
+《夏商周断代工程报告》繁本承认了这些问题，但未对简本公布的年代表作出修改<ref name="Shaughnessy2023" />。
+
+=== 中国学者的批评 ===
+
+[[中央研究院中国文哲研究所]]的陈宁在题为“毁誉参半的文化工程——‘夏商周断代工程’评述”的论文中，对工程进行了全面评述<ref>{{cite web |author=陈宁 |title=毁誉参半的文化工程—「夏商周断代工程」评述 |url=https://www.litphil.sinica.edu.tw/newsletter/52/133-144.pdf |website=中央研究院中国文哲研究所 |date=2003-12-01 |language=zh-tw |url-status=live |access-date=2026-06-01 |archive-url=https://web.archive.org/web/20240205021759/https://www.litphil.sinica.edu.tw/newsletter/52/133-144.pdf |archive-date=2024-02-05}}</ref>。
+
+[[夏含夷]]指出工程《简本》对夏代和商代前期只提供一种概括的框架，对商代后期则提供绝对年代，但承认这些年代不一定精确。对于西周时代，他依据新出土的西周青铜器铭文指出该年表含有许多问题，并以[[周成王|成王]]、[[周穆王|穆王]]、[[周厉王|厉王]]和[[周宣王|宣王]]诸王在位年代的证据论证年表的具体错误，称“《简本》的年代体系完全站不住脚，不但不能体现当时的水准，也不能做将来再进一步研究的基础”<ref>{{cite journal |author=夏含夷 |authorlink=夏含夷 |title=夏商周断代工程十年后之批判：以西周诸王在位年代为例证 |url=https://www.academia.edu/3717556/ |language=zh |access-date=2022-10-17 |archive-date=2022-10-17 |archive-url=https://web.archive.org/web/20221017121148/https://www.academia.edu/3717556/ |url-status=no}}</ref>。张立东在《面对面的对话——“夏商周断代工程”的美国之旅》中记载在美国亲耳听到[[仇士华]]承认国内的碳-14年代鉴定结果有疑问，但是仇士华否认这一观点<ref>{{Cite web|title=荒唐科研不只為套經費|url=http://view.163.com/special/reviews/crazyscience0808.html|accessdate=2020-09-30|work=网易新闻|archive-date=2020-03-31|archive-url=https://web.archive.org/web/20200331195200/http://view.163.com/special/reviews/crazyscience0808.html|url-status=no}}</ref>。
+
+=== 国际学界的反应 ===
+
+2002年，美国[[亚洲研究协会]]年会专设“夏商周断代工程：辩护与批评”讨论组，[[倪德卫]]（David Nivison）等学者对工程的方法提出了批评<ref>{{cite journal |author=David Nivison |authorlink=倪德卫 |title=The Xia-Shang-Zhou Chronology Project: Two Approaches to Dating |journal=Journal of East Asian Archaeology |year=2002 |volume=4 |pages=359–366 |doi=10.1163/156852302322454611 |language=en}}</ref>。计划于2003年10月举行的国际年代学研讨会因[[SARS]]疫情推迟，但此后再未重开<ref name="Shaughnessy2011" />。西方媒体对工程的报道主要关注于民族主义与学术研究之间的张力<ref>{{cite news |author=Erik Eckholm |title=In China, Ancient History Kindles Modern Doubts |newspaper=New York Times |date=2000-11-10 |page=A3 |language=en}}</ref>，但Lee指出，工程内部曾否定过项目主任本人提出的年代方案，说明政治因素并未深入影响工程的详细工作<ref name="Lee2002a" />。
+
+尽管备受争议，工程的年代结论已成为中国教科书和工具书中的正统年代框架<ref name="Shaughnessy2009" />。
+
+== 参见 ==
+* [[夏商周年表]]
+* [[中华文明探源工程]]
+
+==註釋==
+{{reflist|2}}
+
+==参考文献==
+* {{cite web |url=http://www.guoxue.com/gxnews/xsz/qn.htm |title=《夏商周年表》廓清千古之谜 |author= |language=zh-cn |date= |access-date=2006-06-07 |archive-url=https://web.archive.org/web/20060305010558/http://www.guoxue.com/gxnews/xsz/qn.htm |archive-date=2006-03-05 |dead-url=yes }}
+* {{cite web |url=http://www.nssd.cn/articles/article_read.aspx?id=7648098 |title=夏商周断代工程与古代文明研究 |author=李学勤 |website=[[国家哲学社会科学学术期刊数据库]] |language=zh-cn |date= |accessdate=2018-03-03 |archive-date=2018-03-03 |archive-url=https://web.archive.org/web/20180303225218/http://www.nssd.org/articles/article_read.aspx?id=7648098 |dead-url=no }}{{Free access}}
+* {{cite web |url=https://www.litphil.sinica.edu.tw/newsletter/52/133-144.pdf |format=pdf |title=毀譽參半的文化工程——「夏商周斷代工程」評述 |author=陳寧 |language=zh-tw |date=2003-12-01 |accessdate=2014-11-01 |archive-date=2014-11-01 |archive-url=https://web.archive.org/web/20141101211102/http://www.litphil.sinica.edu.tw/home/publish/PDF/Newsletter/52/52-133-144.pdf |dead-url=no}}
+* {{cite web |url=http://www.litphil.sinica.edu.tw/public/publications/newsletter/52/119-123.pdf |format=pdf |title=夏商周斷代工程：確定年代的兩種途徑 |author=倪德衛 |language=zh-tw |date= |accessdate=2018-02-02 |archive-date=2018-02-02 |archive-url=https://web.archive.org/web/20180202190230/http://www.litphil.sinica.edu.tw/public/publications/newsletter/52/119-123.pdf |dead-url=no }}
+* {{cite web |url=http://www.nssd.cn/articles/Article_Read.aspx?id=10162816# |title=交流与争鸣：记中外学者关于夏商周年代的一场论战 |author=李润权 |website=[[国家哲学社会科学学术期刊数据库]] |language=zh-cn |date= |accessdate=2018-03-05 |archive-date=2018-03-05 |archive-url=https://web.archive.org/web/20180305203106/http://www.nssd.org/articles/Article_Read.aspx?id=10162816 |dead-url=no }}{{Free access}}
+* {{cite web |url=http://www.nssd.org/articles/Article_Read.aspx?id=46233220 |title=中西研究的政治无意识——以西方学界对“夏商周断代工程”的评论为中心 |author=顾明栋 |website=[[国家哲学社会科学学术期刊数据库]] |language=zh-cn |date= |accessdate=2018-02-08 |archive-date=2018-02-09 |archive-url=https://web.archive.org/web/20180209063041/http://www.nssd.org/articles/Article_Read.aspx?id=46233220 |dead-url=no }}{{Free access}}
+* {{cite web |url=http://www.informath.org/pubs/EAH02a.pdf |format=pdf |title=Astro-Histriographic Chronologies of Early China Are Unfounded |author=Douglas J. Keenan |language=en |date= |accessdate=2007-09-30 |archive-date=2007-09-27 |archive-url=https://web.archive.org/web/20070927081446/http://www.informath.org/pubs/EAH02a.pdf |dead-url=no }}
+
+{{DEFAULTSORT:XiaShangZhou Chronological Investigation Project}}
+[[Category:夏商周|Chronologies]]
+[[Category:中华人民共和国考古学]]
+[[Category:中國歷史爭議]]
+[[Category:文化相關年表]]
+[[Category:中国史年表]]
+[[Category:中国青铜时代]]
+[[Category:考古學理論]]
+[[Category:考古学各时期和阶段]]
+[[Category:年代学]]
