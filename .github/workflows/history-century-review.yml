@@ -1,0 +1,39 @@
+name: History century source review
+on:
+  push:
+    branches: ['work/history-bce0700-0601-review']
+    paths: ['.history_batch.py', '.github/workflows/history-century-review.yml']
+permissions:
+  contents: write
+concurrency:
+  group: history-century-review
+  cancel-in-progress: true
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Read only text sources and produce review branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git init .
+          git config user.name 'history-source-review'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --no-cone
+          printf '%s\n' '/.history_batch.py' '/.github/workflows/history-century-review.yml' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/春秋左传/data/*.json' > .git/info/sparse-checkout
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
+          git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
+          python3 .history_batch.py
+          git add years meta sources
+          git diff --cached --stat | tail -5
+          if ! git diff --cached --quiet; then
+            git commit -m 'Draft: verify 700–601 BCE primary-source note passages'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+          echo "RESULT_COMMIT=$(git rev-parse HEAD)"
+          echo "RESULT_TREE=$(git rev-parse HEAD^{tree})"
