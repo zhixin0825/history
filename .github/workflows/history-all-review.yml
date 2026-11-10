@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Export repository manifest and exact raw source excerpts
+      - name: Apply and validate complete-page revision on review branch only
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -25,23 +25,41 @@ jobs:
           git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git sparse-checkout init --no-cone
-          printf '%s\n' '/README.md' '/.history_all.py' '/.github/workflows/history-all-review.yml' '/sources/二十四史/txt/03_houhanshu_full.txt' > .git/info/sparse-checkout
+          printf '%s\n' '/README.md' '/.history_all.py' '/.history_all_part_*' '/.github/workflows/history-all-review.yml' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/**/*.json' '/sources/二十四史/txt/03_houhanshu_full.txt' > .git/info/sparse-checkout
           git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
           git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
-          mkdir -p /tmp/history-support
-          git -c core.quotepath=false ls-tree -rz --name-only HEAD > /tmp/history-support/manifest.bin
-          cp README.md /tmp/history-support/README.md
+          export HISTORY_ROOT="$PWD"
+          export HISTORY_BASE=/tmp/history-main-baseline
+          mkdir -p "$HISTORY_BASE"
+          cp -a README.md years meta sources "$HISTORY_BASE/"
+          python3 .history_all.py
+          git add README.md years meta sources
+          git diff --cached --stat | tail -12
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete revision of all 771 existing chronology reading pages'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+          echo "RESULT_COMMIT=$(git rev-parse HEAD)"
+          echo "RESULT_TREE=$(git rev-parse HEAD^{tree})"
+          mkdir -p /tmp/history-all-output
           python3 - <<'PY'
+          import zipfile,hashlib,json
           from pathlib import Path
-          import json,hashlib
-          p=Path('sources/二十四史/txt/03_houhanshu_full.txt')
-          raw=p.read_bytes(); text=raw.decode('utf-8-sig'); lines=text.splitlines()
-          Path('/tmp/history-support/houhanshu-first100.json').write_text(json.dumps({'path':str(p),'sha256':hashlib.sha256(raw).hexdigest(),'total_lines':len(lines),'lines':lines[:100]},ensure_ascii=False,indent=2))
-          print('HOUHAN_LINES',len(lines))
+          files=[Path('README.md')]
+          for directory in ('years','meta','sources'):
+              files.extend(p for p in Path(directory).rglob('*') if p.is_file() and p.suffix in ('.md','.json'))
+          manifest={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(files)}
+          Path('/tmp/history-all-output/manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
+          with zipfile.ZipFile('/tmp/history-all-output/history-all-final.zip','w',compression=zipfile.ZIP_DEFLATED) as z:
+              for p in files: z.write(p,str(p))
+          for name in ('full_validation.json','quote_verification.json','source_navigation_log.json'):
+              p=Path('/tmp/history-all-package')/name
+              if p.exists(): (Path('/tmp/history-all-output')/name).write_bytes(p.read_bytes())
+          print('READBACK_FILES',len(files))
           PY
-      - name: Export support data
+      - name: Export complete revised text for independent readback
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: history-all-support
-          path: /tmp/history-support
+          name: history-all-final-readback
+          path: /tmp/history-all-output
           retention-days: 3
