@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Read only text sources and produce review branch
+      - name: Apply and validate independently reviewed century edits
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -25,24 +25,31 @@ jobs:
           git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git sparse-checkout init --no-cone
-          printf '%s\n' '/.history_batch.py' '/.github/workflows/history-century-review.yml' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/春秋左传/data/*.json' > .git/info/sparse-checkout
+          printf '%s\n' '/.history_batch.py' '/.history_part_*' '/.github/workflows/history-century-review.yml' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/春秋左传/data/*.json' > .git/info/sparse-checkout
           git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
           git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
-          echo "REVIEW_COMMIT=$(git rev-parse HEAD)"
-          echo "REVIEW_TREE=$(git rev-parse HEAD^{tree})"
+          python3 .history_batch.py
+          git add years meta sources
+          git diff --cached --stat | tail -10
+          if ! git diff --cached --quiet; then
+            git commit -m 'Revise and verify 700–601 BCE chronicle against local primary texts'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+          echo "RESULT_COMMIT=$(git rev-parse HEAD)"
+          echo "RESULT_TREE=$(git rev-parse HEAD^{tree})"
           python3 - <<'PY'
           import zipfile
           from pathlib import Path
-          with zipfile.ZipFile('/tmp/history-review-input.zip','w',compression=zipfile.ZIP_DEFLATED) as z:
+          with zipfile.ZipFile('/tmp/history-review-final.zip','w',compression=zipfile.ZIP_DEFLATED) as z:
               for root in ('years','meta','sources'):
                   for p in Path(root).rglob('*'):
                       if p.is_file() and p.suffix in ('.md','.json'):
                           z.write(p,str(p))
-          print('TEXT_ARCHIVE_BYTES',Path('/tmp/history-review-input.zip').stat().st_size)
+          print('TEXT_ARCHIVE_BYTES',Path('/tmp/history-review-final.zip').stat().st_size)
           PY
-      - name: Export review text for independent checking
+      - name: Export revised text for independent readback
         uses: actions/upload-artifact@v4
         with:
-          name: history-century-review-input
-          path: /tmp/history-review-input.zip
+          name: history-century-review-final
+          path: /tmp/history-review-final.zip
           retention-days: 3
