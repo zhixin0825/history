@@ -30,6 +30,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[www.ihns.ac.cn](https://www.ihns.ac.cn/njgsz/zcbm/lytsg/zydh/sjkdh/zwdj/202302/t20230222_6681339.html)。
+原入口（出处追溯）：www.ihns.ac.cn（原始来源记录：`https://www.ihns.ac.cn/njgsz/zcbm/lytsg/zydh/sjkdh/zwdj/202302/t20230222_6681339.html`）。
 
 当前引用事项由本地说明承接；若需阅读全文或复核图表，须另从作者/出版方合法取得并确认许可，不把摘要等同全文。

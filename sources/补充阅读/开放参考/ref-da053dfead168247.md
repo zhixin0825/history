@@ -46,6 +46,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[www.sanmin.com.tw](https://www.sanmin.com.tw/product/index/011154269)。
+原入口（出处追溯）：www.sanmin.com.tw（原始来源记录：`https://www.sanmin.com.tw/product/index/011154269`）。
 
 当前引用仅用于书目信息或作者取说，无须把整书取得当成本次完成条件。需要扩展论证时再合法取得指定版本。

@@ -46,6 +46,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[xb.hsu.edu.cn](https://xb.hsu.edu.cn/_upload/article/files/57/28/3894139b489182e3b9676de45df5/56c761e3-83c0-4a38-8556-2f26d55a4af3.pdf)。
+原入口（出处追溯）：xb.hsu.edu.cn（原始来源记录：`https://xb.hsu.edu.cn/_upload/article/files/57/28/3894139b489182e3b9676de45df5/56c761e3-83c0-4a38-8556-2f26d55a4af3.pdf`）。
 
 当前引用事项由本地说明承接；若需阅读全文或复核图表，须另从作者/出版方合法取得并确认许可，不把摘要等同全文。

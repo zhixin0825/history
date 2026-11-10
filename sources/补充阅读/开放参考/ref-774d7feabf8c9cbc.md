@@ -43,6 +43,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[sxtt.cbpt.cnki.net](https://sxtt.cbpt.cnki.net/portal/journal/portal/client/paper/c24c99217a4e213395b69c801db08d38)。
+原入口（出处追溯）：sxtt.cbpt.cnki.net（原始来源记录：`https://sxtt.cbpt.cnki.net/portal/journal/portal/client/paper/c24c99217a4e213395b69c801db08d38`）。
 
 当前引用事项由本地说明承接；若需阅读全文或复核图表，须另从作者/出版方合法取得并确认许可，不把摘要等同全文。

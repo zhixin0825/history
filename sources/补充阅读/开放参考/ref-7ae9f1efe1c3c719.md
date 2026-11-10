@@ -46,6 +46,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[www.chunghwabook.com.hk](https://www.chunghwabook.com.hk/book/detail/id/1378029545429739203)。
+原入口（出处追溯）：www.chunghwabook.com.hk（原始来源记录：`https://www.chunghwabook.com.hk/book/detail/id/1378029545429739203`）。
 
 当前引用仅用于书目信息或作者取说，无须把整书取得当成本次完成条件。需要扩展论证时再合法取得指定版本。
