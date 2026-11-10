@@ -38,8 +38,8 @@ PDF SHA-256：`b55c14f55ef676ec65ada9261370e7977daf4cddc68165ef5232738ab6aa7b12`
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[aclanthology.org](https://aclanthology.org/2020.lrec-1.98/)。
+原入口（出处追溯）：aclanthology.org（原始来源记录：`https://aclanthology.org/2020.lrec-1.98/`）。
 
 无；以本地PDF为准并保留专属许可。
 
-专属许可证据：[LREC2020作者指南](https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/) · [ELRA会议出版主站](https://lrec.elra.info/)。许可：[CC BY-NC4.0](https://creativecommons.org/licenses/by-nc/4.0/)。
+专属许可证据：LREC2020作者指南（原始来源记录：`https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/`） · ELRA会议出版主站（原始来源记录：`https://lrec.elra.info/`）。许可：CC BY-NC4.0（原始来源记录：`https://creativecommons.org/licenses/by-nc/4.0/`）。

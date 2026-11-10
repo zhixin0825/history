@@ -30,6 +30,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[ndlsearch.ndl.go.jp](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&q-title=%22%E6%98%A5%E7%A7%8B%E5%B7%A6%E5%82%B3%E6%B3%A8%22&size=20)。
+原入口（出处追溯）：ndlsearch.ndl.go.jp（原始来源记录：`https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&q-title=%22%E6%98%A5%E7%A7%8B%E5%B7%A6%E5%82%B3%E6%B3%A8%22&size=20`）。
 
 当前引用仅用于书目信息或作者取说，无须把整书取得当成本次完成条件。需要扩展论证时再合法取得指定版本。

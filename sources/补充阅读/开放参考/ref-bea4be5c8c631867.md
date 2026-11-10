@@ -38,8 +38,8 @@ PDF SHA-256：`965edfc17e15a8ddfb25464c0baa48bfb782aa5b6ff82f31dd8a1c5117fde253`
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[knowledge.uchicago.edu](https://knowledge.uchicago.edu/records/0dqs4-bvc28)。
+原入口（出处追溯）：knowledge.uchicago.edu（原始来源记录：`https://knowledge.uchicago.edu/records/0dqs4-bvc28`）。
 
 无；以本地PDF为准并保留专属许可。
 
-许可：[CC BY-NC-SA4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。
+许可：CC BY-NC-SA4.0（原始来源记录：`https://creativecommons.org/licenses/by-nc-sa/4.0/`）。

@@ -30,6 +30,6 @@ MARC列编著者为夏商周断代工程专家组，科学出版社2022年第一
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[library.utaipei.edu.tw](https://library.utaipei.edu.tw/webpac/bookDetail.do?id=633558)。
+原入口（出处追溯）：library.utaipei.edu.tw（原始来源记录：`https://library.utaipei.edu.tw/webpac/bookDetail.do?id=633558`）。
 
 当前引用仅用于书目信息或作者取说，无须把整书取得当成本次完成条件。需要扩展论证时再合法取得指定版本。

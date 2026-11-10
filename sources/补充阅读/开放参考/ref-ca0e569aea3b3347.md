@@ -46,6 +46,6 @@
 
 ## 版本、署名与后续核查
 
-原入口（出处追溯）：[www.chinakongzi.org](https://www.chinakongzi.org/rw/xszj/jiangguanghui/200705/t20070520_20896.htm)。
+原入口（出处追溯）：www.chinakongzi.org（原始来源记录：`https://www.chinakongzi.org/rw/xszj/jiangguanghui/200705/t20070520_20896.htm`）。
 
 当前引用事项由本地说明承接；若需阅读全文或复核图表，须另从作者/出版方合法取得并确认许可，不把摘要等同全文。
