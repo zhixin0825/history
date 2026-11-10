@@ -1,0 +1,47 @@
+name: History complete-page review
+on:
+  push:
+    branches: ['work/history-complete-review']
+    paths: ['.history_all.py', '.github/workflows/history-all-review.yml']
+permissions:
+  contents: write
+concurrency:
+  group: history-complete-review
+  cancel-in-progress: true
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Export repository manifest and exact raw source excerpts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git init .
+          git config user.name 'history-source-review'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --no-cone
+          printf '%s\n' '/README.md' '/.history_all.py' '/.github/workflows/history-all-review.yml' '/sources/二十四史/txt/03_houhanshu_full.txt' > .git/info/sparse-checkout
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
+          git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
+          mkdir -p /tmp/history-support
+          git -c core.quotepath=false ls-tree -rz --name-only HEAD > /tmp/history-support/manifest.bin
+          cp README.md /tmp/history-support/README.md
+          python3 - <<'PY'
+          from pathlib import Path
+          import json,hashlib
+          p=Path('sources/二十四史/txt/03_houhanshu_full.txt')
+          raw=p.read_bytes(); text=raw.decode('utf-8-sig'); lines=text.splitlines()
+          Path('/tmp/history-support/houhanshu-first100.json').write_text(json.dumps({'path':str(p),'sha256':hashlib.sha256(raw).hexdigest(),'total_lines':len(lines),'lines':lines[:100]},ensure_ascii=False,indent=2))
+          print('HOUHAN_LINES',len(lines))
+          PY
+      - name: Export support data
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: history-all-support
+          path: /tmp/history-support
+          retention-days: 3
