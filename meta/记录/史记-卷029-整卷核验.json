@@ -1,0 +1,209 @@
+{
+  "summary": {
+    "volume": 29,
+    "title": "河渠书",
+    "date": "2026-11-10",
+    "baseline_commit": "879b2436769f9c231fd23babd885214357df8574",
+    "status": "verified",
+    "primary_units": 14,
+    "later_commentary_units": 1,
+    "raw_physical_lines": 18,
+    "source_paragraphs_exactly_verified": 15,
+    "hanshu_excerpt_groups": 16,
+    "annotation_excerpts_read": 14,
+    "annual_pages_modified": 6,
+    "ancient_period_pages_modified": 1,
+    "new_dated_narrative_groups": 1,
+    "new_direct_quotation_placements_checked": 14,
+    "global_reading_pages_structure_checked": 771,
+    "global_structure_errors": 0,
+    "changed_markdown_links_checked": 1845,
+    "new_internal_links_checked": 255,
+    "new_broken_links": 0,
+    "active_external_reading_links": 0,
+    "existing_link_issues": 0,
+    "raw_shiji_sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb",
+    "raw_chapter_sha256": "2861ad3e90f3c6036dd70eea0440d48953b5eeb0f5b770cf8b8654e4e6764288",
+    "raw_hanshu_sha256": "4fd2c97ce5c7e6a94c46741897fca72bb84a7e4748096c6d0ab60c392061fd44",
+    "scope": "完整保存底本14段正文与1段后出述赞、逐段白话及去向；核验新增直引、阅读编号和链接。古注仅核所用摘句，未知年次和版本争议仍保留。",
+    "volume028_status": "此前本地交付包未包含在本次主分支基线中；本次不覆盖该包。"
+  },
+  "per_reading_page": [
+    {
+      "path": "years/bce-0200-0101/bce-0109.md",
+      "old_events": 10,
+      "new_events": 10,
+      "old_explicit_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0111.md",
+      "old_events": 14,
+      "new_events": 15,
+      "old_explicit_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0129.md",
+      "old_events": 14,
+      "new_events": 14,
+      "old_explicit_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0132.md",
+      "old_events": 7,
+      "new_events": 7,
+      "old_explicit_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0168.md",
+      "old_events": 9,
+      "new_events": 9,
+      "old_explicit_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0246.md",
+      "old_events": 4,
+      "new_events": 4,
+      "old_explicit_anchor_names_retained": true
+    },
+    {
+      "path": "years/上古/02-尧舜至禹.md",
+      "old_events": 17,
+      "new_events": 17,
+      "old_explicit_anchor_names_retained": true
+    }
+  ],
+  "errors": [],
+  "existing_link_issues": [],
+  "changed_files": [
+    {
+      "path": "README.md",
+      "sha256": "f38c7dca1784ebcf9ae61258bdfaeeea66695dedc4dc3a6b6f9a22fd3dc1fb89",
+      "status": "modified"
+    },
+    {
+      "path": "meta/README.md",
+      "sha256": "e1e997fd5617e4d444b55739fc6447798a1aa0ffe811653b60952bbdfeac89fe",
+      "status": "modified"
+    },
+    {
+      "path": "meta/考证/README.md",
+      "sha256": "f1410a210233066e4ce448266e42c0d9a14132c7a5dd93a9ce7a2b7f9f94a63d",
+      "status": "modified"
+    },
+    {
+      "path": "meta/考证/史记-卷029-纪年与异说.md",
+      "sha256": "7d0346c9141fc3dee54ec718203b0968caf2436ee588342a84d0720f8a8fa46d",
+      "status": "new"
+    },
+    {
+      "path": "meta/记录/README.md",
+      "sha256": "c17973a392e825beaa8ad6186cb9de35b6bd11ea6fc102f3a455fd75e3cbcf78",
+      "status": "modified"
+    },
+    {
+      "path": "meta/记录/史记-卷029-单元数据.json",
+      "sha256": "5af3d7714ec53dc7bd6d377253e05263eea6873d932de760dae62b127a096501",
+      "status": "new"
+    },
+    {
+      "path": "meta/记录/史记-卷029-工程与数量核对.md",
+      "sha256": "5bd53441c55731296c157c9998c393cd7e5dc384a46fcfd67ab820f6c8fc1473",
+      "status": "new"
+    },
+    {
+      "path": "meta/记录/史记-卷029-引文去向.md",
+      "sha256": "04f07b93860e4c32ea7cc5da33fc797e4edfb9bb3dc27e1e0df8d52959151008",
+      "status": "new"
+    },
+    {
+      "path": "meta/记录/史记-卷029-新增引句清单.json",
+      "sha256": "20561d8ab78550a70c2fbad834a741b270d49849c9bee0452b7d9bfa897668b1",
+      "status": "new"
+    },
+    {
+      "path": "meta/记录/史记-卷029-逐段互校.md",
+      "sha256": "3e68d8a65cbaf14cc3d2ae44c0bf759aaaa8a2f55171020ad515306e41c60fa8",
+      "status": "new"
+    },
+    {
+      "path": "sources/README.md",
+      "sha256": "fa050387fee94823b2e6fb087f9502f907dee7477e61b36516d47a402c1905bc",
+      "status": "modified"
+    },
+    {
+      "path": "sources/摘录/原始见证/史记-卷029-CCDH.txt",
+      "sha256": "2861ad3e90f3c6036dd70eea0440d48953b5eeb0f5b770cf8b8654e4e6764288",
+      "status": "new"
+    },
+    {
+      "path": "sources/摘录/史记-卷029-古注摘核.md",
+      "sha256": "296539abb3c41b7544ab9a8b41820bafd04284f250a61a3e59a69bb7ff3ac856",
+      "status": "new"
+    },
+    {
+      "path": "sources/摘录/史记-卷029-汉书互校.md",
+      "sha256": "9b17ca5a153e39f13feb279fca69b47f30039bdd9a94cb535edbaee38b9484b1",
+      "status": "new"
+    },
+    {
+      "path": "sources/摘录/史记-卷029-河渠书.md",
+      "sha256": "c01a8b666c015af9bc7dc8d82771ab88c63df43063c869e802735d1480410b97",
+      "status": "new"
+    },
+    {
+      "path": "years/README.md",
+      "sha256": "c383faa45a6d7ac9c9156f67868c3792be0ade4f04dcb5d96542ad057ab03e5f",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0200-0101/README.md",
+      "sha256": "019433e8ffdce62a559da1752f96ef76353c383ee056bdcc4ba3ecd375541d15",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0109.md",
+      "sha256": "be3b8b7b6a2ffd7cb39dec0b52660d9835e37a97db5577f7aab7cbd12b3091b2",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0111.md",
+      "sha256": "c7761b0c63f44461ec17086027bafc8ea9ef892148d778d06b2a0af9c0036cfc",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0129.md",
+      "sha256": "a0095abfb372eaf1cd74925e8b4b92433aeddbe07bea86c1136ca46d4aefd6af",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0132.md",
+      "sha256": "c56bc47bad4af89d07b26d2e937f8c3ba67fbe6ec3659a01cf10ed0bce17c24e",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0168.md",
+      "sha256": "d5ca1452bbebfe8b138cc9a4abb3ef95a41f4224502122f012564575b5261971",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0300-0201/README.md",
+      "sha256": "605e58914af2d0961c5aa8eb3b93ac2c6d5dadf954aa5591df448594ae0791c6",
+      "status": "modified"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0246.md",
+      "sha256": "1ea33f998e44266853d8e19d80c9f49265edcc5e49445eaaf3fbde5c673b66c9",
+      "status": "modified"
+    },
+    {
+      "path": "years/上古/02-尧舜至禹.md",
+      "sha256": "2cc22394230e102f68d3b0a513367c5a41e3f6b037a9b4355ecfc76dd6111784",
+      "status": "modified"
+    },
+    {
+      "path": "years/上古/README.md",
+      "sha256": "b7fce91b9b34d655c62135b2250f391b31ebd8aae876c44864f07e80262c3652",
+      "status": "modified"
+    }
+  ]
+}
