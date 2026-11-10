@@ -1,0 +1,46 @@
+name: Shiji volumes 029-038 review
+on:
+  push:
+    branches: ['work/shiji-029-038-20261110']
+    paths: ['.github/workflows/shiji-029-038-review.yml', '.shiji_review.py']
+permissions:
+  contents: read
+concurrency:
+  group: shiji-029-038-review
+  cancel-in-progress: true
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Export unchanged repository source witnesses
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git init .
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --no-cone
+          printf '%s\n' '/sources/二十四史/txt/01_shiji_full.txt' '/sources/二十四史/txt/02_hanshu_full.txt' > .git/info/sparse-checkout
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
+          git checkout --detach FETCH_HEAD
+          mkdir -p /tmp/shiji-source-witnesses
+          git -c core.quotepath=false ls-tree -rz --name-only HEAD > /tmp/shiji-source-witnesses/repo-manifest.bin
+          python3 - <<'PY'
+          from pathlib import Path
+          import json,hashlib,zipfile
+          paths=[Path('sources/二十四史/txt/01_shiji_full.txt'),Path('sources/二十四史/txt/02_hanshu_full.txt')]
+          hashes={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in paths}
+          Path('/tmp/shiji-source-witnesses/hashes.json').write_text(json.dumps(hashes,ensure_ascii=False,indent=2))
+          with zipfile.ZipFile('/tmp/shiji-source-witnesses/unchanged-sources.zip','w',compression=zipfile.ZIP_DEFLATED) as z:
+              for p in paths:z.write(p,str(p))
+          print('EXPORTED_SOURCE_HASHES',json.dumps(hashes,ensure_ascii=False))
+          PY
+      - name: Export source witnesses for local collation
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: shiji-029-038-source-witnesses
+          path: /tmp/shiji-source-witnesses
+          retention-days: 3
