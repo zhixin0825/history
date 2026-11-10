@@ -29,7 +29,7 @@ jobs:
           git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
           git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
           python3 .shiji029_apply.py
-          git add README.md years meta sources
+          git add --sparse README.md years meta sources
           git diff --cached --stat
           if ! git diff --cached --quiet; then
             git commit -m 'Complete Shiji 029 Hequ Shu reading and chronological integration'
