@@ -1,42 +1,47 @@
-name: Recover next Shiji review
+name: Finish recovered Shiji 032 review
 on:
   push:
     branches: ['work/recover-shiji-next-20261110']
-    paths: ['.github/workflows/recover-shiji-next.yml']
+    paths: ['.github/workflows/recover-shiji-next.yml', '.recover-next/apply.py']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  export:
+  review:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Export current reading files and previous uncommitted payload without executing it
+      - name: Replay locally verified volume032 build and source/link checks on review branch
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           git init .
+          git config user.name 'history-source-review'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
           AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
           git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git sparse-checkout init --no-cone
           printf '%s\n' '/README.md' '/.gitattributes' '/.recover-next/**' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/**/*.json' '/sources/二十四史/txt/01_shiji_full.txt' '/sources/二十四史/txt/02_hanshu_full.txt' > .git/info/sparse-checkout
           git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
-          git checkout --detach FETCH_HEAD
-          mkdir -p /tmp/shiji-next
-          git ls-tree -rz --name-only HEAD > /tmp/shiji-next/manifest.bin
-          python3 - <<'PY'
-          import zipfile,hashlib,json
-          from pathlib import Path
-          files=[Path('README.md'),Path('.gitattributes')]+list(Path('.recover-next').glob('part*'))
-          for root in ('years','meta','sources'):
-              files.extend(p for p in Path(root).rglob('*') if p.is_file() and p.suffix in ('.md','.json','.txt'))
-          with zipfile.ZipFile('/tmp/shiji-next/snapshot.zip','w',compression=zipfile.ZIP_DEFLATED) as z:
-              for p in files:z.write(p,str(p))
-          print('FILES',len(files),'ARCHIVE_BYTES',Path('/tmp/shiji-next/snapshot.zip').stat().st_size)
-          PY
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+          git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
+          export HISTORY_ROOT="$PWD"
+          export HISTORY_BASE=/tmp/shiji032-baseline
+          export HISTORY_OUTPUT=/tmp/shiji032-output
+          mkdir -p "$HISTORY_BASE"
+          cp -a README.md years meta sources "$HISTORY_BASE/"
+          python3 .recover-next/apply.py
+          git add --sparse README.md years meta sources
+          git diff --cached --stat | tail -10
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete Shiji volume032 Qi Taigong reading and unified chronology'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+          echo "RESULT_COMMIT=$(git rev-parse HEAD)"
+          echo "RESULT_TREE=$(git rev-parse HEAD^{tree})"
+      - name: Export exact changed files and validation for independent readback
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: shiji-next-recovery
-          path: /tmp/shiji-next
+          name: shiji032-final-readback
+          path: /tmp/shiji032-output
           retention-days: 3
