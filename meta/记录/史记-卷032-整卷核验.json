@@ -1,0 +1,725 @@
+{
+  "summary": {
+    "volume": 32,
+    "title": "齐太公世家",
+    "date": "2026-11-10",
+    "baseline_commit": "c97a811a194edb42abfc8a90594289fdc9c484b3",
+    "status": "verified",
+    "primary_units": 85,
+    "later_praise_units": 1,
+    "structural_labels": 24,
+    "raw_physical_lines": 111,
+    "primary_and_late_paragraphs_exactly_verified": 86,
+    "parallel_source_groups": 70,
+    "existing_annual_pages_content_modified": 90,
+    "existing_annual_navigation_pages_modified": 2,
+    "new_annual_pages": 1,
+    "new_annual_years_bce": [
+      804
+    ],
+    "ancient_period_pages_modified": 2,
+    "new_numbered_groups": 8,
+    "new_annual_groups": 7,
+    "new_period_groups": 1,
+    "new_direct_quote_placements": 213,
+    "global_reading_pages": 772,
+    "global_numbered_groups": 4969,
+    "global_timeline_links_checked": 43039,
+    "changed_markdown_links_checked": 8334,
+    "broken_links": 0,
+    "structure_errors": 0,
+    "active_outbound_reading_links": 0,
+    "old_explicit_anchors_lost": 0,
+    "original_source_text_files_modified": 0,
+    "raw_source_sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb",
+    "raw_chapter_sha256": "ab73327c181b227a638c1bb7fb8ef4e43967f4d83592a8ed7888714c0634560d",
+    "volume031_status": "已存在整卷12单元成果；本轮核对进度后顺延至卷032，不重复编写。",
+    "volume028_status": "此前本地交付未合入基线；本轮没有覆盖、合并或宣称其已发布。",
+    "scope": "完整阅读与去向、实际新增引文、继承纪年及已发现的分歧核读；不宣称全部史料版本、史学争论或考古问题均已解决。"
+  },
+  "errors": [],
+  "validation_counts": {
+    "reading_pages": 772,
+    "numbered_groups": 4969,
+    "quotation_placements": 213,
+    "parallel_groups": 70,
+    "primary_units": 85,
+    "late_praise": 1,
+    "labels": 24,
+    "scanned_links": 45023,
+    "timeline_links": 43039,
+    "changed_page_links": 8334,
+    "changed_files": 117,
+    "changed_markdown": 113
+  },
+  "changed_reading_pages": [
+    {
+      "path": "years/bce-0400-0301/bce-0379.md",
+      "numbered_groups": 3,
+      "sha256": "15a21ee9ad4e4ff73af36d937264cc3481dbbe8c80eaf48c2b24935015dea836",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0386.md",
+      "numbered_groups": 3,
+      "sha256": "e3d81ac489941b713faaa1e9a568e4e40fbb501630cfcc4b7e52dbbeb76d6aa9",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0391.md",
+      "numbered_groups": 2,
+      "sha256": "c1afc711c248203fcbc9a4a6520ad3e6820a703aa0acc90f5722de6ec85d27b0",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0403.md",
+      "numbered_groups": 3,
+      "sha256": "84763e588d95df263462451aa8f51957689f155f5ba443b2b0f5d3e35f715e6d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0405.md",
+      "numbered_groups": 4,
+      "sha256": "af52f487296fb978087bc92b310cfa79fbe9cbd32e0e7fd7d09e91b616b11375",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0456.md",
+      "numbered_groups": 3,
+      "sha256": "c25e2cbd549386f7e4994d315d59c0f33d81e23cc401824b4adf38e07f7cc6a9",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0473.md",
+      "numbered_groups": 2,
+      "sha256": "343c9ea224106c4b79059cfd282017370a12fbca3a2a4b412a30125471199244",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0480.md",
+      "numbered_groups": 10,
+      "sha256": "ee5555df65e8fb10448e398878d33aedc49d139dc2e82c92c8eae5986f808ed8",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0481.md",
+      "numbered_groups": 10,
+      "sha256": "a07ae6b412b6655716038ec194a54bf7990be75826b5ce71c86d820adce6da56",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0485.md",
+      "numbered_groups": 7,
+      "sha256": "9a7f4ebcdf397266d6eb24f49ae3790cf8d8e8bdab0110f78ab95ac720a8d9fc",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0487.md",
+      "numbered_groups": 7,
+      "sha256": "522ab8efa5a3ea633a307fa5a56e9bc0cdb29889b17d7cef9621ff3f23958632",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0489.md",
+      "numbered_groups": 6,
+      "sha256": "c99054b6c882a8e73746e060f3aabf5d8977bb1d715e2f162a46a8a9c51f22d7",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0490.md",
+      "numbered_groups": 7,
+      "sha256": "eb2f119d8d8c5db4b048fc782dfd9ca6639321067f5c552b3c28fa5932c32a28",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0493.md",
+      "numbered_groups": 6,
+      "sha256": "a21e792b80d580755dd9673be3ac82a641993f658ef963c1da9a723568eb9c8e",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0500.md",
+      "numbered_groups": 12,
+      "sha256": "26bbaad03e95478c76f4e94a8783e63d717d568b1b85f16d61c5b05c54b30ede",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0501.md",
+      "numbered_groups": 10,
+      "sha256": "67d68664da0fe6177381d1014a25a1fdf673d1f333f5bc8ceb5c739fb05b6b2d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0506.md",
+      "numbered_groups": 15,
+      "sha256": "21f10247e0f29bf82b93a5f1ab7cd27ce4083f2a49f87380541745219310bf1a",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0516.md",
+      "numbered_groups": 12,
+      "sha256": "71d8a7aec88280cd3782eeef5820e09c099743b7c053d7920b32b96df055a7e6",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0517.md",
+      "numbered_groups": 11,
+      "sha256": "e239a884026fe218ee027ffdb1914665d43f97c59f381a28dcd0a33299c3720c",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0522.md",
+      "numbered_groups": 12,
+      "sha256": "4613a5969ba17b7a11b4072a0826a6b8944cb2726ec49617b1a1a69c8ae96fc6",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0530.md",
+      "numbered_groups": 9,
+      "sha256": "5ed3023b846ad8aa182f2593fe3c8aa3a0747ae38084724966aec74d64d7da1a",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0536.md",
+      "numbered_groups": 11,
+      "sha256": "7542d4efd172eeb86006ccfb1bc8654d579bf233a8643d90eea2c67691996068",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0539.md",
+      "numbered_groups": 12,
+      "sha256": "78bfdcb5fec9308b604aece1b7ad1cc7eec460f9e2bc42aca75359833556a98b",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0545.md",
+      "numbered_groups": 19,
+      "sha256": "1e6bb05d644a550b88c4de79d1ea5c032a65100e602d3ae12e9e1dea4c4b74b8",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0546.md",
+      "numbered_groups": 17,
+      "sha256": "af9f47003d2ce53fd1d8e3c8b1284abb94f9d67fdf88ed3b176915dafa4bb2ef",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0548.md",
+      "numbered_groups": 21,
+      "sha256": "f4cfedab90ba09a4e32ae38cf4b0e51be3c3fe9855c33347b524ce5ffa4b53b6",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0550.md",
+      "numbered_groups": 17,
+      "sha256": "e5a3a833dcfd325af90f3a69e36148ef5fa2abeea3a960009d570fa9861ae1b5",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0551.md",
+      "numbered_groups": 11,
+      "sha256": "2992d115b79e6abe2f12965f514c5d10daf2e6c8fb7931841e48d7e0c3773fef",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0554.md",
+      "numbered_groups": 18,
+      "sha256": "55a6062e41aa6ed1f2095d47c2f980f9c5d4a50db068c3520e292a724b59cd12",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0555.md",
+      "numbered_groups": 12,
+      "sha256": "681692023deff555c4e5e7537439d78435b7f8b4d71f2c11becc8804eb516aa6",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0563.md",
+      "numbered_groups": 18,
+      "sha256": "2608305951c885c958ba2a2acdf7c6ac3ccc47e9a5fe0b98e2c7d5c26019adbb",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0572.md",
+      "numbered_groups": 9,
+      "sha256": "b85f377e605fb8e735319394c50752b9b0c827f29d8e72e7e008b4518a639593",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0573.md",
+      "numbered_groups": 13,
+      "sha256": "cae9a7cc44e16e38a92030d6765ec5bb6cae16fe57e91ac464da8ddcc8f9a34d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0582.md",
+      "numbered_groups": 9,
+      "sha256": "e6c2e0c10300b24a7da369b82f93341978edb93f3407b3aff9f854952bd1020a",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "numbered_groups": 12,
+      "sha256": "0543984e29d757c1815c8a7acf963387e9833c63a89daeeb306e94de94d7011b",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0589.md",
+      "numbered_groups": 11,
+      "sha256": "6b7786ab05bda392c5b539897ba570e72871d964686a8768ce444830af0df2d6",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0591.md",
+      "numbered_groups": 9,
+      "sha256": "100e04610eb7bf2208f446763c99005fca003cf97b32d4475305c23787ba2d3d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0592.md",
+      "numbered_groups": 7,
+      "sha256": "339451454c9bb4cf3d3cf48414a516bac1944322cba481049f0fe19cfe7f12fa",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0597.md",
+      "numbered_groups": 13,
+      "sha256": "d3008976d6f9d9e5b198755fae4f13f4274f01ee9a86d9e6c5e6d460ca540622",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0598.md",
+      "numbered_groups": 9,
+      "sha256": "e9112a4cb03d570196998a47afbfd20ed917d39592756113a51b6eb9cd4383b5",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0599.md",
+      "numbered_groups": 12,
+      "sha256": "d7014bdb1bb301c718acdbc671db9d40e91ab110d26ccf2672b031954b1ded38",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "numbered_groups": 10,
+      "sha256": "93cec407e461bc363779eee2b448541bf55eec6863ebce2001d3785bcbda8ae7",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0609.md",
+      "numbered_groups": 13,
+      "sha256": "153722cd3047e892a3b3be9776bb35edbd1e7a388b079a02a6f490cdb7e90c4b",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0613.md",
+      "numbered_groups": 13,
+      "sha256": "3b2c7d229c2d26de7a55b3fe656d055c612fc1949944dc853cbcf70d29f611f3",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0616.md",
+      "numbered_groups": 8,
+      "sha256": "0c6db4c6aacef912ecbd90e851c5afc7b2a247c9c630e6ef9bc2a7f1025b9db5",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0621.md",
+      "numbered_groups": 10,
+      "sha256": "f327beee2d717d316b08341a95ea2b5c9a2fb45aa489d0bd87dc65b5f9e69a43",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0627.md",
+      "numbered_groups": 17,
+      "sha256": "8eb5ceb0f095203a28852ce274b8dd2ca8508be7142f11dcaac207daf55e6abf",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0628.md",
+      "numbered_groups": 7,
+      "sha256": "f6f442bd61cd6b100f1ec04466c8941aa0cd05228b8b480e2e3856a8d8a8cdb3",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "numbered_groups": 16,
+      "sha256": "7a95412124d2bd701bffd6a7f44f46777f36a849840edaf26ae66658f39dfeb9",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0633.md",
+      "numbered_groups": 7,
+      "sha256": "16d4e0a61d8e99d3313c5bcb527dc277985edb52c0d08f4dfe99ce3c358c6d31",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0636.md",
+      "numbered_groups": 13,
+      "sha256": "3cd671c337df138de67984296df1a4af09e751c1d8969374c8f9963ba9ce6a5b",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "numbered_groups": 8,
+      "sha256": "adf971f07b7118ce4f44ebf19b001f328a031cbe243927480ecfc1b926d66a1c",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0642.md",
+      "numbered_groups": 7,
+      "sha256": "d7dbd5b226c471ecfab9cbaa78ba7c173dac20e3b8258c0434ca968fbe9bbb22",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0643.md",
+      "numbered_groups": 6,
+      "sha256": "57cba031c6923dde953cd17b308fe0ce58f7813484b4c24ce4ea5cbde6442940",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0644.md",
+      "numbered_groups": 8,
+      "sha256": "566f82f5a9235c47cbeaae7a0daa77a137090cd0fa7071286a546051b850bf6e",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0645.md",
+      "numbered_groups": 13,
+      "sha256": "cbd1c98af6a04506279214b1327d4b8ad56a6539721fb6eff29bb605d0845cb7",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0647.md",
+      "numbered_groups": 9,
+      "sha256": "665bbe9c1df8df80d78d6673a5a10688aade71669a9c8a36e772e19316a6263d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0648.md",
+      "numbered_groups": 7,
+      "sha256": "24f297367eddc159ef978892703e1fbf9c4f01a409acf209caa2ae0114069deb",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0651.md",
+      "numbered_groups": 10,
+      "sha256": "d562ee2f344c88a2ed7663647053a3ae3bac2cc35254d4f6ff721eb8d80717a9",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0656.md",
+      "numbered_groups": 9,
+      "sha256": "c2f2c267b0d283469c872d93edc7e7e983f40530d59950dbbc9d973ce25b00dd",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0657.md",
+      "numbered_groups": 7,
+      "sha256": "9a43d44c6fda0a6773bdfc1ab26fb3657f3904a9d526aaaec112c968385b6f61",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0658.md",
+      "numbered_groups": 8,
+      "sha256": "fa09d5af6387ba1bc27ec7e91935566d7c9c4c5bf46dba3b9adf04cb00edde40",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0659.md",
+      "numbered_groups": 9,
+      "sha256": "62e69402ef88de51f93af8efa6a2d95bde7ef34d7333ec0aa80dac79289baa98",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0660.md",
+      "numbered_groups": 14,
+      "sha256": "f8a8267fb33829f653d2e951c74603a641ab27d8bb432e8548ea921eefe590f4",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0663.md",
+      "numbered_groups": 5,
+      "sha256": "45be1ce4298589885abd28c16e08960c1151f119a7e4b24dd42d9e39c22055d4",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0664.md",
+      "numbered_groups": 8,
+      "sha256": "052d641146f0969b49897f6b5a5fb728fb443fc948a55f807319210e5be782ab",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0672.md",
+      "numbered_groups": 10,
+      "sha256": "f4aa639035add99c3cf96420e86be9ae3aa2a52640d853e3f639ff6ad9154b9d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0679.md",
+      "numbered_groups": 5,
+      "sha256": "39197c6d7df488bdac03990462296b03aa939beecfaf323d53d6c459096802c9",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0681.md",
+      "numbered_groups": 8,
+      "sha256": "d7c429f7a9187a8191a67d7c8275fa406b7dc9b48b0daeea617b27839cef419d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0684.md",
+      "numbered_groups": 7,
+      "sha256": "533a667d11bedb9f5f3b1fd02f63888ddaaeb275de9b86ef9569c2b96c5ff92c",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0685.md",
+      "numbered_groups": 8,
+      "sha256": "199b2a198c34f9d98fa201532ac5726084293a9e42c594248f91c72ef07aa0e5",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0686.md",
+      "numbered_groups": 5,
+      "sha256": "abe7a92b87004ce3c463947960dcfe2ca4696fcac78a3301cfd9d149caf2aee8",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0690.md",
+      "numbered_groups": 7,
+      "sha256": "daee0f9d423b3f522d9f2943598eaca96657179a6b38791c97f9feade2323721",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0694.md",
+      "numbered_groups": 8,
+      "sha256": "035b174004705d82faeb9d3f3054aece621f04d08407b5569b456ebdd5915a6d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0697.md",
+      "numbered_groups": 12,
+      "sha256": "1e4dee56c38ec031bc6624689ab003cc052146a39384852706d03de818a1e16d",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0698.md",
+      "numbered_groups": 7,
+      "sha256": "23f7249ff41c9c14eb8f27618c7aa87b61b8fb0a7d2dd5aec827b8fc409652ca",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0699.md",
+      "numbered_groups": 9,
+      "sha256": "775b345f25bcbfc81a1c156200a31237b203e1a03c9ccbcedde45bfea0e41155",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0706.md",
+      "numbered_groups": 10,
+      "sha256": "2df7c67fd2e613e18f17628da928c8ad62c246255baf0674aff4d1e7da64cb5f",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0712.md",
+      "numbered_groups": 10,
+      "sha256": "b86f6a95262b91283825d1dd49103c91a85b5055ed7b2f064d2d08d0cb021203",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0722.md",
+      "numbered_groups": 11,
+      "sha256": "32a07983e532be5b01b6533533b7d1219d13b1fdc5bdb1a5b23e2e4f51dbc2e4",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0730.md",
+      "numbered_groups": 1,
+      "sha256": "19438c086fb0892bbad3d3b61d1034b032e4bfe7582a7b3340c49b4752318c99",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0731.md",
+      "numbered_groups": 2,
+      "sha256": "6c98e780e7a430eb77c969d59ade8bd142a120ed6ddbead49b99255b41b0b94c",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0739.md",
+      "numbered_groups": 2,
+      "sha256": "9b7ec7b2ecfbc0423c0dcb81f81c6302b2af0e492b445d6dcf93cf1f31e0f8fa",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0770.md",
+      "numbered_groups": 2,
+      "sha256": "3fc3306c931f584c25ebb31b55b17e697c86618a5d312b5543b2511936270743",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0771.md",
+      "numbered_groups": 2,
+      "sha256": "8a50ff3e942ec4bf2282fa72686dc9d8d4c78e2e3945008c4ae98da7adf732cd",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0795.md",
+      "numbered_groups": 2,
+      "sha256": "f550666004467534deb744a6f30d1694d1c962eb5ffce6a6f92a22a2699f3741",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0803.md",
+      "numbered_groups": 1,
+      "sha256": "396337a9bd24e92531da21e9e9ce1096a307d8224bfbc95b1f15dba4348d019a",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0804.md",
+      "numbered_groups": 1,
+      "sha256": "919705198db738ebd668002dd69c603be64def26e0be2a06b9435b6c60b73a2c",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0805.md",
+      "numbered_groups": 1,
+      "sha256": "b5a980356189ce00a65ac0212dfbd1c6c0587ddad00828821c6f1420f224fe9b",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0816.md",
+      "numbered_groups": 2,
+      "sha256": "4b6f991e3135f04565932ffe2a5a06e4c272891756b1b5749ea4ed6a0229ef7f",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0825.md",
+      "numbered_groups": 3,
+      "sha256": "2276dbc32077401d46a991f0a421edd4417f47ebcb6ee29320371cc9a62a1045",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0827.md",
+      "numbered_groups": 2,
+      "sha256": "e43b9d1b8a74ee38db4fdbb993ac285bfdaaaa48710235f570f9e2699035a9de",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0841.md",
+      "numbered_groups": 3,
+      "sha256": "031fe1314dc50983a716ea2637b9d3ad14903254aaff0b6b738cbce04d8a9698",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "numbered_groups": 13,
+      "sha256": "d9c74c17c870f65b09c151548bfc6b3316b4e966bfdf2b3dc832a472c0c0aed7",
+      "old_anchor_names_retained": true
+    },
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "numbered_groups": 12,
+      "sha256": "0e68f77ff20f2ca2537395d05e549a3f5192535d6e7233bc24e32efc7cc37e89",
+      "old_anchor_names_retained": true
+    }
+  ],
+  "new_events": [
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "event": 12,
+      "tag": "early-qi"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0825.md",
+      "event": 3,
+      "tag": "wu-death"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0816.md",
+      "event": 2,
+      "tag": "li-death"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0804.md",
+      "event": 1,
+      "tag": "wen-death"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0795.md",
+      "event": 2,
+      "tag": "cheng-death"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0731.md",
+      "event": 2,
+      "tag": "zhuang-death"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0645.md",
+      "event": 13,
+      "tag": "guan-death"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0500.md",
+      "event": 12,
+      "tag": "yan-death"
+    }
+  ],
+  "semantic_edits": [
+    {
+      "path": "years/bce-0700-0601/bce-0660.md",
+      "event": 6,
+      "old": "6. **哀姜因与庆父私通并参与闵公之死，逃往邾国；齐国后来将她带回，并在夷地杀死。** 僖公后来请求把她遗体送回鲁国安葬。 [[6]](#reading-note-6)",
+      "new": "6. **哀姜参与庆父之乱后逃往邾国。** 《左传》本段连叙她后来被齐人杀于夷、归尸及鲁国安葬；按经文分年，被杀和丧车归鲁接前659年，葬礼接前658年，不把后续都算在本年。闵公生母是哀姜之娣叔姜，《齐太公世家》称哀姜为母的说法另注。 [[6]](#reading-note-6)"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "event": 11,
+      "old": "11. **齐顷公前往晋国朝见晋景公，想尊奉晋景公为王，但晋景公不敢接受。** 齐顷公归国后，缩减苑囿、减轻赋税，赈济孤弱、探望病人，并以厚礼对待诸侯。 [[11]](#note-11)",
+      "new": "11. **齐顷公前往晋国朝见晋景公，归国后逐步调整施政。** 《齐太公世家》另记他想尊晋君为王而未成，又记开放苑囿、减赋、赈孤问疾、出积粟救民及厚礼诸侯。这是朝晋后的措施与在位期间总评，不把“直到去世百姓归附”写成前588年单年结果。 [[11]](#note-11)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0699.md",
+      "event": 7,
+      "old": "7. **齐僖公特别厚待侄子公孙无知。** 无知是僖公同母弟夷仲年的儿子，享有比照太子的俸禄、衣服和供养。这个特殊待遇使他获得超出普通公族的地位，也成为后来同齐襄公失和的原因。 [[7]](#note-7)",
+      "new": "7. **齐釐公的同母弟夷仲年去世，釐公特别厚待其子公孙无知。** 无知获得比照太子的俸禄、衣服和供养；这不等于他已正式被册为太子，却成为后来与齐襄公冲突的前情。 [[7]](#note-7)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0645.md",
+      "event": 5,
+      "old": "5. **晋惠公长期不履行当年向秦许诺的土地和赏赐，又在晋饥时受秦粮、秦饥时反拒绝卖粮，秦穆公终于出兵伐晋。** 秦晋关系从恩惠与婚姻彻底转向战争。 [[5]](#note-5)",
+      "new": "5. **晋惠公不履行早先向秦许诺的土地和赏赐，又在晋饥时受秦粮、秦饥时拒绝卖粮，秦穆公终于出兵伐晋。** 两国的婚姻、援立关系已经转成正面战争，但此后仍有议和，不写成永久断绝。 [[5]](#note-5)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0685.md",
+      "event": 2,
+      "old": "2. **夏，鲁国出兵伐齐，准备护送公子纠即位；公子小白却从莒国抢先进入齐国。** 小白在争位中先占一步，成为后来的齐桓公。 [[2]](#reading-note-2)",
+      "new": "2. **夏，鲁国出兵伐齐，准备护送公子纠即位；公子小白却从莒国抢先进入齐国。** 小白在争位中先占一步，成为后来的齐桓公。 《齐太公世家》另补管仲射中小白带钩、小白佯死和高、国内应的经过，作为本书补叙。 [[2]](#reading-note-2)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0685.md",
+      "event": 5,
+      "old": "5. **鲁大夫施伯看出齐国点名要活的管仲并不是只为报仇，而是准备重用，劝庄公先杀管仲；庄公没有听。** 鲁国最终把管仲囚送齐国。鲍叔牙接收管仲并向齐桓公推荐，管仲很快进入齐国权力中心，成为齐桓公后来称霸的重要执政者。 [[5]](#reading-note-5)",
+      "new": "5. **鲁大夫施伯看出齐国点名要活的管仲并不是只为报仇，而是准备重用，劝庄公先杀管仲；庄公没有听。** 鲁国最终把管仲囚送齐国。鲍叔牙接收管仲并向齐桓公推荐，管仲很快进入齐国权力中心，成为齐桓公后来称霸的重要执政者。 本卷还记到堂阜后鲍叔为管仲解除桎梏、斋祓后引见，说明用旧敌经历了说服与正式礼遇。 [[5]](#reading-note-5)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0672.md",
+      "event": 2,
+      "old": "2. **陈国杀御寇，公子完与颛孙逃往齐国。** 陈国内乱推动公子完进入齐国，这一支后来将在齐国坐大。 [[2]](#note-2)",
+      "new": "2. **陈国杀御寇，公子完与颛孙逃往齐国。** 陈国内乱推动公子完进入齐国，这一支后来将在齐国坐大。 本卷记齐桓公欲任完为卿，完辞让，最后出任工正；这一前情另与后来的田氏掌权分开。 [[2]](#note-2)"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0548.md",
+      "event": 3,
+      "old": "3. **夏五月乙亥，齐庄公在崔氏家中被杀。** 崔杼称病，庄公来探问后追随棠姜入内。贾举关门隔开随从，伏兵发动；庄公求和、求盟都遭拒，翻墙出逃也未能脱身，身边多人同时遇害。 [[3]](#note-3)",
+      "new": "3. **夏五月乙亥，齐庄公在崔氏家中被杀。** 崔杼称病，庄公来探问后追随棠姜入内。贾举关门隔开随从，伏兵发动；庄公求和、求盟都遭拒，翻墙出逃也未能脱身，身边多人同时遇害。 本卷还写庄公求在庙中自杀未获准、翻墙中股而坠；晏婴入哭又离去，具体说辞见同号原文。 [[3]](#note-3)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0481.md",
+      "event": 3,
+      "old": "3. **陈氏与阚止争权，齐简公被拘于舒州。** 齐简公任用阚止，陈恒与其互相戒备。陈逆被捕后，陈氏醉杀守者救走他，矛盾进一步升级。陈豹把阚止准备清除陈氏的谈话传回族中，陈氏决定先动手，武装进入公宫。阚止反攻失败，逃走后被捕杀；陈恒最终将简公拘在舒州。 [[3]](#note-3)",
+      "new": "3. **陈氏与阚止争权，齐简公被拘于舒州。** 齐简公任用阚止，陈恒与其互相戒备。陈逆被捕后，陈氏醉杀守者救走他，矛盾进一步升级。陈豹把阚止准备清除陈氏的谈话传回族中，陈氏决定先动手，武装进入公宫。阚止反攻失败，逃走后被捕杀；陈恒最终将简公拘在舒州。 同段还记大陆子方拒绝田豹赠车，认为不应在事主败亡后私受敌族恩惠。 [[3]](#note-3)"
+    }
+  ]
+}
