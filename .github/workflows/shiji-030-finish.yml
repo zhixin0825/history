@@ -1,0 +1,45 @@
+name: Shiji 030 complete review
+on:
+  push:
+    branches: ['work/shiji-030-finish-20261110']
+    paths: ['.shiji030_apply.py', '.github/workflows/shiji-030-finish.yml']
+permissions:
+  contents: write
+concurrency:
+  group: shiji-030-finish-review
+  cancel-in-progress: true
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Replay reviewed chapter and validate exact sources and chronology links
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git init .
+          git config user.name 'history-source-review'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --no-cone
+          printf '%s\n' '/README.md' '/.gitattributes' '/.shiji030_*' '/.github/workflows/shiji-030-finish.yml' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/**/*.json' '/sources/二十四史/txt/01_shiji_full.txt' '/sources/二十四史/txt/02_hanshu_full.txt' > .git/info/sparse-checkout
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
+          git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
+          python3 .shiji030_apply.py
+          git add --sparse README.md years meta sources
+          git diff --cached --stat
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete Shiji 030 Pingzhun Shu reading and chronological integration'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+          echo "RESULT_COMMIT=$(git rev-parse HEAD)"
+          echo "RESULT_TREE=$(git rev-parse HEAD^{tree})"
+      - name: Export revised files for independent readback
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: shiji030-final-readback
+          path: /tmp/shiji030-output
+          retention-days: 3
