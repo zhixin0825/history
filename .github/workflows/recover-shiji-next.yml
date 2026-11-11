@@ -1,0 +1,42 @@
+name: Recover next Shiji review
+on:
+  push:
+    branches: ['work/recover-shiji-next-20261110']
+    paths: ['.github/workflows/recover-shiji-next.yml']
+permissions:
+  contents: read
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Export current reading files and previous uncommitted payload without executing it
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git init .
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --no-cone
+          printf '%s\n' '/README.md' '/.gitattributes' '/.recover-next/**' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/**/*.json' '/sources/二十四史/txt/01_shiji_full.txt' '/sources/二十四史/txt/02_hanshu_full.txt' > .git/info/sparse-checkout
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
+          git checkout --detach FETCH_HEAD
+          mkdir -p /tmp/shiji-next
+          git ls-tree -rz --name-only HEAD > /tmp/shiji-next/manifest.bin
+          python3 - <<'PY'
+          import zipfile,hashlib,json
+          from pathlib import Path
+          files=[Path('README.md'),Path('.gitattributes')]+list(Path('.recover-next').glob('part*'))
+          for root in ('years','meta','sources'):
+              files.extend(p for p in Path(root).rglob('*') if p.is_file() and p.suffix in ('.md','.json','.txt'))
+          with zipfile.ZipFile('/tmp/shiji-next/snapshot.zip','w',compression=zipfile.ZIP_DEFLATED) as z:
+              for p in files:z.write(p,str(p))
+          print('FILES',len(files),'ARCHIVE_BYTES',Path('/tmp/shiji-next/snapshot.zip').stat().st_size)
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: shiji-next-recovery
+          path: /tmp/shiji-next
+          retention-days: 3
