@@ -1,0 +1,52 @@
+name: Shiji 033 complete review
+on:
+  push:
+    branches: ['work/shiji-033-20261111']
+    paths: ['.github/workflows/shiji-033-review.yml', '.shiji033-package/apply.py']
+permissions:
+  contents: write
+concurrency:
+  group: shiji-033-complete-review
+  cancel-in-progress: true
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Replay verified source readings and unified chronology checks on review branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git init .
+          git config user.name 'history-source-review'
+          git config user.email '32944152+zhixin0825@users.noreply.github.com'
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --no-cone
+          printf '%s\n' '/README.md' '/.gitattributes' '/.shiji033-package/**' '/.github/workflows/shiji-033-review.yml' '/years/**' '/meta/**' '/sources/**/*.md' '/sources/**/*.json' '/sources/二十四史/txt/01_shiji_full.txt' > .git/info/sparse-checkout
+          git -c protocol.version=2 fetch --depth=1 --filter=blob:none origin "$GITHUB_SHA"
+          git checkout -b "$GITHUB_REF_NAME" FETCH_HEAD
+          export HISTORY_ROOT="$PWD"
+          export HISTORY_BASE=/tmp/shiji033-baseline
+          export HISTORY_OUTPUT=/tmp/shiji033-output
+          export HISTORY_MANIFEST=/tmp/shiji033-manifest.bin
+          git ls-tree -rz --name-only HEAD > "$HISTORY_MANIFEST"
+          mkdir -p "$HISTORY_BASE"
+          cp -a README.md years meta sources "$HISTORY_BASE/"
+          python3 .shiji033-package/apply.py
+          git add --sparse README.md years meta sources
+          git diff --cached --stat | tail -12
+          if ! git diff --cached --quiet; then
+            git commit -m 'Complete Shiji volume033 Lu Zhougong reading and chronological integration'
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+          echo "RESULT_COMMIT=$(git rev-parse HEAD)"
+          echo "RESULT_TREE=$(git rev-parse HEAD^{tree})"
+      - name: Export exact changed files and validation for independent readback
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: shiji033-final-readback
+          path: /tmp/shiji033-output
+          retention-days: 3
