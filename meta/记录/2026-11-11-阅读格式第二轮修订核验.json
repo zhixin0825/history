@@ -1,0 +1,1284 @@
+{
+  "date": "2026-11-11",
+  "baseline_commit": "8c7be15043be4c8f8dc2bbca82d65f776785bae4",
+  "reference_pdf": {
+    "pages": 27,
+    "sha256": "c6157396df73bd6041f4edae75caba8558b05d19be94c24c60f622f081fe2bf1",
+    "comparison_scope": "连续编号正文、粗体主题、同号原文与返回链接；不复刻纸张、字体和固定分页"
+  },
+  "scope": {
+    "reading_pages": 773,
+    "year_pages": 766,
+    "period_pages": 7,
+    "changed_year_pages": 309,
+    "year_pages_added": 0,
+    "year_pages_deleted": 0,
+    "source_files_modified": []
+  },
+  "before": {
+    "events": 4977,
+    "notes": 4977,
+    "body_refs": 4977,
+    "backrefs": 4977,
+    "body_headings": 870,
+    "body_heading_pages": 171,
+    "body_source_links": 662,
+    "body_source_link_pages": 89,
+    "post_nav_pages": 147,
+    "quote_over_1000_pages": 43
+  },
+  "after": {
+    "events": 4977,
+    "notes": 4977,
+    "body_refs": 4977,
+    "backrefs": 4977,
+    "body_headings": 0,
+    "body_heading_pages": 0,
+    "body_source_links": 0,
+    "body_source_link_pages": 0,
+    "post_nav_pages": 0,
+    "quote_over_1000_pages": 1,
+    "external_links": 0
+  },
+  "heading_actions": {
+    "exact_duplicate_headings_removed": 224,
+    "generic_group_headings_removed": 215,
+    "other_event_headings_folded_or_removed": 417,
+    "compiler_sections_moved_to_existing_notes": 14,
+    "narrative_scope_rule": "跨条标题只保留属于本条的月份、人物及事件；后事和未定年限定不前移"
+  },
+  "source_link_migration": {
+    "links_removed_from_narrative": 662,
+    "already_present_in_corresponding_note": 601,
+    "added_to_corresponding_note": 61,
+    "note_groups_receiving_links": 51,
+    "related_research_links_moved": 35,
+    "tables_simplified": 40,
+    "historical_table_rows_preserved": 205
+  },
+  "old_anchors": {
+    "old_explicit": 25239,
+    "old_implicit_headings": 11761,
+    "missing_explicit": [],
+    "missing_implicit": []
+  },
+  "links": {
+    "relative_links": 42674,
+    "bad_paths": 0,
+    "bad_fragments": 0,
+    "unread_fragment_targets": 0,
+    "line_links": 742,
+    "explicit_line_anchors": 713,
+    "physical_line_references": 29,
+    "line_target_files": 91,
+    "unread_line_targets": 0,
+    "bad_line_ranges": 0,
+    "structural_problems": 0,
+    "readback_source_files": 633,
+    "readback_source_bytes": 9461873,
+    "readback_sha_errors": 0,
+    "pass": true
+  },
+  "quotations": {
+    "revision_branch_changed_pages": 43,
+    "new_or_shortened_blocks_verified": 104,
+    "additional_bce0585_true_quotation_verified": 1,
+    "total_new_or_shortened_blocks_verified": 105,
+    "country_year_cells_verified": 60,
+    "long_blocks_before": 47,
+    "long_blocks_after": 1,
+    "long_passage_retained": "years/ce-0001-0100/ce-0023.md#note-1，昆阳同一战事，1028字",
+    "normalization": "Only whitespace, source paragraph/anchor wrappers and paragraph-end ¶ marks are ignored; characters, annotations and punctuation remain unchanged. New clauses are never stitched across skipped text within one quotation block.",
+    "errors": [],
+    "long_page_dispositions": [
+      {
+        "path": "years/bce-0100-0001/bce-0037.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 2334,
+        "after_max_quote_characters": 125,
+        "actions": [
+          {
+            "path": "years/bce-0100-0001/bce-0037.md",
+            "note": 1,
+            "action": "精确节录",
+            "before_chars": 2334,
+            "after_chars": 34,
+            "reason": "京房传仅取郑弘免为庶人的直接原句；其余生平留完整底本。百官表跨年单元明示年份。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0117.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1087,
+        "after_max_quote_characters": 330,
+        "actions": [
+          {
+            "path": "years/bce-0200-0101/bce-0117.md",
+            "note": 9,
+            "action": "精确节录",
+            "before_chars": 1087,
+            "after_chars": 328,
+            "reason": "移除李敢、封王、霍去病等无关同年内容；完整保留颜异案件及前119/前117的考异。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0203.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 4111,
+        "after_max_quote_characters": 433,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0203.md",
+            "note": 8,
+            "action": "精确节录",
+            "before_chars": 4111,
+            "after_chars": 103,
+            "reason": "从全年长段选取十月袭齐、烹郦生、走高密及龙且来援两个连续片段；其余事件已有各自编号史料。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0203.md",
+            "notes": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "action": "逐条修正全页引文错配",
+            "reason": "原第2、4、6、9、14、15、17、18等注误用相邻事件短句，或抽取资料页的范围概述而未引本事。以仓内原始行L503-L509、L566-L568及通鉴L124逐条改配；第8注保持先前精确节录。",
+            "sources": [
+              "sources/本地分卷/史记/史记-卷007.md#L503",
+              "sources/本地分卷/史记/史记-卷007.md#L504",
+              "sources/本地分卷/史记/史记-卷007.md#L507",
+              "sources/本地分卷/史记/史记-卷007.md#L508",
+              "sources/本地分卷/史记/史记-卷007.md#L509",
+              "sources/本地分卷/史记/史记-卷008.md#L566",
+              "sources/本地分卷/史记/史记-卷008.md#L567",
+              "sources/本地分卷/史记/史记-卷008.md#L568",
+              "sources/固定版本/通鉴四库-卷010.md#L124"
+            ]
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0233.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1224,
+        "after_max_quote_characters": 348,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0233.md",
+            "note": 2,
+            "action": "精确节录",
+            "before_chars": 1224,
+            "after_chars": 390,
+            "reason": "本纪与通鉴均截取韩非事件；删去无关赵战、背景生平及史评，韩非本传的完整遇害段保留。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0257.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 315,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0257.md",
+            "note": 3,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "五十",
+            "before_chars": 1173,
+            "after_chars": 81,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0258.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 47,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0258.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十九",
+            "before_chars": 1173,
+            "after_chars": 47,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0259.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 64,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0259.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十八",
+            "before_chars": 1173,
+            "after_chars": 64,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0259.md",
+            "note": 2,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十八",
+            "before_chars": 1173,
+            "after_chars": 13,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0259.md",
+            "note": 3,
+            "action": "收紧相邻年份误带材料",
+            "reason": "保留对应出生、继位或任官的完整原句，去除同一来源原段内后年事项；源文件和旧页锚点不变。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0260.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 54,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0260.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十七",
+            "before_chars": 1173,
+            "after_chars": 54,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0261.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0261.md",
+            "note": 1,
+            "action": "改配精确原格",
+            "source": "sources/摘录/史记-卷015-六国年表.md#y0261",
+            "before_chars": 1173,
+            "after_chars": 11,
+            "reason": "秦本纪跨年概述改为本年赵栏直接证据；第2注仅留南郑秦栏。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0262.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 166,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0262.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十五",
+            "before_chars": 1173,
+            "after_chars": 29,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0262.md",
+            "note": 2,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十七",
+            "before_chars": 1173,
+            "after_chars": 30,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0263.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 428,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0263.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十四",
+            "before_chars": 1173,
+            "after_chars": 18,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0263.md",
+            "note": 2,
+            "action": "收紧相邻年份误带材料",
+            "reason": "保留对应出生、继位或任官的完整原句，去除同一来源原段内后年事项；源文件和旧页锚点不变。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0264.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0264.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十三",
+            "before_chars": 1173,
+            "after_chars": 22,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0265.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 35,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0265.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十二",
+            "before_chars": 1173,
+            "after_chars": 35,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0265.md",
+            "note": 4,
+            "action": "收紧相邻年份误带材料",
+            "reason": "保留对应出生、继位或任官的完整原句，去除同一来源原段内后年事项；源文件和旧页锚点不变。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0266.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0266.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十一",
+            "before_chars": 1173,
+            "after_chars": 15,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0266.md",
+            "note": 2,
+            "action": "收紧相邻年份误带材料",
+            "reason": "保留对应出生、继位或任官的完整原句，去除同一来源原段内后年事项；源文件和旧页锚点不变。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0267.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0267.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "四十",
+            "before_chars": 1173,
+            "after_chars": 15,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0269.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0269.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十八",
+            "before_chars": 1173,
+            "after_chars": 23,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0271.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0271.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十六",
+            "before_chars": 1173,
+            "after_chars": 20,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0272.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0272.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十五",
+            "before_chars": 1173,
+            "after_chars": 20,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0273.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 182,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0273.md",
+            "note": 3,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十四",
+            "before_chars": 1173,
+            "after_chars": 25,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0274.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0274.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十三",
+            "before_chars": 1173,
+            "after_chars": 27,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0275.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 34,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0275.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十二",
+            "before_chars": 1173,
+            "after_chars": 34,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0276.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0276.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十一",
+            "before_chars": 1173,
+            "after_chars": 21,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0277.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0277.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "三十",
+            "before_chars": 1173,
+            "after_chars": 22,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0278.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 42,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0278.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十九",
+            "before_chars": 1173,
+            "after_chars": 42,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0279.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 67,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0279.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十八",
+            "before_chars": 1173,
+            "after_chars": 24,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0280.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0280.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十七",
+            "before_chars": 1173,
+            "after_chars": 36,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0280.md",
+            "note": 2,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十七",
+            "before_chars": 1173,
+            "after_chars": 11,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0281.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 277,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0281.md",
+            "note": 2,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十六",
+            "before_chars": 1173,
+            "after_chars": 17,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0282.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0282.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十五",
+            "before_chars": 1173,
+            "after_chars": 25,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0283.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 40,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0283.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十四",
+            "before_chars": 1173,
+            "after_chars": 40,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0283.md",
+            "note": 3,
+            "action": "收紧相邻年份误带材料",
+            "reason": "保留对应出生、继位或任官的完整原句，去除同一来源原段内后年事项；源文件和旧页锚点不变。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0284.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 36,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0284.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十三",
+            "before_chars": 1173,
+            "after_chars": 36,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0285.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0285.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十二",
+            "before_chars": 1173,
+            "after_chars": 29,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0286.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 40,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0286.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十一",
+            "before_chars": 1173,
+            "after_chars": 40,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          },
+          {
+            "path": "years/bce-0300-0201/bce-0286.md",
+            "note": 2,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十九",
+            "before_chars": 1173,
+            "after_chars": 12,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0287.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0287.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "二十",
+            "before_chars": 1173,
+            "after_chars": 17,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0288.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0288.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十九",
+            "before_chars": 1173,
+            "after_chars": 29,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0289.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0289.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十八",
+            "before_chars": 1173,
+            "after_chars": 16,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0290.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 32,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0290.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十七",
+            "before_chars": 1173,
+            "after_chars": 32,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0291.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 46,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0291.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十六",
+            "before_chars": 1173,
+            "after_chars": 34,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0292.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 31,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0292.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十五",
+            "before_chars": 1173,
+            "after_chars": 25,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0293.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 32,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0293.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十四",
+            "before_chars": 1173,
+            "after_chars": 32,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0294.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1173,
+        "after_max_quote_characters": 37,
+        "actions": [
+          {
+            "path": "years/bce-0300-0201/bce-0294.md",
+            "note": 1,
+            "action": "精确节录",
+            "source": "sources/摘录/史记-卷005-秦本纪.md#p066",
+            "regnal": "十三",
+            "before_chars": 1173,
+            "after_chars": 37,
+            "reason": "仅保留对应事件原句；完整跨年原段仍由原链接查阅。"
+          }
+        ]
+      },
+      {
+        "path": "years/bce-0500-0401/bce-0482.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1028,
+        "after_max_quote_characters": 569,
+        "actions": [
+          {
+            "path": "years/bce-0500-0401/bce-0482.md",
+            "note": 8,
+            "action": "精确节录",
+            "before_chars": 1028,
+            "after_chars": 49,
+            "reason": "只保留彗星三见及哀公十三年对应，删去春秋全部日食清单和后世史论。"
+          }
+        ]
+      },
+      {
+        "path": "years/ce-0001-0100/ce-0023.md",
+        "status": "保留完整长段",
+        "before_max_quote_characters": 1028,
+        "after_max_quote_characters": 1028,
+        "actions": [
+          {
+            "path": "years/ce-0001-0100/ce-0023.md",
+            "note": 1,
+            "action": "保留完整长段",
+            "before_chars": 1028,
+            "after_chars": 1028,
+            "reason": "同一条昆阳战事从征兵、守城争议、刘秀出城调兵至合击溃败，1028字均为该战完整上下文；无跨年或整段与短句重复，不按阈值机械割断。"
+          }
+        ]
+      },
+      {
+        "path": "years/ce-0201-0300/ce-0220.md",
+        "status": "已精确节录/改配",
+        "before_max_quote_characters": 1001,
+        "after_max_quote_characters": 244,
+        "actions": [
+          {
+            "path": "years/ce-0201-0300/ce-0220.md",
+            "note": 1,
+            "action": "精确节录并去重",
+            "before_chars": 1001,
+            "after_chars": 441,
+            "reason": "保留曹操卒、军中发丧及司马孚治丧，删去帝号篇题、人物总评与下一条继位的半截句；晋书同一原行按第2/3/4条分拆。"
+          }
+        ]
+      }
+    ]
+  },
+  "chronology_notes_revised": [
+    "years/bce-0300-0201/bce-0280.md",
+    "years/bce-0300-0201/bce-0261.md",
+    "years/bce-0300-0201/bce-0256.md",
+    "years/bce-0600-0501/bce-0544.md",
+    "years/bce-0800-0701/bce-0769.md"
+  ],
+  "limits": [
+    "核验格式和链接不等于4977组史事实质全部重新独立考证。",
+    "节录不改变来源页全文；公元23年昆阳长引保留，不按字数机械删减。",
+    "纪年异说仍保留；最高卷号不代表卷028及所有前序卷次均已连续发布。",
+    "结构预览是Markdown转HTML后的静态检查，未逐页复刻PDF。"
+  ],
+  "changed_year_paths": [
+    "years/bce-0100-0001/bce-0037.md",
+    "years/bce-0100-0001/bce-0047.md",
+    "years/bce-0100-0001/bce-0048.md",
+    "years/bce-0100-0001/bce-0051.md",
+    "years/bce-0100-0001/bce-0052.md",
+    "years/bce-0100-0001/bce-0053.md",
+    "years/bce-0100-0001/bce-0054.md",
+    "years/bce-0100-0001/bce-0055.md",
+    "years/bce-0100-0001/bce-0056.md",
+    "years/bce-0100-0001/bce-0058.md",
+    "years/bce-0100-0001/bce-0059.md",
+    "years/bce-0100-0001/bce-0060.md",
+    "years/bce-0100-0001/bce-0061.md",
+    "years/bce-0100-0001/bce-0062.md",
+    "years/bce-0100-0001/bce-0063.md",
+    "years/bce-0100-0001/bce-0064.md",
+    "years/bce-0100-0001/bce-0065.md",
+    "years/bce-0100-0001/bce-0066.md",
+    "years/bce-0100-0001/bce-0067.md",
+    "years/bce-0100-0001/bce-0068.md",
+    "years/bce-0100-0001/bce-0069.md",
+    "years/bce-0100-0001/bce-0070.md",
+    "years/bce-0100-0001/bce-0071.md",
+    "years/bce-0100-0001/bce-0072.md",
+    "years/bce-0100-0001/bce-0073.md",
+    "years/bce-0100-0001/bce-0074.md",
+    "years/bce-0100-0001/bce-0075.md",
+    "years/bce-0100-0001/bce-0076.md",
+    "years/bce-0100-0001/bce-0077.md",
+    "years/bce-0100-0001/bce-0080.md",
+    "years/bce-0100-0001/bce-0082.md",
+    "years/bce-0100-0001/bce-0083.md",
+    "years/bce-0100-0001/bce-0085.md",
+    "years/bce-0100-0001/bce-0086.md",
+    "years/bce-0100-0001/bce-0087.md",
+    "years/bce-0100-0001/bce-0088.md",
+    "years/bce-0100-0001/bce-0089.md",
+    "years/bce-0100-0001/bce-0090.md",
+    "years/bce-0100-0001/bce-0091.md",
+    "years/bce-0100-0001/bce-0093.md",
+    "years/bce-0100-0001/bce-0098.md",
+    "years/bce-0200-0101/bce-0101.md",
+    "years/bce-0200-0101/bce-0102.md",
+    "years/bce-0200-0101/bce-0103.md",
+    "years/bce-0200-0101/bce-0104.md",
+    "years/bce-0200-0101/bce-0105.md",
+    "years/bce-0200-0101/bce-0106.md",
+    "years/bce-0200-0101/bce-0107.md",
+    "years/bce-0200-0101/bce-0108.md",
+    "years/bce-0200-0101/bce-0109.md",
+    "years/bce-0200-0101/bce-0110.md",
+    "years/bce-0200-0101/bce-0111.md",
+    "years/bce-0200-0101/bce-0112.md",
+    "years/bce-0200-0101/bce-0113.md",
+    "years/bce-0200-0101/bce-0114.md",
+    "years/bce-0200-0101/bce-0115.md",
+    "years/bce-0200-0101/bce-0116.md",
+    "years/bce-0200-0101/bce-0117.md",
+    "years/bce-0200-0101/bce-0118.md",
+    "years/bce-0200-0101/bce-0119.md",
+    "years/bce-0200-0101/bce-0120.md",
+    "years/bce-0200-0101/bce-0121.md",
+    "years/bce-0200-0101/bce-0122.md",
+    "years/bce-0200-0101/bce-0123.md",
+    "years/bce-0200-0101/bce-0124.md",
+    "years/bce-0200-0101/bce-0125.md",
+    "years/bce-0200-0101/bce-0126.md",
+    "years/bce-0200-0101/bce-0127.md",
+    "years/bce-0200-0101/bce-0128.md",
+    "years/bce-0200-0101/bce-0129.md",
+    "years/bce-0200-0101/bce-0130.md",
+    "years/bce-0200-0101/bce-0131.md",
+    "years/bce-0200-0101/bce-0132.md",
+    "years/bce-0200-0101/bce-0133.md",
+    "years/bce-0200-0101/bce-0134.md",
+    "years/bce-0200-0101/bce-0135.md",
+    "years/bce-0200-0101/bce-0136.md",
+    "years/bce-0200-0101/bce-0137.md",
+    "years/bce-0200-0101/bce-0138.md",
+    "years/bce-0200-0101/bce-0139.md",
+    "years/bce-0200-0101/bce-0140.md",
+    "years/bce-0200-0101/bce-0141.md",
+    "years/bce-0200-0101/bce-0142.md",
+    "years/bce-0200-0101/bce-0143.md",
+    "years/bce-0200-0101/bce-0144.md",
+    "years/bce-0200-0101/bce-0145.md",
+    "years/bce-0200-0101/bce-0146.md",
+    "years/bce-0200-0101/bce-0147.md",
+    "years/bce-0200-0101/bce-0148.md",
+    "years/bce-0200-0101/bce-0149.md",
+    "years/bce-0200-0101/bce-0150.md",
+    "years/bce-0200-0101/bce-0151.md",
+    "years/bce-0200-0101/bce-0152.md",
+    "years/bce-0200-0101/bce-0153.md",
+    "years/bce-0200-0101/bce-0154.md",
+    "years/bce-0200-0101/bce-0155.md",
+    "years/bce-0200-0101/bce-0156.md",
+    "years/bce-0200-0101/bce-0157.md",
+    "years/bce-0200-0101/bce-0158.md",
+    "years/bce-0200-0101/bce-0159.md",
+    "years/bce-0200-0101/bce-0160.md",
+    "years/bce-0200-0101/bce-0161.md",
+    "years/bce-0200-0101/bce-0162.md",
+    "years/bce-0200-0101/bce-0163.md",
+    "years/bce-0200-0101/bce-0164.md",
+    "years/bce-0200-0101/bce-0165.md",
+    "years/bce-0200-0101/bce-0166.md",
+    "years/bce-0200-0101/bce-0167.md",
+    "years/bce-0200-0101/bce-0168.md",
+    "years/bce-0200-0101/bce-0169.md",
+    "years/bce-0200-0101/bce-0170.md",
+    "years/bce-0200-0101/bce-0171.md",
+    "years/bce-0200-0101/bce-0172.md",
+    "years/bce-0200-0101/bce-0173.md",
+    "years/bce-0200-0101/bce-0174.md",
+    "years/bce-0200-0101/bce-0175.md",
+    "years/bce-0200-0101/bce-0176.md",
+    "years/bce-0200-0101/bce-0177.md",
+    "years/bce-0200-0101/bce-0178.md",
+    "years/bce-0200-0101/bce-0179.md",
+    "years/bce-0200-0101/bce-0180.md",
+    "years/bce-0200-0101/bce-0181.md",
+    "years/bce-0200-0101/bce-0182.md",
+    "years/bce-0200-0101/bce-0183.md",
+    "years/bce-0200-0101/bce-0184.md",
+    "years/bce-0200-0101/bce-0185.md",
+    "years/bce-0200-0101/bce-0186.md",
+    "years/bce-0200-0101/bce-0187.md",
+    "years/bce-0200-0101/bce-0188.md",
+    "years/bce-0200-0101/bce-0189.md",
+    "years/bce-0200-0101/bce-0190.md",
+    "years/bce-0200-0101/bce-0191.md",
+    "years/bce-0200-0101/bce-0192.md",
+    "years/bce-0200-0101/bce-0193.md",
+    "years/bce-0200-0101/bce-0194.md",
+    "years/bce-0200-0101/bce-0195.md",
+    "years/bce-0200-0101/bce-0196.md",
+    "years/bce-0200-0101/bce-0197.md",
+    "years/bce-0200-0101/bce-0198.md",
+    "years/bce-0200-0101/bce-0199.md",
+    "years/bce-0200-0101/bce-0200.md",
+    "years/bce-0300-0201/bce-0201.md",
+    "years/bce-0300-0201/bce-0202.md",
+    "years/bce-0300-0201/bce-0203.md",
+    "years/bce-0300-0201/bce-0204.md",
+    "years/bce-0300-0201/bce-0205.md",
+    "years/bce-0300-0201/bce-0206.md",
+    "years/bce-0300-0201/bce-0207.md",
+    "years/bce-0300-0201/bce-0208.md",
+    "years/bce-0300-0201/bce-0209.md",
+    "years/bce-0300-0201/bce-0210.md",
+    "years/bce-0300-0201/bce-0211.md",
+    "years/bce-0300-0201/bce-0212.md",
+    "years/bce-0300-0201/bce-0217.md",
+    "years/bce-0300-0201/bce-0219.md",
+    "years/bce-0300-0201/bce-0220.md",
+    "years/bce-0300-0201/bce-0221.md",
+    "years/bce-0300-0201/bce-0233.md",
+    "years/bce-0300-0201/bce-0256.md",
+    "years/bce-0300-0201/bce-0257.md",
+    "years/bce-0300-0201/bce-0258.md",
+    "years/bce-0300-0201/bce-0259.md",
+    "years/bce-0300-0201/bce-0260.md",
+    "years/bce-0300-0201/bce-0261.md",
+    "years/bce-0300-0201/bce-0262.md",
+    "years/bce-0300-0201/bce-0263.md",
+    "years/bce-0300-0201/bce-0264.md",
+    "years/bce-0300-0201/bce-0265.md",
+    "years/bce-0300-0201/bce-0266.md",
+    "years/bce-0300-0201/bce-0267.md",
+    "years/bce-0300-0201/bce-0269.md",
+    "years/bce-0300-0201/bce-0271.md",
+    "years/bce-0300-0201/bce-0272.md",
+    "years/bce-0300-0201/bce-0273.md",
+    "years/bce-0300-0201/bce-0274.md",
+    "years/bce-0300-0201/bce-0275.md",
+    "years/bce-0300-0201/bce-0276.md",
+    "years/bce-0300-0201/bce-0277.md",
+    "years/bce-0300-0201/bce-0278.md",
+    "years/bce-0300-0201/bce-0279.md",
+    "years/bce-0300-0201/bce-0280.md",
+    "years/bce-0300-0201/bce-0281.md",
+    "years/bce-0300-0201/bce-0282.md",
+    "years/bce-0300-0201/bce-0283.md",
+    "years/bce-0300-0201/bce-0284.md",
+    "years/bce-0300-0201/bce-0285.md",
+    "years/bce-0300-0201/bce-0286.md",
+    "years/bce-0300-0201/bce-0287.md",
+    "years/bce-0300-0201/bce-0288.md",
+    "years/bce-0300-0201/bce-0289.md",
+    "years/bce-0300-0201/bce-0290.md",
+    "years/bce-0300-0201/bce-0291.md",
+    "years/bce-0300-0201/bce-0292.md",
+    "years/bce-0300-0201/bce-0293.md",
+    "years/bce-0300-0201/bce-0294.md",
+    "years/bce-0400-0301/bce-0315.md",
+    "years/bce-0400-0301/bce-0328.md",
+    "years/bce-0400-0301/bce-0336.md",
+    "years/bce-0400-0301/bce-0337.md",
+    "years/bce-0400-0301/bce-0338.md",
+    "years/bce-0400-0301/bce-0341.md",
+    "years/bce-0400-0301/bce-0343.md",
+    "years/bce-0400-0301/bce-0351.md",
+    "years/bce-0400-0301/bce-0353.md",
+    "years/bce-0400-0301/bce-0356.md",
+    "years/bce-0400-0301/bce-0381.md",
+    "years/bce-0400-0301/bce-0397.md",
+    "years/bce-0500-0401/bce-0453.md",
+    "years/bce-0500-0401/bce-0461.md",
+    "years/bce-0500-0401/bce-0468.md",
+    "years/bce-0500-0401/bce-0469.md",
+    "years/bce-0500-0401/bce-0470.md",
+    "years/bce-0500-0401/bce-0471.md",
+    "years/bce-0500-0401/bce-0472.md",
+    "years/bce-0500-0401/bce-0473.md",
+    "years/bce-0500-0401/bce-0474.md",
+    "years/bce-0500-0401/bce-0475.md",
+    "years/bce-0500-0401/bce-0476.md",
+    "years/bce-0500-0401/bce-0477.md",
+    "years/bce-0500-0401/bce-0478.md",
+    "years/bce-0500-0401/bce-0479.md",
+    "years/bce-0500-0401/bce-0480.md",
+    "years/bce-0500-0401/bce-0481.md",
+    "years/bce-0500-0401/bce-0482.md",
+    "years/bce-0500-0401/bce-0483.md",
+    "years/bce-0500-0401/bce-0484.md",
+    "years/bce-0500-0401/bce-0485.md",
+    "years/bce-0500-0401/bce-0486.md",
+    "years/bce-0500-0401/bce-0487.md",
+    "years/bce-0500-0401/bce-0488.md",
+    "years/bce-0500-0401/bce-0489.md",
+    "years/bce-0500-0401/bce-0490.md",
+    "years/bce-0500-0401/bce-0491.md",
+    "years/bce-0500-0401/bce-0492.md",
+    "years/bce-0500-0401/bce-0493.md",
+    "years/bce-0500-0401/bce-0494.md",
+    "years/bce-0500-0401/bce-0495.md",
+    "years/bce-0500-0401/bce-0496.md",
+    "years/bce-0500-0401/bce-0497.md",
+    "years/bce-0500-0401/bce-0498.md",
+    "years/bce-0500-0401/bce-0499.md",
+    "years/bce-0500-0401/bce-0500.md",
+    "years/bce-0600-0501/bce-0501.md",
+    "years/bce-0600-0501/bce-0502.md",
+    "years/bce-0600-0501/bce-0503.md",
+    "years/bce-0600-0501/bce-0504.md",
+    "years/bce-0600-0501/bce-0505.md",
+    "years/bce-0600-0501/bce-0506.md",
+    "years/bce-0600-0501/bce-0507.md",
+    "years/bce-0600-0501/bce-0508.md",
+    "years/bce-0600-0501/bce-0509.md",
+    "years/bce-0600-0501/bce-0510.md",
+    "years/bce-0600-0501/bce-0511.md",
+    "years/bce-0600-0501/bce-0512.md",
+    "years/bce-0600-0501/bce-0513.md",
+    "years/bce-0600-0501/bce-0514.md",
+    "years/bce-0600-0501/bce-0515.md",
+    "years/bce-0600-0501/bce-0516.md",
+    "years/bce-0600-0501/bce-0517.md",
+    "years/bce-0600-0501/bce-0518.md",
+    "years/bce-0600-0501/bce-0519.md",
+    "years/bce-0600-0501/bce-0520.md",
+    "years/bce-0600-0501/bce-0521.md",
+    "years/bce-0600-0501/bce-0522.md",
+    "years/bce-0600-0501/bce-0523.md",
+    "years/bce-0600-0501/bce-0524.md",
+    "years/bce-0600-0501/bce-0525.md",
+    "years/bce-0600-0501/bce-0526.md",
+    "years/bce-0600-0501/bce-0527.md",
+    "years/bce-0600-0501/bce-0528.md",
+    "years/bce-0600-0501/bce-0529.md",
+    "years/bce-0600-0501/bce-0530.md",
+    "years/bce-0600-0501/bce-0531.md",
+    "years/bce-0600-0501/bce-0532.md",
+    "years/bce-0600-0501/bce-0533.md",
+    "years/bce-0600-0501/bce-0534.md",
+    "years/bce-0600-0501/bce-0535.md",
+    "years/bce-0600-0501/bce-0536.md",
+    "years/bce-0600-0501/bce-0537.md",
+    "years/bce-0600-0501/bce-0538.md",
+    "years/bce-0600-0501/bce-0539.md",
+    "years/bce-0600-0501/bce-0540.md",
+    "years/bce-0600-0501/bce-0541.md",
+    "years/bce-0600-0501/bce-0544.md",
+    "years/bce-0600-0501/bce-0551.md",
+    "years/bce-0600-0501/bce-0552.md",
+    "years/bce-0600-0501/bce-0556.md",
+    "years/bce-0600-0501/bce-0561.md",
+    "years/bce-0600-0501/bce-0562.md",
+    "years/bce-0600-0501/bce-0563.md",
+    "years/bce-0600-0501/bce-0566.md",
+    "years/bce-0600-0501/bce-0585.md",
+    "years/bce-0700-0601/bce-0615.md",
+    "years/bce-0700-0601/bce-0620.md",
+    "years/bce-0700-0601/bce-0621.md",
+    "years/bce-0700-0601/bce-0627.md",
+    "years/bce-0700-0601/bce-0636.md",
+    "years/bce-0700-0601/bce-0645.md",
+    "years/bce-0700-0601/bce-0651.md",
+    "years/bce-0700-0601/bce-0658.md",
+    "years/bce-0700-0601/bce-0660.md",
+    "years/bce-0700-0601/bce-0681.md",
+    "years/bce-0700-0601/bce-0685.md",
+    "years/bce-0800-0701/bce-0769.md",
+    "years/ce-0001-0100/ce-0022.md",
+    "years/ce-0001-0100/ce-0023.md",
+    "years/ce-0001-0100/ce-0024.md",
+    "years/ce-0001-0100/ce-0025.md",
+    "years/ce-0201-0300/ce-0220.md"
+  ]
+}
