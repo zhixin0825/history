@@ -1,0 +1,265 @@
+{
+  "volume": "051",
+  "title": "荆燕世家",
+  "status": "author_and_independent_content_checks_passed",
+  "independent_review_status": "passed_after_corrections",
+  "baseline_commit": "352882a1bd5056dc006ff3de153d61c4bbebdd74",
+  "scope": {
+    "prose_units": 11,
+    "later_praise_units": 1,
+    "editorial_labels": 2,
+    "html_paragraphs": 12,
+    "year_pages": 12,
+    "quote_placements": 19,
+    "new_year_groups": 1
+  },
+  "source_integrity": {
+    "primary_txt_sha256": "693d22edbdd35e4c989dbbbf593368ab38df1e9a4270c6939dfb7ccba8f9d310",
+    "primary_txt_bytes": 4166,
+    "primary_lines": [
+      4292,
+      4306
+    ],
+    "raw_html_sha256": "725282c39b1e230fb4b7dd52f5e93c75aaed733d8d9e0c1e1b822f52b83d4c1b",
+    "raw_html_bytes": 10316,
+    "html_paragraph_text_preserved": true
+  },
+  "units": [
+    {
+      "unit": "P001",
+      "line": 4293,
+      "raw_characters": 44,
+      "covered_characters": 44,
+      "reading_characters": 168,
+      "destinations": 1
+    },
+    {
+      "unit": "P002",
+      "line": 4294,
+      "raw_characters": 93,
+      "covered_characters": 93,
+      "reading_characters": 183,
+      "destinations": 1
+    },
+    {
+      "unit": "P003",
+      "line": 4295,
+      "raw_characters": 103,
+      "covered_characters": 103,
+      "reading_characters": 216,
+      "destinations": 2
+    },
+    {
+      "unit": "P004",
+      "line": 4296,
+      "raw_characters": 130,
+      "covered_characters": 130,
+      "reading_characters": 251,
+      "destinations": 1
+    },
+    {
+      "unit": "P005",
+      "line": 4297,
+      "raw_characters": 62,
+      "covered_characters": 62,
+      "reading_characters": 151,
+      "destinations": 3
+    },
+    {
+      "unit": "P006",
+      "line": 4299,
+      "raw_characters": 45,
+      "covered_characters": 45,
+      "reading_characters": 133,
+      "destinations": 2
+    },
+    {
+      "unit": "P007",
+      "line": 4300,
+      "raw_characters": 468,
+      "covered_characters": 468,
+      "reading_characters": 764,
+      "destinations": 1
+    },
+    {
+      "unit": "P008",
+      "line": 4301,
+      "raw_characters": 112,
+      "covered_characters": 112,
+      "reading_characters": 257,
+      "destinations": 3
+    },
+    {
+      "unit": "P009",
+      "line": 4302,
+      "raw_characters": 21,
+      "covered_characters": 21,
+      "reading_characters": 136,
+      "destinations": 2
+    },
+    {
+      "unit": "P010",
+      "line": 4303,
+      "raw_characters": 136,
+      "covered_characters": 136,
+      "reading_characters": 330,
+      "destinations": 1
+    },
+    {
+      "unit": "P011",
+      "line": 4305,
+      "raw_characters": 72,
+      "covered_characters": 72,
+      "reading_characters": 231,
+      "destinations": 1
+    },
+    {
+      "unit": "Z001",
+      "line": 4306,
+      "raw_characters": 86,
+      "covered_characters": 86,
+      "reading_characters": 219,
+      "destinations": 1
+    }
+  ],
+  "old_content_preservation": [
+    {
+      "path": "years/bce-0200-0101/bce-0127.md",
+      "old_anchors": 217,
+      "old_headings": 59,
+      "old_quote_lines": 90,
+      "body_groups": 45,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0177.md",
+      "old_anchors": 61,
+      "old_headings": 19,
+      "old_quote_lines": 59,
+      "body_groups": 11,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0178.md",
+      "old_anchors": 63,
+      "old_headings": 21,
+      "old_quote_lines": 22,
+      "body_groups": 13,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0179.md",
+      "old_anchors": 105,
+      "old_headings": 32,
+      "old_quote_lines": 81,
+      "body_groups": 17,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0180.md",
+      "old_anchors": 136,
+      "old_headings": 44,
+      "old_quote_lines": 163,
+      "body_groups": 26,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0181.md",
+      "old_anchors": 64,
+      "old_headings": 26,
+      "old_quote_lines": 68,
+      "body_groups": 14,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0195.md",
+      "old_anchors": 87,
+      "old_headings": 37,
+      "old_quote_lines": 37,
+      "body_groups": 19,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0196.md",
+      "old_anchors": 42,
+      "old_headings": 19,
+      "old_quote_lines": 24,
+      "body_groups": 9,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0201.md",
+      "old_anchors": 54,
+      "old_headings": 25,
+      "old_quote_lines": 21,
+      "body_groups": 12,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0202.md",
+      "old_anchors": 105,
+      "old_headings": 46,
+      "old_quote_lines": 39,
+      "body_groups": 24,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0204.md",
+      "old_anchors": 73,
+      "old_headings": 27,
+      "old_quote_lines": 44,
+      "body_groups": 25,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0206.md",
+      "old_anchors": 116,
+      "old_headings": 52,
+      "old_quote_lines": 94,
+      "body_groups": 27,
+      "preserved": true
+    }
+  ],
+  "link_checks": {
+    "new_local_links_checked": 256,
+    "errors": []
+  },
+  "manual_review": {
+    "full_primary_and_all_ancient_notes_read": true,
+    "full_translation_including_two_tian_sheng_speeches": true,
+    "chronological_disagreements_preserved": [
+      "白马津汉三／四年",
+      "荆五十二／五十三城县",
+      "琅邪封高后六／七年",
+      "吕产／吕台、吕王／王代",
+      "燕齐两传主动合谋／被留齐",
+      "迁燕十月／十二月",
+      "刘嘉二十六／九年",
+      "定国二十四／四十二年",
+      "定国元朔元／二年"
+    ],
+    "source_layers_separated": true,
+    "source_files_modified": false,
+    "root_independent_content_review_claimed": true,
+    "independent_status_added_by_integrator": true
+  },
+  "errors": [],
+  "author_check_scope": "原作者自检数按该卷提交统计；跨卷合并后的结构与链接以批次整合核验为准。",
+  "independent_content_review": {
+    "status": "passed_after_corrections",
+    "date": "2026-11-12",
+    "reviewers": [
+      "root"
+    ],
+    "prose_units": 11,
+    "later_praise_units": 1,
+    "commentary_paragraphs": 12,
+    "actual_quote_placements": 19,
+    "reading_pages": 12,
+    "author_commit_reviewed": "8d3a21e8f2b76b535dc61f04e2f780656e9be549",
+    "scope_boundary": "完整原文与白话、三家注及实际受影响正文和引用说明；未声称重读全站所有旧文。",
+    "final_shared_prose_review": "整合者与author051对读合并后的6个年份、13个指定正文组，接口修订已回读。",
+    "report": "史记-卷050至052-独立内容复核.md",
+    "unresolved_issues": []
+  }
+}

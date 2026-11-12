@@ -1,0 +1,81 @@
+{
+  "volume": "050",
+  "title": "楚元王世家",
+  "baseline_commit": "901a32ff40563728f1cd1378d61fc7f3e6f4bf62",
+  "remote_baseline_commit": "352882a1bd5056dc006ff3de153d61c4bbebdd74",
+  "verification_date": "2026-11-12",
+  "status": "author_and_independent_content_checks_passed",
+  "checks": {
+    "primary_paragraphs_exact": 10,
+    "commentary_paragraphs_exact": 11,
+    "all_units": 11,
+    "editorial_labels_exact": 2,
+    "primary_quotes": 25,
+    "parallel_quotes": 12,
+    "registered_quotes": 37,
+    "destinations": 24,
+    "all_characters_covered": true,
+    "old_explicit_anchors_preserved": 826,
+    "old_blockquote_lines_preserved": 440,
+    "years_pages_checked": 12,
+    "new_period_pages": 0,
+    "new_groups": 1,
+    "promoted_existing_annex_groups": 1,
+    "modified_existing_groups": 11
+  },
+  "errors": [],
+  "warnings": [],
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷050.txt": "87be1338f99790acd3c531fba57248677dac45577d3e079bdc84cba434327505",
+    "sources/史记三家注/原始HTML/050.htm": "51a1e28450dbf7f1c3355d305147bebb56b0f5279434138d3bde859dd531af21",
+    "sources/史记三家注/卷050.md": "8ffbb7e72d21b4bf39145fbfedd7b74997353ba7f714c957153460a81325b8e9",
+    "sources/摘录/史记-卷050-楚元王世家.md": "6d40f19817b183194b3209a54e6db59dde8d9525d89b6f0a7d52e7d815ec72a3"
+  },
+  "text_layers": {
+    "primary_prose_and_discussion": 10,
+    "later_praise": 1,
+    "editorial_labels": 2,
+    "mixed_later_passage": "P006末句宣帝朝，正义疑褚补；整段未强定作者"
+  },
+  "new_pages": [],
+  "touched_pages": [
+    "years/bce-0300-0201/bce-0201.md",
+    "years/bce-0200-0101/bce-0200.md",
+    "years/bce-0200-0101/bce-0179.md",
+    "years/bce-0200-0101/bce-0175.md",
+    "years/bce-0200-0101/bce-0154.md",
+    "years/bce-0200-0101/bce-0151.md",
+    "years/bce-0200-0101/bce-0129.md",
+    "years/bce-0200-0101/bce-0115.md",
+    "years/bce-0100-0001/bce-0069.md",
+    "years/bce-0200-0101/bce-0178.md",
+    "years/bce-0200-0101/bce-0166.md",
+    "years/bce-0200-0101/bce-0165.md"
+  ],
+  "editorial_decisions": [
+    "前200羹颉侯由旧侯表提升正文第11组，旧表留指向，未新造同年第二次封侯。",
+    "刘交23年采用前179卒；刘礼受王与元年分开；汉表注12与汉传14分别照录。",
+    "刘纯之后补核延寿身份，地节元年案归前69；主TXT地节二年留异，不在前68重复国除。",
+    "太史公评论与唐赞分层；穆生、韦孟、申公与防与先生作为相应同号附读，不假精确。",
+    "标签劉遂、評論原字保全于JSON和读本，不计叙事事件。"
+  ],
+  "independent_content_review": {
+    "status": "passed_after_corrections",
+    "date": "2026-11-12",
+    "reviewers": [
+      "root",
+      "author051"
+    ],
+    "prose_units": 10,
+    "later_praise_units": 1,
+    "commentary_paragraphs": 11,
+    "actual_quote_placements": 37,
+    "reading_pages": 12,
+    "author_commit_reviewed": "64d2f1e8dde6c2f560c5521b8c24a156346dc534",
+    "scope_boundary": "完整原文与白话、三家注及实际受影响正文和引用说明；未声称重读全站所有旧文。",
+    "final_shared_prose_review": "整合者与author051对读合并后的6个年份、13个指定正文组，接口修订已回读。",
+    "report": "史记-卷050至052-独立内容复核.md",
+    "unresolved_issues": []
+  },
+  "author_check_scope": "原作者自检数按该卷提交统计；跨卷合并后的结构与链接以批次整合核验为准。"
+}
