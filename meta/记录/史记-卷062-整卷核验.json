@@ -1,0 +1,123 @@
+{
+  "volume": "062",
+  "title": "管晏列传",
+  "baseline_commit": "14d4508",
+  "baseline_remote_commit": "2a9b2a6bcec8365d23c2644b78ced2b4077a1b19",
+  "verification_date": "2026-11-12",
+  "status": "passed",
+  "checks": {
+    "primary_paragraphs_exact": 12,
+    "raw_existing_tang_praise_exact": 0,
+    "commentary_paragraphs_read": 14,
+    "supplement_from_commentary": 2,
+    "editorial_labels_exact": 2,
+    "all_units": 14,
+    "registered_quotes": 21,
+    "destinations": 21,
+    "source_hanzi": 1179,
+    "covered_hanzi": 1179,
+    "all_characters_covered": true,
+    "years_pages_checked": 9,
+    "new_period_pages": 2,
+    "old_explicit_anchors_preserved": 387,
+    "old_explicit_and_heading_anchors_preserved": 541,
+    "old_blockquote_lines_preserved": 252,
+    "new_relative_links_checked_batch": 278
+  },
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷062.txt": "b760b22f0757f6a7d51e3c9292264e7bae0fcc89800ece980439c01cc5ffd899",
+    "sources/史记三家注/原始HTML/062.htm": "d4ddf50d3ee8ee608e6ea0a62ccd020d2c31b16e369638d3ba175f7c1c31384e",
+    "sources/史记三家注/卷062.md": "56caa68721829bbf465e061a7eeccf734eece35768f6d292656a475d5a203574",
+    "sources/摘录/史记-卷062-管晏列传.md": "aef07f02cd90423e234db4f9588e832bc97c5a4297ef3dd75fb1575b23af7c55"
+  },
+  "errors": [],
+  "text_layers": {
+    "primary_P_units": 12,
+    "main_narrative_or_overview_units": [
+      "P001",
+      "P002",
+      "P003",
+      "P004",
+      "P005",
+      "P006",
+      "P007",
+      "P008",
+      "P009"
+    ],
+    "sima_qian_argument_units": [
+      "P010",
+      "P011",
+      "P012"
+    ],
+    "commentary_supplement": "N001",
+    "tang_praise_supplement": "Z001"
+  },
+  "touched_pages": [
+    "years/bce-0600-0501/bce-0548.md",
+    "years/bce-0600-0501/bce-0556.md",
+    "years/bce-0600-0501/未定年-晏婴相政与知人故事.md",
+    "years/bce-0700-0601/bce-0645.md",
+    "years/bce-0700-0601/bce-0656.md",
+    "years/bce-0700-0601/bce-0664.md",
+    "years/bce-0700-0601/bce-0681.md",
+    "years/bce-0700-0601/bce-0685.md",
+    "years/bce-0700-0601/未定年-管仲施政与齐国传承.md"
+  ],
+  "author_content_review": {
+    "primary_and_supplement_units_read": 14,
+    "commentary_paragraphs_read": 14,
+    "full_record": "meta/记录/史记-卷062-逐段全读.json",
+    "page_scope": "通读本卷新增及改写正文、同号原引和说明，连同受影响旧页相关事件及归年依据。既有远年无关条目不冒称本轮重新考证。",
+    "modern_reference_reading": [
+      {
+        "site": "维基百科",
+        "title": "管仲",
+        "opened": true,
+        "read_scope": "资料栏、生平与政治相关片段；网页资料栏与正文生年不同",
+        "used_as": "卒年回核旧齐世家条，生年不采用"
+      },
+      {
+        "site": "维基百科",
+        "title": "晏婴",
+        "opened": true,
+        "read_scope": "身份、历三君及哭庄公部分",
+        "used_as": "不将网页生卒年作为本卷明确记载"
+      },
+      {
+        "site": "百度百科可读bkso页",
+        "title": "管晏列传",
+        "opened": true,
+        "read_scope": "检索呈现第34—81及194—246行：介绍、御者译、太史公译及赏析",
+        "limitation": "中间未连续呈现的原文和译文不冒称全读；未抄用现代译文"
+      }
+    ]
+  },
+  "independent_content_review": {
+    "status": "passed_after_corrections",
+    "reviewers": [
+      "整合者",
+      "其他卷作者担任的交叉复核者"
+    ],
+    "record": "meta/记录/史记-卷058至062-独立内容复核.md",
+    "batch_record": "meta/记录/2026-11-12-史记卷058至062整合核验.json",
+    "scope_boundary": "全五卷本轮原文、译读及新增/改写史事有作者之外的实际阅读；全库检查是结构和引用检查，不宣称重新考证全部旧卷。原典分歧按各卷考证保存，不视为已证实消除。"
+  },
+  "unresolved_source_issues": [
+    "小睗、緦何疑误依注本释读，原引未改。",
+    "鲍叔后裔文势与索隐管氏十代谱指向不同。",
+    "三归、轻重的解释不强定。",
+    "后百余年不得倒推晏婴出生或任相年。",
+    "越石父平行故事、墓地异说分别保存。",
+    "唐赞豆不掩肩与礼记豚肩不揜豆语序不同，保留原字并暂释。"
+  ],
+  "limitations": [
+    "原始TXT、HTML及逐行MD均未回写。",
+    "字符覆盖、链接和锚点核验不证明历史争议已消除。",
+    "未定年故事不配确年，时期页位置不等于文章写作年。"
+  ],
+  "author_check_scope": "两卷作者提交统计；共享年页最终编号、全局目录与独立审读由整合者另记。",
+  "editorial_followup": "交叉审读反馈后明确食不重肉为每餐不兼用两样肉食，并删除前556年其后历事三君的误导性承接；原引未动。",
+  "integration_baseline_local": "4f5df8156ed9e95d032252bfc79c57028caacbf5",
+  "integration_baseline_remote": "18a59f7e7363eed7c3bda9f02dcb0dacda63e196",
+  "author_snapshot_boundary": "原作者的锚、旧引文、链接、改动组统计保留其提交时口径；共享页最终显示号及全批保全统计以本批整合核验为准。"
+}

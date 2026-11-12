@@ -1,0 +1,284 @@
+{
+  "volume": "061",
+  "title": "伯夷列传",
+  "date": "2026-11-12",
+  "reader_role": "author",
+  "status": "author_full_reading_completed",
+  "scope_boundary": "作者逐段阅读与自检，不冒称独立内容复核。自动覆盖仅另作原字与去向验证。",
+  "primary_units": [
+    {
+      "unit": "P001",
+      "line": 4583,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4583",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "六艺、让天下的传说与箕山见闻",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-002",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "P002",
+      "line": 4584,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4584",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "孔子评语与逸诗之间的疑问",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-003",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "P003",
+      "line": 4585,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4585",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "让国、叩马劝谏、不食周粟与采薇歌",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-boyi-shuqi-note",
+          "placement_anchor": "sj061-cite-001",
+          "number": 22
+        }
+      ]
+    },
+    {
+      "unit": "P004",
+      "line": 4586,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4586",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "逸诗究竟有没有怨意",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-004",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "P005",
+      "line": 4587,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4587",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "善恶遭遇与天道之疑",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-005",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "P006",
+      "line": 4588,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4588",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "各从其志与乱世中的操守",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-006",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "P007",
+      "line": 4589,
+      "source_path": "sources/本地分卷/史记/史记-卷061.md",
+      "source_anchor": "L4589",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "立名、同类相求与史家记述的意义",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-007",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "N001",
+      "line": null,
+      "source_path": "sources/史记三家注/卷061.md",
+      "source_anchor": "p0",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "唐代注家的体例说明",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-008",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "Z001",
+      "line": null,
+      "source_path": "sources/史记三家注/卷061.md",
+      "source_anchor": "p9",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "唐代司马贞的述赞",
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "sj061-author-review",
+          "placement_anchor": "sj061-cite-009",
+          "number": null
+        }
+      ]
+    }
+  ],
+  "editorial_labels": [],
+  "three_commentaries": {
+    "source_path": "sources/史记三家注/卷061.md",
+    "paragraph_count": 10,
+    "paragraphs": [
+      {
+        "anchor": "p0",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "N001"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "41585e94f6d0bee6cb0c990843d9b2506c162d2587fa618451e0fe875205c1d6",
+        "focus_and_disposition": "列传释名为唐代索隐、正义，不是商末事。"
+      },
+      {
+        "anchor": "p1",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P001"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "96aa6243e98ff4eb0f0fcb6ef472a69184627669ad34e43eb2cc5cfff09d3a10",
+        "focus_and_disposition": "六艺考信、禅让与许由等异闻，正义所引洗耳传说和月地只作后出材料。"
+      },
+      {
+        "anchor": "p2",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P001"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "eedb530038f7997ee469cbaa278997759bdfbd38d003e4b7085ca05d3db8b021",
+        "focus_and_disposition": "余登箕山与许由冢传闻、史家疑说者；索隐推太史公曰为后加不作定论。"
+      },
+      {
+        "anchor": "p3",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P002",
+          "P003"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "c26d3033c70a85ffb120b9aa43728582278e50d0876b5984e5557ebb2f7505a2",
+        "focus_and_disposition": "孔子论怨与逸诗、孤竹让位、归周次序、叩马、五处首阳、薇异释和完整采薇歌。"
+      },
+      {
+        "anchor": "p4",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P004"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "ee0051ea844a8b3ca475584f1ecee911d2d0f15e6e881fa587f821396c32021a",
+        "focus_and_disposition": "怨邪非邪仍作史家疑问。"
+      },
+      {
+        "anchor": "p5",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P005"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "10e31d15d708cf3cabc4300ecf1da06055c4fc55a970600c77d89e94c6940818",
+        "focus_and_disposition": "颜回贫夭、盗跖暴而寿终、肝人肉与近世遭遇；未据古注例名另编年。"
+      },
+      {
+        "anchor": "p6",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P005"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "5f0dbb9b67a45296b404279b2ff27a6d3fbf827a3a3e6e09a5d914d3dc771921",
+        "focus_and_disposition": "余甚惑焉与傥的未定语气；不改成作者已经否定天道。"
+      },
+      {
+        "anchor": "p7",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P006"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "d984de20ea85e1dd049f0afcd29e5f9e447612e15706b4083ce22ae2f8bb624f",
+        "focus_and_disposition": "富贵可求须合道、岁寒松柏、轻重两解；不说成松柏全凋或自主选择贫富。"
+      },
+      {
+        "anchor": "p8",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "P007"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "98d66ddaa75011515b003118c0208a0741eb56dbe395407c3833c7fe7002849c",
+        "focus_and_disposition": "贾子鵩鸟赋、馮生、易语与传名、附骥尾、青云之士；古注引司马迁自序不并作商末。"
+      },
+      {
+        "anchor": "p9",
+        "source_path": "sources/史记三家注/卷061.md",
+        "linked_units": [
+          "Z001"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "89a3157b57f869c99a452ea82c7018e9ce92adccc220c66ab9db413df97695c4",
+        "focus_and_disposition": "司马贞唐赞；得自前闻暂释，不补失传授受。"
+      }
+    ]
+  },
+  "reading_pages": [
+    "years/上古/06-商末与周初.md"
+  ],
+  "modern_auxiliary_reading": [
+    {
+      "site": "维基百科",
+      "title": "伯夷",
+      "opened": true,
+      "fixed_revision": 89039505,
+      "read_scope": "资料、主要事迹及首阳异说相关部分",
+      "used_as": "辅助检索，不据其补生卒年或现代墓址"
+    },
+    {
+      "site": "百度百科",
+      "title": "伯夷列传",
+      "opened": false,
+      "blocked": true,
+      "read_scope": "搜索摘文可见；篇名直连、移动页及镜像未取得可连续阅读正文",
+      "limitation": "不声称读过该站完整原文、注释和译文"
+    }
+  ],
+  "independent_review": "由整合者另记，作者本记录不替代之"
+}
