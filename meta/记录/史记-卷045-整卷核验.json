@@ -1,0 +1,896 @@
+{
+  "volume": "045",
+  "title": "韩世家",
+  "date": "2026-11-12",
+  "base_remote_commit": "30b655ac63fc66868235aa3b1c42079abe9bb3c2",
+  "base_local_commit": "9644994",
+  "primary_prose_units": 35,
+  "supplemental_paragraphs": 0,
+  "later_praise_units": 1,
+  "chapter_markers": 1,
+  "structure_markers": 0,
+  "raw_primary_lines_including_structure_covered": 36,
+  "quote_placements": 94,
+  "reused_existing_quotes": 9,
+  "distinct_target_event_groups": 85,
+  "distinct_quote_pages": 78,
+  "raw_characters": 3073,
+  "raw_han_characters": 2491,
+  "primary_source_quote_order_exact": true,
+  "all_substantive_raw_text_has_actual_quote_route": true,
+  "existing_explicit_and_heading_anchors_preserved": true,
+  "old_page_footer_navigation_unchanged": true,
+  "numbering_contiguous": true,
+  "new_local_links_checked": 529,
+  "original_witness_hashes": [
+    {
+      "path": "sources/本地分卷/史记/史记-卷045.txt",
+      "sha256": "1729815c5cfadfef574e8feabfde14bbb0c14639038280e6d483717daf8b3567",
+      "git_blob_sha": "b9c51453b024ff373b270dc5d6f812d2b457b294",
+      "unchanged_from_remote_base": true
+    },
+    {
+      "path": "sources/本地分卷/史记/史记-卷045.md",
+      "sha256": "8a293a59f72973550f1d2a3621c02cf31bb460c25a753ef268cea213a2fe277e",
+      "git_blob_sha": "9488bde5e2bd5212146b9f184a132971b4258d0a",
+      "unchanged_from_remote_base": true
+    },
+    {
+      "path": "sources/史记三家注/卷045.md",
+      "sha256": "0dd66571e3a4ae75a602225018d2c657560ef40dd9574f74ec1fcfea00b57da6",
+      "git_blob_sha": "e112c6ca192c602eb613618d0fb5aac922c83596",
+      "unchanged_from_remote_base": true
+    },
+    {
+      "path": "sources/史记三家注/原始HTML/045.htm",
+      "sha256": "80df29dd67394c2bb11b5a79781084dbe5887b72d0e5c2a5c80e6c61b11bebf5",
+      "git_blob_sha": "f046d3bffc8b75308f89fa5f4d0177fdfe5260a1",
+      "unchanged_from_remote_base": true
+    }
+  ],
+  "regnal_calculation_count": 73,
+  "regnal_calculations": [
+    {
+      "unit": "P002",
+      "label": "晋景三",
+      "base_bce": 599,
+      "regnal_year": 3,
+      "calculated_bce": 597,
+      "treatment": "前597为原字面年，救孤异传附前583，不造一次已证实的全族被灭"
+    },
+    {
+      "unit": "P003",
+      "label": "晋景十一",
+      "base_bce": 599,
+      "regnal_year": 11,
+      "calculated_bce": 589,
+      "treatment": "前589鞌战；后接增军卿另随前588"
+    },
+    {
+      "unit": "P004",
+      "label": "晋景十七",
+      "base_bce": 599,
+      "regnal_year": 17,
+      "calculated_bce": 583,
+      "treatment": "前583复赵"
+    },
+    {
+      "unit": "P005",
+      "label": "晋悼七／原十",
+      "base_bce": 572,
+      "regnal_year": 7,
+      "calculated_bce": 566,
+      "treatment": "前566退休；十年另算563，死亡迁居未定年"
+    },
+    {
+      "unit": "P006",
+      "label": "晋平十四",
+      "base_bce": 557,
+      "regnal_year": 14,
+      "calculated_bce": 544,
+      "treatment": "前544季札"
+    },
+    {
+      "unit": "P006",
+      "label": "晋顷十二",
+      "base_bce": 525,
+      "regnal_year": 12,
+      "calculated_bce": 514,
+      "treatment": "前514分县与韩起卒，主持者辨异"
+    },
+    {
+      "unit": "P006",
+      "label": "晋定十五",
+      "base_bce": 511,
+      "regnal_year": 15,
+      "calculated_bce": 497,
+      "treatment": "前497攻范中行，改用经传韩不信"
+    },
+    {
+      "unit": "P008",
+      "label": "武子二",
+      "base_bce": 424,
+      "regnal_year": 2,
+      "calculated_bce": 423,
+      "treatment": "前423杀郑幽公"
+    },
+    {
+      "unit": "P008",
+      "label": "武子十六",
+      "base_bce": 424,
+      "regnal_year": 16,
+      "calculated_bce": 409,
+      "treatment": "前409武卒景继"
+    },
+    {
+      "unit": "P009",
+      "label": "景侯元",
+      "base_bce": 408,
+      "regnal_year": 1,
+      "calculated_bce": 408,
+      "treatment": "前408取雍丘"
+    },
+    {
+      "unit": "P009",
+      "label": "景侯二",
+      "base_bce": 408,
+      "regnal_year": 2,
+      "calculated_bce": 407,
+      "treatment": "前407负黍"
+    },
+    {
+      "unit": "P010",
+      "label": "景侯六",
+      "base_bce": 408,
+      "regnal_year": 6,
+      "calculated_bce": 403,
+      "treatment": "前403列侯"
+    },
+    {
+      "unit": "P011",
+      "label": "景侯九",
+      "base_bce": 408,
+      "regnal_year": 9,
+      "calculated_bce": 400,
+      "treatment": "前400阳翟与景卒"
+    },
+    {
+      "unit": "P012",
+      "label": "列侯三",
+      "base_bce": 399,
+      "regnal_year": 3,
+      "calculated_bce": 397,
+      "treatment": "前397聂政刺相"
+    },
+    {
+      "unit": "P012",
+      "label": "列侯九",
+      "base_bce": 399,
+      "regnal_year": 9,
+      "calculated_bce": 391,
+      "treatment": "前391宜阳六邑"
+    },
+    {
+      "unit": "P012",
+      "label": "列侯十三",
+      "base_bce": 399,
+      "regnal_year": 13,
+      "calculated_bce": 387,
+      "treatment": "前387列卒；魏文侯卒尾句归396异注"
+    },
+    {
+      "unit": "P013",
+      "label": "文侯二",
+      "base_bce": 386,
+      "regnal_year": 2,
+      "calculated_bce": 385,
+      "treatment": "前385阳城与彭城"
+    },
+    {
+      "unit": "P013",
+      "label": "文侯七",
+      "base_bce": 386,
+      "regnal_year": 7,
+      "calculated_bce": 380,
+      "treatment": "前380桑丘与郑反晋"
+    },
+    {
+      "unit": "P013",
+      "label": "文侯九",
+      "base_bce": 386,
+      "regnal_year": 9,
+      "calculated_bce": 378,
+      "treatment": "前378灵丘"
+    },
+    {
+      "unit": "P013",
+      "label": "文侯十",
+      "base_bce": 386,
+      "regnal_year": 10,
+      "calculated_bce": 377,
+      "treatment": "前377文卒哀继"
+    },
+    {
+      "unit": "P014",
+      "label": "哀侯元",
+      "base_bce": 376,
+      "regnal_year": 1,
+      "calculated_bce": 376,
+      "treatment": "前376分残晋"
+    },
+    {
+      "unit": "P014",
+      "label": "哀侯二",
+      "base_bce": 376,
+      "regnal_year": 2,
+      "calculated_bce": 375,
+      "treatment": "前375灭郑迁都"
+    },
+    {
+      "unit": "P015",
+      "label": "哀侯六",
+      "base_bce": 376,
+      "regnal_year": 6,
+      "calculated_bce": 371,
+      "treatment": "原371；同一死亡主条采用374，保留差三年"
+    },
+    {
+      "unit": "P016",
+      "label": "懿侯二",
+      "base_bce": 370,
+      "regnal_year": 2,
+      "calculated_bce": 369,
+      "treatment": "前369魏胜韩马陵"
+    },
+    {
+      "unit": "P016",
+      "label": "懿侯五",
+      "base_bce": 370,
+      "regnal_year": 5,
+      "calculated_bce": 366,
+      "treatment": "前366宅阳"
+    },
+    {
+      "unit": "P016",
+      "label": "懿侯九",
+      "base_bce": 370,
+      "regnal_year": 9,
+      "calculated_bce": 362,
+      "treatment": "前362浍"
+    },
+    {
+      "unit": "P016",
+      "label": "懿侯十二",
+      "base_bce": 370,
+      "regnal_year": 12,
+      "calculated_bce": 359,
+      "treatment": "原359；卒与昭继作前358以前附读，非新增确定卒年"
+    },
+    {
+      "unit": "P017",
+      "label": "昭侯元",
+      "base_bce": 358,
+      "regnal_year": 1,
+      "calculated_bce": 358,
+      "treatment": "前358西山"
+    },
+    {
+      "unit": "P017",
+      "label": "昭侯二",
+      "base_bce": 358,
+      "regnal_year": 2,
+      "calculated_bce": 357,
+      "treatment": "前357黄池、朱"
+    },
+    {
+      "unit": "P017",
+      "label": "昭侯六",
+      "base_bce": 358,
+      "regnal_year": 6,
+      "calculated_bce": 353,
+      "treatment": "前353陵观、邢丘／廪丘"
+    },
+    {
+      "unit": "P018",
+      "label": "昭侯八",
+      "base_bce": 358,
+      "regnal_year": 8,
+      "calculated_bce": 351,
+      "treatment": "前351申不害相韩"
+    },
+    {
+      "unit": "P019",
+      "label": "昭侯十",
+      "base_bce": 358,
+      "regnal_year": 10,
+      "calculated_bce": 349,
+      "treatment": "原349；韩姬弑悼公仅在前348朝秦同号注保存身份未明疑记"
+    },
+    {
+      "unit": "P019",
+      "label": "昭侯十一",
+      "base_bce": 358,
+      "regnal_year": 11,
+      "calculated_bce": 348,
+      "treatment": "前348赴秦"
+    },
+    {
+      "unit": "P019",
+      "label": "昭侯二十二",
+      "base_bce": 358,
+      "regnal_year": 22,
+      "calculated_bce": 337,
+      "treatment": "前337申不害卒"
+    },
+    {
+      "unit": "P019",
+      "label": "昭侯二十四",
+      "base_bce": 358,
+      "regnal_year": 24,
+      "calculated_bce": 335,
+      "treatment": "前335宜阳"
+    },
+    {
+      "unit": "P020",
+      "label": "昭侯二十五",
+      "base_bce": 358,
+      "regnal_year": 25,
+      "calculated_bce": 334,
+      "treatment": "前334旱、营门"
+    },
+    {
+      "unit": "P020",
+      "label": "昭侯二十六",
+      "base_bce": 358,
+      "regnal_year": 26,
+      "calculated_bce": 333,
+      "treatment": "前333卒、次年新君元"
+    },
+    {
+      "unit": "P021",
+      "label": "宣惠五",
+      "base_bce": 332,
+      "regnal_year": 5,
+      "calculated_bce": 328,
+      "treatment": "前328张仪相秦"
+    },
+    {
+      "unit": "P021",
+      "label": "宣惠八",
+      "base_bce": 332,
+      "regnal_year": 8,
+      "calculated_bce": 325,
+      "treatment": "前325韩举受败与赵护之记辨异"
+    },
+    {
+      "unit": "P021",
+      "label": "宣惠十一",
+      "base_bce": 332,
+      "regnal_year": 11,
+      "calculated_bce": 322,
+      "treatment": "区鼠会前322；称王主条323，留一年差"
+    },
+    {
+      "unit": "P021",
+      "label": "宣惠十四（原省年字）",
+      "base_bce": 332,
+      "regnal_year": 14,
+      "calculated_bce": 319,
+      "treatment": "前319鄢"
+    },
+    {
+      "unit": "P022",
+      "label": "宣惠十六",
+      "base_bce": 332,
+      "regnal_year": 16,
+      "calculated_bce": 317,
+      "treatment": "前317修鱼；长说辞为败后过程"
+    },
+    {
+      "unit": "P022",
+      "label": "宣惠十九",
+      "base_bce": 332,
+      "regnal_year": 19,
+      "calculated_bce": 314,
+      "treatment": "前314岸门；太子质秦与秦本纪315异年合读"
+    },
+    {
+      "unit": "P023",
+      "label": "宣惠二十一",
+      "base_bce": 332,
+      "regnal_year": 21,
+      "calculated_bce": 312,
+      "treatment": "前312丹阳与宣惠卒"
+    },
+    {
+      "unit": "P024",
+      "label": "襄王四",
+      "base_bce": 311,
+      "regnal_year": 4,
+      "calculated_bce": 308,
+      "treatment": "前308临晋、秋围宜阳"
+    },
+    {
+      "unit": "P024",
+      "label": "襄王五",
+      "base_bce": 311,
+      "regnal_year": 5,
+      "calculated_bce": 307,
+      "treatment": "前307克宜阳、秦武卒"
+    },
+    {
+      "unit": "P024",
+      "label": "襄王六",
+      "base_bce": 311,
+      "regnal_year": 6,
+      "calculated_bce": 306,
+      "treatment": "前306返武遂"
+    },
+    {
+      "unit": "P024",
+      "label": "襄王九",
+      "base_bce": 311,
+      "regnal_year": 9,
+      "calculated_bce": 303,
+      "treatment": "前303再取武遂"
+    },
+    {
+      "unit": "P024",
+      "label": "襄王十",
+      "base_bce": 311,
+      "regnal_year": 10,
+      "calculated_bce": 302,
+      "treatment": "前302太子婴赴秦"
+    },
+    {
+      "unit": "P024",
+      "label": "襄王十一",
+      "base_bce": 311,
+      "regnal_year": 11,
+      "calculated_bce": 301,
+      "treatment": "前301穰、唐昧"
+    },
+    {
+      "unit": "P025",
+      "label": "襄王十二",
+      "base_bce": 311,
+      "regnal_year": 12,
+      "calculated_bce": 300,
+      "treatment": "前300太子婴死与争储；后段围城说辞有异年，不强定全在本年"
+    },
+    {
+      "unit": "P028",
+      "label": "襄王十四",
+      "base_bce": 311,
+      "regnal_year": 14,
+      "calculated_bce": 298,
+      "treatment": "前298攻函谷，跨年到296"
+    },
+    {
+      "unit": "P028",
+      "label": "襄王十六",
+      "base_bce": 311,
+      "regnal_year": 16,
+      "calculated_bce": 296,
+      "treatment": "前296还地、襄卒"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王三",
+      "base_bce": 295,
+      "regnal_year": 3,
+      "calculated_bce": 293,
+      "treatment": "前293伊阙"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王五",
+      "base_bce": 295,
+      "regnal_year": 5,
+      "calculated_bce": 291,
+      "treatment": "前291失宛"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王六",
+      "base_bce": 295,
+      "regnal_year": 6,
+      "calculated_bce": 290,
+      "treatment": "前290割武遂"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王十",
+      "base_bce": 295,
+      "regnal_year": 10,
+      "calculated_bce": 286,
+      "treatment": "前286夏山"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王十二",
+      "base_bce": 295,
+      "regnal_year": 12,
+      "calculated_bce": 284,
+      "treatment": "前284会秦、伐齐"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王十四",
+      "base_bce": 295,
+      "regnal_year": 14,
+      "calculated_bce": 282,
+      "treatment": "前282会秦，两周／新城异写"
+    },
+    {
+      "unit": "P029",
+      "label": "釐王二十一",
+      "base_bce": 295,
+      "regnal_year": 21,
+      "calculated_bce": 275,
+      "treatment": "前275暴捐救魏"
+    },
+    {
+      "unit": "P030",
+      "label": "釐王二十三",
+      "base_bce": 295,
+      "regnal_year": 23,
+      "calculated_bce": 273,
+      "treatment": "前273华阳、釐卒；赵篇有274异年"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠元",
+      "base_bce": 272,
+      "regnal_year": 1,
+      "calculated_bce": 272,
+      "treatment": "前272伐燕"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠九",
+      "base_bce": 272,
+      "regnal_year": 9,
+      "calculated_bce": 264,
+      "treatment": "前264陉与城汾旁异读"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠十",
+      "base_bce": 272,
+      "regnal_year": 10,
+      "calculated_bce": 263,
+      "treatment": "前263太行战；受上党主条262，留年界"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠十四",
+      "base_bce": 272,
+      "regnal_year": 14,
+      "calculated_bce": 259,
+      "treatment": "原259，长平主条260，不另造259全军大败"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠十七",
+      "base_bce": 272,
+      "regnal_year": 17,
+      "calculated_bce": 256,
+      "treatment": "前256阳城负黍"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠二十二",
+      "base_bce": 272,
+      "regnal_year": 22,
+      "calculated_bce": 251,
+      "treatment": "前251秦昭卒"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠二十四",
+      "base_bce": 272,
+      "regnal_year": 24,
+      "calculated_bce": 249,
+      "treatment": "前249成皋荥阳"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠二十六",
+      "base_bce": 272,
+      "regnal_year": 26,
+      "calculated_bce": 247,
+      "treatment": "前247尽取上党并既有秦经略条，不重演长平"
+    },
+    {
+      "unit": "P031",
+      "label": "桓惠二十九",
+      "base_bce": 272,
+      "regnal_year": 29,
+      "calculated_bce": 244,
+      "treatment": "前244十三城"
+    },
+    {
+      "unit": "P032",
+      "label": "桓惠三十四",
+      "base_bce": 272,
+      "regnal_year": 34,
+      "calculated_bce": 239,
+      "treatment": "前239卒安继，238元"
+    },
+    {
+      "unit": "P033",
+      "label": "王安五",
+      "base_bce": 238,
+      "regnal_year": 5,
+      "calculated_bce": 234,
+      "treatment": "原234，韩非出使遇害主条233，保留一年差"
+    },
+    {
+      "unit": "P034",
+      "label": "王安九",
+      "base_bce": 238,
+      "regnal_year": 9,
+      "calculated_bce": 230,
+      "treatment": "前230韩亡"
+    }
+  ],
+  "new_pages": [],
+  "new_groups": [
+    {
+      "path": "years/bce-0400-0301/bce-0312.md",
+      "key": "xuanhui-death",
+      "number": 9,
+      "note_anchor": "sj045-xuanhui-death-note",
+      "event_anchor": "sj045-xuanhui-death-event",
+      "title": "韩宣惠王去世，太子仓接位，是为襄王"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0300.md",
+      "key": "succession",
+      "number": 4,
+      "note_anchor": "sj045-succession-note",
+      "event_anchor": "sj045-succession-event",
+      "title": "太子婴去世后，韩王室为储位争执，楚、秦也设法介入"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0273.md",
+      "key": "xi-death",
+      "number": 5,
+      "note_anchor": "sj045-xi-death-note",
+      "event_anchor": "sj045-xi-death-event",
+      "title": "韩釐王去世，儿子桓惠王继位"
+    }
+  ],
+  "body_changes": [
+    {
+      "path": "years/bce-0400-0301/bce-0312.md",
+      "number": 9,
+      "kind": "new_group",
+      "key": "xuanhui-death",
+      "body": "**韩宣惠王去世，太子仓接位，是为襄王。** 这一年韩国刚同秦合作攻楚，王位也由父亲转到儿子；下一年前311才开始襄王元年的纪年。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0300.md",
+      "number": 4,
+      "kind": "new_group",
+      "key": "succession",
+      "body": "**太子婴去世后，韩王室为储位争执，楚、秦也设法介入。** 公子咎与在楚国做人质的公子蟣蝨争当继承人。苏代劝韩咎顺着楚王想送蟣蝨回韩的愿望，让楚在雍氏旁造一座万户之城，迫韩出兵；韩咎若获命领军，便可合韩楚之兵拥送蟣蝨回国，争取让新太子听命于自己并获得两国封地。韩咎接受了这个计划，但游说所许的封赏并不等于已经实现。围雍氏与另一段伯婴争储说辞的确切年次、先后另有冲突，以下作为相关未定年故事附读。楚围雍氏时，韩向秦求援，秦未发兵而先派公孙昧来。公仲问秦是否真救，公孙昧说秦声言绕南郑、蓝田出兵，未必能及时接应；他以张仪先前对魏楚战争的计策作比：秦可以佯作援救，等双方消耗后夺地。如今韩若因等秦援而轻率出战，楚又知道秦不会真救，秦便可坐收胜负两头的好处：韩若胜楚，秦跟着乘胜制楚，在三川显示救韩之功后回国；韩若败，楚封锁三川，韩便无力解救。公孙昧又举司马庚屡往郢、甘茂会昭鱼等往来，说明秦楚可能另有安排，劝公仲先保韩和自身，尽快联齐楚，同时保留对秦关系；篇中接着说楚解围，但这些判断并非密约已获独立证实。另一段游说中，苏代又劝芈戎利用公叔伯婴害怕蟣蝨返韩的心理。第一步替韩向楚求质，借楚的答复让伯婴判断秦楚无意借蟣蝨干预储位，从而使韩亲近秦楚；秦楚再挟韩牵制魏，令魏不敢联齐，便可孤立齐国。第二步再替秦索取楚所留的韩质子；楚若拒绝，韩便怨楚，可以联齐魏围楚，迫楚转而倚重芈戎。这样芈戎既可借秦楚地位施惠于韩，也可让伯婴以国事相托。第一步“求质”究竟如何替换、原文是否脱“不”，仍按古注异解保留，不能把两次请求混成一件。原文这一段是否有脱字、是否倒叙到伯婴尚在世时，都未能确定，不能把已经说死的太子婴复活后继续争位。谋说所许结盟、封赏没有被逐一证明实现；最后蟣蝨未归、韩立咎为太子的结果接前299年。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0273.md",
+      "number": 5,
+      "kind": "new_group",
+      "key": "xi-death",
+      "body": "**韩釐王去世，儿子桓惠王继位。** 釐王统治末年正逢华阳危机；新王在前272年开始以元年纪事，战争和王位承继分别交代。"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0709.md",
+      "number": 1,
+      "kind": "merged_existing",
+      "before": "1. **春，曲沃武公进攻翼地，在汾隰一带追败并俘获翼侯。** 曲沃军由韩万御车、梁弘居右，翼侯逃亡时车辆受阻，夜里被俘，栾共叔也一同被抓。 战败后翼地又立哀侯之子为小子侯，继续抵抗曲沃。 [[1]](#note-1)",
+      "body": "**春，曲沃武公进攻翼地，在汾隰一带追败并俘获翼侯。** 曲沃军由韩万御车、梁弘居右，翼侯逃亡时车辆受阻，夜里被俘，栾共叔也一同被抓。 战败后翼地又立哀侯之子为小子侯，继续抵抗曲沃。 韩万属于后来韩氏追述的先祖一支，家族传承把韩氏与周同列姬姓，并以韩原封邑解释氏名；这里是认识人物的祖源背景，不表示本年才授封或后世韩厥已出生。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0589.md",
+      "number": 3,
+      "kind": "merged_existing",
+      "before": "3. **六月，鲁、晋、卫、曹联军与齐军在鞌地大战。** 齐顷公轻敌急进，晋郤克中箭仍坚持击鼓，联军最终大败齐军。 [[3]](#reading-note-3)",
+      "body": "**六月，鲁、晋、卫、曹联军与齐军在鞌地大战。** 齐顷公轻敌急进，晋郤克中箭仍坚持击鼓，联军最终大败齐军。 韩厥亦参与统兵，本篇所记晋军规模为八百乘。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "number": 10,
+      "kind": "merged_existing",
+      "before": "10. **晋国增设六军，奖励鞌之战功臣。** [[10]](#note-10)",
+      "body": "**晋国增设六军，奖励鞌之战功臣。** 这是鞌战后整军赏功的一环；韩厥的卿位与献子称号在家族传述中一并提及，不能把增置军卿说成晋此前完全没有卿。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0566.md",
+      "number": 7,
+      "kind": "merged_existing",
+      "before": "7. **晋国韩厥退休，韩无忌让位给弟弟韩起。** 晋侯本想让无忌接任，无忌以自己有病不能亲自处理政务为由推让，并称许韩起好仁。韩起随后入朝接任，无忌则掌管公族大夫事务。 [[7]](#note-7)",
+      "body": "**晋国韩厥退休，韩无忌让位给弟弟韩起。** 晋侯本想让无忌接任，无忌以自己有病不能亲自处理政务为由推让，并称许韩起好仁。韩起随后入朝接任，无忌则掌管公族大夫事务。 韩起后来又迁居州；这一迁居和韩厥去世都没有在本段中得到独立确年，作为家族后续附读。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0514.md",
+      "number": 5,
+      "kind": "merged_existing",
+      "before": "5. **韩宣子去世，魏献子执政，把两家旧田分为十县。** 秋季，韩起去世，魏舒接掌晋国政务。祁氏旧田分为七县，羊舌氏旧田分为三县，分别安排官员治理，其中包括曾为王室出力的贾辛、司马乌及魏戊等人。魏舒担心任魏戊会被视为偏私，成鱄主张应看任职所需；他又勉励赴任的贾辛继续守职。 [[5]](#note-5)",
+      "body": "**韩宣子去世，魏献子执政，把两家旧田分为十县。** 秋季，韩起去世，魏舒接掌晋国政务。祁氏旧田分为七县，羊舌氏旧田分为三县，分别安排官员治理，其中包括曾为王室出力的贾辛、司马乌及魏戊等人。魏舒担心任魏戊会被视为偏私，成鱄主张应看任职所需；他又勉励赴任的贾辛继续守职。 韩起的家族由后继者继续掌握；贞子、平子须的异名与迁平阳的世次另有传写差异，迁居只作后续背景，不定在本年。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0453.md",
+      "number": 3,
+      "kind": "merged_existing",
+      "before": "3. **赵襄子派人秘密联络韩、魏，两家转而与赵合谋，反攻智氏。** 韩康子、魏桓子与赵襄子共同打败智伯，结束晋阳之围，并瓜分智氏的土地。智氏从分地的强者变为被三家瓜分的对象，晋国内部的力量对比由此改变。 襄子遣相张孟同夜间秘密联络韩魏，反攻记于三月丙戌。 赵北有代，南得智地，势力一时强于韩魏；襄子还在百邑祭三神，令原过主管霍太山祠。 [[3]](#note-3)",
+      "body": "**赵襄子派人秘密联络韩、魏，两家转而与赵合谋，反攻智氏。** 韩康子、魏桓子与赵襄子共同打败智伯，结束晋阳之围，并瓜分智氏的土地。智氏从分地的强者变为被三家瓜分的对象，晋国内部的力量对比由此改变。 襄子遣相张孟同夜间秘密联络韩魏，反攻记于三月丙戌。 赵北有代，南得智地，势力一时强于韩魏；襄子还在百邑祭三神，令原过主管霍太山祠。 韩康子在本篇世系中承接贞子、简子、庄子等代，分得智氏土地后势力进一步扩大；这些先世承继不都发生于灭智之年。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0358.md",
+      "number": 1,
+      "kind": "merged_existing",
+      "before": "1. **秦国在西山击败韩军。** 孝公在国内推动整顿的同时，也继续向东方邻国用兵。这一役留下了地点和胜负，没有留下双方兵力、统帅或具体作战经过。 [[1]](#reading-note-2)",
+      "body": "**秦国在西山击败韩军。** 孝公在国内推动整顿的同时，也继续向东方邻国用兵。这一役留下了地点和胜负，没有留下双方兵力、统帅或具体作战经过。 此时韩国已由懿侯之子昭侯掌政；懿侯的卒年与昭侯起年在不同年链中并不一致，承继只作为这次战争以前的背景。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0351.md",
+      "number": 1,
+      "kind": "merged_existing",
+      "before": "1. **韩昭侯任用申不害为相。** **时间：周显王十八年** · 事件 [[1]](#note-1)",
+      "body": "**韩昭侯任用申不害为相。** 申不害通过整顿行政、考核名实和修明法术来强化王权；传世记载称国内秩序因此改善，邻国一度不来侵扰。这是对其任相时期的概括，不能当成上任当天全部达成的结果，也不意味着韩国此后再没有遭受战争。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0325.md",
+      "number": 2,
+      "kind": "merged_existing",
+      "before": "2. **赵国进入武灵王元年。** 年轻的国君雍承接父亲肃侯的统治，魏军在这一年击败赵将赵护；战斗地点和兵数没有留下明确记录。 阳文君赵豹为相。赵篇称梁襄王与太子嗣、韩宣王与太子仓来信宫朝见。武灵王未亲政时，置博闻之师三人、左右司过三人；亲政后先问先王重臣肥义，增加其秩，对国内八十岁的三老每月致礼。 [[2]](#note-2)",
+      "body": "**赵国进入武灵王元年。** 年轻的国君雍承接父亲肃侯的统治，魏军在这一年击败赵将赵护；战斗地点和兵数没有留下明确记录。 阳文君赵豹为相。赵篇称梁襄王与太子嗣、韩宣王与太子仓来信宫朝见。武灵王未亲政时，置博闻之师三人、左右司过三人；亲政后先问先王重臣肥义，增加其秩，对国内八十岁的三老每月致礼。 同年韩方还留下韩举被魏击败的记载，古注又将韩举记作曾任赵将；他与赵护的身份及两条是否同一场战斗，现有材料不能直接合定。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0317.md",
+      "number": 1,
+      "kind": "merged_existing",
+      "before": "1. **秦在修鱼击败韩赵军，张仪再次任秦相。** 秦俘获申差等将领，本纪还列韩太子奂、赵公子渴受败及斩首八万二千。联军的后撤没有终止各国在秦东面的作战。 [[1]](#note-1)",
+      "body": "**秦在修鱼击败韩赵军，张仪再次任秦相。** 秦俘获申差等将领，本纪还列韩太子奂、赵公子渴受败及斩首八万二千。联军的后撤没有终止各国在秦东面的作战。 败后，韩相公仲认为盟友不能依靠，建议经张仪与秦议和，送一座名城并整军随秦攻楚，以交一城换取秦停攻韩、韩秦共攻楚两项收益，韩王原已答应。楚王怕两国合兵，陈轸劝他只作大举救韩的姿态：戒备边境，让战车布满道路，遣厚礼使者，使韩相信援军将至；即使韩仍随秦攻楚，也会感激楚而不同心进军，若韩因而绝秦，秦又将怨韩而不急攻楚。楚照计声言愿为韩赴死，韩王便叫停公仲西行。公仲反复劝阻，说真正出兵攻韩的是秦，楚给的只是救援名义；韩楚既无兄弟关系，也无事先合谋，临受攻才来示救，正像陈轸的谋略；韩已答复秦却临时反悔，是轻欺强敌、相信别国谋臣，必将后悔。韩王仍断和，秦增兵来攻而楚援不到。这段外交说辞接在修鱼败后，随后岸门与送质分别见前314、315的异年记录，不把整串都算本年完成。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0312.md",
+      "number": 4,
+      "kind": "merged_existing",
+      "before": "4. **韩国也加入秦方对楚战争，与秦军围攻楚方的景座。** [[4]](#note-4)",
+      "body": "**韩国也加入秦方对楚战争，与秦军围攻楚方的景座。** 这次秦韩联合对楚用兵，同丹阳击败屈丐、所报斩首八万的战事相接。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0299.md",
+      "number": 4,
+      "kind": "merged_existing",
+      "before": "4. **齐王与魏王到韩国会面。** 韩国也在这一年确立公子咎为太子，日后的韩釐王由此进入储位。 [[4]](#note-4)",
+      "body": "**齐王与魏王到韩国会面。** 韩国也在这一年确立公子咎为太子，日后的韩釐王由此进入储位。 在楚为质的蟣蝨最终未能返韩；关于这场争储的苏代说辞跨越人物与年份疑点，前300的前情附读保留各自层次。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0273.md",
+      "number": 2,
+      "kind": "merged_existing",
+      "before": "2. **这段交涉的战场前因。** 白起率秦军在华阳击败以芒卯为将的军队，芒卯逃走，秦军俘获三晋方面的将领。魏军受重创，魏以南阳之地求和。马犯正利用秦魏在战后仍互相猜疑，才有了后面借兵修城的说辞。 赵篇另记赵、魏共同击秦，秦将白起在华阳获赵一名将军。 [[2]](#reading-note-2)",
+      "body": "**这段交涉的战场前因。** 白起率秦军在华阳击败以芒卯为将的军队，芒卯逃走，秦军俘获三晋方面的将领。魏军受重创，魏以南阳之地求和。马犯正利用秦魏在战后仍互相猜疑，才有了后面借兵修城的说辞。 赵篇另记赵、魏共同击秦，秦将白起在华阳获赵一名将军。 韩方的传述补出求援过程：赵、魏先攻韩华阳，韩多次向秦告急，秦却迟迟不出兵。韩相请患病的陈筮连夜去见穰侯魏冉；穰侯问是否情势紧急，他反说不急，解释韩若真被逼到绝境便会改投别国，如今还来请秦，正因尚能等待。穰侯由此意识到拖延会失去韩国，立即答应出兵，不必再让使者见秦王；援军八天赶至，打败华阳的赵魏军。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0264.md",
+      "number": 2,
+      "kind": "merged_existing",
+      "before": "2. **韩失陉城，并在汾旁筑城。** 韩国失去陉城后，在汾水附近筑城，加强防守。 [[2]](#note-2)",
+      "body": "**秦夺取韩国陉城，韩在北面的据点继续受损。** 这段记事又有“城汾旁”三字，既可连看作汾水旁的城邑位置，也有筑城的读法，尚不足以断言韩国随即另建一座新城。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0362.md",
+      "number": 4,
+      "kind": "merged_existing",
+      "before": "4. **赵成侯与韩昭侯在上党会面。** 昭侯在这时已经作为韩国君主参与外交，韩、赵继续维持联系。 [[4]](#reading-note-6)",
+      "body": "**赵成侯与韩君在上党会面。** 两国继续保持君主间的往来；韩君在赵方传述中称昭侯，与韩篇前后君年链不能完全吻合，具体称号的冲突留在同号注。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0315.md",
+      "number": 7,
+      "kind": "merged_existing",
+      "before": "7. **雍氏被围，苏代争取免出兵粮，还让周取得高都。** 楚围韩国雍氏，韩国向东周征甲兵和粮食，东周君因此忧虑。 苏代去见韩相，说楚本想三个月攻下，已经五个月仍未能克，说明楚也疲惫；韩再四处征兵粮，反会让楚看出韩的困境。 [[7]](#reading-note-7)",
+      "body": "**未定年附读｜围雍氏时，苏代争取免出兵粮，还让周取得高都。** 楚围韩国雍氏，韩国向东周征甲兵和粮食，东周君因此忧虑。 苏代去见韩相，说楚本想三个月攻下，已经五个月仍未能克，说明楚也疲惫；韩再四处征兵粮，反会让楚看出韩的困境。 本条只是周篇说辞的既有阅读位置，围城实年未定；与前312围城及韩襄王十二年前300一组的关系另有争论，不据位置增造一次前315年的确定围城。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0361.md",
+      "number": 7,
+      "kind": "merged_existing",
+      "before": "7. **韩国与赵国共同进攻秦国。** 前一年赵成侯、韩昭侯曾在上党会面，今年两国又共同出兵，但史料没有留下两件事之间的具体决策过程，也没有明载本次攻秦的胜负。 [[7]](#reading-note-9)",
+      "body": "**韩国与赵国共同进攻秦国。** 前一年赵成侯曾与韩君在上党会面，今年两国又共同出兵，但史料没有留下两件事之间的具体决策过程，也没有明载本次攻秦的胜负。"
+    }
+  ],
+  "touched_reading_pages": [
+    "years/bce-0800-0701/bce-0709.md",
+    "years/bce-0600-0501/bce-0583.md",
+    "years/bce-0600-0501/bce-0589.md",
+    "years/bce-0600-0501/bce-0588.md",
+    "years/bce-0600-0501/bce-0566.md",
+    "years/bce-0600-0501/bce-0544.md",
+    "years/bce-0600-0501/bce-0514.md",
+    "years/bce-0500-0401/bce-0497.md",
+    "years/bce-0500-0401/bce-0453.md",
+    "years/bce-0500-0401/bce-0424.md",
+    "years/bce-0500-0401/bce-0423.md",
+    "years/bce-0500-0401/bce-0409.md",
+    "years/bce-0500-0401/bce-0408.md",
+    "years/bce-0500-0401/bce-0407.md",
+    "years/bce-0500-0401/bce-0403.md",
+    "years/bce-0400-0301/bce-0400.md",
+    "years/bce-0400-0301/bce-0397.md",
+    "years/bce-0400-0301/bce-0391.md",
+    "years/bce-0400-0301/bce-0387.md",
+    "years/bce-0400-0301/bce-0396.md",
+    "years/bce-0400-0301/bce-0385.md",
+    "years/bce-0400-0301/bce-0380.md",
+    "years/bce-0400-0301/bce-0378.md",
+    "years/bce-0400-0301/bce-0377.md",
+    "years/bce-0400-0301/bce-0376.md",
+    "years/bce-0400-0301/bce-0375.md",
+    "years/bce-0400-0301/bce-0374.md",
+    "years/bce-0400-0301/bce-0369.md",
+    "years/bce-0400-0301/bce-0366.md",
+    "years/bce-0400-0301/bce-0362.md",
+    "years/bce-0400-0301/bce-0358.md",
+    "years/bce-0400-0301/bce-0357.md",
+    "years/bce-0400-0301/bce-0353.md",
+    "years/bce-0400-0301/bce-0351.md",
+    "years/bce-0400-0301/bce-0348.md",
+    "years/bce-0400-0301/bce-0337.md",
+    "years/bce-0400-0301/bce-0335.md",
+    "years/bce-0400-0301/bce-0334.md",
+    "years/bce-0400-0301/bce-0333.md",
+    "years/bce-0400-0301/bce-0328.md",
+    "years/bce-0400-0301/bce-0325.md",
+    "years/bce-0400-0301/bce-0323.md",
+    "years/bce-0400-0301/bce-0322.md",
+    "years/bce-0400-0301/bce-0319.md",
+    "years/bce-0400-0301/bce-0317.md",
+    "years/bce-0400-0301/bce-0314.md",
+    "years/bce-0400-0301/bce-0312.md",
+    "years/bce-0400-0301/bce-0308.md",
+    "years/bce-0400-0301/bce-0307.md",
+    "years/bce-0400-0301/bce-0306.md",
+    "years/bce-0400-0301/bce-0303.md",
+    "years/bce-0400-0301/bce-0302.md",
+    "years/bce-0400-0301/bce-0301.md",
+    "years/bce-0300-0201/bce-0300.md",
+    "years/bce-0300-0201/bce-0299.md",
+    "years/bce-0300-0201/bce-0298.md",
+    "years/bce-0300-0201/bce-0296.md",
+    "years/bce-0300-0201/bce-0293.md",
+    "years/bce-0300-0201/bce-0291.md",
+    "years/bce-0300-0201/bce-0290.md",
+    "years/bce-0300-0201/bce-0286.md",
+    "years/bce-0300-0201/bce-0284.md",
+    "years/bce-0300-0201/bce-0282.md",
+    "years/bce-0300-0201/bce-0275.md",
+    "years/bce-0300-0201/bce-0273.md",
+    "years/bce-0300-0201/bce-0272.md",
+    "years/bce-0300-0201/bce-0264.md",
+    "years/bce-0300-0201/bce-0263.md",
+    "years/bce-0300-0201/bce-0262.md",
+    "years/bce-0300-0201/bce-0260.md",
+    "years/bce-0300-0201/bce-0256.md",
+    "years/bce-0300-0201/bce-0251.md",
+    "years/bce-0300-0201/bce-0249.md",
+    "years/bce-0300-0201/bce-0247.md",
+    "years/bce-0300-0201/bce-0244.md",
+    "years/bce-0300-0201/bce-0239.md",
+    "years/bce-0300-0201/bce-0233.md",
+    "years/bce-0300-0201/bce-0230.md",
+    "years/bce-0400-0301/bce-0315.md",
+    "years/bce-0400-0301/bce-0361.md"
+  ],
+  "deferred_root_owned_paths": [
+    "meta/考证/史记-卷044至045-百科核对.md"
+  ],
+  "independent_semantic_review": "独立年代代理逐段读35正文与Z001、94引句清单和实际年页差异；根另读300、317、273关键说辞。已修万室量词、城汾旁主语、362/361韩君称谓、两次求质因果与三川胜败分支；未将原字符覆盖冒作历史事实裁定。",
+  "checks_status": "passed_author_validation",
+  "errors": [],
+  "scope": "卷045作者分支快照；无新增阅读页，3新组。总索引、两卷共用百科报告与合并后的同页编号由根处理。"
+}

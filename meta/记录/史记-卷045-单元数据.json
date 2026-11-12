@@ -1,0 +1,976 @@
+{
+  "volume": "045",
+  "title": "韩世家",
+  "baseline_commit": "30b655ac63fc66868235aa3b1c42079abe9bb3c2",
+  "prose_units": 35,
+  "raw_primary_paragraphs": 35,
+  "supplemental_paragraphs": 0,
+  "later_praise_units": 1,
+  "chapter_marker": {
+    "line": 4024,
+    "raw": "*01-045*"
+  },
+  "structure_markers": [],
+  "units": [
+    {
+      "id": "P001",
+      "title": "韩氏祖源与韩原封邑",
+      "raw": "韓之先與周同姓，姓姬氏。其後苗裔事晉，得封於韓原，曰韓武子。武子後三世有韓厥，從封姓為韓氏。",
+      "reading": "韩氏与周王室同为姬姓。其后裔在晋国任职，受封于韩原，称韩武子；后来有韩厥，家族以封邑韩为氏。本篇用“后三世”概括世系，古注所引《世本》另列数代，不能从这几个世数反推出每人的生卒年。韩武子与韩万的关联见古注，不能把此段写成韩厥本年才受封。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4025",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0709.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-001",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "title": "韩厥保赵孤的异传",
+      "raw": "韓厥，晉景公之三年，晉司寇屠岸賈將作亂，誅靈公之賊趙盾。趙盾已死矣，欲誅其子趙朔。韓厥止賈，賈不聽。厥告趙朔令亡。朔曰：「子必能不絕趙祀，死不恨矣。」韓厥許之。及賈誅趙氏，厥稱疾不出。程嬰、公孫杵臼之藏趙孤趙武也，厥知之。",
+      "reading": "本篇另述晋景公三年，屠岸贾要追究弑灵公的责任：赵盾已死，便打算诛他的儿子赵朔。韩厥劝阻不成，通知赵朔逃走；赵朔认为只要韩厥能保全赵氏祭祀，自己死也无憾。韩厥答应，屠岸贾诛赵氏时称病不出，并知道程婴、公孙杵臼藏匿赵武的安排。这是与《赵世家》同系统的赵孤传述，和经传前583年的下宫之难不同，不另写成已经确证的一次全族被灭。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4026",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0583.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj045-cite-002",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "title": "鞍战与晋设卿位",
+      "raw": "景公十一年，厥與郤克將兵八百乘伐齊，敗齊頃公于鞍，獲逢丑父。於是晉作六卿，而韓厥在一卿之位，號為獻子。",
+      "reading": "景公十一年，韩厥与郤克领八百乘兵车伐齐，在鞍击败齐顷公，俘获代君受难的逢丑父。篇中接着说晋设六卿，韩厥占一卿之位，号献子。鞍战与逢丑父故事归前589年；增军置卿与经传前588年的记事互校，不将本篇的连叙强压为同一天完成。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4027",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0589.md",
+          "note_anchor": "reading-note-3",
+          "placement_anchor": "sj045-cite-003",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0588.md",
+          "note_anchor": "note-10",
+          "placement_anchor": "sj045-cite-004",
+          "number": 10
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "title": "韩厥请求恢复赵氏",
+      "raw": "晉景公十七年，病，卜大業之不遂者為祟。韓厥稱趙成季之功，今後無祀，以感景公。景公問曰：「尚有世乎？」厥於是言趙武，而復與故趙氏田邑，續趙氏祀。",
+      "reading": "晋景公十七年病重，占卜把病因归给大业后裔祭祀断绝的神灵。韩厥于是陈述赵成季的功劳，说明其后人不该失去祭祀，打动景公。景公追问是否还有后裔，韩厥说出赵武，晋国便归还赵氏旧田邑、延续宗祀。占卜是古书所传的解释，韩厥进谏及赵武复宗才是政治行动；与《左传》不同的病祟细节留在同号注。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4028",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0583.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj045-cite-005",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "title": "韩厥退休及韩起继承",
+      "raw": "晉悼公之（十）［七］年，韓獻子老。獻子卒，子宣子代。宣字徙居州。",
+      "reading": "韩献子韩厥在晋悼公七年退休，主TXT保留原“十”校“七”的记号。篇中接叙韩厥死、其子宣子接续，又说宣子迁居州；“宣字”在三家注作“宣子”，宣子即韩起。经传记韩无忌让位给韩起，退休、去世、家族承继与迁居不是可以全认作同年发生的四件事。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4029",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0566.md",
+          "note_anchor": "note-7",
+          "placement_anchor": "sj045-cite-006",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "title": "季札预言、分县与韩氏后继",
+      "raw": "晉平公十四年，吳季札使晉，曰：「晉國之政卒歸於韓、魏、趙矣。」晉頃公十二年，韓宣子與趙、魏共分祁氏、羊舌氏十縣。晉定公十五年，宣子與趙簡子侵伐范、中行氏。宣子卒，子貞子代立。貞子徙居平陽。",
+      "reading": "吴季札访晋，认为晋政最后将归韩、魏、赵。篇中随后把分祁氏、羊舌氏十县及攻范、中行氏都写在韩宣子名下，又说宣子死后贞子继立、迁平阳。经传前514年已记韩起死，由魏献子主分十县；前497年参与攻范、中行的是韩不信，不能使死者继续领兵。贞子在《世本》作平子、名须，迁平阳的人另有景子之说，具体迁居年不强定。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4030",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0544.md",
+          "note_anchor": "reading-note-14",
+          "placement_anchor": "sj045-cite-007",
+          "number": 14
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0514.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj045-cite-008",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0497.md",
+          "note_anchor": "note-7",
+          "placement_anchor": "sj045-cite-009",
+          "number": 7
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0514.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj045-cite-010",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "title": "韩氏世系与灭智分地",
+      "raw": "貞子卒，子簡子代。簡子卒，子莊子代。莊子卒，子康子代。康子與趙襄子、魏桓子共敗知伯，分其地，地益大，大於諸侯。",
+      "reading": "本篇列贞子、简子、庄子、康子相继，康子再与赵襄子、魏桓子合击智伯、瓜分其地，三家的地盘扩大到超过一些诸侯。古本有省掉简、庄二代的传写，《世本》及其他篇又保留这些人，不能只按一条压缩世系推算代际。灭智与其后土地扩张合入前453年本事，诸侯正式承认仍待前403年。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4031",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0453.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-011",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0453.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-012",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "title": "韩武子与景侯前期",
+      "raw": "康子卒，子武子代。武子二年，伐鄭，殺其君幽公。十六年，武子卒，子景侯立。",
+      "reading": "韩康子以后由其子武子接掌。武子二年伐郑，杀郑幽公；十六年武子去世，儿子景侯接位。按本篇旧年链分别接前423年、前409年，景侯次年前408年开始元年；康子去世没有本段独立绝对年，作为武子登场以前的承继背景。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4032",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0424.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-013",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0423.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-014",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0409.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-015",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "title": "雍丘与负黍",
+      "raw": "景侯虔元年，伐鄭，取雍丘。二年，鄭敗我負黍。",
+      "reading": "韩景侯虔元年攻郑、取得雍丘；第二年反被郑军在负黍击败。两年的胜负分别保存，不把双方一胜一负合成同一次战斗。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4033",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0408.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-016",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0407.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-017",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "title": "三家列为诸侯",
+      "raw": "六年，與趙、魏俱得列為諸侯。",
+      "reading": "景侯六年，韩与赵、魏一同获周王正式列为诸侯。此次承认是名分上的变化，不是此前灭智分地与此时同时发生。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4034",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0403.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-018",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "title": "阳翟被围及景侯之死",
+      "raw": "九年，鄭圍我陽翟。景侯卒，子列侯取立。",
+      "reading": "景侯九年，郑军包围韩国的阳翟。景侯同年去世，儿子取接位，称列侯；列、烈是称号异写，不能增出两位不同国君。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4035",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0400.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-019",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0400.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-020",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "title": "聂政刺相、宜阳及列侯末年",
+      "raw": "列侯三年，聶政殺韓相俠累。九年，秦伐我宜陽，取六邑。十三年，列侯卒，子文侯立。是歲魏文侯卒。",
+      "reading": "列侯三年，聂政刺杀韩相侠累。九年秦伐宜阳、取六邑；十三年列侯去世，儿子文侯继立。篇末又说同年魏文侯死，但韩列侯十三年的旧链为前387年，与魏文侯前396年的主线不合。这一句保留为同步冲突，不把魏文侯再写死一次，也不把此前所有韩年机械平移。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4036",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0397.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-021",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0391.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-022",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0387.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-023",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0396.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-024",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "title": "韩文侯的战争与承继",
+      "raw": "文侯二年，伐鄭，取陽城。伐宋，到彭城，執宋君。七年，伐齊，至桑丘。鄭反晉。九年，伐齊，至靈丘。十年，文侯卒，子哀侯立。",
+      "reading": "文侯二年攻郑取阳城，又攻宋至彭城并俘宋君；七年伐齐到桑丘，又记郑反晋；九年伐齐至灵丘。十年文侯死，哀侯继位。各战合入既有前385、380、378年；“郑反晋”只说明背离关系，不自动译成与年表“郑败晋”完全同义。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4037",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0385.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-025",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0380.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-026",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0380.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-027",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0378.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-028",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0377.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-029",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "title": "分晋与灭郑迁都",
+      "raw": "哀侯元年，與趙、魏分晉國。二年，滅鄭，因徙都鄭。",
+      "reading": "哀侯元年，韩同赵、魏分取晋国剩余土地；二年灭郑，迁都郑地。前者是晋公室终局，后者是郑国终局，两国不能混作同一次灭亡。灭郑后韩国继承其政治中心，战国文献因而也会以郑称韩。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4038",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0376.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-030",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0375.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-031",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "title": "哀侯被弑与若山继位",
+      "raw": "六年，韓嚴弒其君哀侯。而子懿侯立。",
+      "reading": "本篇在哀侯六年记韩严弑君，哀侯之子懿侯继立。古注又见韩山坚、韩若山，以及年表作庄侯等名称；与严遂故事的关联只是注家提出的解释。现有主线根据《纪年》相关同步暂系前374年，篇内六年链则得前371年，不能各死一次。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4039",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0374.md",
+          "note_anchor": "reading-note-8",
+          "placement_anchor": "sj045-cite-032",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "title": "懿侯的战事、会盟与昭侯继承",
+      "raw": "懿侯二年，魏敗我馬陵。五年，與魏惠王會宅陽。九年，魏敗我澮。十二年，懿侯卒，子昭侯立。",
+      "reading": "懿侯二年魏在马陵击败韩，五年与魏惠王会宅阳，九年在浍败给魏，十二年懿侯死而其子昭侯继立。这里的马陵是魏胜韩的早期记事，不是前341年齐胜魏、庞涓死的那一役。懿侯起年与昭侯继立有不同而不能无缝拼接的年链，各战仍按已有编年定位，死亡作为继位前事附读，不另造无争议的确切卒年。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4040",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0369.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj045-cite-033",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0366.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj045-cite-034",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0362.md",
+          "note_anchor": "reading-note-4",
+          "placement_anchor": "sj045-cite-035",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0358.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj045-cite-036",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "title": "昭侯初年的失地与伐周",
+      "raw": "昭侯元年，秦敗我西山。二年，宋取我黃池。魏取朱。六年，伐東周，取陵觀、邢丘。",
+      "reading": "昭侯元年韩在西山败给秦；二年宋取黄池、魏取朱；六年韩伐东周，取得陵观与邢丘。主线分别接前358、357、353年；末一地在其他记载作廪丘，地名异写留注，不擅自变成两次多取一城。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4041",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0358.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj045-cite-037",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0357.md",
+          "note_anchor": "reading-note-6",
+          "placement_anchor": "sj045-cite-038",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-7",
+          "placement_anchor": "sj045-cite-039",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "title": "申不害任相",
+      "raw": "八年，申不害相韓，修術行道，國內以治，諸侯不來侵伐。",
+      "reading": "昭侯八年，申不害任韩国相国，整顿法术和政务，使国内治理有改善。本篇用诸侯不来侵伐概括其执政效果，是一段时期的总评，不能只算上任当天，也不能据此抹掉同时期已记载的其他战争。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4042",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0351.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-040",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "title": "悼公疑记与昭侯后期",
+      "raw": "十年，韓姬弒其君悼公。十一年，昭侯如秦。二十二年，申不害死。二十四年，秦來拔我宜陽。",
+      "reading": "本篇先在昭侯十年留下韩姬弑悼公的疑记，古注已经不知道悼公究竟是哪位君主。随后是十一年昭侯赴秦、二十二年申不害死、二十四年秦取宜阳。昭侯此后仍继续在位，不能由悼公被弑推成昭侯自己被杀；“韩姬”也不能未经解释就认作韩王的妃子。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4043",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0348.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-041",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0348.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-042",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0337.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-043",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0335.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-044",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "title": "旱灾营门与昭侯终局",
+      "raw": "二十五年，旱，作高門。屈宜臼曰：「昭侯不出此門。何也？不時。吾所謂時者，非時日也，人固有利不利時。昭侯嘗利矣，不作高門。往年秦拔宜陽，今年旱，昭侯不以此時卹民之急，而顧益奢，此謂『時絀舉贏』。」二十六年，高門成，昭侯卒，果不出此門。子宣惠王立。",
+      "reading": "昭侯二十五年旱灾，仍修高门。屈宜臼说昭侯不会从门下走出，解释自己讲的“时”并非吉日良辰，而是国家有利与困难的时势：从前顺利时不造门，如今刚失宜阳又旱灾，应救百姓急难，却更加奢侈，正是困乏时作过度支出。二十六年门成，昭侯去世，没有从门下出行，其子宣惠王接位。预言的应验是叙事修辞，不把建筑直接写成医学上的死因。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4044",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0334.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-045",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0333.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-046",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "title": "宣惠王的外交与战争",
+      "raw": "宣惠王五年，張儀相秦。八年，魏敗我將韓舉。十一年，君號為王。與趙會區鼠。十四，秦伐敗我鄢。",
+      "reading": "宣惠王五年张仪为秦相，八年韩将韩举败于魏，十一年称王并与赵会于区鼠，十四年又在鄢败给秦。韩举的将属与名字另有异记，区鼠会年与称王的年界不同，称王、会赵不必强成同日。鄢的当时归属也有韩魏不同记载。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4045",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0328.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-047",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0325.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-048",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0323.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-049",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0322.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-050",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0319.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-051",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P022",
+      "title": "修鱼以后、公仲求和与楚国虚救",
+      "raw": "十六年，秦敗我修魚，虜得韓將鯁、申差於濁澤。韓氏急，公仲謂韓王曰：「與國非可恃也。今秦之欲伐楚久矣，王不如因張儀為和於秦，賂以一名都，具甲，與之南伐楚，此以一易二之計也。」韓王曰：「善。」乃警公仲之行，將西購於秦。楚王聞之大恐，召陳軫告之。陳軫曰：「秦之欲伐楚久矣，今又得韓之名都一而具甲，秦韓并兵而伐楚，此秦所禱祀而求也。今已得之矣，楚國必伐矣。王聽臣為之警四境之內，起師言救韓，命戰車滿道路，發信臣，多其車，重其幣，使信王之救己也。縱韓不能聽我，韓必德王也，必不為鴈行以來，是秦韓不和也，兵雖至，楚不大病也。為能聽我絕和於秦，秦必大怒，以厚怨韓。韓之南交楚，必輕秦；輕秦，其應秦必不敬：是因秦、韓之兵而免楚國之患也。」楚王曰：「善。」乃警四境之內，興師言救韓。命戰車滿道路，發信臣，多其車，重其幣。謂韓王曰：「不穀國雖小，已悉發之矣。願大國遂肆志於秦，不穀將以楚殉韓。」韓王聞之大說，乃止公仲之行。公仲曰：「不可。夫以實伐我者秦也，以虛名救我者楚也。王恃楚之虛名，而輕絕彊秦之敵，王必為天下大笑。且楚韓非兄弟之國也，又非素約而謀伐秦也。已有伐形，因發兵言救韓，此必陳軫之謀也。且王已使人報於秦矣，今不行，是欺秦也。夫輕欺彊秦而信楚之謀臣，恐王必悔之。」韓王不聽，遂絕於秦。秦因大怒，益甲伐韓，大戰，楚救不至韓。十九年，大破我岸門。太子倉質於秦以和。",
+      "reading": "宣惠王十六年，秦在修鱼击败韩，俘获鯁、申差。韩国危急，公仲建议经张仪与秦讲和，交出一座名城、整军随秦攻楚，以一座城换停止攻韩和转而攻楚两项收益。韩王同意，准备让公仲西行。楚王恐惧，陈轸建议作出大举救韩的姿态：戒备四境，战车铺满道路，重礼遣使，让韩相信楚会救援；即使韩仍与秦合作，也会感激楚而不同心进军，若韩因此与秦绝交，秦更会集中怨恨攻击韩，楚便免祸。楚照做并声言愿为韩赴死，韩王大喜，停止公仲赴秦。公仲反对：真正攻韩的是秦，楚只用虚名救韩；两国非兄弟也无预先同谋，楚在韩已受攻时突然出兵造势，显然是陈轸的计策。韩既已答复秦，再反悔是欺强秦而信楚谋，终将后悔。韩王不听，断绝和议，秦增兵攻韩而楚救不到。到十九年秦又在岸门大破韩，太子仓赴秦作质以和。修鱼、虚救说辞和岸门是连年发展，不全压成一个日期。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4046",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0317.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-052",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0314.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-053",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P023",
+      "title": "韩助秦败楚与宣惠王之死",
+      "raw": "二十一年，與秦共攻楚，敗楚將屈丐，斬首八萬於丹陽。是歲，宣惠王卒，太子倉立，是為襄王。",
+      "reading": "宣惠王二十一年，韩国与秦共同攻楚，在丹阳击败楚将屈丐，记斩首八万。宣惠王同年去世，太子仓继位，是为襄王。前次楚虚救之后，韩国最终仍转为与秦共同攻楚；只是这种先后不能代替每一步都有明确的外交文书。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4047",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0312.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-054",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0312.md",
+          "note_anchor": "sj045-xuanhui-death-note",
+          "placement_anchor": "sj045-cite-055",
+          "number": 9
+        }
+      ]
+    },
+    {
+      "id": "P024",
+      "title": "襄王前期、宜阳武遂与太子婴",
+      "raw": "襄王四年，與秦武王會臨晉。其秋，秦使甘茂攻我宜陽。五年，秦拔我宜陽，斬首六萬。秦武王卒。六年，秦復與我武遂。九年，秦復取我武遂。十年，太子嬰朝秦而歸。十一年，秦伐我，取穰。與秦伐楚，敗楚將唐眛。",
+      "reading": "襄王四年同秦武王会临晋，秋秦遣甘茂攻宜阳；五年秦攻下宜阳，记杀六万，秦武王亦死。六年秦还武遂，九年又夺武遂；十年韩太子婴朝秦后回国。十一年秦取韩穰，韩又与秦伐楚、败楚将唐昧。交地与重新取地分开，韩参与秦方战争也不等于秦韩永不相攻。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4048",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0308.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-056",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0307.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-057",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0306.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-058",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0303.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-059",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0302.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-060",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0301.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-061",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0301.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-062",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P025",
+      "title": "太子婴死后的储位争夺",
+      "raw": "十二年，太子嬰死。公子咎、公子蟣蝨爭為太子。時蟣蝨質於楚。蘇代謂韓咎曰：「蟣蝨亡在楚，楚王欲內之甚。今楚兵十餘萬在方城之外，公何不令楚王筑萬室之都雍氏之旁，韓必起兵以救之，公必將矣。公因以韓楚之兵奉蟣蝨而內之，其聽公必矣，必以楚韓封公也。」韓咎從其計。",
+      "reading": "襄王十二年太子婴死，公子咎与在楚为质的公子蟣蝨争储。苏代劝韩咎利用楚王想送蟣蝨回国的愿望：让楚在雍氏旁建一座万户之城，迫韩出兵应对，韩咎料将领军，再率韩楚军拥送蟣蝨入国；如此蟣蝨听从他，楚韩也会给他封地。韩咎听从。这是游说中争取权势的方案，不能把预期封赏全当已经实现；谋储与随后所附围城说辞的绝对年仍有异说。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4049",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0300.md",
+          "note_anchor": "sj045-succession-note",
+          "placement_anchor": "sj045-cite-063",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P026",
+      "title": "公孙昧说明秦援的危险",
+      "raw": "楚圍雍氏，韓求救於秦。秦未為發，使公孫昧入韓。公仲曰：「子以秦為且救韓乎？」對曰：「秦王之言曰『請道南鄭、藍田，出兵於楚以待公』，殆不合矣。」公仲曰：「子以為果乎？」對曰：「秦王必祖張儀之故智。楚威王攻梁也，張儀謂秦王曰：『與楚攻魏，魏折而入於楚，韓固其與國也，是秦孤也。不如出兵以到之，魏楚大戰，秦取西河之外以歸。』今其狀陽言與韓，其實陰善楚。公待秦而到，必輕與楚戰。楚陰得秦之不用也，必易與公相支也。公戰而勝楚，遂與公乘楚，施三川而歸。公戰不勝楚，楚塞三川守之，公不能救也。竊為公患之。司馬庚三反於郢，甘茂與昭魚遇於商於，其言收璽，實類有約也。」公仲恐，曰：「然則柰何？」曰：「公必先韓而後秦，先身而後張儀。公不如亟以國合於齊楚，齊楚必委國於公。公之所惡者張儀也，其實猶不無秦也。」於是楚解雍氏圍。",
+      "reading": "楚围雍氏，韩向秦求援。秦尚未发兵，派公孙昧入韩。公仲问秦是否真会救，公孙昧说秦口称从南郑、蓝田方向出兵，未必能与韩及时会合；又拿张仪旧计作比：楚攻梁时，张仪忧魏屈服楚会令韩也亲楚、孤立秦，建议佯作援救，让魏楚相战而秦取西河。如今秦表面助韩、暗中善楚，韩若因期待援军轻率开战，楚又知道秦不会真救，双方都会被推着作战；韩若胜楚，秦便跟着乘胜制楚、在三川张设救韩之功再回国；韩若败，楚便封锁三川而韩无力解救。公孙昧又以司马庚屡往郢、甘茂会昭鱼等作为秦楚疑有密约的迹象，劝公仲先保韩与自身，急与齐楚联合，同时不必彻底断秦。篇中以楚解围作结。这是使者的判断和游说，不是秦楚密约已被独立证实。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4050",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0300.md",
+          "note_anchor": "sj045-succession-note",
+          "placement_anchor": "sj045-cite-064",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P027",
+      "title": "芈戎、伯婴与储位说辞错综",
+      "raw": "蘇代又謂秦太后弟羋戎曰：「公叔伯嬰恐秦楚之內蟣蝨也，公何不為韓求質子於楚？楚王聽入質子於韓，則公叔伯嬰知秦楚之不以蟣蝨為事，必以韓合於秦楚。秦楚挾韓以窘魏，魏氏不敢合於齊，是齊孤也。公又為秦求質子於楚，楚不聽，怨結於韓。韓挾齊魏以圍楚，楚必重公。公挾秦楚之重以積德於韓，公叔伯嬰必以國待公。」於是蟣蝨竟不得歸韓。韓立咎為太子。齊、魏王來。",
+      "reading": "另一段说辞中，苏代劝秦太后弟芈戎利用韩公叔伯婴害怕秦楚送回蟣蝨的心理，替韩向楚求质；索隐将这一步解释为另派他人替换蟣蝨，让他归韩，而正义又认为下句“楚王听入”脱“不”，两种解释并不相同。说辞设想借楚的答复推动韩依附秦楚，挟韩牵制魏，令魏不敢合齐、使齐孤立。第二步再替秦向楚索取楚所留的韩质子，使其入秦；若楚拒绝，便激成韩怨楚、联齐魏围楚，使楚转而重视芈戎，从而让芈戎同时在秦楚韩之间取重。本文“楚王听入质子”与后句逻辑不顺，正义疑脱“不”；伯婴是否就是前段已死的太子婴、这段是否倒叙，古注也有解释。最终蟣蝨未能返韩，韩立咎为太子，齐魏两王来会。方案不等于各国已经逐项照做，储位结果与游说中的人物年次必须分开。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4051",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0300.md",
+          "note_anchor": "sj045-succession-note",
+          "placement_anchor": "sj045-cite-065",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0299.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-066",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P028",
+      "title": "三国攻秦、返地与襄王之死",
+      "raw": "十四年，與齊、魏王共擊秦，至函谷而軍焉。十六年，秦與我河外及武遂。襄王卒，太子咎立，是為釐王。",
+      "reading": "襄王十四年，与齐魏联军进至函谷关；十六年秦归还河外及武遂，襄王去世，太子咎继为釐王。攻秦和退兵和议跨越数年，既有主线前298开始、前296讲和；次年前295才算新王元年。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4052",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0298.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-067",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0296.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-068",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0296.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-069",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P029",
+      "title": "釐王时期的秦韩战和",
+      "raw": "釐王三年，使公孫喜率周、魏攻秦。秦敗我二十四萬，虜喜伊闕。五年，秦拔我宛。六年，與秦武遂地二百里。十年，秦敗我師于夏山。十二年，與秦昭王會西周而佐秦攻齊。齊敗，湣王出亡。十四年，與秦會兩周閒。二十一年，使暴捐救魏，為秦所敗，捐走開封。",
+      "reading": "釐王三年，韩遣公孙喜率周魏等军攻秦，在伊阙惨败，记二十四万人损失，公孙喜被俘。五年秦取宛，六年韩割武遂二百里；十年又败于夏山。十二年韩王在西周会秦王并助攻齐，齐败而湣王逃亡；十四年再与秦会于两周之间。二十一年韩遣暴捐救魏，败于秦而逃开封。暴捐又作暴鸢；本篇叙事是反复战争、割地与联合，不是一次败仗便立即亡国。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4053",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0293.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-070",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0291.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-071",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0290.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-072",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0286.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj045-cite-073",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0284.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-074",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0284.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-075",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0282.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-076",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0275.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-077",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P030",
+      "title": "华阳求救与釐王之死",
+      "raw": "二十三年，趙、魏攻我華陽。韓告急於秦，秦不救。韓相國謂陳筮曰：「事急，願公雖病，為一宿之行。」陳筮見穰侯。穰侯曰：「事急乎？故使公來。」陳筮曰：「未急也。」穰侯怒曰：「是可以為公之主使乎？夫冠蓋相望，告敝邑甚急，公來言未急，何也？」陳筮曰：「彼韓急則將變而佗從，以未急，故復來耳。」穰侯曰：「公無見王，請今發兵救韓。」八日而至，敗趙、魏於華陽之下。是歲，釐王卒，子桓惠王立。",
+      "reading": "釐王二十三年，赵魏攻韩华阳。韩屡向秦求援而未获救，相国请患病的陈筮连夜出使。穰侯问是否急迫，陈筮反答还不急，解释真正危急时韩会改变联盟、转从他国，现在仍来求秦，恰因尚未到绝境。穰侯意识到若再拖延韩将离秦，立即决定出兵，不必陈筮另见秦王；援军八日赶到，在华阳击败赵魏。釐王同年去世，儿子桓惠王继位。陈筮说“不急”是外交施压的反语，不是韩国实际没有危险。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4054",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0273.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj045-cite-078",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0273.md",
+          "note_anchor": "sj045-xi-death-note",
+          "placement_anchor": "sj045-cite-079",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P031",
+      "title": "桓惠王时期的疆土丧失",
+      "raw": "桓惠王元年，伐燕。九年，秦拔我陘，城汾旁。十年，秦擊我於太行，我上黨郡守以上黨郡降趙。十四年，秦拔趙上黨，殺馬服子卒四十餘萬於長平。十七年，秦拔我陽城、負黍。二十二年，秦昭王卒。二十四年，秦拔我城皋、滎陽。二十六年，秦悉拔我上黨。二十九年，秦拔我十三城。",
+      "reading": "桓惠王元年伐燕；九年陉城被秦夺，又有“城汾旁”文字，是否另记筑城有不同读法。十年段把秦攻太行、上党守降赵连写；十四年段又记秦取赵上党、在长平杀马服君之子赵括所领四十余万人。各书不同的263/262和259/260年界分别注出。十七年韩失阳城、负黍；二十二年秦昭王死；二十四年失成皋、荥阳；二十六年又记秦尽取韩上党；二十九年失十三城。最后再记尽取上党不等于前260的赵军战败又重演一次。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4055",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0272.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-080",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0264.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-081",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0263.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-082",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0262.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-083",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0260.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-084",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0256.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-085",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0251.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-086",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0249.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-087",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0247.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-088",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0244.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-089",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P032",
+      "title": "桓惠王之死与王安承位",
+      "raw": "三十四年，桓惠王卒，子王安立。",
+      "reading": "桓惠王三十四年去世，儿子安继立。按已有王年链在前239年承位，前238年开始王安元年，不把这两年写成两次登位。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4056",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0239.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj045-cite-090",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P033",
+      "title": "韩非出使与被杀",
+      "raw": "王安五年，秦攻韓，韓急，使韓非使秦，秦留非，因殺之。",
+      "reading": "王安五年段说秦攻韩，韩情势危急，遣韩非出使秦，秦将他扣留后杀害。五年按前238年元年换算为前234，与秦始皇十四年前233的主线差一年；同一出使遇害仍合前233，不另在234重写一次。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4057",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0233.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj045-cite-091",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P034",
+      "title": "秦灭韩",
+      "raw": "九年，秦虜王安，盡入其地，為潁州郡。韓遂亡。",
+      "reading": "王安九年，秦俘韩王安，吞并韩地，韩国灭亡。本文郡名作颍州，秦始皇本纪作颍川，正文沿既有颍川郡，原字不删改。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4058",
+      "kind": "primary_prose",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0230.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-092",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P035",
+      "title": "太史公论韩厥阴德",
+      "raw": "太史公曰：韓厥之感晉景公，紹趙孤之子武，以成程嬰、公孫杵臼之義，此天下之陰德也。韓氏之功，於晉未睹其大者也。然與趙、魏終為諸侯十餘世，宜乎哉！",
+      "reading": "司马迁认为，韩厥感动晋景公、让赵武延续赵氏，成全了程婴、公孙杵臼的义举，是不显于外的善德；韩氏在晋的功业虽未见特别显赫，后来却能同赵魏成为诸侯、延续十余世，或许正与此相称。这是史家以德行解释家族兴起的评论，建立在救孤传述之上，不当作可由编年证明的因果定律。",
+      "source_path": "sources/本地分卷/史记/史记-卷045.md",
+      "source_anchor": "L4059",
+      "kind": "author_comment",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0230.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-093",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "Z001",
+      "title": "唐代索隐述赞",
+      "raw": "索隱述贊曰：韓氏之先，實宗周武。事微國小，春秋無語。後裔事晉，韓原是處。趙孤克立，智伯可取。旣徙平陽，又侵負黍。景趙據侯，惠文僭主。秦敗脩魚，魏會區鼠。韓非雖使，不禁狼虎。",
+      "reading": "司马贞追述韩氏同周武王宗族、先世在韩原事晋，国小事迹不彰，后以保赵孤、取智伯而兴；又概括迁平阳、争负黍、列侯称王，遭秦败修鱼以及韩非出使仍不能止秦。赞中“景赵”“惠文”“魏会区鼠”等字句与正文有参差，按唐代后出文学概括保存，不据此改写每一场战役或会盟的国名。",
+      "source_path": "sources/史记三家注/卷045.md",
+      "source_anchor": "p33",
+      "kind": "later_praise",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0230.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj045-cite-094",
+          "number": 1
+        }
+      ]
+    }
+  ]
+}
