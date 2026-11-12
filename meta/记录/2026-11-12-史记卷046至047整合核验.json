@@ -1,0 +1,4002 @@
+{
+  "type": "《史记》卷046、047整合核验快照",
+  "date": "2026-11-12",
+  "baseline_remote_commit": "dc3fdd77437681009745089f4314b983e2e3ea94",
+  "status": "passed",
+  "scope": "逐项核对原文、实际引句、作者修改正文、完整阅读目录与变更文件链接；语义亲读范围由独立复核界定。原始见证不回写，远端未改文件沿基树保留。",
+  "counts": {
+    "annual_pages": 780,
+    "period_pages": 12,
+    "reading_pages": 792,
+    "numbered_groups": 5216,
+    "new_numbered_groups": 52,
+    "original_prose_units": 141,
+    "prose_and_supplement_units": 142,
+    "supplement_units": 1,
+    "supplement_sentences": 1,
+    "later_praise_units": 2,
+    "new_annual_years_bce": [],
+    "new_annual_pages": [],
+    "new_period_pages": [
+      "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+      "years/bce-0600-0501/未定年-春秋晚期求学与问政.md"
+    ],
+    "changed_navigation_pages": [],
+    "century_counts": {
+      "bce-0900-0801": 31,
+      "bce-0800-0701": 80,
+      "bce-0700-0601": 100,
+      "bce-0600-0501": 100,
+      "bce-0500-0401": 91,
+      "bce-0400-0301": 99,
+      "bce-0300-0201": 100,
+      "bce-0200-0101": 100,
+      "bce-0100-0001": 62,
+      "ce-0001-0100": 4,
+      "ce-0201-0300": 13
+    }
+  },
+  "changed_reading_pages": [
+    "years/bce-0200-0101/bce-0195.md",
+    "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+    "years/bce-0300-0201/bce-0209.md",
+    "years/bce-0300-0201/bce-0221.md",
+    "years/bce-0300-0201/bce-0222.md",
+    "years/bce-0300-0201/bce-0223.md",
+    "years/bce-0300-0201/bce-0225.md",
+    "years/bce-0300-0201/bce-0226.md",
+    "years/bce-0300-0201/bce-0227.md",
+    "years/bce-0300-0201/bce-0228.md",
+    "years/bce-0300-0201/bce-0230.md",
+    "years/bce-0300-0201/bce-0237.md",
+    "years/bce-0300-0201/bce-0242.md",
+    "years/bce-0300-0201/bce-0249.md",
+    "years/bce-0300-0201/bce-0259.md",
+    "years/bce-0300-0201/bce-0260.md",
+    "years/bce-0300-0201/bce-0265.md",
+    "years/bce-0300-0201/bce-0270.md",
+    "years/bce-0300-0201/bce-0279.md",
+    "years/bce-0300-0201/bce-0283.md",
+    "years/bce-0300-0201/bce-0284.md",
+    "years/bce-0300-0201/bce-0285.md",
+    "years/bce-0300-0201/bce-0286.md",
+    "years/bce-0300-0201/bce-0288.md",
+    "years/bce-0300-0201/bce-0295.md",
+    "years/bce-0300-0201/bce-0296.md",
+    "years/bce-0300-0201/bce-0298.md",
+    "years/bce-0300-0201/bce-0299.md",
+    "years/bce-0300-0201/bce-0300.md",
+    "years/bce-0400-0301/bce-0301.md",
+    "years/bce-0400-0301/bce-0311.md",
+    "years/bce-0400-0301/bce-0312.md",
+    "years/bce-0400-0301/bce-0317.md",
+    "years/bce-0400-0301/bce-0319.md",
+    "years/bce-0400-0301/bce-0320.md",
+    "years/bce-0400-0301/bce-0322.md",
+    "years/bce-0400-0301/bce-0323.md",
+    "years/bce-0400-0301/bce-0325.md",
+    "years/bce-0400-0301/bce-0332.md",
+    "years/bce-0400-0301/bce-0333.md",
+    "years/bce-0400-0301/bce-0334.md",
+    "years/bce-0400-0301/bce-0336.md",
+    "years/bce-0400-0301/bce-0340.md",
+    "years/bce-0400-0301/bce-0341.md",
+    "years/bce-0400-0301/bce-0343.md",
+    "years/bce-0400-0301/bce-0346.md",
+    "years/bce-0400-0301/bce-0353.md",
+    "years/bce-0400-0301/bce-0354.md",
+    "years/bce-0400-0301/bce-0355.md",
+    "years/bce-0400-0301/bce-0356.md",
+    "years/bce-0400-0301/bce-0369.md",
+    "years/bce-0400-0301/bce-0370.md",
+    "years/bce-0400-0301/bce-0372.md",
+    "years/bce-0400-0301/bce-0373.md",
+    "years/bce-0400-0301/bce-0376.md",
+    "years/bce-0400-0301/bce-0378.md",
+    "years/bce-0400-0301/bce-0379.md",
+    "years/bce-0400-0301/bce-0380.md",
+    "years/bce-0400-0301/bce-0385.md",
+    "years/bce-0400-0301/bce-0386.md",
+    "years/bce-0400-0301/bce-0389.md",
+    "years/bce-0400-0301/bce-0390.md",
+    "years/bce-0400-0301/bce-0391.md",
+    "years/bce-0500-0401/bce-0405.md",
+    "years/bce-0500-0401/bce-0407.md",
+    "years/bce-0500-0401/bce-0408.md",
+    "years/bce-0500-0401/bce-0411.md",
+    "years/bce-0500-0401/bce-0412.md",
+    "years/bce-0500-0401/bce-0413.md",
+    "years/bce-0500-0401/bce-0453.md",
+    "years/bce-0500-0401/bce-0479.md",
+    "years/bce-0500-0401/bce-0480.md",
+    "years/bce-0500-0401/bce-0481.md",
+    "years/bce-0500-0401/bce-0484.md",
+    "years/bce-0500-0401/bce-0485.md",
+    "years/bce-0500-0401/bce-0488.md",
+    "years/bce-0500-0401/bce-0489.md",
+    "years/bce-0500-0401/bce-0490.md",
+    "years/bce-0500-0401/bce-0491.md",
+    "years/bce-0500-0401/bce-0492.md",
+    "years/bce-0500-0401/bce-0493.md",
+    "years/bce-0500-0401/bce-0494.md",
+    "years/bce-0500-0401/bce-0495.md",
+    "years/bce-0500-0401/bce-0497.md",
+    "years/bce-0500-0401/bce-0498.md",
+    "years/bce-0500-0401/bce-0500.md",
+    "years/bce-0600-0501/bce-0501.md",
+    "years/bce-0600-0501/bce-0502.md",
+    "years/bce-0600-0501/bce-0505.md",
+    "years/bce-0600-0501/bce-0509.md",
+    "years/bce-0600-0501/bce-0510.md",
+    "years/bce-0600-0501/bce-0517.md",
+    "years/bce-0600-0501/bce-0518.md",
+    "years/bce-0600-0501/bce-0522.md",
+    "years/bce-0600-0501/bce-0532.md",
+    "years/bce-0600-0501/bce-0535.md",
+    "years/bce-0600-0501/bce-0539.md",
+    "years/bce-0600-0501/bce-0551.md",
+    "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+    "years/bce-0700-0601/bce-0672.md",
+    "years/bce-0700-0601/bce-0692.md",
+    "years/bce-0700-0601/bce-0699.md",
+    "years/bce-0800-0701/bce-0705.md",
+    "years/bce-0800-0701/bce-0706.md",
+    "years/bce-0800-0701/bce-0707.md",
+    "years/bce-0800-0701/bce-0754.md"
+  ],
+  "volume_validation": [
+    {
+      "volume": 46,
+      "body_units": 57,
+      "original_prose_units": 56,
+      "later_praise_units": 1,
+      "raw_witness_lines": 57,
+      "raw_witness_lines_covered": 57,
+      "supplement_units": 1,
+      "supplement_sentences": 1,
+      "destination_bindings": 134,
+      "quote_placements": 134,
+      "reading_pages": 83,
+      "errors": [],
+      "quote_checks": [
+        {
+          "path": "years/bce-0800-0701/bce-0705.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p001",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p001",
+          "quote_characters": 96,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0754.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p002",
+          "quote_characters": 38,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0707.md",
+          "note_anchor": "reading-note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p002",
+          "quote_characters": 25,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0706.md",
+          "note_anchor": "note-10",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p002",
+          "quote_characters": 52,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0699.md",
+          "note_anchor": "note-9",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p002",
+          "quote_characters": 49,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0692.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p003",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p003",
+          "quote_characters": 36,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p003",
+          "quote_characters": 41,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p003",
+          "quote_characters": 61,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p003",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p004",
+          "quote_characters": 27,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0551.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p005",
+          "quote_characters": 27,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0551.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p006",
+          "quote_characters": 35,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0551.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p007",
+          "quote_characters": 27,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0532.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p008",
+          "quote_characters": 13,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0539.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p008",
+          "quote_characters": 106,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0493.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p009",
+          "quote_characters": 74,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0490.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p010",
+          "quote_characters": 91,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p010",
+          "quote_characters": 147,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p011",
+          "quote_characters": 218,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0485.md",
+          "note_anchor": "sj046-tianqi-succession-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p012",
+          "quote_characters": 18,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0485.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p013",
+          "quote_characters": 26,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0485.md",
+          "note_anchor": "sj046-tianqi-succession-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p013",
+          "quote_characters": 108,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0481.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p014",
+          "quote_characters": 223,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0481.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p015",
+          "quote_characters": 86,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0480.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p016",
+          "quote_characters": 58,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0480.md",
+          "note_anchor": "note-9",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p017",
+          "quote_characters": 95,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0480.md",
+          "note_anchor": "note-9",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p018",
+          "quote_characters": 49,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0453.md",
+          "note_anchor": "sj046-tianpan-lineage-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p019",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0453.md",
+          "note_anchor": "sj046-tianpan-lineage-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p020",
+          "quote_characters": 47,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0453.md",
+          "note_anchor": "sj046-tianpan-lineage-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p021",
+          "quote_characters": 18,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0413.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p021",
+          "quote_characters": 18,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0412.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p021",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0411.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p021",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0453.md",
+          "note_anchor": "sj046-tianpan-lineage-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p022",
+          "quote_characters": 10,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0408.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p022",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0407.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p022",
+          "quote_characters": 19,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0405.md",
+          "note_anchor": "reading-note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p022",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0405.md",
+          "note_anchor": "reading-note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p022",
+          "quote_characters": 7,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0405.md",
+          "note_anchor": "reading-note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p023",
+          "quote_characters": 10,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0391.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p023",
+          "quote_characters": 36,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0390.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p023",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0389.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p024",
+          "quote_characters": 48,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0386.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p024",
+          "quote_characters": 23,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0385.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p025",
+          "quote_characters": 18,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0380.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p025",
+          "quote_characters": 168,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0379.md",
+          "note_anchor": "sj046-qi-aid-wei-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 6,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0379.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0378.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 17,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0376.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 13,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0373.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0373.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0372.md",
+          "note_anchor": "sj046-xueling-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0370.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 10,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "sj046-jimo-a-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p028",
+          "quote_characters": 191,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0369.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p028",
+          "quote_characters": 35,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "sj046-jimo-a-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p028",
+          "quote_characters": 40,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "note-7",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p029",
+          "quote_characters": 345,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "note-7",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p030",
+          "quote_characters": 326,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p031",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0355.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p031",
+          "quote_characters": 223,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0354.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p032",
+          "quote_characters": 138,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-6",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p033",
+          "quote_characters": 80,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p033",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p033",
+          "quote_characters": 19,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0346.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p034",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p035",
+          "quote_characters": 107,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0320.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p036",
+          "quote_characters": 16,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0356.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p037",
+          "quote_characters": 10,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0343.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p037",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p038",
+          "quote_characters": 25,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p038",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p038",
+          "quote_characters": 177,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p038",
+          "quote_characters": 49,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0340.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p038",
+          "quote_characters": 21,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0336.md",
+          "note_anchor": "sj044-pingan-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0322.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 7,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0319.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 5,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0334.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 17,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0333.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0332.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 21,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0319.md",
+          "note_anchor": "sj046-jixia-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p040",
+          "quote_characters": 73,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0301.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p041",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0323.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p042",
+          "quote_characters": 19,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0322.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p042",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0320.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p042",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0317.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p042",
+          "quote_characters": 13,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0312.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p043",
+          "quote_characters": 17,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0312.md",
+          "note_anchor": "sj046-sudai-chenzhen-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p043",
+          "quote_characters": 494,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0311.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0301.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0300.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0299.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0299.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0298.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 4,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0298.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 19,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0296.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 16,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0295.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0296.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 7,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0288.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p045",
+          "quote_characters": 425,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0286.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p046",
+          "quote_characters": 344,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0285.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p047",
+          "quote_characters": 15,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0284.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p048",
+          "quote_characters": 27,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0284.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p048",
+          "quote_characters": 110,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0283.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p049",
+          "quote_characters": 133,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0283.md",
+          "note_anchor": "sj046-queen-family-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p050",
+          "quote_characters": 72,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0279.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p051",
+          "quote_characters": 44,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0270.md",
+          "note_anchor": "sj046-gangshou-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p052",
+          "quote_characters": 10,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0265.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p052",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0260.md",
+          "note_anchor": "sj046-zhouzi-grain-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p053",
+          "quote_characters": 187,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0260.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p053",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0259.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p053",
+          "quote_characters": 5,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0249.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0249.md",
+          "note_anchor": "sj046-queen-death-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 5,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0242.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 10,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0237.md",
+          "note_anchor": "sj046-jian-qin-note",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 18,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0230.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0228.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0227.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0226.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0225.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0223.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0222.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0222.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 5,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 41,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 16,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 119,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 27,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 53,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "p056",
+          "quote_characters": 98,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0221.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "z001",
+          "quote_characters": 88,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0325.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷046-田敬仲完世家.md",
+          "source_anchor": "s001",
+          "quote_characters": 10,
+          "source_match": true
+        }
+      ],
+      "pass": true,
+      "original_source_sha256": "d308e328d94fbc4ba7d34e563df040ca69ffdda2fcd66237b66502f00dc53181"
+    },
+    {
+      "volume": 47,
+      "body_units": 85,
+      "original_prose_units": 85,
+      "later_praise_units": 1,
+      "raw_witness_lines": 86,
+      "raw_witness_lines_covered": 86,
+      "supplement_units": 0,
+      "supplement_sentences": 0,
+      "destination_bindings": 112,
+      "quote_placements": 112,
+      "reading_pages": 29,
+      "errors": [],
+      "quote_checks": [
+        {
+          "path": "years/bce-0600-0501/bce-0551.md",
+          "note_anchor": "note-11",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p001",
+          "quote_characters": 88,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-early-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p002",
+          "quote_characters": 88,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-early-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p003",
+          "quote_characters": 39,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-early-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p005",
+          "quote_characters": 93,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0518.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p004",
+          "quote_characters": 178,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0535.md",
+          "note_anchor": "note-12",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p004",
+          "quote_characters": 13,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-zhou-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p006",
+          "quote_characters": 162,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-setting-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p007",
+          "quote_characters": 66,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0522.md",
+          "note_anchor": "reading-note-12",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p008",
+          "quote_characters": 118,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0517.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p009",
+          "quote_characters": 65,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-qi-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p009",
+          "quote_characters": 53,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-qi-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p010",
+          "quote_characters": 302,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0510.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p011",
+          "quote_characters": 15,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0509.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p011",
+          "quote_characters": 4,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0505.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p011",
+          "quote_characters": 18,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-well-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p011",
+          "quote_characters": 63,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-bones-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p012",
+          "quote_characters": 216,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0505.md",
+          "note_anchor": "note-10",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p013",
+          "quote_characters": 125,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0502.md",
+          "note_anchor": "note-12",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p014",
+          "quote_characters": 55,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0501.md",
+          "note_anchor": "note-5",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p014",
+          "quote_characters": 22,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-gongshan-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p015",
+          "quote_characters": 100,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0500.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p016",
+          "quote_characters": 37,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0500.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p017",
+          "quote_characters": 355,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0500.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p017",
+          "quote_characters": 117,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0498.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p018",
+          "quote_characters": 138,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0498.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p018",
+          "quote_characters": 59,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-government-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p019",
+          "quote_characters": 128,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0497.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p020",
+          "quote_characters": 315,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0497.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p021",
+          "quote_characters": 90,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-kuang-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p022",
+          "quote_characters": 182,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-nanzi-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p023",
+          "quote_characters": 215,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0495.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p023",
+          "quote_characters": 8,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0492.md",
+          "note_anchor": "note-13",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p024",
+          "quote_characters": 64,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-zheng-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p025",
+          "quote_characters": 107,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-chen-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-chen-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p027",
+          "quote_characters": 158,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-chen-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p028",
+          "quote_characters": 60,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0494.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 16,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0494.md",
+          "note_anchor": "note-8",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 6,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0494.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 4,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0493.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 5,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0494.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p026",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-pu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p029",
+          "quote_characters": 148,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-pu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p030",
+          "quote_characters": 113,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-pu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p031",
+          "quote_characters": 42,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-fo-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p032",
+          "quote_characters": 125,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-music-study-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p033",
+          "quote_characters": 38,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-music-study-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p034",
+          "quote_characters": 188,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-river-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p035",
+          "quote_characters": 218,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-wei-army-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p036",
+          "quote_characters": 64,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0493.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p037",
+          "quote_characters": 17,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0493.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p037",
+          "quote_characters": 39,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0493.md",
+          "note_anchor": "note-6",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p037",
+          "quote_characters": 24,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0492.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p037",
+          "quote_characters": 16,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0492.md",
+          "note_anchor": "note-3",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p038",
+          "quote_characters": 40,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0492.md",
+          "note_anchor": "note-7",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p039",
+          "quote_characters": 244,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-chen-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p040",
+          "quote_characters": 16,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0491.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p040",
+          "quote_characters": 44,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0490.md",
+          "note_anchor": "note-4",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p040",
+          "quote_characters": 7,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-ye-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p041",
+          "quote_characters": 97,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-hermits-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p042",
+          "quote_characters": 195,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-hermits-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p043",
+          "quote_characters": 71,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chen-cai-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p044",
+          "quote_characters": 189,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chen-cai-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p049",
+          "quote_characters": 22,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chen-cai-dialogue-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p045",
+          "quote_characters": 49,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chen-cai-dialogue-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p046",
+          "quote_characters": 122,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chen-cai-dialogue-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p047",
+          "quote_characters": 144,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chen-cai-dialogue-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p048",
+          "quote_characters": 158,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-chu-offer-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p050",
+          "quote_characters": 200,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p050",
+          "quote_characters": 11,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-jieyu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p051",
+          "quote_characters": 70,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "sj047-back-wei-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p052",
+          "quote_characters": 29,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0488.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p053",
+          "quote_characters": 34,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-names-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p054",
+          "quote_characters": 194,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0484.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 144,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0484.md",
+          "note_anchor": "note-7",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p055",
+          "quote_characters": 75,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0484.md",
+          "note_anchor": "note-7",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p056",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-late-politics-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p057",
+          "quote_characters": 76,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-classics-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p058",
+          "quote_characters": 138,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-classics-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p059",
+          "quote_characters": 55,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-classics-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p060",
+          "quote_characters": 120,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-classics-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p061",
+          "quote_characters": 48,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-teaching-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p062",
+          "quote_characters": 41,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-teaching-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p063",
+          "quote_characters": 66,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-conduct-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p064",
+          "quote_characters": 52,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-conduct-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p065",
+          "quote_characters": 36,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-conduct-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p066",
+          "quote_characters": 33,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-conduct-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p067",
+          "quote_characters": 21,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-learning-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p068",
+          "quote_characters": 56,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-learning-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p069",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-students-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p070",
+          "quote_characters": 171,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0481.md",
+          "note_anchor": "note-1",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p071",
+          "quote_characters": 61,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-grief-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p071",
+          "quote_characters": 79,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-withdrawal-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p072",
+          "quote_characters": 69,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-chunqiu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p073",
+          "quote_characters": 166,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-chunqiu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p074",
+          "quote_characters": 75,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0480.md",
+          "note_anchor": "note-7",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p075",
+          "quote_characters": 9,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p075",
+          "quote_characters": 122,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p076",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p077",
+          "quote_characters": 113,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p078",
+          "quote_characters": 55,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p079",
+          "quote_characters": 20,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "z001",
+          "quote_characters": 86,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+          "note_anchor": "sj047-shrine-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p078",
+          "quote_characters": 89,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0200-0101/bce-0195.md",
+          "note_anchor": "sj047-gaozu-confucius-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p078",
+          "quote_characters": 12,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+          "note_anchor": "sj047-shrine-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p078",
+          "quote_characters": 14,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0209.md",
+          "note_anchor": "sj047-kongfu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p080",
+          "quote_characters": 27,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0209.md",
+          "note_anchor": "sj047-kongfu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p081",
+          "quote_characters": 72,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0209.md",
+          "note_anchor": "sj047-kongfu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p082",
+          "quote_characters": 22,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+          "note_anchor": "sj047-hui-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p083",
+          "quote_characters": 32,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+          "note_anchor": "sj047-wu-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p084",
+          "quote_characters": 49,
+          "source_match": true
+        },
+        {
+          "path": "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+          "note_anchor": "sj047-sima-note",
+          "source_path": "sources/摘录/史记-卷047-孔子世家.md",
+          "source_anchor": "p085",
+          "quote_characters": 138,
+          "source_match": true
+        }
+      ],
+      "pass": true,
+      "original_source_sha256": "e8bb087fc6f4102fe79d625b03716f1de1049e0e468bbe2c7c714011f18852ec"
+    }
+  ],
+  "source_character_coverage": [
+    {
+      "volume": 46,
+      "units": 58,
+      "source_hanzi": 5794,
+      "covered_hanzi": 5794,
+      "uncovered_units": [],
+      "short_readings_for_review": [],
+      "rows": [
+        {
+          "unit": "P001",
+          "source_hanzi": 87,
+          "covered_hanzi": 87,
+          "quote_indexes": [
+            1,
+            2
+          ],
+          "missing_spans": [],
+          "reading_characters": 142,
+          "raw_characters": 108
+        },
+        {
+          "unit": "P002",
+          "source_hanzi": 135,
+          "covered_hanzi": 135,
+          "quote_indexes": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "missing_spans": [],
+          "reading_characters": 154,
+          "raw_characters": 164
+        },
+        {
+          "unit": "P003",
+          "source_hanzi": 129,
+          "covered_hanzi": 129,
+          "quote_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "missing_spans": [],
+          "reading_characters": 160,
+          "raw_characters": 163
+        },
+        {
+          "unit": "P004",
+          "source_hanzi": 22,
+          "covered_hanzi": 22,
+          "quote_indexes": [
+            12
+          ],
+          "missing_spans": [],
+          "reading_characters": 81,
+          "raw_characters": 27
+        },
+        {
+          "unit": "P005",
+          "source_hanzi": 24,
+          "covered_hanzi": 24,
+          "quote_indexes": [
+            13
+          ],
+          "missing_spans": [],
+          "reading_characters": 71,
+          "raw_characters": 27
+        },
+        {
+          "unit": "P006",
+          "source_hanzi": 30,
+          "covered_hanzi": 30,
+          "quote_indexes": [
+            14
+          ],
+          "missing_spans": [],
+          "reading_characters": 83,
+          "raw_characters": 35
+        },
+        {
+          "unit": "P007",
+          "source_hanzi": 22,
+          "covered_hanzi": 22,
+          "quote_indexes": [
+            15
+          ],
+          "missing_spans": [],
+          "reading_characters": 83,
+          "raw_characters": 27
+        },
+        {
+          "unit": "P008",
+          "source_hanzi": 98,
+          "covered_hanzi": 98,
+          "quote_indexes": [
+            16,
+            17
+          ],
+          "missing_spans": [],
+          "reading_characters": 136,
+          "raw_characters": 119
+        },
+        {
+          "unit": "P009",
+          "source_hanzi": 59,
+          "covered_hanzi": 59,
+          "quote_indexes": [
+            18
+          ],
+          "missing_spans": [],
+          "reading_characters": 98,
+          "raw_characters": 74
+        },
+        {
+          "unit": "P010",
+          "source_hanzi": 193,
+          "covered_hanzi": 193,
+          "quote_indexes": [
+            19,
+            20
+          ],
+          "missing_spans": [],
+          "reading_characters": 162,
+          "raw_characters": 238
+        },
+        {
+          "unit": "P011",
+          "source_hanzi": 171,
+          "covered_hanzi": 171,
+          "quote_indexes": [
+            21
+          ],
+          "missing_spans": [],
+          "reading_characters": 158,
+          "raw_characters": 218
+        },
+        {
+          "unit": "P012",
+          "source_hanzi": 14,
+          "covered_hanzi": 14,
+          "quote_indexes": [
+            22
+          ],
+          "missing_spans": [],
+          "reading_characters": 71,
+          "raw_characters": 18
+        },
+        {
+          "unit": "P013",
+          "source_hanzi": 109,
+          "covered_hanzi": 109,
+          "quote_indexes": [
+            23,
+            24
+          ],
+          "missing_spans": [],
+          "reading_characters": 142,
+          "raw_characters": 134
+        },
+        {
+          "unit": "P014",
+          "source_hanzi": 177,
+          "covered_hanzi": 177,
+          "quote_indexes": [
+            25
+          ],
+          "missing_spans": [],
+          "reading_characters": 163,
+          "raw_characters": 223
+        },
+        {
+          "unit": "P015",
+          "source_hanzi": 72,
+          "covered_hanzi": 72,
+          "quote_indexes": [
+            26
+          ],
+          "missing_spans": [],
+          "reading_characters": 100,
+          "raw_characters": 86
+        },
+        {
+          "unit": "P016",
+          "source_hanzi": 45,
+          "covered_hanzi": 45,
+          "quote_indexes": [
+            27
+          ],
+          "missing_spans": [],
+          "reading_characters": 92,
+          "raw_characters": 58
+        },
+        {
+          "unit": "P017",
+          "source_hanzi": 80,
+          "covered_hanzi": 80,
+          "quote_indexes": [
+            28
+          ],
+          "missing_spans": [],
+          "reading_characters": 137,
+          "raw_characters": 95
+        },
+        {
+          "unit": "P018",
+          "source_hanzi": 44,
+          "covered_hanzi": 44,
+          "quote_indexes": [
+            29
+          ],
+          "missing_spans": [],
+          "reading_characters": 108,
+          "raw_characters": 49
+        },
+        {
+          "unit": "P019",
+          "source_hanzi": 16,
+          "covered_hanzi": 16,
+          "quote_indexes": [
+            30
+          ],
+          "missing_spans": [],
+          "reading_characters": 71,
+          "raw_characters": 20
+        },
+        {
+          "unit": "P020",
+          "source_hanzi": 41,
+          "covered_hanzi": 41,
+          "quote_indexes": [
+            31
+          ],
+          "missing_spans": [],
+          "reading_characters": 88,
+          "raw_characters": 47
+        },
+        {
+          "unit": "P021",
+          "source_hanzi": 44,
+          "covered_hanzi": 44,
+          "quote_indexes": [
+            32,
+            33,
+            34,
+            35
+          ],
+          "missing_spans": [],
+          "reading_characters": 127,
+          "raw_characters": 56
+        },
+        {
+          "unit": "P022",
+          "source_hanzi": 53,
+          "covered_hanzi": 53,
+          "quote_indexes": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "missing_spans": [],
+          "reading_characters": 112,
+          "raw_characters": 64
+        },
+        {
+          "unit": "P023",
+          "source_hanzi": 45,
+          "covered_hanzi": 45,
+          "quote_indexes": [
+            41,
+            42,
+            43
+          ],
+          "missing_spans": [],
+          "reading_characters": 93,
+          "raw_characters": 55
+        },
+        {
+          "unit": "P024",
+          "source_hanzi": 61,
+          "covered_hanzi": 61,
+          "quote_indexes": [
+            44,
+            45
+          ],
+          "missing_spans": [],
+          "reading_characters": 124,
+          "raw_characters": 71
+        },
+        {
+          "unit": "P025",
+          "source_hanzi": 143,
+          "covered_hanzi": 143,
+          "quote_indexes": [
+            46,
+            47
+          ],
+          "missing_spans": [],
+          "reading_characters": 149,
+          "raw_characters": 186
+        },
+        {
+          "unit": "P026",
+          "source_hanzi": 29,
+          "covered_hanzi": 29,
+          "quote_indexes": [
+            48,
+            49,
+            50
+          ],
+          "missing_spans": [],
+          "reading_characters": 111,
+          "raw_characters": 37
+        },
+        {
+          "unit": "P027",
+          "source_hanzi": 55,
+          "covered_hanzi": 55,
+          "quote_indexes": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "missing_spans": [],
+          "reading_characters": 98,
+          "raw_characters": 70
+        },
+        {
+          "unit": "P028",
+          "source_hanzi": 221,
+          "covered_hanzi": 221,
+          "quote_indexes": [
+            57,
+            58,
+            59
+          ],
+          "missing_spans": [],
+          "reading_characters": 195,
+          "raw_characters": 266
+        },
+        {
+          "unit": "P029",
+          "source_hanzi": 276,
+          "covered_hanzi": 276,
+          "quote_indexes": [
+            60
+          ],
+          "missing_spans": [],
+          "reading_characters": 149,
+          "raw_characters": 345
+        },
+        {
+          "unit": "P030",
+          "source_hanzi": 247,
+          "covered_hanzi": 247,
+          "quote_indexes": [
+            61
+          ],
+          "missing_spans": [],
+          "reading_characters": 186,
+          "raw_characters": 326
+        },
+        {
+          "unit": "P031",
+          "source_hanzi": 196,
+          "covered_hanzi": 196,
+          "quote_indexes": [
+            62,
+            63
+          ],
+          "missing_spans": [],
+          "reading_characters": 173,
+          "raw_characters": 237
+        },
+        {
+          "unit": "P032",
+          "source_hanzi": 108,
+          "covered_hanzi": 108,
+          "quote_indexes": [
+            64
+          ],
+          "missing_spans": [],
+          "reading_characters": 134,
+          "raw_characters": 138
+        },
+        {
+          "unit": "P033",
+          "source_hanzi": 99,
+          "covered_hanzi": 99,
+          "quote_indexes": [
+            65,
+            66,
+            67
+          ],
+          "missing_spans": [],
+          "reading_characters": 124,
+          "raw_characters": 119
+        },
+        {
+          "unit": "P034",
+          "source_hanzi": 10,
+          "covered_hanzi": 10,
+          "quote_indexes": [
+            68
+          ],
+          "missing_spans": [],
+          "reading_characters": 83,
+          "raw_characters": 12
+        },
+        {
+          "unit": "P035",
+          "source_hanzi": 88,
+          "covered_hanzi": 88,
+          "quote_indexes": [
+            69
+          ],
+          "missing_spans": [],
+          "reading_characters": 129,
+          "raw_characters": 107
+        },
+        {
+          "unit": "P036",
+          "source_hanzi": 13,
+          "covered_hanzi": 13,
+          "quote_indexes": [
+            70
+          ],
+          "missing_spans": [],
+          "reading_characters": 74,
+          "raw_characters": 16
+        },
+        {
+          "unit": "P037",
+          "source_hanzi": 15,
+          "covered_hanzi": 15,
+          "quote_indexes": [
+            71,
+            72
+          ],
+          "missing_spans": [],
+          "reading_characters": 90,
+          "raw_characters": 18
+        },
+        {
+          "unit": "P038",
+          "source_hanzi": 224,
+          "covered_hanzi": 224,
+          "quote_indexes": [
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "missing_spans": [],
+          "reading_characters": 199,
+          "raw_characters": 281
+        },
+        {
+          "unit": "P039",
+          "source_hanzi": 55,
+          "covered_hanzi": 55,
+          "quote_indexes": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ],
+          "missing_spans": [],
+          "reading_characters": 153,
+          "raw_characters": 70
+        },
+        {
+          "unit": "P040",
+          "source_hanzi": 60,
+          "covered_hanzi": 60,
+          "quote_indexes": [
+            84
+          ],
+          "missing_spans": [],
+          "reading_characters": 131,
+          "raw_characters": 73
+        },
+        {
+          "unit": "P041",
+          "source_hanzi": 11,
+          "covered_hanzi": 11,
+          "quote_indexes": [
+            85
+          ],
+          "missing_spans": [],
+          "reading_characters": 73,
+          "raw_characters": 14
+        },
+        {
+          "unit": "P042",
+          "source_hanzi": 40,
+          "covered_hanzi": 40,
+          "quote_indexes": [
+            86,
+            87,
+            88,
+            89
+          ],
+          "missing_spans": [],
+          "reading_characters": 114,
+          "raw_characters": 49
+        },
+        {
+          "unit": "P043",
+          "source_hanzi": 422,
+          "covered_hanzi": 422,
+          "quote_indexes": [
+            90,
+            91
+          ],
+          "missing_spans": [],
+          "reading_characters": 308,
+          "raw_characters": 511
+        },
+        {
+          "unit": "P044",
+          "source_hanzi": 98,
+          "covered_hanzi": 98,
+          "quote_indexes": [
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+          ],
+          "missing_spans": [],
+          "reading_characters": 129,
+          "raw_characters": 118
+        },
+        {
+          "unit": "P045",
+          "source_hanzi": 337,
+          "covered_hanzi": 337,
+          "quote_indexes": [
+            102
+          ],
+          "missing_spans": [],
+          "reading_characters": 189,
+          "raw_characters": 425
+        },
+        {
+          "unit": "P046",
+          "source_hanzi": 284,
+          "covered_hanzi": 284,
+          "quote_indexes": [
+            103
+          ],
+          "missing_spans": [],
+          "reading_characters": 183,
+          "raw_characters": 344
+        },
+        {
+          "unit": "P047",
+          "source_hanzi": 12,
+          "covered_hanzi": 12,
+          "quote_indexes": [
+            104
+          ],
+          "missing_spans": [],
+          "reading_characters": 43,
+          "raw_characters": 15
+        },
+        {
+          "unit": "P048",
+          "source_hanzi": 111,
+          "covered_hanzi": 111,
+          "quote_indexes": [
+            105,
+            106
+          ],
+          "missing_spans": [],
+          "reading_characters": 153,
+          "raw_characters": 137
+        },
+        {
+          "unit": "P049",
+          "source_hanzi": 113,
+          "covered_hanzi": 113,
+          "quote_indexes": [
+            107
+          ],
+          "missing_spans": [],
+          "reading_characters": 137,
+          "raw_characters": 133
+        },
+        {
+          "unit": "P050",
+          "source_hanzi": 59,
+          "covered_hanzi": 59,
+          "quote_indexes": [
+            108
+          ],
+          "missing_spans": [],
+          "reading_characters": 101,
+          "raw_characters": 72
+        },
+        {
+          "unit": "P051",
+          "source_hanzi": 38,
+          "covered_hanzi": 38,
+          "quote_indexes": [
+            109
+          ],
+          "missing_spans": [],
+          "reading_characters": 95,
+          "raw_characters": 44
+        },
+        {
+          "unit": "P052",
+          "source_hanzi": 17,
+          "covered_hanzi": 17,
+          "quote_indexes": [
+            110,
+            111
+          ],
+          "missing_spans": [],
+          "reading_characters": 52,
+          "raw_characters": 22
+        },
+        {
+          "unit": "P053",
+          "source_hanzi": 166,
+          "covered_hanzi": 166,
+          "quote_indexes": [
+            112,
+            113,
+            114
+          ],
+          "missing_spans": [],
+          "reading_characters": 169,
+          "raw_characters": 203
+        },
+        {
+          "unit": "P054",
+          "source_hanzi": 102,
+          "covered_hanzi": 102,
+          "quote_indexes": [
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+          ],
+          "missing_spans": [],
+          "reading_characters": 113,
+          "raw_characters": 129
+        },
+        {
+          "unit": "P055",
+          "source_hanzi": 213,
+          "covered_hanzi": 213,
+          "quote_indexes": [
+            127,
+            128,
+            129,
+            130,
+            131
+          ],
+          "missing_spans": [],
+          "reading_characters": 201,
+          "raw_characters": 256
+        },
+        {
+          "unit": "P056",
+          "source_hanzi": 85,
+          "covered_hanzi": 85,
+          "quote_indexes": [
+            132
+          ],
+          "missing_spans": [],
+          "reading_characters": 124,
+          "raw_characters": 98
+        },
+        {
+          "unit": "Z001",
+          "source_hanzi": 68,
+          "covered_hanzi": 68,
+          "quote_indexes": [
+            133
+          ],
+          "missing_spans": [],
+          "reading_characters": 98,
+          "raw_characters": 88
+        },
+        {
+          "unit": "S001",
+          "source_hanzi": 8,
+          "covered_hanzi": 8,
+          "quote_indexes": [
+            134
+          ],
+          "missing_spans": [],
+          "reading_characters": 77,
+          "raw_characters": 10
+        }
+      ],
+      "pass": true
+    },
+    {
+      "volume": 47,
+      "units": 86,
+      "source_hanzi": 7441,
+      "covered_hanzi": 7441,
+      "uncovered_units": [],
+      "short_readings_for_review": [],
+      "rows": [
+        {
+          "unit": "P001",
+          "source_hanzi": 76,
+          "covered_hanzi": 76,
+          "quote_indexes": [
+            1
+          ],
+          "missing_spans": [],
+          "reading_characters": 156,
+          "raw_characters": 88
+        },
+        {
+          "unit": "P002",
+          "source_hanzi": 75,
+          "covered_hanzi": 75,
+          "quote_indexes": [
+            2
+          ],
+          "missing_spans": [],
+          "reading_characters": 131,
+          "raw_characters": 88
+        },
+        {
+          "unit": "P003",
+          "source_hanzi": 30,
+          "covered_hanzi": 30,
+          "quote_indexes": [
+            3
+          ],
+          "missing_spans": [],
+          "reading_characters": 105,
+          "raw_characters": 39
+        },
+        {
+          "unit": "P004",
+          "source_hanzi": 154,
+          "covered_hanzi": 154,
+          "quote_indexes": [
+            5,
+            6
+          ],
+          "missing_spans": [],
+          "reading_characters": 253,
+          "raw_characters": 191
+        },
+        {
+          "unit": "P005",
+          "source_hanzi": 75,
+          "covered_hanzi": 75,
+          "quote_indexes": [
+            4
+          ],
+          "missing_spans": [],
+          "reading_characters": 133,
+          "raw_characters": 93
+        },
+        {
+          "unit": "P006",
+          "source_hanzi": 133,
+          "covered_hanzi": 133,
+          "quote_indexes": [
+            7
+          ],
+          "missing_spans": [],
+          "reading_characters": 164,
+          "raw_characters": 162
+        },
+        {
+          "unit": "P007",
+          "source_hanzi": 54,
+          "covered_hanzi": 54,
+          "quote_indexes": [
+            8
+          ],
+          "missing_spans": [],
+          "reading_characters": 120,
+          "raw_characters": 66
+        },
+        {
+          "unit": "P008",
+          "source_hanzi": 93,
+          "covered_hanzi": 93,
+          "quote_indexes": [
+            9
+          ],
+          "missing_spans": [],
+          "reading_characters": 200,
+          "raw_characters": 118
+        },
+        {
+          "unit": "P009",
+          "source_hanzi": 100,
+          "covered_hanzi": 100,
+          "quote_indexes": [
+            10,
+            11
+          ],
+          "missing_spans": [],
+          "reading_characters": 126,
+          "raw_characters": 118
+        },
+        {
+          "unit": "P010",
+          "source_hanzi": 238,
+          "covered_hanzi": 238,
+          "quote_indexes": [
+            12
+          ],
+          "missing_spans": [],
+          "reading_characters": 218,
+          "raw_characters": 302
+        },
+        {
+          "unit": "P011",
+          "source_hanzi": 77,
+          "covered_hanzi": 77,
+          "quote_indexes": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "missing_spans": [],
+          "reading_characters": 161,
+          "raw_characters": 100
+        },
+        {
+          "unit": "P012",
+          "source_hanzi": 160,
+          "covered_hanzi": 160,
+          "quote_indexes": [
+            17
+          ],
+          "missing_spans": [],
+          "reading_characters": 260,
+          "raw_characters": 216
+        },
+        {
+          "unit": "P013",
+          "source_hanzi": 106,
+          "covered_hanzi": 106,
+          "quote_indexes": [
+            18
+          ],
+          "missing_spans": [],
+          "reading_characters": 121,
+          "raw_characters": 125
+        },
+        {
+          "unit": "P014",
+          "source_hanzi": 65,
+          "covered_hanzi": 65,
+          "quote_indexes": [
+            19,
+            20
+          ],
+          "missing_spans": [],
+          "reading_characters": 106,
+          "raw_characters": 77
+        },
+        {
+          "unit": "P015",
+          "source_hanzi": 79,
+          "covered_hanzi": 79,
+          "quote_indexes": [
+            21
+          ],
+          "missing_spans": [],
+          "reading_characters": 128,
+          "raw_characters": 100
+        },
+        {
+          "unit": "P016",
+          "source_hanzi": 32,
+          "covered_hanzi": 32,
+          "quote_indexes": [
+            22
+          ],
+          "missing_spans": [],
+          "reading_characters": 85,
+          "raw_characters": 37
+        },
+        {
+          "unit": "P017",
+          "source_hanzi": 378,
+          "covered_hanzi": 378,
+          "quote_indexes": [
+            23,
+            24
+          ],
+          "missing_spans": [],
+          "reading_characters": 436,
+          "raw_characters": 472
+        },
+        {
+          "unit": "P018",
+          "source_hanzi": 160,
+          "covered_hanzi": 160,
+          "quote_indexes": [
+            25,
+            26
+          ],
+          "missing_spans": [],
+          "reading_characters": 240,
+          "raw_characters": 197
+        },
+        {
+          "unit": "P019",
+          "source_hanzi": 105,
+          "covered_hanzi": 105,
+          "quote_indexes": [
+            27
+          ],
+          "missing_spans": [],
+          "reading_characters": 164,
+          "raw_characters": 128
+        },
+        {
+          "unit": "P020",
+          "source_hanzi": 247,
+          "covered_hanzi": 247,
+          "quote_indexes": [
+            28
+          ],
+          "missing_spans": [],
+          "reading_characters": 296,
+          "raw_characters": 315
+        },
+        {
+          "unit": "P021",
+          "source_hanzi": 73,
+          "covered_hanzi": 73,
+          "quote_indexes": [
+            29
+          ],
+          "missing_spans": [],
+          "reading_characters": 98,
+          "raw_characters": 90
+        },
+        {
+          "unit": "P022",
+          "source_hanzi": 145,
+          "covered_hanzi": 145,
+          "quote_indexes": [
+            30
+          ],
+          "missing_spans": [],
+          "reading_characters": 184,
+          "raw_characters": 182
+        },
+        {
+          "unit": "P023",
+          "source_hanzi": 178,
+          "covered_hanzi": 178,
+          "quote_indexes": [
+            31,
+            32
+          ],
+          "missing_spans": [],
+          "reading_characters": 162,
+          "raw_characters": 223
+        },
+        {
+          "unit": "P024",
+          "source_hanzi": 50,
+          "covered_hanzi": 50,
+          "quote_indexes": [
+            33
+          ],
+          "missing_spans": [],
+          "reading_characters": 104,
+          "raw_characters": 64
+        },
+        {
+          "unit": "P025",
+          "source_hanzi": 86,
+          "covered_hanzi": 86,
+          "quote_indexes": [
+            34
+          ],
+          "missing_spans": [],
+          "reading_characters": 123,
+          "raw_characters": 107
+        },
+        {
+          "unit": "P026",
+          "source_hanzi": 45,
+          "covered_hanzi": 45,
+          "quote_indexes": [
+            35,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "missing_spans": [],
+          "reading_characters": 102,
+          "raw_characters": 54
+        },
+        {
+          "unit": "P027",
+          "source_hanzi": 132,
+          "covered_hanzi": 132,
+          "quote_indexes": [
+            36
+          ],
+          "missing_spans": [],
+          "reading_characters": 210,
+          "raw_characters": 158
+        },
+        {
+          "unit": "P028",
+          "source_hanzi": 48,
+          "covered_hanzi": 48,
+          "quote_indexes": [
+            37
+          ],
+          "missing_spans": [],
+          "reading_characters": 103,
+          "raw_characters": 60
+        },
+        {
+          "unit": "P029",
+          "source_hanzi": 114,
+          "covered_hanzi": 114,
+          "quote_indexes": [
+            43
+          ],
+          "missing_spans": [],
+          "reading_characters": 123,
+          "raw_characters": 148
+        },
+        {
+          "unit": "P030",
+          "source_hanzi": 83,
+          "covered_hanzi": 83,
+          "quote_indexes": [
+            44
+          ],
+          "missing_spans": [],
+          "reading_characters": 124,
+          "raw_characters": 113
+        },
+        {
+          "unit": "P031",
+          "source_hanzi": 32,
+          "covered_hanzi": 32,
+          "quote_indexes": [
+            45
+          ],
+          "missing_spans": [],
+          "reading_characters": 73,
+          "raw_characters": 42
+        },
+        {
+          "unit": "P032",
+          "source_hanzi": 97,
+          "covered_hanzi": 97,
+          "quote_indexes": [
+            46
+          ],
+          "missing_spans": [],
+          "reading_characters": 125,
+          "raw_characters": 125
+        },
+        {
+          "unit": "P033",
+          "source_hanzi": 29,
+          "covered_hanzi": 29,
+          "quote_indexes": [
+            47
+          ],
+          "missing_spans": [],
+          "reading_characters": 77,
+          "raw_characters": 38
+        },
+        {
+          "unit": "P034",
+          "source_hanzi": 140,
+          "covered_hanzi": 140,
+          "quote_indexes": [
+            48
+          ],
+          "missing_spans": [],
+          "reading_characters": 212,
+          "raw_characters": 188
+        },
+        {
+          "unit": "P035",
+          "source_hanzi": 181,
+          "covered_hanzi": 181,
+          "quote_indexes": [
+            49
+          ],
+          "missing_spans": [],
+          "reading_characters": 161,
+          "raw_characters": 218
+        },
+        {
+          "unit": "P036",
+          "source_hanzi": 50,
+          "covered_hanzi": 50,
+          "quote_indexes": [
+            50
+          ],
+          "missing_spans": [],
+          "reading_characters": 82,
+          "raw_characters": 64
+        },
+        {
+          "unit": "P037",
+          "source_hanzi": 79,
+          "covered_hanzi": 79,
+          "quote_indexes": [
+            51,
+            52,
+            53,
+            54
+          ],
+          "missing_spans": [],
+          "reading_characters": 143,
+          "raw_characters": 96
+        },
+        {
+          "unit": "P038",
+          "source_hanzi": 30,
+          "covered_hanzi": 30,
+          "quote_indexes": [
+            55
+          ],
+          "missing_spans": [],
+          "reading_characters": 86,
+          "raw_characters": 40
+        },
+        {
+          "unit": "P039",
+          "source_hanzi": 185,
+          "covered_hanzi": 185,
+          "quote_indexes": [
+            56
+          ],
+          "missing_spans": [],
+          "reading_characters": 175,
+          "raw_characters": 244
+        },
+        {
+          "unit": "P040",
+          "source_hanzi": 55,
+          "covered_hanzi": 55,
+          "quote_indexes": [
+            57,
+            58,
+            59
+          ],
+          "missing_spans": [],
+          "reading_characters": 123,
+          "raw_characters": 67
+        },
+        {
+          "unit": "P041",
+          "source_hanzi": 74,
+          "covered_hanzi": 74,
+          "quote_indexes": [
+            60
+          ],
+          "missing_spans": [],
+          "reading_characters": 119,
+          "raw_characters": 97
+        },
+        {
+          "unit": "P042",
+          "source_hanzi": 137,
+          "covered_hanzi": 137,
+          "quote_indexes": [
+            61
+          ],
+          "missing_spans": [],
+          "reading_characters": 137,
+          "raw_characters": 195
+        },
+        {
+          "unit": "P043",
+          "source_hanzi": 50,
+          "covered_hanzi": 50,
+          "quote_indexes": [
+            62
+          ],
+          "missing_spans": [],
+          "reading_characters": 107,
+          "raw_characters": 71
+        },
+        {
+          "unit": "P044",
+          "source_hanzi": 155,
+          "covered_hanzi": 155,
+          "quote_indexes": [
+            63
+          ],
+          "missing_spans": [],
+          "reading_characters": 146,
+          "raw_characters": 189
+        },
+        {
+          "unit": "P045",
+          "source_hanzi": 33,
+          "covered_hanzi": 33,
+          "quote_indexes": [
+            65
+          ],
+          "missing_spans": [],
+          "reading_characters": 95,
+          "raw_characters": 49
+        },
+        {
+          "unit": "P046",
+          "source_hanzi": 93,
+          "covered_hanzi": 93,
+          "quote_indexes": [
+            66
+          ],
+          "missing_spans": [],
+          "reading_characters": 123,
+          "raw_characters": 122
+        },
+        {
+          "unit": "P047",
+          "source_hanzi": 111,
+          "covered_hanzi": 111,
+          "quote_indexes": [
+            67
+          ],
+          "missing_spans": [],
+          "reading_characters": 106,
+          "raw_characters": 144
+        },
+        {
+          "unit": "P048",
+          "source_hanzi": 123,
+          "covered_hanzi": 123,
+          "quote_indexes": [
+            68
+          ],
+          "missing_spans": [],
+          "reading_characters": 119,
+          "raw_characters": 158
+        },
+        {
+          "unit": "P049",
+          "source_hanzi": 19,
+          "covered_hanzi": 19,
+          "quote_indexes": [
+            64
+          ],
+          "missing_spans": [],
+          "reading_characters": 72,
+          "raw_characters": 22
+        },
+        {
+          "unit": "P050",
+          "source_hanzi": 164,
+          "covered_hanzi": 164,
+          "quote_indexes": [
+            69,
+            70
+          ],
+          "missing_spans": [],
+          "reading_characters": 250,
+          "raw_characters": 211
+        },
+        {
+          "unit": "P051",
+          "source_hanzi": 56,
+          "covered_hanzi": 56,
+          "quote_indexes": [
+            71
+          ],
+          "missing_spans": [],
+          "reading_characters": 96,
+          "raw_characters": 70
+        },
+        {
+          "unit": "P052",
+          "source_hanzi": 25,
+          "covered_hanzi": 25,
+          "quote_indexes": [
+            72
+          ],
+          "missing_spans": [],
+          "reading_characters": 88,
+          "raw_characters": 29
+        },
+        {
+          "unit": "P053",
+          "source_hanzi": 28,
+          "covered_hanzi": 28,
+          "quote_indexes": [
+            73
+          ],
+          "missing_spans": [],
+          "reading_characters": 86,
+          "raw_characters": 34
+        },
+        {
+          "unit": "P054",
+          "source_hanzi": 155,
+          "covered_hanzi": 155,
+          "quote_indexes": [
+            74
+          ],
+          "missing_spans": [],
+          "reading_characters": 155,
+          "raw_characters": 194
+        },
+        {
+          "unit": "P055",
+          "source_hanzi": 166,
+          "covered_hanzi": 166,
+          "quote_indexes": [
+            75,
+            76
+          ],
+          "missing_spans": [],
+          "reading_characters": 182,
+          "raw_characters": 219
+        },
+        {
+          "unit": "P056",
+          "source_hanzi": 13,
+          "covered_hanzi": 13,
+          "quote_indexes": [
+            77
+          ],
+          "missing_spans": [],
+          "reading_characters": 78,
+          "raw_characters": 14
+        },
+        {
+          "unit": "P057",
+          "source_hanzi": 57,
+          "covered_hanzi": 57,
+          "quote_indexes": [
+            78
+          ],
+          "missing_spans": [],
+          "reading_characters": 127,
+          "raw_characters": 76
+        },
+        {
+          "unit": "P058",
+          "source_hanzi": 106,
+          "covered_hanzi": 106,
+          "quote_indexes": [
+            79
+          ],
+          "missing_spans": [],
+          "reading_characters": 182,
+          "raw_characters": 138
+        },
+        {
+          "unit": "P059",
+          "source_hanzi": 41,
+          "covered_hanzi": 41,
+          "quote_indexes": [
+            80
+          ],
+          "missing_spans": [],
+          "reading_characters": 88,
+          "raw_characters": 55
+        },
+        {
+          "unit": "P060",
+          "source_hanzi": 101,
+          "covered_hanzi": 101,
+          "quote_indexes": [
+            81
+          ],
+          "missing_spans": [],
+          "reading_characters": 166,
+          "raw_characters": 120
+        },
+        {
+          "unit": "P061",
+          "source_hanzi": 34,
+          "covered_hanzi": 34,
+          "quote_indexes": [
+            82
+          ],
+          "missing_spans": [],
+          "reading_characters": 107,
+          "raw_characters": 48
+        },
+        {
+          "unit": "P062",
+          "source_hanzi": 36,
+          "covered_hanzi": 36,
+          "quote_indexes": [
+            83
+          ],
+          "missing_spans": [],
+          "reading_characters": 99,
+          "raw_characters": 41
+        },
+        {
+          "unit": "P063",
+          "source_hanzi": 48,
+          "covered_hanzi": 48,
+          "quote_indexes": [
+            84
+          ],
+          "missing_spans": [],
+          "reading_characters": 125,
+          "raw_characters": 66
+        },
+        {
+          "unit": "P064",
+          "source_hanzi": 42,
+          "covered_hanzi": 42,
+          "quote_indexes": [
+            85
+          ],
+          "missing_spans": [],
+          "reading_characters": 77,
+          "raw_characters": 52
+        },
+        {
+          "unit": "P065",
+          "source_hanzi": 28,
+          "covered_hanzi": 28,
+          "quote_indexes": [
+            86
+          ],
+          "missing_spans": [],
+          "reading_characters": 76,
+          "raw_characters": 36
+        },
+        {
+          "unit": "P066",
+          "source_hanzi": 25,
+          "covered_hanzi": 25,
+          "quote_indexes": [
+            87
+          ],
+          "missing_spans": [],
+          "reading_characters": 79,
+          "raw_characters": 33
+        },
+        {
+          "unit": "P067",
+          "source_hanzi": 16,
+          "covered_hanzi": 16,
+          "quote_indexes": [
+            88
+          ],
+          "missing_spans": [],
+          "reading_characters": 66,
+          "raw_characters": 21
+        },
+        {
+          "unit": "P068",
+          "source_hanzi": 41,
+          "covered_hanzi": 41,
+          "quote_indexes": [
+            89
+          ],
+          "missing_spans": [],
+          "reading_characters": 89,
+          "raw_characters": 56
+        },
+        {
+          "unit": "P069",
+          "source_hanzi": 7,
+          "covered_hanzi": 7,
+          "quote_indexes": [
+            90
+          ],
+          "missing_spans": [],
+          "reading_characters": 80,
+          "raw_characters": 12
+        },
+        {
+          "unit": "P070",
+          "source_hanzi": 129,
+          "covered_hanzi": 129,
+          "quote_indexes": [
+            91
+          ],
+          "missing_spans": [],
+          "reading_characters": 142,
+          "raw_characters": 171
+        },
+        {
+          "unit": "P071",
+          "source_hanzi": 99,
+          "covered_hanzi": 99,
+          "quote_indexes": [
+            92,
+            93
+          ],
+          "missing_spans": [],
+          "reading_characters": 146,
+          "raw_characters": 140
+        },
+        {
+          "unit": "P072",
+          "source_hanzi": 49,
+          "covered_hanzi": 49,
+          "quote_indexes": [
+            94
+          ],
+          "missing_spans": [],
+          "reading_characters": 108,
+          "raw_characters": 69
+        },
+        {
+          "unit": "P073",
+          "source_hanzi": 137,
+          "covered_hanzi": 137,
+          "quote_indexes": [
+            95
+          ],
+          "missing_spans": [],
+          "reading_characters": 161,
+          "raw_characters": 166
+        },
+        {
+          "unit": "P074",
+          "source_hanzi": 62,
+          "covered_hanzi": 62,
+          "quote_indexes": [
+            96
+          ],
+          "missing_spans": [],
+          "reading_characters": 112,
+          "raw_characters": 75
+        },
+        {
+          "unit": "P075",
+          "source_hanzi": 102,
+          "covered_hanzi": 102,
+          "quote_indexes": [
+            97,
+            98
+          ],
+          "missing_spans": [],
+          "reading_characters": 161,
+          "raw_characters": 131
+        },
+        {
+          "unit": "P076",
+          "source_hanzi": 18,
+          "covered_hanzi": 18,
+          "quote_indexes": [
+            99
+          ],
+          "missing_spans": [],
+          "reading_characters": 112,
+          "raw_characters": 20
+        },
+        {
+          "unit": "P077",
+          "source_hanzi": 85,
+          "covered_hanzi": 85,
+          "quote_indexes": [
+            100
+          ],
+          "missing_spans": [],
+          "reading_characters": 167,
+          "raw_characters": 113
+        },
+        {
+          "unit": "P078",
+          "source_hanzi": 148,
+          "covered_hanzi": 148,
+          "quote_indexes": [
+            101,
+            104,
+            105,
+            106
+          ],
+          "missing_spans": [],
+          "reading_characters": 151,
+          "raw_characters": 170
+        },
+        {
+          "unit": "P079",
+          "source_hanzi": 16,
+          "covered_hanzi": 16,
+          "quote_indexes": [
+            102
+          ],
+          "missing_spans": [],
+          "reading_characters": 59,
+          "raw_characters": 20
+        },
+        {
+          "unit": "P080",
+          "source_hanzi": 20,
+          "covered_hanzi": 20,
+          "quote_indexes": [
+            107
+          ],
+          "missing_spans": [],
+          "reading_characters": 84,
+          "raw_characters": 27
+        },
+        {
+          "unit": "P081",
+          "source_hanzi": 57,
+          "covered_hanzi": 57,
+          "quote_indexes": [
+            108
+          ],
+          "missing_spans": [],
+          "reading_characters": 119,
+          "raw_characters": 72
+        },
+        {
+          "unit": "P082",
+          "source_hanzi": 18,
+          "covered_hanzi": 18,
+          "quote_indexes": [
+            109
+          ],
+          "missing_spans": [],
+          "reading_characters": 97,
+          "raw_characters": 22
+        },
+        {
+          "unit": "P083",
+          "source_hanzi": 27,
+          "covered_hanzi": 27,
+          "quote_indexes": [
+            110
+          ],
+          "missing_spans": [],
+          "reading_characters": 85,
+          "raw_characters": 32
+        },
+        {
+          "unit": "P084",
+          "source_hanzi": 40,
+          "covered_hanzi": 40,
+          "quote_indexes": [
+            111
+          ],
+          "missing_spans": [],
+          "reading_characters": 114,
+          "raw_characters": 49
+        },
+        {
+          "unit": "P085",
+          "source_hanzi": 113,
+          "covered_hanzi": 113,
+          "quote_indexes": [
+            112
+          ],
+          "missing_spans": [],
+          "reading_characters": 138,
+          "raw_characters": 138
+        },
+        {
+          "unit": "Z001",
+          "source_hanzi": 68,
+          "covered_hanzi": 68,
+          "quote_indexes": [
+            103
+          ],
+          "missing_spans": [],
+          "reading_characters": 128,
+          "raw_characters": 86
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "source_derivation_validation": [
+    {
+      "volume": 46,
+      "start_line": 4060,
+      "end_line": 4117,
+      "lines": 58,
+      "raw_bytes": 21529,
+      "raw_sha256": "d308e328d94fbc4ba7d34e563df040ca69ffdda2fcd66237b66502f00dc53181",
+      "whole_book_sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb",
+      "html_sha256": "29ef5d688417a64db52ebbd5d370e320ac2c348f1b4d4400c6430963c1b22b46",
+      "commentary_paragraphs": 57,
+      "errors": [],
+      "pass": true
+    },
+    {
+      "volume": 47,
+      "start_line": 4118,
+      "end_line": 4204,
+      "lines": 87,
+      "raw_bytes": 28460,
+      "raw_sha256": "e8bb087fc6f4102fe79d625b03716f1de1049e0e468bbe2c7c714011f18852ec",
+      "whole_book_sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb",
+      "html_sha256": "2b75af3f1730f0d1b0f5e2a9d3033ec81c7244c81974e8f9d1ab4b18c7af35cd",
+      "commentary_paragraphs": 87,
+      "errors": [],
+      "pass": true
+    }
+  ],
+  "reading_validation": {
+    "pages": 792,
+    "year_pages": 780,
+    "period_pages": 12,
+    "events": 5216,
+    "notes": 5216,
+    "body_refs": 5216,
+    "backrefs": 5216,
+    "body_heading_pages": 0,
+    "body_headings": 0,
+    "body_source_links": 0,
+    "body_source_link_pages": 0,
+    "external_links": 0,
+    "post_nav_pages": 0,
+    "quote_over_1000_pages": 1,
+    "structural_problems": [],
+    "relative_links": 45535,
+    "bad_paths": [],
+    "bad_fragments": [],
+    "missing_local_fragment_targets": []
+  },
+  "reading_line_links_checked": 746,
+  "baseline_reading_pages": 790,
+  "baseline_reading_anchor_count": 35774,
+  "merge_content_validation": {
+    "pass": true,
+    "baseline": "5caf6b778d5ac2e5958957757c318b17d1e4207a",
+    "scope": "Each author change to the full numbered prose group, including continuation paragraphs, is compared after integration while ignoring whitespace, HTML location anchors/comments and numbered citation labels. Explicitly reconciled shared groups require the original author hash and exact reviewed final text. Previously published quotation blocks in changed reading pages are checked for retention. New quote location and source contents are checked separately.",
+    "volumes": [
+      {
+        "volume": 46,
+        "changed_reading_pages": 83,
+        "reviewed_prose_groups_checked": 40,
+        "quote_anchors_checked": 134
+      },
+      {
+        "volume": 47,
+        "changed_reading_pages": 29,
+        "reviewed_prose_groups_checked": 53,
+        "quote_anchors_checked": 112
+      }
+    ],
+    "explicitly_reviewed_shared_prose_resolutions": 0,
+    "pre_existing_quote_blocks_checked": 2747,
+    "errors": []
+  },
+  "duplicate_groups_reconciled": [],
+  "changed_markdown_links_checked": 8968,
+  "integration_issues": {
+    "broken_changed_links": [],
+    "unread_changed_targets": [],
+    "lost_old_anchors": [],
+    "modified_primary_sources": [],
+    "format_errors": [],
+    "navigation_errors": []
+  },
+  "render_verification": {
+    "status": "passed",
+    "samples": [
+      {
+        "path": "years/bce-0500-0401/bce-0481.md",
+        "code": "0481",
+        "pages": 11,
+        "sampled_pages": [
+          1,
+          2,
+          11
+        ]
+      },
+      {
+        "path": "years/bce-0400-0301/bce-0312.md",
+        "code": "0312",
+        "pages": 7,
+        "sampled_pages": [
+          1,
+          2,
+          7
+        ]
+      },
+      {
+        "path": "years/bce-0200-0101/未定年-西汉孔氏学统.md",
+        "code": "period-1",
+        "pages": 2,
+        "sampled_pages": [
+          1,
+          2
+        ]
+      },
+      {
+        "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+        "code": "period-2",
+        "pages": 14,
+        "sampled_pages": [
+          1,
+          2,
+          14
+        ]
+      }
+    ],
+    "images_viewed": 11,
+    "checks": [
+      "已查看各样本首两页与末页（两页样本去重）；新增正文、同号史料、回链及末尾导航无内容截断或重叠。",
+      "新时期页时间精度、主题顺序与史料区层次可辨；两个年页的新增及共用材料保留正常。"
+    ],
+    "scope": "临时静态渲染用于新增内容版面抽查；不是GitHub实际浏览器渲染。旧有缩进互见链接、强调语法在临时转换层的显示不作为线上样式结论；实际路径与锚点另逐项核验。"
+  },
+  "future": [
+    "卷048《陈涉世家》",
+    "卷049《外戚世家》"
+  ],
+  "existing_gap": "卷028既有本地交付包尚未合入，不能以最高卷号表示001—047已连续全部发布。"
+}
