@@ -1,0 +1,441 @@
+{
+  "volume": "055",
+  "title": "留侯世家",
+  "status": "author_and_independent_content_checks_passed",
+  "independent_review_status": "passed_after_corrections",
+  "baseline_commit": "2a9b2a6bcec8365d23c2644b78ced2b4077a1b19",
+  "scope": {
+    "prose_units": 30,
+    "later_praise_units": 1,
+    "editorial_labels": 1,
+    "html_paragraphs": 26,
+    "year_pages": 17,
+    "period_pages": 1,
+    "destination_bindings": 43,
+    "quote_placements": 44,
+    "reused_quote_placements": 2,
+    "ancient_commentary_extra_quote_placements": 1,
+    "new_year_groups": 3,
+    "new_period_groups": 6
+  },
+  "source_integrity": {
+    "primary_txt_sha256": "0c3beeb359ccafdb50e81ff7d381991ec830bf3a55d9856a696d53b5894e0b54",
+    "primary_txt_bytes": 15053,
+    "primary_lines": [
+      4393,
+      4425
+    ],
+    "raw_html_sha256": "46580096f74ac3ce847141150a3fa8988ca11280874926e38e71c4041b7f2666",
+    "raw_html_bytes": 29498,
+    "html_paragraph_text_preserved": true,
+    "immutable_witnesses_equal_resource_baseline": true
+  },
+  "units": [
+    {
+      "unit": "P001",
+      "line": 4394,
+      "raw_characters": 111,
+      "reading_characters": 220,
+      "destinations": 3
+    },
+    {
+      "unit": "P002",
+      "line": 4395,
+      "raw_characters": 83,
+      "reading_characters": 184,
+      "destinations": 1
+    },
+    {
+      "unit": "P003",
+      "line": 4396,
+      "raw_characters": 323,
+      "reading_characters": 546,
+      "destinations": 1
+    },
+    {
+      "unit": "P004",
+      "line": 4397,
+      "raw_characters": 18,
+      "reading_characters": 69,
+      "destinations": 1
+    },
+    {
+      "unit": "P005",
+      "line": 4398,
+      "raw_characters": 120,
+      "reading_characters": 298,
+      "destinations": 2
+    },
+    {
+      "unit": "P006",
+      "line": 4399,
+      "raw_characters": 103,
+      "reading_characters": 163,
+      "destinations": 1
+    },
+    {
+      "unit": "P007",
+      "line": 4400,
+      "raw_characters": 235,
+      "reading_characters": 412,
+      "destinations": 3
+    },
+    {
+      "unit": "P008",
+      "line": 4401,
+      "raw_characters": 126,
+      "reading_characters": 240,
+      "destinations": 1
+    },
+    {
+      "unit": "P009",
+      "line": 4402,
+      "raw_characters": 215,
+      "reading_characters": 340,
+      "destinations": 2
+    },
+    {
+      "unit": "P010",
+      "line": 4403,
+      "raw_characters": 124,
+      "reading_characters": 211,
+      "destinations": 2
+    },
+    {
+      "unit": "P011",
+      "line": 4404,
+      "raw_characters": 77,
+      "reading_characters": 146,
+      "destinations": 1
+    },
+    {
+      "unit": "P012",
+      "line": 4405,
+      "raw_characters": 223,
+      "reading_characters": 375,
+      "destinations": 4
+    },
+    {
+      "unit": "P013",
+      "line": 4406,
+      "raw_characters": 22,
+      "reading_characters": 69,
+      "destinations": 1
+    },
+    {
+      "unit": "P014",
+      "line": 4407,
+      "raw_characters": 163,
+      "reading_characters": 253,
+      "destinations": 1
+    },
+    {
+      "unit": "P015",
+      "line": 4408,
+      "raw_characters": 603,
+      "reading_characters": 843,
+      "destinations": 1
+    },
+    {
+      "unit": "P016",
+      "line": 4409,
+      "raw_characters": 43,
+      "reading_characters": 96,
+      "destinations": 1
+    },
+    {
+      "unit": "P017",
+      "line": 4410,
+      "raw_characters": 49,
+      "reading_characters": 142,
+      "destinations": 1
+    },
+    {
+      "unit": "P018",
+      "line": 4411,
+      "raw_characters": 113,
+      "reading_characters": 197,
+      "destinations": 1
+    },
+    {
+      "unit": "P019",
+      "line": 4412,
+      "raw_characters": 333,
+      "reading_characters": 461,
+      "destinations": 1
+    },
+    {
+      "unit": "P020",
+      "line": 4413,
+      "raw_characters": 210,
+      "reading_characters": 371,
+      "destinations": 1
+    },
+    {
+      "unit": "P021",
+      "line": 4414,
+      "raw_characters": 26,
+      "reading_characters": 97,
+      "destinations": 1
+    },
+    {
+      "unit": "P022",
+      "line": 4415,
+      "raw_characters": 327,
+      "reading_characters": 521,
+      "destinations": 1
+    },
+    {
+      "unit": "P023",
+      "line": 4416,
+      "raw_characters": 447,
+      "reading_characters": 576,
+      "destinations": 1
+    },
+    {
+      "unit": "P024",
+      "line": 4417,
+      "raw_characters": 241,
+      "reading_characters": 329,
+      "destinations": 1
+    },
+    {
+      "unit": "P025",
+      "line": 4418,
+      "raw_characters": 158,
+      "reading_characters": 272,
+      "destinations": 1
+    },
+    {
+      "unit": "P026",
+      "line": 4419,
+      "raw_characters": 185,
+      "reading_characters": 392,
+      "destinations": 3
+    },
+    {
+      "unit": "P027",
+      "line": 4420,
+      "raw_characters": 17,
+      "reading_characters": 112,
+      "destinations": 1
+    },
+    {
+      "unit": "P028",
+      "line": 4421,
+      "raw_characters": 63,
+      "reading_characters": 192,
+      "destinations": 1
+    },
+    {
+      "unit": "P029",
+      "line": 4422,
+      "raw_characters": 17,
+      "reading_characters": 93,
+      "destinations": 1
+    },
+    {
+      "unit": "P030",
+      "line": 4424,
+      "raw_characters": 130,
+      "reading_characters": 267,
+      "destinations": 1
+    },
+    {
+      "unit": "Z001",
+      "line": 4425,
+      "raw_characters": 86,
+      "reading_characters": 235,
+      "destinations": 1
+    }
+  ],
+  "old_content_preservation": [
+    {
+      "path": "years/bce-0200-0101/bce-0175.md",
+      "old_anchors": 53,
+      "old_headings": 16,
+      "old_quote_lines": 24,
+      "body_groups": 9,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0189.md",
+      "old_anchors": 29,
+      "old_headings": 13,
+      "old_quote_lines": 31,
+      "body_groups": 5,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0195.md",
+      "old_anchors": 89,
+      "old_headings": 37,
+      "old_quote_lines": 39,
+      "body_groups": 20,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0196.md",
+      "old_anchors": 44,
+      "old_headings": 19,
+      "old_quote_lines": 26,
+      "body_groups": 9,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0197.md",
+      "old_anchors": 36,
+      "old_headings": 17,
+      "old_quote_lines": 49,
+      "body_groups": 7,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0201.md",
+      "old_anchors": 60,
+      "old_headings": 25,
+      "old_quote_lines": 27,
+      "body_groups": 12,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0202.md",
+      "old_anchors": 107,
+      "old_headings": 46,
+      "old_quote_lines": 41,
+      "body_groups": 24,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0203.md",
+      "old_anchors": 79,
+      "old_headings": 36,
+      "old_quote_lines": 28,
+      "body_groups": 19,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0204.md",
+      "old_anchors": 77,
+      "old_headings": 28,
+      "old_quote_lines": 46,
+      "body_groups": 25,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0205.md",
+      "old_anchors": 94,
+      "old_headings": 35,
+      "old_quote_lines": 86,
+      "body_groups": 32,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0206.md",
+      "old_anchors": 117,
+      "old_headings": 52,
+      "old_quote_lines": 95,
+      "body_groups": 27,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0207.md",
+      "old_anchors": 122,
+      "old_headings": 56,
+      "old_quote_lines": 56,
+      "body_groups": 28,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "old_anchors": 171,
+      "old_headings": 73,
+      "old_quote_lines": 117,
+      "body_groups": 35,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "old_anchors": 154,
+      "old_headings": 54,
+      "old_quote_lines": 82,
+      "body_groups": 35,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0218.md",
+      "old_anchors": 15,
+      "old_headings": 8,
+      "old_quote_lines": 4,
+      "body_groups": 2,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0230.md",
+      "old_anchors": 27,
+      "old_headings": 9,
+      "old_quote_lines": 13,
+      "body_groups": 4,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0250.md",
+      "old_anchors": 13,
+      "old_headings": 7,
+      "old_quote_lines": 3,
+      "body_groups": 3,
+      "preserved": true
+    }
+  ],
+  "link_checks": {
+    "new_local_links_checked": 424,
+    "errors": []
+  },
+  "manual_review": {
+    "full_primary_and_all_ancient_notes_read": true,
+    "full_hanshu_040_zhangliang_biography_read": true,
+    "old_year_pages_including_footer_tables_read": true,
+    "all_long_dialogues_and_chu_song_translated": true,
+    "no_claim_of_independent_content_review": true,
+    "source_layers_separated": true,
+    "source_files_modified": false,
+    "chronological_disagreements_preserved": [
+      "张平悼惠/桓惠",
+      "授书十年/黄石十三年未定",
+      "见/不见景驹",
+      "汉元年正月/二月",
+      "固陵其秋/五年冬",
+      "留侯卒189/186及后八/六/封十六",
+      "不疑文五/文三"
+    ],
+    "encyclopedia_and_two_full_papers_reviewed": "../考证/史记-卷055-百科与研究核对.md"
+  },
+  "errors": [],
+  "author_check_scope": "原作者自检的页数、锚点数按其提交范围统计；最终编号、引句与跨卷共享页面以本批整合核验为准。",
+  "independent_content_review": {
+    "status": "passed_after_corrections",
+    "date": "2026-11-12",
+    "reviewers": [
+      "root"
+    ],
+    "author_commit_reviewed": "6af5aa466d3d05b67ddcb5304dc14f6579cc8d26",
+    "scope": "30P与唐赞全读、26p全部古注、完整白话、18张阅读页新改正文及说明、汉040张良段与史汉留侯及吕氏原格。现代论文全文由作者实际读取，根未冒称独立重读论文全文。",
+    "original_prose_units": 30,
+    "tang_praise_units": 1,
+    "commentary_paragraphs": 26,
+    "actual_quote_placements": 44,
+    "reading_pages": 18,
+    "report": "史记-卷053至057-独立内容复核.md",
+    "unresolved_implementation_issues": [],
+    "boundary": "独立审读限本卷全篇及实际新增改写内容，不声称重读全站旧卷；古籍仍存分歧明确保留。"
+  },
+  "final_integration_checks": {
+    "original_prose_units": 30,
+    "later_praise_units": 1,
+    "editorial_labels": 1,
+    "destination_bindings": 43,
+    "quote_placements": 44,
+    "reading_pages": 18,
+    "pass": true
+  }
+}

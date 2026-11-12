@@ -1,0 +1,924 @@
+{
+  "volume": "056",
+  "title": "陈丞相世家",
+  "status": "author_and_independent_content_checks_passed",
+  "independent_review_status": "passed_after_corrections",
+  "baseline_commit": "2a9b2a6bcec8365d23c2644b78ced2b4077a1b19",
+  "scope": {
+    "prose_units": 28,
+    "later_praise_units": 1,
+    "editorial_labels": 0,
+    "html_paragraphs": 29,
+    "year_pages": 21,
+    "period_pages": 1,
+    "quote_placements": 57,
+    "new_year_groups": 6,
+    "new_period_groups": 4
+  },
+  "source_integrity": {
+    "volume": 56,
+    "start_line": 4426,
+    "end_line": 4455,
+    "lines": 30,
+    "raw_bytes": 13202,
+    "raw_sha256": "e2cc5086aced841b53270965662dd7ff76ef3ac4b2a002edab084049e0c91538",
+    "whole_book_sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb",
+    "html_sha256": "f162897a298757eac7d16db2df3852f27eb0ae31e091b33bc366c89a0eaa3a03",
+    "commentary_paragraphs": 29,
+    "errors": [],
+    "pass": true
+  },
+  "units": [
+    {
+      "unit": "P001",
+      "source_hanzi": 90,
+      "covered_hanzi": 90,
+      "quote_indexes": [
+        1
+      ],
+      "missing_spans": [],
+      "reading_characters": 198,
+      "raw_characters": 112
+    },
+    {
+      "unit": "P002",
+      "source_hanzi": 214,
+      "covered_hanzi": 214,
+      "quote_indexes": [
+        2
+      ],
+      "missing_spans": [],
+      "reading_characters": 387,
+      "raw_characters": 263
+    },
+    {
+      "unit": "P003",
+      "source_hanzi": 36,
+      "covered_hanzi": 36,
+      "quote_indexes": [
+        3
+      ],
+      "missing_spans": [],
+      "reading_characters": 120,
+      "raw_characters": 50
+    },
+    {
+      "unit": "P004",
+      "source_hanzi": 66,
+      "covered_hanzi": 66,
+      "quote_indexes": [
+        4
+      ],
+      "missing_spans": [],
+      "reading_characters": 155,
+      "raw_characters": 76
+    },
+    {
+      "unit": "P005",
+      "source_hanzi": 169,
+      "covered_hanzi": 169,
+      "quote_indexes": [
+        5,
+        6
+      ],
+      "missing_spans": [],
+      "reading_characters": 304,
+      "raw_characters": 200
+    },
+    {
+      "unit": "P006",
+      "source_hanzi": 174,
+      "covered_hanzi": 174,
+      "quote_indexes": [
+        7,
+        8
+      ],
+      "missing_spans": [],
+      "reading_characters": 302,
+      "raw_characters": 222
+    },
+    {
+      "unit": "P007",
+      "source_hanzi": 317,
+      "covered_hanzi": 317,
+      "quote_indexes": [
+        9
+      ],
+      "missing_spans": [],
+      "reading_characters": 478,
+      "raw_characters": 387
+    },
+    {
+      "unit": "P008",
+      "source_hanzi": 244,
+      "covered_hanzi": 244,
+      "quote_indexes": [
+        10
+      ],
+      "missing_spans": [],
+      "reading_characters": 372,
+      "raw_characters": 294
+    },
+    {
+      "unit": "P009",
+      "source_hanzi": 212,
+      "covered_hanzi": 212,
+      "quote_indexes": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "missing_spans": [],
+      "reading_characters": 330,
+      "raw_characters": 251
+    },
+    {
+      "unit": "P010",
+      "source_hanzi": 75,
+      "covered_hanzi": 75,
+      "quote_indexes": [
+        15,
+        16,
+        17
+      ],
+      "missing_spans": [],
+      "reading_characters": 175,
+      "raw_characters": 88
+    },
+    {
+      "unit": "P011",
+      "source_hanzi": 319,
+      "covered_hanzi": 319,
+      "quote_indexes": [
+        18,
+        19
+      ],
+      "missing_spans": [],
+      "reading_characters": 474,
+      "raw_characters": 423
+    },
+    {
+      "unit": "P012",
+      "source_hanzi": 123,
+      "covered_hanzi": 123,
+      "quote_indexes": [
+        20,
+        21
+      ],
+      "missing_spans": [],
+      "reading_characters": 240,
+      "raw_characters": 156
+    },
+    {
+      "unit": "P013",
+      "source_hanzi": 87,
+      "covered_hanzi": 87,
+      "quote_indexes": [
+        22
+      ],
+      "missing_spans": [],
+      "reading_characters": 194,
+      "raw_characters": 111
+    },
+    {
+      "unit": "P014",
+      "source_hanzi": 37,
+      "covered_hanzi": 37,
+      "quote_indexes": [
+        23
+      ],
+      "missing_spans": [],
+      "reading_characters": 125,
+      "raw_characters": 43
+    },
+    {
+      "unit": "P015",
+      "source_hanzi": 178,
+      "covered_hanzi": 178,
+      "quote_indexes": [
+        24
+      ],
+      "missing_spans": [],
+      "reading_characters": 294,
+      "raw_characters": 219
+    },
+    {
+      "unit": "P016",
+      "source_hanzi": 102,
+      "covered_hanzi": 102,
+      "quote_indexes": [
+        25
+      ],
+      "missing_spans": [],
+      "reading_characters": 227,
+      "raw_characters": 126
+    },
+    {
+      "unit": "P017",
+      "source_hanzi": 26,
+      "covered_hanzi": 26,
+      "quote_indexes": [
+        26
+      ],
+      "missing_spans": [],
+      "reading_characters": 123,
+      "raw_characters": 30
+    },
+    {
+      "unit": "P018",
+      "source_hanzi": 167,
+      "covered_hanzi": 167,
+      "quote_indexes": [
+        27,
+        28,
+        29
+      ],
+      "missing_spans": [],
+      "reading_characters": 320,
+      "raw_characters": 207
+    },
+    {
+      "unit": "P019",
+      "source_hanzi": 68,
+      "covered_hanzi": 68,
+      "quote_indexes": [
+        30,
+        31
+      ],
+      "missing_spans": [],
+      "reading_characters": 172,
+      "raw_characters": 89
+    },
+    {
+      "unit": "P020",
+      "source_hanzi": 36,
+      "covered_hanzi": 36,
+      "quote_indexes": [
+        32
+      ],
+      "missing_spans": [],
+      "reading_characters": 93,
+      "raw_characters": 41
+    },
+    {
+      "unit": "P021",
+      "source_hanzi": 53,
+      "covered_hanzi": 53,
+      "quote_indexes": [
+        33,
+        34,
+        35
+      ],
+      "missing_spans": [],
+      "reading_characters": 144,
+      "raw_characters": 63
+    },
+    {
+      "unit": "P022",
+      "source_hanzi": 77,
+      "covered_hanzi": 77,
+      "quote_indexes": [
+        36
+      ],
+      "missing_spans": [],
+      "reading_characters": 184,
+      "raw_characters": 96
+    },
+    {
+      "unit": "P023",
+      "source_hanzi": 44,
+      "covered_hanzi": 44,
+      "quote_indexes": [
+        37,
+        38,
+        39
+      ],
+      "missing_spans": [],
+      "reading_characters": 132,
+      "raw_characters": 52
+    },
+    {
+      "unit": "P024",
+      "source_hanzi": 103,
+      "covered_hanzi": 103,
+      "quote_indexes": [
+        40,
+        41
+      ],
+      "missing_spans": [],
+      "reading_characters": 176,
+      "raw_characters": 125
+    },
+    {
+      "unit": "P025",
+      "source_hanzi": 254,
+      "covered_hanzi": 254,
+      "quote_indexes": [
+        42
+      ],
+      "missing_spans": [],
+      "reading_characters": 392,
+      "raw_characters": 322
+    },
+    {
+      "unit": "P026",
+      "source_hanzi": 51,
+      "covered_hanzi": 51,
+      "quote_indexes": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "missing_spans": [],
+      "reading_characters": 219,
+      "raw_characters": 63
+    },
+    {
+      "unit": "P027",
+      "source_hanzi": 55,
+      "covered_hanzi": 55,
+      "quote_indexes": [
+        50,
+        51
+      ],
+      "missing_spans": [],
+      "reading_characters": 216,
+      "raw_characters": 67
+    },
+    {
+      "unit": "P028",
+      "source_hanzi": 97,
+      "covered_hanzi": 97,
+      "quote_indexes": [
+        52
+      ],
+      "missing_spans": [],
+      "reading_characters": 188,
+      "raw_characters": 116
+    },
+    {
+      "unit": "Z001",
+      "source_hanzi": 68,
+      "covered_hanzi": 68,
+      "quote_indexes": [
+        53
+      ],
+      "missing_spans": [],
+      "reading_characters": 202,
+      "raw_characters": 86
+    }
+  ],
+  "quote_placement_validation": {
+    "volume": 56,
+    "body_units": 28,
+    "original_prose_units": 28,
+    "commentary_preface_units": 0,
+    "editorial_labels": 0,
+    "text_layers": {
+      "司马迁篇本文及论说": 28,
+      "唐代司马贞索隐述赞": 1
+    },
+    "later_praise_units": 1,
+    "raw_witness_lines": 29,
+    "raw_witness_lines_covered": 29,
+    "supplement_units": 0,
+    "supplement_sentences": 0,
+    "destination_bindings": 53,
+    "quote_placements": 57,
+    "reading_pages": 22,
+    "errors": [],
+    "quote_checks": [
+      {
+        "path": "years/bce-0300-0201/bce-0208.md",
+        "note_anchor": "sj056-entry-wei-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p001",
+        "quote_characters": 112,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0208.md",
+        "note_anchor": "sj056-entry-wei-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p002",
+        "quote_characters": 263,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0208.md",
+        "note_anchor": "sj056-entry-wei-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p003",
+        "quote_characters": 50,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0208.md",
+        "note_anchor": "sj056-entry-wei-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p004",
+        "quote_characters": 76,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0206.md",
+        "note_anchor": "note-12",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p005",
+        "quote_characters": 27,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "note-12",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p005",
+        "quote_characters": 173,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "note-12",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p006",
+        "quote_characters": 179,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "note-21",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p006",
+        "quote_characters": 43,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "sj056-defense-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p007",
+        "quote_characters": 387,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0204.md",
+        "note_anchor": "note-6",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p008",
+        "quote_characters": 294,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0204.md",
+        "note_anchor": "note-6",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p009",
+        "quote_characters": 67,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0204.md",
+        "note_anchor": "note-7",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p009",
+        "quote_characters": 139,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0204.md",
+        "note_anchor": "note-8",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p009",
+        "quote_characters": 35,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0204.md",
+        "note_anchor": "note-10",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p009",
+        "quote_characters": 10,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0203.md",
+        "note_anchor": "note-13",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p010",
+        "quote_characters": 65,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0202.md",
+        "note_anchor": "note-4",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p010",
+        "quote_characters": 10,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0202.md",
+        "note_anchor": "note-21",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p010",
+        "quote_characters": 13,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0201.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p011",
+        "quote_characters": 308,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0201.md",
+        "note_anchor": "note-2",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p011",
+        "quote_characters": 115,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0201.md",
+        "note_anchor": "note-6",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p012",
+        "quote_characters": 87,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0200.md",
+        "note_anchor": "note-5",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p012",
+        "quote_characters": 69,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0200.md",
+        "note_anchor": "note-6",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p013",
+        "quote_characters": 111,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0195.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p014",
+        "quote_characters": 43,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0195.md",
+        "note_anchor": "note-7",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p015",
+        "quote_characters": 219,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0195.md",
+        "note_anchor": "sj056-langzhongling-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p016",
+        "quote_characters": 126,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0189.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p017",
+        "quote_characters": 30,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "sj056-wangling-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p018",
+        "quote_characters": 79,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/未定年-陈平王陵与陈氏后续.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p018",
+        "quote_characters": 87,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0201.md",
+        "note_anchor": "note-6",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p018",
+        "quote_characters": 41,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0187.md",
+        "note_anchor": "note-3",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p019",
+        "quote_characters": 84,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0181.md",
+        "note_anchor": "sj056-wangling-death-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p019",
+        "quote_characters": 5,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0187.md",
+        "note_anchor": "note-3",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p020",
+        "quote_characters": 41,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "note-17",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p021",
+        "quote_characters": 34,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0201.md",
+        "note_anchor": "note-6",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p021",
+        "quote_characters": 15,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0187.md",
+        "note_anchor": "note-3",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p021",
+        "quote_characters": 14,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/未定年-陈平王陵与陈氏后续.md",
+        "note_anchor": "note-2",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p022",
+        "quote_characters": 96,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0187.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p023",
+        "quote_characters": 15,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0180.md",
+        "note_anchor": "note-15",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p023",
+        "quote_characters": 19,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0180.md",
+        "note_anchor": "note-22",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p023",
+        "quote_characters": 18,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0179.md",
+        "note_anchor": "note-2",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p024",
+        "quote_characters": 113,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0179.md",
+        "note_anchor": "note-3",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p024",
+        "quote_characters": 12,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0179.md",
+        "note_anchor": "note-10",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p025",
+        "quote_characters": 322,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0178.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 17,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0177.md",
+        "note_anchor": "note-9",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 7,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0176.md",
+        "note_anchor": "note-8",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 4,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0175.md",
+        "note_anchor": "note-9",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 7,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0153.md",
+        "note_anchor": "note-10",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 6,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0152.md",
+        "note_anchor": "note-9",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 5,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0130.md",
+        "note_anchor": "sj056-chenhe-case-note",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p026",
+        "quote_characters": 17,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/未定年-陈平王陵与陈氏后续.md",
+        "note_anchor": "note-3",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p027",
+        "quote_characters": 41,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/未定年-陈平王陵与陈氏后续.md",
+        "note_anchor": "note-4",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p027",
+        "quote_characters": 26,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0178.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "p028",
+        "quote_characters": 116,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0178.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/摘录/史记-卷056-陈丞相世家.md",
+        "source_anchor": "z001",
+        "quote_characters": 86,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0300-0201/bce-0205.md",
+        "note_anchor": "note-12",
+        "source_path": "sources/本地分卷/汉书/汉书-卷040.md",
+        "source_anchor": "L7245",
+        "quote_characters": 10,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0189.md",
+        "note_anchor": "note-1",
+        "source_path": "sources/本地分卷/汉书/汉书-卷040.md",
+        "source_anchor": "L7259",
+        "quote_characters": 27,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/bce-0181.md",
+        "note_anchor": "sj056-wangling-death-note",
+        "source_path": "sources/本地分卷/汉书/汉书-卷040.md",
+        "source_anchor": "L7262",
+        "quote_characters": 12,
+        "source_match": true
+      },
+      {
+        "path": "years/bce-0200-0101/未定年-陈平王陵与陈氏后续.md",
+        "note_anchor": "note-4",
+        "source_path": "sources/本地分卷/史记/史记-卷111.md",
+        "source_anchor": "L6090",
+        "quote_characters": 13,
+        "source_match": true
+      }
+    ],
+    "pass": true,
+    "original_source_sha256": "e2cc5086aced841b53270965662dd7ff76ef3ac4b2a002edab084049e0c91538"
+  },
+  "manual_review": {
+    "full_primary_and_all_ancient_notes_read": true,
+    "full_translation_including_dialogues": true,
+    "source_layers_separated": true,
+    "source_files_modified": false,
+    "root_independent_content_review_claimed": false,
+    "parallel_read_scope": "汉书040 L7240—L7269；史记018 R009/R059/R061；史记111 L6090；各受影响事件旧正文、相关注与侯表。"
+  },
+  "web_read_scope": "已打开百度陈平生平及六奇计归类、维基陈平汉朝相关生平至后裔段，仅作核对线索。",
+  "errors": [],
+  "old_content_and_links_author_check": {
+    "old_explicit_anchors_preserved": 1725,
+    "old_blockquote_lines_preserved": 1248,
+    "new_relative_links_checked": 608,
+    "years_pages_checked": 21,
+    "new_period_pages": 1,
+    "new_groups": 10,
+    "modified_existing_groups": null,
+    "errors": [],
+    "passed": true
+  },
+  "post_independent_review_corrections": {
+    "date": "2026-11-12",
+    "reviewer": "author055",
+    "applied_by": "author055 at integrator request",
+    "status": "applied_pending_integrator_diff_review",
+    "issues": [
+      "p6虚指尾生与请骸骨注释",
+      "王陵七年包含计数",
+      "王陵早从丰与南阳晚附异说",
+      "六年初封与八年定食分层",
+      "主臣惶恐无失言",
+      "吕媭是否列席的措辞限制"
+    ],
+    "current_quote_placements": 60,
+    "added_parallel_quote_placements": 3,
+    "reader_and_unit_json_synchronized": true,
+    "original_author_counts_retained": true,
+    "note": "scope及旧内容、链接统计保留原作者提交口径；整合后的实际总数由批次校验记录。"
+  },
+  "author_check_scope": "原作者自检的页数、锚点数按其提交范围统计；最终编号、引句与跨卷共享页面以本批整合核验为准。",
+  "independent_content_review": {
+    "status": "passed_after_corrections",
+    "date": "2026-11-12",
+    "reviewers": [
+      "author055"
+    ],
+    "integration_reviewer": "root",
+    "author_commit_reviewed": "19e0ac1",
+    "scope": "29实质单元全原文白话、29p三家注、22张阅读页新改正文与注、汉040陈平王陵审食其段及侯表，6项修订后定向复读。",
+    "original_prose_units": 28,
+    "tang_praise_units": 1,
+    "commentary_paragraphs": 29,
+    "actual_quote_placements": 60,
+    "reading_pages": 22,
+    "report": "史记-卷053至057-独立内容复核.md",
+    "unresolved_implementation_issues": [],
+    "boundary": "独立审读限本卷全篇及实际新增改写内容，不声称重读全站旧卷；古籍仍存分歧明确保留。"
+  },
+  "final_integration_checks": {
+    "original_prose_units": 28,
+    "later_praise_units": 1,
+    "editorial_labels": 0,
+    "destination_bindings": 53,
+    "quote_placements": 60,
+    "reading_pages": 22,
+    "pass": true
+  }
+}

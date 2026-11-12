@@ -1,0 +1,424 @@
+{
+  "volume": "054",
+  "title": "曹相国世家",
+  "baseline_commit": "2a9b2a6bcec8365d23c2644b78ced2b4077a1b19",
+  "verification_date": "2026-11-12",
+  "status": "author_and_independent_content_checks_passed",
+  "checks": {
+    "primary_paragraphs_exact": 18,
+    "raw_existing_tang_praise_exact": 1,
+    "commentary_paragraphs_exact": 19,
+    "all_units": 19,
+    "primary_quotes": 60,
+    "parallel_quotes": 17,
+    "registered_quotes": 77,
+    "destinations": 60,
+    "all_characters_covered": true,
+    "old_explicit_anchors_preserved": 2098,
+    "old_headings_preserved": 770,
+    "old_blockquote_lines_preserved": 1265,
+    "reading_pages_checked": 27,
+    "new_period_pages": 1,
+    "new_groups": 14,
+    "new_relative_links_checked": 414
+  },
+  "units": [
+    {
+      "unit": "P001",
+      "raw_characters": 32,
+      "covered_characters": 32,
+      "reading_characters": 90,
+      "destinations": 1
+    },
+    {
+      "unit": "P002",
+      "raw_characters": 244,
+      "covered_characters": 244,
+      "reading_characters": 391,
+      "destinations": 7
+    },
+    {
+      "unit": "P003",
+      "raw_characters": 183,
+      "covered_characters": 183,
+      "reading_characters": 307,
+      "destinations": 7
+    },
+    {
+      "unit": "P004",
+      "raw_characters": 314,
+      "covered_characters": 314,
+      "reading_characters": 416,
+      "destinations": 6
+    },
+    {
+      "unit": "P005",
+      "raw_characters": 339,
+      "covered_characters": 339,
+      "reading_characters": 460,
+      "destinations": 8
+    },
+    {
+      "unit": "P006",
+      "raw_characters": 94,
+      "covered_characters": 94,
+      "reading_characters": 175,
+      "destinations": 3
+    },
+    {
+      "unit": "P007",
+      "raw_characters": 65,
+      "covered_characters": 65,
+      "reading_characters": 136,
+      "destinations": 2
+    },
+    {
+      "unit": "P008",
+      "raw_characters": 47,
+      "covered_characters": 47,
+      "reading_characters": 119,
+      "destinations": 1
+    },
+    {
+      "unit": "P009",
+      "raw_characters": 165,
+      "covered_characters": 165,
+      "reading_characters": 277,
+      "destinations": 2
+    },
+    {
+      "unit": "P010",
+      "raw_characters": 111,
+      "covered_characters": 111,
+      "reading_characters": 219,
+      "destinations": 1
+    },
+    {
+      "unit": "P011",
+      "raw_characters": 51,
+      "covered_characters": 51,
+      "reading_characters": 130,
+      "destinations": 2
+    },
+    {
+      "unit": "P012",
+      "raw_characters": 106,
+      "covered_characters": 106,
+      "reading_characters": 191,
+      "destinations": 1
+    },
+    {
+      "unit": "P013",
+      "raw_characters": 63,
+      "covered_characters": 63,
+      "reading_characters": 116,
+      "destinations": 1
+    },
+    {
+      "unit": "P014",
+      "raw_characters": 20,
+      "covered_characters": 20,
+      "reading_characters": 52,
+      "destinations": 1
+    },
+    {
+      "unit": "P015",
+      "raw_characters": 275,
+      "covered_characters": 275,
+      "reading_characters": 381,
+      "destinations": 1
+    },
+    {
+      "unit": "P016",
+      "raw_characters": 60,
+      "covered_characters": 60,
+      "reading_characters": 137,
+      "destinations": 2
+    },
+    {
+      "unit": "P017",
+      "raw_characters": 131,
+      "covered_characters": 131,
+      "reading_characters": 272,
+      "destinations": 12
+    },
+    {
+      "unit": "P018",
+      "raw_characters": 86,
+      "covered_characters": 86,
+      "reading_characters": 178,
+      "destinations": 1
+    },
+    {
+      "unit": "Z001",
+      "raw_characters": 86,
+      "covered_characters": 86,
+      "reading_characters": 233,
+      "destinations": 1
+    }
+  ],
+  "old_content_preservation": [
+    {
+      "path": "years/bce-0100-0001/bce-0091.md",
+      "old_anchors": 36,
+      "old_headings": 11,
+      "old_quote_lines": 7,
+      "body_groups": 6,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0114.md",
+      "old_anchors": 79,
+      "old_headings": 25,
+      "old_quote_lines": 31,
+      "body_groups": 17,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0115.md",
+      "old_anchors": 92,
+      "old_headings": 26,
+      "old_quote_lines": 39,
+      "body_groups": 15,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0130.md",
+      "old_anchors": 59,
+      "old_headings": 18,
+      "old_quote_lines": 13,
+      "body_groups": 8,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0131.md",
+      "old_anchors": 50,
+      "old_headings": 13,
+      "old_quote_lines": 9,
+      "body_groups": 5,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0153.md",
+      "old_anchors": 74,
+      "old_headings": 23,
+      "old_quote_lines": 83,
+      "body_groups": 13,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0154.md",
+      "old_anchors": 147,
+      "old_headings": 39,
+      "old_quote_lines": 78,
+      "body_groups": 24,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0160.md",
+      "old_anchors": 34,
+      "old_headings": 12,
+      "old_quote_lines": 10,
+      "body_groups": 5,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0161.md",
+      "old_anchors": 43,
+      "old_headings": 15,
+      "old_quote_lines": 21,
+      "body_groups": 9,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0180.md",
+      "old_anchors": 150,
+      "old_headings": 44,
+      "old_quote_lines": 177,
+      "body_groups": 26,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0184.md",
+      "old_anchors": 64,
+      "old_headings": 18,
+      "old_quote_lines": 39,
+      "body_groups": 6,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0189.md",
+      "old_anchors": 29,
+      "old_headings": 13,
+      "old_quote_lines": 31,
+      "body_groups": 6,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0190.md",
+      "old_anchors": 44,
+      "old_headings": 18,
+      "old_quote_lines": 19,
+      "body_groups": 6,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0193.md",
+      "old_anchors": 43,
+      "old_headings": 17,
+      "old_quote_lines": 51,
+      "body_groups": 7,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0194.md",
+      "old_anchors": 40,
+      "old_headings": 17,
+      "old_quote_lines": 14,
+      "body_groups": 7,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0195.md",
+      "old_anchors": 89,
+      "old_headings": 37,
+      "old_quote_lines": 39,
+      "body_groups": 19,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0196.md",
+      "old_anchors": 44,
+      "old_headings": 19,
+      "old_quote_lines": 26,
+      "body_groups": 9,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0200-0101/未定年-曹氏相政与平阳侯家事.md",
+      "old_anchors": 0,
+      "old_headings": 0,
+      "old_quote_lines": 0,
+      "body_groups": 6,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0201.md",
+      "old_anchors": 60,
+      "old_headings": 25,
+      "old_quote_lines": 27,
+      "body_groups": 12,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0202.md",
+      "old_anchors": 107,
+      "old_headings": 46,
+      "old_quote_lines": 41,
+      "body_groups": 24,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0203.md",
+      "old_anchors": 79,
+      "old_headings": 36,
+      "old_quote_lines": 28,
+      "body_groups": 19,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0204.md",
+      "old_anchors": 77,
+      "old_headings": 28,
+      "old_quote_lines": 46,
+      "body_groups": 25,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0205.md",
+      "old_anchors": 94,
+      "old_headings": 35,
+      "old_quote_lines": 86,
+      "body_groups": 32,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0206.md",
+      "old_anchors": 117,
+      "old_headings": 52,
+      "old_quote_lines": 95,
+      "body_groups": 27,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0207.md",
+      "old_anchors": 122,
+      "old_headings": 56,
+      "old_quote_lines": 56,
+      "body_groups": 28,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "old_anchors": 171,
+      "old_headings": 73,
+      "old_quote_lines": 117,
+      "body_groups": 35,
+      "preserved": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "old_anchors": 154,
+      "old_headings": 54,
+      "old_quote_lines": 82,
+      "body_groups": 34,
+      "preserved": true
+    }
+  ],
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷054.txt": "ba0c195bdf96694f0c2f22b2c91a0b17bc2047d665d239b26dc15d47a8bf774e",
+    "sources/史记三家注/原始HTML/054.htm": "f8dc95fd4a6dda78c1233549f1768c48a714ab78671c0ccc5a60deda6f2398a5",
+    "sources/史记三家注/卷054.md": "214859ee04eb462fde741350f27b8d97f489eff0d64f6de58ee39dce08bb2b97",
+    "sources/摘录/史记-卷054-曹相国世家.md": "b3799718fb3bb2b7b98f189ed5c1bf27de24b6b4ed82ccebea16eb7f6592769f"
+  },
+  "manual_review": {
+    "full_primary_and_all_ancient_notes_read": true,
+    "full_old_year_pages_read_before_edit": true,
+    "source_layers_separated": true,
+    "root_independent_content_review_claimed": false,
+    "modern_crosscheck_scope": "实际打开维基曹参生平、相政、轶事及评价，百度同词条简介、生平、评价、家族；范围与疑点详纪年报告。"
+  },
+  "independent_content_review": {
+    "status": "passed_after_corrections",
+    "date": "2026-11-12",
+    "reviewers": [
+      "root"
+    ],
+    "author_commit_reviewed": "4e6fc62bc9c080a0071f0b87c9ffeabed0ae41bf",
+    "scope": "完整主文白话、19p三家注、27张阅读页实际新增改写内容、汉039曹段及016曹氏原格。",
+    "original_prose_units": 18,
+    "tang_praise_units": 1,
+    "commentary_paragraphs": 19,
+    "actual_quote_placements": 77,
+    "reading_pages": 25,
+    "report": "史记-卷053至057-独立内容复核.md",
+    "unresolved_implementation_issues": [],
+    "boundary": "独立审读限本卷全篇及实际新增改写内容，不声称重读全站旧卷；古籍仍存分歧明确保留。"
+  },
+  "limitations": [
+    "机械覆盖不能代替内容审读。",
+    "曲阳武垣地理、左/右丞相、景陵日数、曹宗嗣年与终局等原典分歧保留。",
+    "未声称重读全站无关旧文，原始见证未改。"
+  ],
+  "errors": [],
+  "author_check_scope": "原作者自检的页数、锚点数按其提交范围统计；最终编号、引句与跨卷共享页面以本批整合核验为准。",
+  "final_integration_checks": {
+    "original_prose_units": 18,
+    "later_praise_units": 1,
+    "editorial_labels": 0,
+    "destination_bindings": 60,
+    "quote_placements": 77,
+    "reading_pages": 25,
+    "pass": true
+  }
+}
