@@ -1,0 +1,752 @@
+{
+  "volume": "048",
+  "title": "陈涉世家",
+  "baseline_commit": "5bcbda56e81cf265e18fb91a243b6f5dda2322aa",
+  "remote_baseline_commit": "01e2a3360ee921ce3ac7f9eb3ec9286eacdffc6c",
+  "status": "passed_author_validation",
+  "raw_primary_paragraphs": 26,
+  "prose_units": 26,
+  "main_narrative_paragraphs": 20,
+  "attributed_preface_paragraphs": 1,
+  "quoted_jia_yi_paragraphs": 5,
+  "commentarial_preface_units": 1,
+  "later_praise_units": 1,
+  "supplemental_paragraphs": 0,
+  "supplemental_sentences": 0,
+  "units": 28,
+  "raw_characters": 3971,
+  "primary_raw_characters": 3799,
+  "all_raw_characters_covered": true,
+  "source_witnesses": [
+    {
+      "path": "sources/本地分卷/史记/史记-卷048.txt",
+      "sha256": "9cc56578f50d281271e571fd1b7d804deb898b88db15ae5f25c1e35d61cb1ddf",
+      "git_blob_sha": "fad1aff53d4bb26b4240c9f7b6daabb6ca375387",
+      "unchanged_from_remote_baseline": true
+    },
+    {
+      "path": "sources/本地分卷/史记/史记-卷048.md",
+      "sha256": "81021b5b29be962b4b78264600b9370eb567e71a3acd3f7699fe48e976e8e7f9",
+      "git_blob_sha": "6feb1cd0ac8be6a0cac4e0735d32331ae48dca00",
+      "unchanged_from_remote_baseline": true
+    },
+    {
+      "path": "sources/史记三家注/原始HTML/048.htm",
+      "sha256": "9648c728b720580fb56a30d8f8299e0ee88a2fe98e2cfd018dd132b477812349",
+      "git_blob_sha": "1e10b5be1c91e90f67907958af6c28e719b08104",
+      "unchanged_from_remote_baseline": true
+    }
+  ],
+  "new_readable_derivation": {
+    "path": "sources/史记三家注/卷048.md",
+    "input_path": "sources/史记三家注/原始HTML/048.htm",
+    "paragraphs": 29,
+    "anchors": "p0-p28",
+    "exact_visible_text_match": true,
+    "p0": "唐司马贞索隐序说，不计主TXT漏段",
+    "p28": "唐司马贞索隐述赞，主TXT没有此段",
+    "input_unchanged": true
+  },
+  "quote_count": 40,
+  "reused_existing_quotes": 28,
+  "touched_reading_pages": [
+    "years/bce-0300-0201/bce-0209.md",
+    "years/bce-0300-0201/bce-0208.md",
+    "years/bce-0200-0101/bce-0195.md"
+  ],
+  "new_reading_pages": [],
+  "new_year_pages": 0,
+  "new_period_pages": 0,
+  "new_groups": [],
+  "body_changes": [
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 6,
+      "kind": "merged_existing",
+      "before": "6. **登场前事｜陈胜原来也是替人耕作的人。** 陈胜字涉，早年曾与人佣耕。史书用“苟富贵，无相忘”及燕雀鸿鹄的故事表现他的抱负。这是起兵以前的经历，不把未经确年的谈话另算作本年事件。 [[6]](#note-6)",
+      "body": "**登场前事｜陈胜曾受雇耕田，早就不甘于眼前的处境。** 陈胜是阳城人，字涉；吴广是阳夏人，字叔。陈胜年轻时与别人一同佣耕，有一次停下农活走到田垄上，失意地叹息很久，说将来若有人富贵了，彼此不要忘记。同伴笑他不过是替人耕田，哪里会有富贵；陈胜长叹，燕雀哪里知道鸿鹄的志向。这是起兵以前的经历，谈话的年份未定。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 7,
+      "kind": "merged_existing",
+      "before": "7. **七月，陈胜、吴广在大泽乡谋划反抗。** 九百名戍卒在大泽乡遇雨误期，陈胜、吴广谋划反抗。 他们奉命去渔阳戍守，途中道路被阻。陈胜、吴广利用士卒对误期惩罚的恐惧，准备借扶苏、项燕的名义号召群众。 [[7]](#note-7)",
+      "body": "**七月，陈胜、吴广在大泽乡谋划反抗。** 秦廷征发九百名闾左之民赴渔阳戍守，陈胜、吴广都在征发之列，被任为屯长。队伍在大泽乡遭遇大雨，道路不通，估计赶不上期限；他们面对的是误期可能被处死的恐惧。两人商议，逃亡和举事同样冒死，不如为建国而起。陈胜认为天下苦秦已久，二世是始皇幼子，本应由扶苏继位；扶苏因屡谏被派往外面统兵，虽已听说被二世杀害，民众却多知其贤而不知其死；楚将项燕屡有战功、爱护士卒，楚人怀念他，关于他是死是逃仍有传闻。于是他提议借扶苏、项燕之名号召天下，料想响应者会很多，吴广同意。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 8,
+      "kind": "merged_existing",
+      "before": "8. **他们有意制造“天意”的气氛。** 问卜后，陈胜把文字藏入鱼腹，吴广又在夜间仿狐鸣呼喊，让士卒相信陈胜将称王。这是参与者安排的造势，不是真有神明发出命令。 [[8]](#note-8)",
+      "body": "**他们借鱼腹帛书与夜间狐鸣制造天意。** 两人前去占卜，卜者看出意图，说所谋可成、有功，又提到向鬼神求问。陈胜、吴广领会为要先借神异使众人信服，便用朱砂在帛上写“陈胜王”，放进别人网来的鱼腹。士卒买鱼烹食，发现帛书，已经觉得奇怪；吴广又到驻地旁的丛祠，夜里笼火，模仿狐狸叫声喊“大楚兴，陈胜王”。众人受惊，第二天纷纷议论，指着陈胜观看。鱼书和狐鸣都是参与者安排的造势。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 9,
+      "kind": "merged_existing",
+      "before": "9. **起事者杀掉押送军官，推陈胜、吴广为首。** 两名尉被杀后，陈胜为将军，吴广为都尉，队伍公开反秦。 [[9]](#note-9)",
+      "body": "**吴广激怒军尉，陈胜与他杀尉举兵。** 吴广平日爱护士卒，许多人愿意听他，便趁军尉喝醉，故意反复说要逃亡，使其当众责辱自己，以激起众怒。军尉鞭打吴广，又拔剑，吴广夺剑将他杀死；陈胜相助，两名尉都被杀。陈胜召集戍卒，说众人已经误期当斩，即使不斩，戍守中也多有人死亡，壮士要死就应成就大名，王侯将相难道天生有种？众人愿意受命，便冒称扶苏、项燕之军，袒露右臂，称“大楚”，筑坛盟誓，用军尉首级祭告。陈胜自立为将军，吴广为都尉，队伍公开反秦。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 10,
+      "kind": "merged_existing",
+      "before": "10. **队伍由大泽乡、蕲一路向陈推进。** 经过铚、酂、苦、柘、谯等地，陈胜又派葛婴向东。到陈时，所报兵力已增至战车六七百乘、骑兵千余、步卒数万，远不是最初九百人的规模。 [[10]](#note-10)",
+      "body": "**队伍由大泽乡、蕲一路向陈推进。** 攻下大泽乡后，陈胜收集兵众再攻蕲。蕲降服后，他派符离人葛婴领兵向东经略，主力相继攻下铚、酂、苦、柘、谯，沿路不断收兵。到陈时，所报兵力已有战车六七百乘、骑兵千余、步卒数万，远超最初九百人的规模。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 11,
+      "kind": "merged_existing",
+      "before": "11. **陈县失守后，陈胜称王，号为“张楚”。** 陈守、陈令不在，守丞出战死亡；当地父老劝陈胜称王，军事反抗发展为公开与秦相争的政权。 [[11]](#note-11)",
+      "body": "**陈县失守后，陈胜称王，号为“张楚”。** 陈地守令不在，守丞在城门中迎战，失败而死，陈胜遂入据陈。过了几天，他召集三老和豪杰会商。众人说他亲自披甲执兵，讨伐无道、诛除暴秦，恢复楚国社稷，功劳应当称王。陈胜于是立为王，号“张楚”，军事反抗发展为公开与秦相争的政权。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 12,
+      "kind": "merged_existing",
+      "before": "12. **陈胜分遣吴广、武臣、邓宗等向各地进军。** 吴广西进，武臣等北略赵地，邓宗前往九江。 吴广代理王事，攻荥阳；武臣、张耳、陈馀向赵地发展。各郡县也有人杀长吏响应，陈胜难以直接统辖所有新起的力量。 [[12]](#note-12)",
+      "body": "**陈胜分遣吴广、武臣、邓宗等向各地进军。** 各郡县苦于秦吏统治的人也惩处、杀死当地长吏，响应起兵。陈胜任字叔的吴广为假王，代行王权，督率诸将向西攻荥阳；派陈人武臣、张耳、陈馀经略赵地，派汝阴人邓宗经略九江。各地聚为数千人的楚军已多得难以计数，新起力量并不都能由陈胜直接统辖。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 13,
+      "kind": "merged_existing",
+      "before": "13. **荥阳没有轻易攻下。** 三川守李由守城，吴广长期进攻仍未奏效；陈胜又任上蔡人蔡赐为上柱国，任命的具体月份未另记。 [[13]](#note-13)",
+      "body": "**荥阳久攻不下，陈胜另派周市北略魏地。** 秦三川守李由守住荥阳，吴广围攻而不能攻克。陈胜让魏人周市向北经略魏地，又征召国内豪杰一同筹划，任上蔡人、号房君的蔡赐为上柱国。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 14,
+      "kind": "merged_existing",
+      "before": "14. **葛婴另立襄强，得知陈胜称王后又将他杀死。** 葛婴在东城另立襄强为楚王，后来杀襄强，准备返陈报告。月表把另立、杀襄强分在八、九月，葛婴自己被陈胜处死则在下一年十月。 [后续](bce-0208.md#sj-048-L4210-02)。 [[14]](#note-14)",
+      "body": "**葛婴另立襄强，得知陈胜称王后又将他杀死。** 八月，葛婴进到东城，拥立襄强为楚王；九月听说陈胜已经称王，便杀襄强，准备返陈报告。他自己的死亡还在返陈以后，见[下一秦年十月](bce-0208.md#sj-048-L4210-02)。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 15,
+      "kind": "merged_existing",
+      "before": "15. **秦嘉等人不接受陈胜派来的统帅。** 秦嘉等围攻郯，陈胜派武平君畔统领他们，秦嘉却自立为大司马，杀死武平君畔。这是起兵初期的回叙，不因为列传排得靠后，就改作后来发生。 [[15]](#note-15)",
+      "body": "**陈胜初立时，秦嘉等围攻郯，却拒绝接受他派来的统帅。** 陵人秦嘉、铚人董缏、符离人朱鸡石、取虑人郑布、徐人丁疾等各自起兵，把东海郡守庆围在郯。陈胜派武平君畔为将军，统领城下军队。秦嘉不愿受其节制，自立为大司马，对军吏宣称武平君年少、不懂兵事，不要听从，随后假托陈王命令杀了畔。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 16,
+      "kind": "merged_existing",
+      "before": "16. **宋留奉命走南阳、武关一线。** 陈胜最初让宋留平定南阳，再进武关；后来陈胜死讯传来，宋留才改变行动。退兵、投降、被杀见下一年，不提前写死陈胜。 [后续](bce-0208.md#sj-048-L4221-02)。 [[16]](#note-16)",
+      "body": "**宋留奉命走南阳、武关一线。** 陈胜到陈后，派铚人宋留领兵平定南阳，再从武关入秦。宋留已经经略南阳；此后听到陈胜死讯，才陷入退兵和投降的局面，见[下一秦年的结局](bce-0208.md#sj-048-L4221-02)。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 17,
+      "kind": "merged_existing",
+      "before": "17. **八月，武臣在赵地自立为王。** 张耳、陈馀辅佐他。陈胜愤怒，拘押武臣等人的家属；蔡赐劝他承认现实，不要再树新敌，陈胜才改为承认，并要求赵军向西攻秦。 [[17]](#note-17)",
+      "body": "**八月，武臣在邯郸自立为赵王。** 陈馀任大将军，张耳、召骚分任左、右丞相。陈胜愤怒，拘捕武臣等人的家属，打算杀掉。蔡赐劝他，秦还没有灭亡，再杀赵王将相的家属，就等于又制造一个秦那样的敌人，不如承认既成事实。陈胜于是遣使祝贺，将家属转移到宫中继续拘留，封张耳之子张敖为成都君，催赵军尽快入关攻秦。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 18,
+      "kind": "merged_existing",
+      "before": "18. **赵军没有立即向西。** 张耳、陈馀主张先扩展赵自己的地盘，武臣转而北略，让韩广去燕地。 [[18]](#note-18)",
+      "body": "**赵方顾虑楚强以后转来攻赵，决定先向北扩展。** 武臣、张耳、陈馀等商议，赵自行立王不合楚意，一旦楚灭秦，可能再向赵用兵，不如暂不西进，先北略燕地，扩大自己的实力。若南据黄河、北有燕代，楚即使胜秦，也不敢轻易制赵；若楚不能胜秦，又必须看重赵的支持。武臣采纳，想乘秦疲敝而图天下，改派曾任上谷卒史的韩广领兵北上。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 19,
+      "kind": "merged_existing",
+      "before": "19. **九月，韩广在燕地称王。** 他起初担心母亲还在赵，后来仍接受拥立；母亲与家属随后获送到燕，几个步骤不擅自定在同一天。 [[19]](#note-19)",
+      "body": "**九月，韩广在燕地接受拥立，自称燕王。** 燕国旧贵族和豪杰说，楚、赵都已立王，燕虽然小，也是万乘之国，应当有自己的王。韩广起初担心母亲仍在赵；燕人劝他，赵西忧秦、南忧楚，无力禁止燕自立，连强楚都不敢杀赵王将相的家属，赵又何敢害他母家？韩广接受劝说而称王。数月以后，赵再把他的母亲与家属送到燕国，这是称王后的续事。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 20,
+      "kind": "merged_existing",
+      "before": "20. **九月，田儋在狄起兵，成为齐王。** 田儋在狄起兵，成为齐王。 他与宗族力量夺取当地政权，向齐地发展。田儋是狄人，田氏宗族在当地有力量；田荣是他的从弟，田横又是田荣的弟弟。月表十月还有回顾文字，不表示田儋两个月各称王一次。 [[20]](#note-20)",
+      "body": "**九月，田儋在狄起兵，自立齐王，击退周市。** 周市北略到狄，狄人田儋杀死当地县令，自立为王，以齐军反击，使周市部众溃散、退回魏地。田氏宗族在当地有力量；田荣是田儋的从弟，田横又是田荣的弟弟。齐国复起之后，周市在魏地转而坚持迎回旧王族魏咎，见[归国就位](bce-0208.md#note-5)。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 21,
+      "kind": "merged_existing",
+      "before": "21. **九月前后，周文军到达戏，章邯以骊山刑徒迎击。** 周文自称熟悉兵事，受陈胜任用，沿途扩充队伍，推进到关中。秦来不及从附近县重新征兵，章邯提出赦免骊山刑徒、授予武器。周文战败退出关中，后来在曹阳、渑池继续败退。 [[21]](#note-21)",
+      "body": "**九月前后，周文军到达戏，章邯以骊山刑徒等迎击。** 周文又称周章，是陈地有名望的人，曾在项燕军中负责察日占吉凶，也曾侍奉春申君。他自称熟习兵事，陈胜给他将军印，让他向西攻秦。周文沿途收兵，到关口时已有车千乘、士卒数十万，进驻戏。秦来不及重新征集近县兵，少府章邯提出赦免骊山刑徒，连同家生奴等授兵迎战，击败周文，使他退到关外。其后曹阳、渑池的继续败退接到[下一秦年冬季](bce-0208.md#note-2)。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 1,
+      "kind": "merged_existing",
+      "before": "1. **十月，葛婴返陈后被杀。** 他先前另立襄强，后来杀襄强、回陈报告，陈胜仍把他处死。杀襄强与葛婴自己的死亡分属不同月份。 [[1]](#note-1)",
+      "body": "**十月，葛婴返陈报告后被杀。** 他在东城另立襄强，得知陈胜称王又杀了襄强；回陈报告时，陈胜仍把他处死。杀襄强与葛婴自己的死亡分属前后两个月份。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 2,
+      "kind": "merged_existing",
+      "before": "2. **十一月，周文在连续败退后自杀。** 前一年退出关中的周文在曹阳停留二三月，又遭章邯进攻，退到渑池十余日，再次战败后自杀。 [[2]](#note-2)",
+      "body": "**十一月，周文在连续败退后自杀。** 他在上一秦年退出关中，停驻曹阳二三个月，又被章邯追击打败；退到渑池十多天后，章邯再来进攻，大破其军。周文自刎，余部不再抵抗。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 3,
+      "kind": "merged_existing",
+      "before": "3. **荥阳久攻不下，田臧等却先杀了自己的统帅吴广。** 听说周文军败，田臧认为秦军随时会到，应留下少量部队围城，主力西迎；他又指责吴广不懂用兵，不肯与他共谋，于是假传陈王命令杀吴广，把首级送给陈胜。陈胜没有追究，反而授田臧楚令尹印，命他为上将。 [[3]](#note-3)",
+      "body": "**荥阳久攻不下，田臧等先杀了统帅吴广。** 田臧等听说周文军已败，认为秦军随时会到，继续顿兵荥阳必会陷入败局，应留少量兵力围城，调全部精兵向西迎敌。他们又指责假王吴广骄傲、不懂用兵权变，不能同他商量，不除掉他就难以成功，遂假传陈王命令杀吴广，把首级送给陈胜。陈胜没有追究，反而遣使赐田臧楚令尹印，命他为上将。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 4,
+      "kind": "merged_existing",
+      "before": "4. **换将没有扭转战局。** 田臧留李归等守荥阳，自己带精兵到敖仓迎战，结果军败身死。章邯接着击破荥阳城外的李归军，李归等也死。邓说、伍徐的队伍随后相继被秦军打散，两人逃回陈，陈胜又把邓说处死。秦军逼近陈地以前，陈胜派出的几路力量已经接连瓦解。 [[4]](#note-4)",
+      "body": "**田臧与李归先后战死，邓说、伍徐的队伍也被打散。** 田臧留下李归等围守荥阳，亲率精锐西向敖仓迎秦军，军败身死；章邯再攻荥阳城下的李归军，李归等也死。阳城人邓说驻郯，地名古注疑为郟，遭章邯别将击败，逃回陈；铚人伍徐驻许，又被章邯打败，残军同样奔陈。陈胜随后处死邓说。秦军逼近陈地以前，陈胜派出的几路力量已经接连瓦解。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 5,
+      "kind": "merged_existing",
+      "before": "5. **十二月，魏咎终于从陈回到魏地。** 周市拒绝自己称王，坚持迎立魏国后人魏咎。经过反复请求，陈胜放魏咎回去，魏咎正式在魏地就位，周市任相。 [[5]](#note-5)",
+      "body": "**十二月，魏咎终于从陈回到魏地就位，周市为相。** 周市在齐地受挫、退回魏地后，想迎立魏国旧王族、原甯陵君魏咎；魏咎却留在陈胜那里，不能归国。魏地平定后，众人想改拥周市，他坚持不肯。请迎的使者来回五次，陈胜终于让魏咎归国。魏咎此前已有王号，到这时才在魏地就位，周市最终担任魏相。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 6,
+      "kind": "merged_existing",
+      "before": "6. **秦军逼近陈，蔡赐、张贺先后战死。** 蔡赐被杀，张贺与陈胜一方在陈西迎战，又被击败，张贺死亡，陈胜离开陈地。 [[6]](#note-6)",
+      "body": "**章邯进攻陈，蔡赐、张贺先后战死。** 秦军打败伍徐后继续进逼，上柱国房君蔡赐阵亡。章邯又攻击陈西的张贺军，陈胜亲自出城督战，楚军仍败，张贺被杀。陈胜随后离开陈地。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 7,
+      "kind": "merged_existing",
+      "before": "7. **腊月，陈胜在下城父被自己的车夫杀死。** 庄贾杀陈胜后降秦。陈胜后来葬在砀，谥为隐王，安葬与定谥未另有确日。他死了，反抗却没有因此结束。 [[7]](#note-7)",
+      "body": "**腊月，陈胜返回途中，在下城父被车夫庄贾杀死。** 他先前往汝阴，回程到了下城父，庄贾杀主以降秦。陈胜后来葬在砀，谥为隐王，安葬与定谥未另记确日。他称王总共六个月；在位期间疏远故人、任用纠察者的回顾，以及汉、唐作者对首事与败亡的评论，见同号史料。陈胜死后，反秦战争仍在继续。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 8,
+      "kind": "merged_existing",
+      "before": "8. **吕臣组织苍头军，收复陈并杀庄贾。** 他从新阳起兵，重新夺回陈地，为陈胜报仇。 [[8]](#note-8)",
+      "body": "**吕臣组织苍头军，收复陈并杀庄贾。** 吕臣曾为陈胜近侍，后任将军。他在新阳起兵，部众以青色头巾相识，攻下陈，杀死庄贾，为陈胜报仇，使陈地重新归楚。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 9,
+      "kind": "merged_existing",
+      "before": "9. **宋留听说陈胜死后退兵，投降仍被处死。** 沿途城邑重新归秦，不让他进入；宋留最后降秦，被送到咸阳车裂。收死讯、退兵、投降和处刑是连续阶段，不全部定在腊月。 [[9]](#note-9)",
+      "body": "**宋留听到陈胜死讯，退至新蔡投降，仍被处死。** 他原奉命经略南阳、进武关；陈胜死后，南阳重新归秦，宋留不能入关，只得向东到新蔡，遇见秦军，率全军投降。秦方将他押送至咸阳，施以车裂示众。收死讯、失去进路、退兵、投降和处刑是连续阶段。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 10,
+      "kind": "merged_existing",
+      "before": "10. **陈地还在反复争夺。** 秦左右校再攻陈，使吕臣一度退却。后来他与黥布等联合，在青波击败秦军，又收陈地。这与先前杀庄贾是两次前后相接的行动。 [[10]](#note-10)",
+      "body": "**吕臣一度失去陈，后来联黥布再度收复。** 秦左右校尉军又攻下陈，吕臣退走，收兵重新聚合，又与出自鄱地群盗、号当阳君的黥布军会合，在青波打败秦左右校军，再使陈地归楚。这是继杀庄贾之后的第二次复陈，同一阶段又接到项梁立楚怀王孙熊心。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 18,
+      "kind": "merged_existing",
+      "before": "18. **秦嘉另立景驹，田儋不承认。** 端月，景驹被立为楚王；二月公孙庆使齐求兵，田儋认为陈胜生死未明，楚又未先来商议，拒绝承认，杀掉使者。秦嘉在二月已任上将军，掌握这一政权的军队；拥立者与名义上的楚王并不是同一人。[月表说明](#sj016-m02-note) [[18]](#note-18)",
+      "body": "**秦嘉另立景驹，公孙庆使齐求合兵，却被田儋杀死。** 秦嘉等听说陈胜军败出走，端月拥立景驹为楚王，率军到方与，准备攻击定陶城下秦军。二月，景驹一方派公孙庆去齐，希望合兵进攻；秦嘉此时已任上将军，实际掌握军队。田儋说，陈王虽败，生死未明，楚怎么能不先来商议便另立王？公孙庆反问，齐立王未曾问楚，楚为何必须问齐；况且楚首事，本应号令天下。田儋因此杀了公孙庆。[月表说明](#sj016-m02-note)"
+    }
+  ],
+  "source_quote_checks": [
+    {
+      "placement_anchor": "sj048-cite-001",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-6",
+      "number": 6,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 98,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-002",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 363,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-003",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-8",
+      "number": 8,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 363,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-004",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-9",
+      "number": 9,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 349,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-005",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-10",
+      "number": 10,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 349,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-006",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-11",
+      "number": 11,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 349,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-007",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-12",
+      "number": 12,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 86,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-008",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-13",
+      "number": 13,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 97,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-009",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-14",
+      "number": 14,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 97,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-010",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-15",
+      "number": 15,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 118,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-011",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-16",
+      "number": 16,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 77,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-012",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-17",
+      "number": 17,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 237,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-013",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-18",
+      "number": 18,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 237,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-014",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-19",
+      "number": 19,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 135,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-015",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-20",
+      "number": 20,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 127,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-016",
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "note_anchor": "note-21",
+      "number": 21,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 138,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-017",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-1",
+      "number": 1,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 97,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-018",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-2",
+      "number": 2,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 138,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-019",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-3",
+      "number": 3,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 175,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-020",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-4",
+      "number": 4,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 175,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-021",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-4",
+      "number": 4,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 54,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-022",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-5",
+      "number": 5,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 127,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-023",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-6",
+      "number": 6,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 41,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-024",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 34,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-025",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 269,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-026",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 24,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-027",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 86,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-028",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 65,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-029",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 96,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-030",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 356,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-031",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 280,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-032",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 128,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-033",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 219,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-034",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-7",
+      "number": 7,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 86,
+      "reused": false
+    },
+    {
+      "placement_anchor": "sj048-cite-035",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-8",
+      "number": 8,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 33,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-036",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-9",
+      "number": 9,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 77,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-037",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-10",
+      "number": 10,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 63,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-038",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-18",
+      "number": 18,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 118,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-039",
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "note_anchor": "note-23",
+      "number": 23,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 63,
+      "reused": true
+    },
+    {
+      "placement_anchor": "sj048-cite-040",
+      "path": "years/bce-0200-0101/bce-0195.md",
+      "note_anchor": "note-5",
+      "number": 5,
+      "source_match": true,
+      "actual_same_number_placement": true,
+      "characters": 19,
+      "reused": false
+    }
+  ],
+  "reading_pair_checks": [
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "events": 34,
+      "notes": 34,
+      "old_explicit_anchors_preserved": true,
+      "old_heading_texts_preserved": true,
+      "old_source_quotes_preserved": true,
+      "old_source_quote_lines": 82,
+      "unchanged_group_count": true,
+      "continuous_numbers": true,
+      "all_same_number_notes": true,
+      "notes_before_bottom_navigation": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "events": 35,
+      "notes": 35,
+      "old_explicit_anchors_preserved": true,
+      "old_heading_texts_preserved": true,
+      "old_source_quotes_preserved": true,
+      "old_source_quote_lines": 106,
+      "unchanged_group_count": true,
+      "continuous_numbers": true,
+      "all_same_number_notes": true,
+      "notes_before_bottom_navigation": true
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0195.md",
+      "events": 18,
+      "notes": 18,
+      "old_explicit_anchors_preserved": true,
+      "old_heading_texts_preserved": true,
+      "old_source_quotes_preserved": true,
+      "old_source_quote_lines": 35,
+      "unchanged_group_count": true,
+      "continuous_numbers": true,
+      "all_same_number_notes": true,
+      "notes_before_bottom_navigation": true
+    }
+  ],
+  "local_links_checked": 871,
+  "local_anchors_checked": 799,
+  "remote_only_existing_links": [
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "target": "../../meta/记录/2026-10-10-卷006至011复核.md",
+      "remote_path": "meta/记录/2026-10-10-卷006至011复核.md",
+      "git_blob_sha": "4e51ae27a1fae694e95015773e7b38e4cdd39c55",
+      "remote_baseline_commit": "01e2a3360ee921ce3ac7f9eb3ec9286eacdffc6c",
+      "unchanged_existing_link": true,
+      "fragment": null
+    }
+  ],
+  "semantic_review": {
+    "status": "passed_independent_full_read",
+    "reviewer": "chronology4849",
+    "scope": "已完整审读28个白话单元、3张年页29个相关组及其同号注、全部27项正文改写与HEAD旧文、3篇meta；六处释读修复及庄贾表删除实际回看通过。",
+    "corrections": [
+      "P002改夜里用笼子罩着火光，消除句法歧义。",
+      "P003以天生的贵种译种，不引入现代种姓制度含义。",
+      "P019恢复无亲陈王者的原断语，对这些旧交不弱化为少有人。",
+      "P024士译勇士，不误作狭义文士。",
+      "P025仟佰依索隐译千人百人之长，在其手下周旋，并注汉书阡陌异文。",
+      "P026明确秦所控制的天下没有缩小衰弱。",
+      "秦嘉围郯与田臧诸事按通鉴实际冬季连叙补明阅读位置和年条界限。",
+      "庄贾人物表删除无根据、所指不清的同名比较半句。"
+    ],
+    "remaining_content_blockers": []
+  },
+  "refinements": [
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 7,
+      "issue": "误期必斩的叙事与法律泛化分开",
+      "decision": "原文全部保留，正文写参与者面对误期死刑的恐惧；同号注说明役法争议。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 11,
+      "issue": "陈守、陈令是否可确定为两名官员",
+      "decision": "改以守令概称，三家注关于秦无陈郡及皆字的解释进注；未删除原句。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0209.md",
+      "number": 20,
+      "issue": "月表十月回顾田儋起兵不是再度称王",
+      "decision": "正文只记一次，旧月表与同号注的分月解释保留。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0208.md",
+      "number": 9,
+      "issue": "旧白话沿途城邑不让宋留进入没有直接原句",
+      "decision": "改为南阳复秦、不能入武关，保留退兵、降秦和车裂全程。"
+    }
+  ],
+  "scope": "卷048作者快照；全站总数、合并后共用年页与目录由本批根整合核验，原始远端资料恢复不计本卷新稿。",
+  "errors": []
+}
