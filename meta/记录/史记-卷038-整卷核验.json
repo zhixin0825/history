@@ -1,0 +1,1418 @@
+{
+  "volume": "038",
+  "title": "宋微子世家",
+  "date": "2026-11-11",
+  "baseline_remote_commit": "1e9a82f2a36587fed8d70736b5a682c998bed64e",
+  "scope": "卷038独立作者分支的核验快照；两卷合并后的编号、入口、共享导航由总编另作最终核验。",
+  "prose_units": 58,
+  "author_comments_in_prose": [
+    "P058"
+  ],
+  "later_praise_units": 1,
+  "structure_markers": 1,
+  "raw_primary_paragraphs": 58,
+  "raw_main_lines_covered": 59,
+  "supplemental_paragraphs": 0,
+  "supplemental_units": [],
+  "three_commentaries_compared_sections": "p0—p58，与主TXT的59段逐段对应；未见整段正文缺失，字词、校字和纪年异文另记。",
+  "raw_source_quote_order_exact": true,
+  "supplemental_source_segments_order_exact": true,
+  "original_raw_bytes_sha256": "55d3aa6f280a9f4d9b4b740ba37304999cd076c3afbc3b680157005064e6ab31",
+  "existing_raw_witness_files_modified": false,
+  "reading_pages_touched": 92,
+  "annual_pages_touched": 90,
+  "period_pages_touched": 2,
+  "new_annual_pages": [],
+  "new_numbered_reading_groups": 13,
+  "new_numbered_group_pages": [
+    {
+      "path": "years/bce-0400-0301/bce-0328.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0329.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0369.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0372.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0395.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0748.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0766.md",
+      "added": 1
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0831.md",
+      "added": 1
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "added": 5
+    }
+  ],
+  "new_numbered_groups": [
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 14,
+      "event_anchor": "sj038-hongfan-outline-event",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "title": "克商后的问政传说以《洪范》九畴总论治道"
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 15,
+      "event_anchor": "sj038-hongfan-huangji-event",
+      "note_anchor": "sj038-hongfan-huangji-note",
+      "title": "皇极与三德要求统治者守正并调剂刚柔"
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 16,
+      "event_anchor": "sj038-hongfan-divination-event",
+      "note_anchor": "sj038-hongfan-divination-note",
+      "title": "大疑要兼听人谋与卜筮"
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 17,
+      "event_anchor": "sj038-hongfan-weather-event",
+      "note_anchor": "sj038-hongfan-weather-note",
+      "title": "庶征与五福六极把治道联系民生"
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 18,
+      "event_anchor": "sj038-jizi-korea-maixiu-event",
+      "note_anchor": "sj038-jizi-korea-maixiu-note",
+      "title": "箕子封朝鲜与过殷墟，留在传世故事层次"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0831.md",
+      "number": 2,
+      "event_anchor": "sj038-xi-death-event",
+      "note_anchor": "sj038-xi-death-note",
+      "title": "宋釐公去世，惠公承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0766.md",
+      "number": 3,
+      "event_anchor": "sj038-dai-death-event",
+      "note_anchor": "sj038-dai-death-note",
+      "title": "宋戴公去世，武公承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0748.md",
+      "number": 2,
+      "event_anchor": "sj038-wu-death-event",
+      "note_anchor": "sj038-wu-death-note",
+      "title": "宋武公去世，宣公承继"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0395.md",
+      "number": 3,
+      "event_anchor": "sj038-xiu-accession-event",
+      "note_anchor": "sj038-xiu-accession-note",
+      "title": "宋休公田承接君位，开始纪元"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0372.md",
+      "number": 4,
+      "event_anchor": "sj038-pi-accession-event",
+      "note_anchor": "sj038-pi-accession-note",
+      "title": "宋辟公辟兵承接君位，开始纪元"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0369.md",
+      "number": 9,
+      "event_anchor": "sj038-ticheng-accession-event",
+      "note_anchor": "sj038-ticheng-accession-note",
+      "title": "宋国转入剔成君的统治"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0329.md",
+      "number": 4,
+      "event_anchor": "sj038-yan-usurpation-event",
+      "note_anchor": "sj038-yan-usurpation-note",
+      "title": "偃攻逐剔成，夺取宋君之位"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0328.md",
+      "number": 4,
+      "event_anchor": "sj038-yan-first-year-event",
+      "note_anchor": "sj038-yan-first-year-note",
+      "title": "宋君偃开始纪元"
+    }
+  ],
+  "updated_existing_reading_events": [
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 8,
+      "before": "8. **微子离去，比干被杀，箕子被囚。** 微子劝谏不被采纳，和太师、少师商议后离开。比干留下劝谏，被帝辛杀死；箕子假装发狂，把自己降为奴仆，仍遭囚禁。商廷的太师疵、少师彊随后携礼乐用的器物投奔周。商王身边的人有人离去，有人受刑，武王也以这些消息向诸侯说明再次伐商的理由。 [[8]](#note-8)",
+      "after": "8. **微子离去，比干被杀，箕子被囚。** 微子劝谏不被采纳，和太师、少师商议后离开。比干留下劝谏，被帝辛杀死；箕子假装发狂，把自己降为奴仆，仍遭囚禁。商廷的太师疵、少师彊随后携礼乐用的器物投奔周。商王身边的人有人离去，有人受刑，武王也以这些消息向诸侯说明再次伐商的理由。 在这一组传统故事里，箕子从象牙筷子想到奢侈将不断扩张；劝谏不听后，他不愿以离国揭君之恶，选择佯狂为奴、鼓琴自悲。微子则认为君臣以义相合，反复劝谏无效可以离去。三人的不同选择后来同获“三仁”之评，不能压成完全相同的行事。 [[8]](#note-8)"
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 11,
+      "before": "11. **武王安置殷民，又分封同族和功臣。** 克商后，武王在商的社坛行礼，让帝辛的儿子武庚禄父管领一部分殷民，延续殷人的祭祀，派管叔、蔡叔协助。他又释放箕子、修比干墓、表彰商容，拿出鹿台的钱财和钜桥的粮食赈济。周接着分封前代之后、宗室和功臣：吕尚封营丘为齐，周公封曲阜为鲁，召公封燕，管叔、蔡叔分别封管、蔡。吕尚赶到营丘时，莱侯也来争地；《吴太伯世家》则说，武王找到太伯、仲雍之后的周章，承认他已在吴为君，另封其弟于故夏墟。武王还筹划在洛邑营建居处，后来又向箕子问殷亡的缘由。 曹叔振铎、成叔武、霍叔处也各受封国；康叔封和冉季载当时尚幼，这一阶段还未受封。 妫满受封于陈，以承续舜的祭祀；东楼公受封于杞，以承续夏禹的祭祀。 [[11]](#note-11)",
+      "after": "11. **武王安置殷民，又分封同族和功臣。** 克商后，武王在商的社坛行礼，让帝辛的儿子武庚禄父管领一部分殷民，延续殷人的祭祀，派管叔、蔡叔协助。他又释放箕子、修比干墓、表彰商容，拿出鹿台的钱财和钜桥的粮食赈济。周接着分封前代之后、宗室和功臣：吕尚封营丘为齐，周公封曲阜为鲁，召公封燕，管叔、蔡叔分别封管、蔡。吕尚赶到营丘时，莱侯也来争地；《吴太伯世家》则说，武王找到太伯、仲雍之后的周章，承认他已在吴为君，另封其弟于故夏墟。武王还筹划在洛邑营建居处，后来又向箕子问殷亡的缘由。 曹叔振铎、成叔武、霍叔处也各受封国；康叔封和冉季载当时尚幼，这一阶段还未受封。 妫满受封于陈，以承续舜的祭祀；东楼公受封于杞，以承续夏禹的祭祀。 微子也携祭器到周军门前请命，以袒身受缚、牵羊执茅的方式表示臣服；武王解其束缚，使他恢复原位。这还不是后来的正式封宋。 [[11]](#note-11)"
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 13,
+      "before": "13. **周公平定武庚之乱，微子受封于宋。** 武庚与管叔、蔡叔反周。周公以成王之命出兵，杀武庚和管叔，放逐蔡叔。周改由微子在宋承继殷人的祭祀，又划出一部分殷民给受封于卫的康叔。本纪还说，晋唐叔献嘉禾，成王把它转送到周公军中。按《周本纪》，这次战争历三年才平定；周公摄政七年，成王长成，周公归政。 蔡叔流放时获给十乘车、七十名随从。季载随后受封冉；康叔和冉季又受推荐，分别以司寇、司空辅佐成王。 [[13]](#note-13)",
+      "after": "13. **周公平定武庚之乱，微子受封于宋。** 武庚与管叔、蔡叔反周。周公以成王之命出兵，杀武庚和管叔，放逐蔡叔。周改由微子在宋承继殷人的祭祀，又划出一部分殷民给受封于卫的康叔。本纪还说，晋唐叔献嘉禾，成王把它转送到周公军中。按《周本纪》，这次战争历三年才平定；周公摄政七年，成王长成，周公归政。 蔡叔流放时获给十乘车、七十名随从。季载随后受封冉；康叔和冉季又受推荐，分别以司寇、司空辅佐成王。 微子在宋继承殷祀，周又以《微子之命》申明其地位；殷遗民拥戴他。 [[13]](#note-13)"
+    },
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "number": 11,
+      "before": "11. **诸侯有各自的世系，鲁、宋也有兄弟相继。** 《三代世表》在周王一栏旁并列鲁、齐、晋、秦、楚、宋、卫、陈、蔡、曹、燕十一支。鲁栏从周公旦、伯禽写起，齐栏从太公尚、吕伋写起，晋栏从唐叔虞、晋侯燮写起，宋栏从微子启、微仲写起。有些君位是在兄弟间交接的：鲁国考公之后是弟弟炀公，厉公之后是弟弟献公；宋国微子启之后是弟弟微仲，丁公之后是弟弟湣公，湣公之后又是弟弟炀公。表格用横行并列各国世系，不能用一行给各国君主定同一年。 蔡国从蔡仲胡传给儿子荒，再父子相传为宫侯、厉侯、武侯。 曹国则从振铎传给儿子太伯脾，此后依次为仲君平、宫伯侯、孝伯云、夷伯喜。 陈国从胡公满传到儿子犀侯、犀侯之弟皋羊，再回到犀侯之子突，随后为圉戎、宁；杞国早期则传为东楼、西楼、题、谋娶、武诸公，前几代都没有逐年可核的绝对年代。 卫国则从康叔以下依次列康伯、考伯、嗣伯、偼伯、靖伯、贞伯、顷侯；各代姓名与君次仍有异谱。 [[11]](#note-11)",
+      "after": "11. **诸侯有各自的世系，鲁、宋也有兄弟相继。** 《三代世表》在周王一栏旁并列鲁、齐、晋、秦、楚、宋、卫、陈、蔡、曹、燕十一支。鲁栏从周公旦、伯禽写起，齐栏从太公尚、吕伋写起，晋栏从唐叔虞、晋侯燮写起，宋栏从微子启、微仲写起。有些君位是在兄弟间交接的：鲁国考公之后是弟弟炀公，厉公之后是弟弟献公；宋国微子启之后是弟弟微仲，丁公之后是弟弟湣公，湣公之后又是弟弟炀公。表格用横行并列各国世系，不能用一行给各国君主定同一年。 蔡国从蔡仲胡传给儿子荒，再父子相传为宫侯、厉侯、武侯。 曹国则从振铎传给儿子太伯脾，此后依次为仲君平、宫伯侯、孝伯云、夷伯喜。 陈国从胡公满传到儿子犀侯、犀侯之弟皋羊，再回到犀侯之子突，随后为圉戎、宁；杞国早期则传为东楼、西楼、题、谋娶、武诸公，前几代都没有逐年可核的绝对年代。 卫国则从康叔以下依次列康伯、考伯、嗣伯、偼伯、靖伯、贞伯、顷侯；各代姓名与君次仍有异谱。 宋的早期承继还经历争位：炀公熙被湣公之子鲋祀杀死，鲋祀自立为厉公，传子釐公举。微子、微仲、宋公稽以下的前几代仍只能按世系阅读。 [[11]](#note-11)"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0830.md",
+      "number": null,
+      "before": "宋釐公举去世以后，由儿子惠公继位。",
+      "after": "宋釐公举已在前一年去世，由儿子惠公继位。"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0729.md",
+      "number": 1,
+      "before": "1. **齐公孙无知家系与宋国传位遗命。** 齐国这一栏补出公孙无知的家世：他的父亲是齐釐公同母弟夷仲年。它没有提供可独立核定的出生月日，此处作为世系背景，不再断言无知必在本年出生。宋国的宣公去世，临终嘱把君位传给弟弟和。这两件事分别为齐国内乱与宋国穆公继位埋下人物、继承线索。 [[1]](#note-1)",
+      "after": "1. **齐公孙无知家系与宋国传位遗命。** 齐国这一栏补出公孙无知的家世：他的父亲是齐釐公同母弟夷仲年。它没有提供可独立核定的出生月日，此处作为世系背景，不再断言无知必在本年出生。宋国的宣公去世，临终嘱把君位传给弟弟和。这两件事分别为齐国内乱与宋国穆公继位埋下人物、继承线索。 宣公本有太子与夷，却认为父死子继、兄死弟及都可行，选择弟弟和；和反复辞让后接受。 [[1]](#note-1)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0692.md",
+      "number": 5,
+      "before": "5. **同月，宋庄公冯去世。** 宋国进入君主更替。 [[5]](#note-5)",
+      "after": "5. **同月，宋庄公冯去世。** 宋国进入君主更替。 其子捷继承君位，为闵公，亦写湣公；次年开始元年。 [[5]](#note-5)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0684.md",
+      "number": 4,
+      "before": "4. **夏，齐、宋军驻于郎，鲁公子偃先行攻击宋军，庄公随后跟进，在乘丘大败宋师，齐军撤走。** 鲁再次击退进逼本国的军队。 [[4]](#note-4)",
+      "after": "4. **夏，齐、宋军驻于郎，鲁公子偃先行攻击宋军，庄公随后跟进，在乘丘大败宋师，齐军撤走。** 鲁再次击退进逼本国的军队。 宋将南宫长万在乘丘被鲁俘获，后来获释归宋；这段经历成为其后君臣冲突的背景。 [[4]](#note-4)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0682.md",
+      "number": 2,
+      "before": "2. **秋八月，南宫万杀宋闵公，又杀仇牧和太宰华父督，拥立子游。** 仇牧闻乱赶到宫门，与南宫万相遇而被杀；宋国公族纷纷出走，公子御说逃往亳，叛军又围攻亳地。 [[2]](#note-2)",
+      "after": "2. **秋八月，南宫万杀宋闵公，又杀仇牧和太宰华父督，拥立子游。** 仇牧闻乱赶到宫门，与南宫万相遇而被杀；宋国公族纷纷出走，公子御说逃往亳，叛军又围攻亳地。 君臣矛盾还与狩猎、博戏中的羞辱相连：闵公以长万曾被鲁俘辱之，长万以博局击杀国君。 [[2]](#note-2)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "number": 5,
+      "before": "5. **到这一年，重耳已经经历长期流亡，从狄地一路经过卫、齐、曹、宋、郑、楚，最后抵达秦国。** 齐桓公曾厚待重耳，曹共公失礼窥视，宋襄公赠马，郑文公拒绝礼遇，楚成王则设宴相待并把他送往秦国。 曹共公想窥看重耳的并胁身体特征，不听僖负羁劝阻；僖负羁仍私下款待重耳。 [[5]](#note-5)",
+      "after": "5. **到这一年，重耳已经经历长期流亡，从狄地一路经过卫、齐、曹、宋、郑、楚，最后抵达秦国。** 齐桓公曾厚待重耳，曹共公失礼窥视，宋襄公赠马，郑文公拒绝礼遇，楚成王则设宴相待并把他送往秦国。 曹共公想窥看重耳的并胁身体特征，不听僖负羁劝阻；僖负羁仍私下款待重耳。 宋襄公因与楚交战受伤，希望日后得到晋援，给重耳二十乘马。 [[5]](#note-5)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "number": 2,
+      "before": "2. **夏五月，宋襄公因泓水之战旧伤去世。** 宋国争夺霸主地位的尝试至此结束。 [[2]](#note-2)",
+      "after": "2. **夏五月，宋襄公因泓水之战旧伤去世。** 宋国争夺霸主地位的尝试至此结束。 儿子王臣继立，为宋成公，元年从次年起算。 [[2]](#note-2)"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0576.md",
+      "number": 6,
+      "before": "6. **宋国内部荡氏削弱公室并杀公子肥，华元出奔晋；后来被鱼石追回。** 华元回国后讨荡氏，宋国内乱进一步扩大。 [[6]](#note-6)",
+      "after": "6. **宋国内部荡氏削弱公室并杀公子肥，华元出奔晋；后来被鱼石追回。** 华元回国后讨荡氏，宋国内乱进一步扩大。 宋国随后拥立共公少子，为平公；主文名成，经传又写戌，下一年起算平公元年。 [[6]](#note-6)"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0286.md",
+      "number": 2,
+      "before": "2. **齐国灭宋，宋君逃亡后死于温。** 宋的覆亡改变东方强国格局，也引出后来多国共同攻齐。 [[2]](#note-2)",
+      "after": "2. **齐国灭宋，宋君逃亡后死于温。** 宋的覆亡改变东方强国格局，也引出后来多国共同攻齐。 在灭亡以前，宋君偃曾向齐、楚、魏扩张，传世记载称取齐五城、楚地三百里；具体各役年次未详。围绕他的亡国叙事又写到用装血皮囊“射天”、向进谏者放箭，诸侯因而以“桀宋”责之；这些责罪故事作为此前背景阅读，不一律编成本年发生的行动。 [[2]](#note-2)"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0659.md",
+      "number": 9,
+      "before": "9. **卫文公燬开始以元年纪事。** 前660年狄人攻破卫国后，卫人得到宋、齐等诸侯援助，先立戴公申；戴公在位很短，死后由弟弟燬继位，便是卫文公。本年《十二诸侯年表》记文公元年，并非狄人本年才攻破卫都，也不将[下一年诸侯城楚丘](bce-0658.md#event-1)提前。 [[9]](#note-9)",
+      "after": "9. **卫文公燬开始以元年纪事。** 前660年狄人攻破卫国后，卫人得到宋、齐等诸侯援助，先立戴公申；戴公在位很短，死后由弟弟燬继位，便是卫文公。本年《十二诸侯年表》记文公元年，并非狄人本年才攻破卫都，也不将[下一年诸侯城楚丘](bce-0658.md#event-1)提前。 宋桓公的夫人是卫文公的妹妹，两国之间有这层既有婚姻关系。 [[9]](#note-9)"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "number": 3,
+      "before": "3. **鲁国新宫失火，连续三日举哀；随后安葬宋文公。宋文公去世后，其子瑕继为宋君，本年是宋共公元年。** [[3]](#note-3)",
+      "after": "3. **鲁国新宫失火，连续三日举哀；随后安葬宋文公。宋文公去世后，其子瑕继为宋君，本年是宋共公元年。** 宋国为文公采用厚葬。 [[3]](#note-3)"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0522.md",
+      "number": 4,
+      "before": "4. **途中经历，年次未详：。** 伍员曾到宋寻找太子建，又随建转到郑。太子建后来谋袭郑事泄被杀，伍员带其子胜逃吴，经过昭关时险被捕；渡江时，渔父没有接受他用宝剑酬谢，途中他又患病乞食，最终得以见吴王。这些前后相接的经历未各有年月，不能都压在本年的某几天内。 [[4]](#reading-note-4)",
+      "after": "4. **途中经历，年次未详：。** 伍员曾到宋寻找太子建，又随建转到郑。太子建后来谋袭郑事泄被杀，伍员带其子胜逃吴，经过昭关时险被捕；渡江时，渔父没有接受他用宝剑酬谢，途中他又患病乞食，最终得以见吴王。这些前后相接的经历未各有年月，不能都压在本年的某几天内。 太子建见宋国华氏诸人争乱，因而离宋。 [[4]](#reading-note-4)"
+    }
+  ],
+  "destination_bindings": 136,
+  "quote_destination_pages": 92,
+  "quote_placements": 138,
+  "primary_unit_quote_placements": 137,
+  "additional_evidence_quotes": 1,
+  "reused_existing_quote_placements": 7,
+  "new_actual_quote_blocks": 131,
+  "quote_source_exact_substrings": 138,
+  "quote_placement_errors": [],
+  "all_existing_reading_anchors_preserved": true,
+  "standalone_branch_reading_scan": {
+    "pages": 782,
+    "year_pages": 775,
+    "period_pages": 7,
+    "events": 5038,
+    "notes": 5038,
+    "body_refs": 5038,
+    "backrefs": 5038,
+    "body_headings": 0,
+    "body_source_links": 0,
+    "external_links": 0,
+    "post_nav_pages": 0,
+    "structural_problems": [],
+    "bad_paths": [],
+    "bad_fragments": []
+  },
+  "changed_file_link_check": {
+    "markdown_links_checked": 6337,
+    "broken_changed_links": [],
+    "unread_changed_targets": [],
+    "lost_old_anchors": [],
+    "format_errors": [],
+    "navigation_errors": []
+  },
+  "unchanged_long_quote_notice": "全站有1页原有单段引文超过1000字，为公元23年页；非本轮新增。",
+  "chronology_review": "全文白话、三家注对应段、王年算式和实际正文落点经复核；独立复核另检查三仁洪范、景末得启、泓伤次年卒、晚宋暂系、宋卫婚姻、厚葬及太子建离宋。395、372、369旧说明已与新增暂系正文协调。",
+  "unresolved_topics": [
+    "微子、箕子等商末人物的绝对年代，洪范成篇及制度实施时代，箕子朝鲜与麦秀传说细节",
+    "微仲亲属异说和宋早期丁湣父子或兄弟异谱，无完整年数不得向前精确排年",
+    "宋釐共和十七与年表十八，惠三十年卒、哀元年卒与年表惠三十一年卒的实质差异",
+    "宋武之女、鲁宫婚姻与桓公出生不能全归武十八年",
+    "殇九年与鲁隐死年错接，庄九年执祭仲与经传前701不合",
+    "湣公水灾答辞子鱼与御说异名，乘丘十年与弑君十一年的年数不合经传",
+    "宋桓二十三年迎卫文公与狄破卫、戴公短立、文公元年及婚姻时间的区别",
+    "襄七年星雨与鲁庄七年天象错接；重耳过宋是年与经传前637的差别",
+    "成昭之交行凶者、先后过程与昭公之父，各书不能并为一套",
+    "缘斯属宋武时代还是昭公四年；文公二年族乱与经传前606的错位",
+    "华元条楚郑受命方向、宋围五月措辞、共公元改十与三家注九年、唐山荡泽等异文",
+    "元公与华亥谁诈杀诸公子，楚弃疾弑灵王与经传自缢过程的差异",
+    "景公三十七荧惑故事与楚灭陈前478不可合年",
+    "景公卒前469经传、六十四年直算前453、年表前451三系，及得启、特、太子等世系过程差异",
+    "昭公47或49、悼公8或18，休公前395或前385的年链、辟桓名称、剔成承袭或废君",
+    "偃前329攻逐为表系暂推、前328元与前318称王分开；47年与表43年不合",
+    "宋亡参与国、偃遇杀或死魏温，以及未确年的扩张和亡国责罪叙事",
+    "太史公把正考父错置襄公时代；古注得商颂与主文作商颂不同，未冒称核完古注所引全部原书"
+  ],
+  "quote_checks": [
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p001",
+      "quote_characters": 318,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p002",
+      "quote_characters": 145,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p003",
+      "quote_characters": 83,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 67,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p005",
+      "quote_characters": 55,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p006",
+      "quote_characters": 24,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-13",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p022",
+      "quote_characters": 106,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p007",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p008",
+      "quote_characters": 30,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p009",
+      "quote_characters": 60,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p010",
+      "quote_characters": 54,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p011",
+      "quote_characters": 74,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p012",
+      "quote_characters": 64,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p013",
+      "quote_characters": 39,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-outline-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 26,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-huangji-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p015",
+      "quote_characters": 306,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-huangji-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p016",
+      "quote_characters": 101,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-divination-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p017",
+      "quote_characters": 232,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-weather-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p018",
+      "quote_characters": 232,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-hongfan-weather-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p019",
+      "quote_characters": 59,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-jizi-korea-maixiu-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p020",
+      "quote_characters": 16,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "sj038-jizi-korea-maixiu-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p021",
+      "quote_characters": 99,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p023",
+      "quote_characters": 97,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0841.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p024",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0831.md",
+      "note_anchor": "sj038-xi-death-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0830.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0827.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0800.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 24,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0799.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 24,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0771.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p026",
+      "quote_characters": 23,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0766.md",
+      "note_anchor": "sj038-dai-death-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p027",
+      "quote_characters": 16,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0765.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p027",
+      "quote_characters": 16,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0748.md",
+      "note_anchor": "sj038-wu-death-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p027",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0748.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p027",
+      "quote_characters": 16,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0747.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p027",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0729.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 67,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0728.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0720.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p029",
+      "quote_characters": 143,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0719.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p030",
+      "quote_characters": 58,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0718.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p030",
+      "quote_characters": 23,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0711.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p031",
+      "quote_characters": 79,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0712.md",
+      "note_anchor": "note-10",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p031",
+      "quote_characters": 10,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0710.md",
+      "note_anchor": "reading-note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p031",
+      "quote_characters": 63,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0710.md",
+      "note_anchor": "reading-note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p031",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0710.md",
+      "note_anchor": "reading-note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p032",
+      "quote_characters": 10,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0701.md",
+      "note_anchor": "reading-note-6",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p032",
+      "quote_characters": 25,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0692.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p032",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0691.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p032",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0685.md",
+      "note_anchor": "reading-note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p033",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0683.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p033",
+      "quote_characters": 58,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0684.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p034",
+      "quote_characters": 30,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0683.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p034",
+      "quote_characters": 50,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0682.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p034",
+      "quote_characters": 122,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0682.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p034",
+      "quote_characters": 34,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0682.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p034",
+      "quote_characters": 36,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0681.md",
+      "note_anchor": "reading-note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p034",
+      "quote_characters": 18,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0680.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0679.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 9,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0660.md",
+      "note_anchor": "reading-note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 32,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0659.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 32,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0659.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 6,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0652.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 32,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0651.md",
+      "note_anchor": "reading-note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 49,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0650.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p035",
+      "quote_characters": 30,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0644.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p036",
+      "quote_characters": 26,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0687.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p036",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0643.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0639.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 46,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0639.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 44,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0639.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0638.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 20,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0638.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 105,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0638.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p037",
+      "quote_characters": 68,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0638.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p038",
+      "quote_characters": 52,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p039",
+      "quote_characters": 33,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p040",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0636.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0636.md",
+      "note_anchor": "note-13",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p040",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0634.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0633.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "note_anchor": "reading-note-6",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0628.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 8,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0626.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0621.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p041",
+      "quote_characters": 9,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0620.md",
+      "note_anchor": "reading-note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p042",
+      "quote_characters": 48,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0619.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p042",
+      "quote_characters": 20,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0616.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p043",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0613.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p043",
+      "quote_characters": 9,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0611.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p044",
+      "quote_characters": 55,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0611.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p044",
+      "quote_characters": 29,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0610.md",
+      "note_anchor": "reading-note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p045",
+      "quote_characters": 26,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0609.md",
+      "note_anchor": "note-12",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p045",
+      "quote_characters": 40,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0606.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p045",
+      "quote_characters": 40,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p046",
+      "quote_characters": 71,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p046",
+      "quote_characters": 25,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0597.md",
+      "note_anchor": "reading-note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p047",
+      "quote_characters": 20,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0595.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p048",
+      "quote_characters": 18,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0595.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p048",
+      "quote_characters": 9,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0594.md",
+      "note_anchor": "reading-note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p048",
+      "quote_characters": 89,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0589.md",
+      "note_anchor": "reading-note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p049",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p049",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p049",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0580.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p050",
+      "quote_characters": 30,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0579.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p050",
+      "quote_characters": 30,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0576.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p050",
+      "quote_characters": 8,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0576.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p050",
+      "quote_characters": 59,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0575.md",
+      "note_anchor": "reading-note-17",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p050",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0573.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p051",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0572.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p051",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0541.md",
+      "note_anchor": "note-13",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p051",
+      "quote_characters": 19,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0532.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p051",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0531.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p051",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0529.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p052",
+      "quote_characters": 20,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0524.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p052",
+      "quote_characters": 6,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0522.md",
+      "note_anchor": "reading-note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p052",
+      "quote_characters": 23,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0522.md",
+      "note_anchor": "reading-note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p052",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0517.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p052",
+      "quote_characters": 33,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0516.md",
+      "note_anchor": "note-12",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p052",
+      "quote_characters": 7,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0501.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p053",
+      "quote_characters": 16,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0492.md",
+      "note_anchor": "note-13",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p053",
+      "quote_characters": 29,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0487.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p053",
+      "quote_characters": 26,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0481.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p053",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0478.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p054",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0480.md",
+      "note_anchor": "note-10",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p054",
+      "quote_characters": 124,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0469.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p055",
+      "quote_characters": 80,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0403.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p056",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0395.md",
+      "note_anchor": "sj038-xiu-accession-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p056",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0372.md",
+      "note_anchor": "sj038-pi-accession-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p056",
+      "quote_characters": 16,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0369.md",
+      "note_anchor": "sj038-ticheng-accession-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p056",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0329.md",
+      "note_anchor": "sj038-yan-usurpation-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p056",
+      "quote_characters": 29,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0328.md",
+      "note_anchor": "sj038-yan-first-year-note",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p056",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0318.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p057",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0286.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p057",
+      "quote_characters": 126,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p058",
+      "quote_characters": 33,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0729.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p058",
+      "quote_characters": 24,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "p058",
+      "quote_characters": 77,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/史记三家注/卷038.md",
+      "source_anchor": "p57",
+      "quote_characters": 32,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0286.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷038-宋微子世家.md",
+      "source_anchor": "z001",
+      "quote_characters": 88,
+      "source_match": true
+    }
+  ]
+}

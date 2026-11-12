@@ -1,0 +1,1209 @@
+{
+  "volume": "039",
+  "title": "晋世家",
+  "date": "2026-11-11",
+  "baseline_remote_commit": "1e9a82f2a36587fed8d70736b5a682c998bed64e",
+  "baseline_local_commit": "49b158a",
+  "prose_units": 142,
+  "raw_primary_paragraphs": 141,
+  "supplemental_paragraphs": 1,
+  "later_praise_units": 1,
+  "structure_markers": 34,
+  "chapter_markers": 1,
+  "raw_main_lines_covered": 142,
+  "author_comments_in_prose": [
+    "P142"
+  ],
+  "supplemental_units": [
+    {
+      "id": "P014",
+      "source": "sources/史记三家注/卷039.md#p12",
+      "scope": "鄂侯二年，鲁隐公初立"
+    }
+  ],
+  "original_raw_bytes_sha256": "0de67e452ff3c531ee417e979910c6f31f8d8a9cbae4aca94faca4f0b39b2c60",
+  "existing_raw_witness_files_modified": false,
+  "reading_pages_touched": 146,
+  "annual_pages_touched": 144,
+  "period_pages_touched": 2,
+  "new_annual_pages": [
+    "years/bce-0900-0801/bce-0823.md"
+  ],
+  "new_numbered_reading_groups": 4,
+  "new_numbered_group_pages": [
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "number": 14,
+      "note_anchor": "sj039-tangshu-note",
+      "body_anchor": "sj039-tangshu-event",
+      "title": "唐叔虞的诞生与成王封唐"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0823.md",
+      "number": 1,
+      "note_anchor": "sj039-xi-death-note",
+      "body_anchor": "sj039-xi-death-event",
+      "title": "晋釐侯去世，献侯承继"
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0812.md",
+      "number": 2,
+      "note_anchor": "sj039-xian-death-note",
+      "body_anchor": "sj039-xian-death-event",
+      "title": "晋献侯去世，穆侯承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0746.md",
+      "number": 2,
+      "note_anchor": "sj039-wen-death-note",
+      "body_anchor": "sj039-wen-death-event",
+      "title": "晋文侯去世，昭侯继位"
+    }
+  ],
+  "quote_placements": 284,
+  "reused_existing_quote_placements": 9,
+  "changed_body_events": [
+    {
+      "path": "years/bce-0400-0301/bce-0376.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "被废晋君降为普通家人，晋国公室不再以独立诸侯的身份主持其国祀。"
+      ]
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0378.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "added_reading": [
+        "这一承继暂系本年，前后在位年数仍有冲突。"
+      ]
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0437.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "在幽公以前的一代，传世君谱记哀公去世、其子柳继承；这个承继背景与本年开始记幽公元年相接，前君的哀、懿名号及在位数仍未完全统一。"
+      ]
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0454.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "这场分地显示四卿已能处置晋国土地，晋君难以控制他们。出公末年的政争中，晋君曾试图借齐、鲁援助制衡四卿，反遭卿族攻击而出亡；出亡、死亡与新君受立的确切年次仍有不同年链。",
+        "在公室受制的叙述中，智伯扶立的骄出自昭公少子戴子雍一支，其父忌与智氏关系密切而早卒。新君无力制约智伯，智氏据有范、中行旧地，成为最强的一卿。"
+      ]
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0475.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "出公名凿，君位仍由定公之子承接。"
+      ]
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0497.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "荀跞、韩不信、魏氏转攻范中行，韩魏又向晋君为赵鞅请免，使他获赦复位。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0512.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "顷公去世后，儿子午继承，为定公；定公元年从次年前511计。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0515.md",
+      "number": 6,
+      "note_anchor": "reading-note-6",
+      "added_reading": [
+        "宋、卫曾请求晋帮助鲁昭公回国，季平子却私贿范献子；范献子受赂后主张季氏无罪，复位议案因而未能实行。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0520.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "晋卿扶持敬王，是晋国继续干预王室继承的表现；并非一次出兵就结束此后的王子朝之乱。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0526.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "继位者为儿子去疾，号顷公。此时六卿势强、公室日卑，是君位承继时已经存在的政治背景。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0532.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "平公之后由儿子夷承位，为昭公；新君元年另从前531计。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0539.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "added_reading": [
+        "叔向把晋君厚敛营台池、不问政事与权落私门相联系，担心公室不能长久；晏婴表示赞同。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0544.md",
+      "number": 14,
+      "note_anchor": "reading-note-14",
+      "added_reading": [
+        "季札与赵文子、韩宣子、魏献子交谈后，认为晋国政治将渐归这三家。这是他对强卿势力的判断，当时三家尚未受周王正式封侯。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0550.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "栾盈与魏氏一度通谋，范氏则设法夺回魏方支持；晋君在突袭中极度惊惧，范氏阻止其自杀。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0550.md",
+      "number": 14,
+      "note_anchor": "note-14",
+      "added_reading": [
+        "栾盈是栾书的孙子，曲沃败亡以后，栾氏宗族也遭清除。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0555.md",
+      "number": 7,
+      "note_anchor": "reading-note-7",
+      "added_reading": [
+        "晋军由临淄外围继续东到胶、南至沂，然后撤回。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0558.md",
+      "number": 9,
+      "note_anchor": "note-9",
+      "added_reading": [
+        "悼公晚年曾问师旷如何治国，师旷以仁义为本回答；冬季去世后，儿子彪继承，为平公。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0562.md",
+      "number": 10,
+      "note_anchor": "note-10",
+      "added_reading": [
+        "悼公把会合诸侯、和戎狄之功归于魏绛，赐以乐；魏绛三让以后才接受。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0570.md",
+      "number": 10,
+      "note_anchor": "note-10",
+      "added_reading": [
+        "悼公接受劝谏以后转而认为魏绛贤能，委以政事。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0573.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "公子周到绛后杀鸡与大夫盟誓，随后朝武宫，完成即位礼仪。",
+        "悼公祖父是襄公少子桓叔捷，父亲为惠伯谈；两代未能为君，避居周地。他自述本来以为支属疏远、无望得国，如今受立应谨慎奉祀，遂逐不臣者七人，并收录文公复国功臣的后人。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0574.md",
+      "number": 10,
+      "note_anchor": "reading-note-10",
+      "added_reading": [
+        "郤至遭胥童、栾书等各怀旧怨相攻，又被伪造为勾结楚国、欲迎公子周的嫌疑。厉公试令他赴周，栾书暗使公子周相见，使猜疑更深。田猎献豕时郤至杀了争肉宦者，又触怒厉公；郤至拒绝先发难，认为反君、害民、作乱都会失去立身之道。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0574.md",
+      "number": 11,
+      "note_anchor": "reading-note-11",
+      "added_reading": [
+        "胥童劫持栾书、中行偃后，劝厉公一并杀二人；厉公不忍，放还他们。二人反在厉公出游匠骊氏时拘君，并谋迎公子周。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0575.md",
+      "number": 6,
+      "note_anchor": "reading-note-6",
+      "added_reading": [
+        "范文子主张见楚援军便退，郤至反问，出兵讨逆却见强即避，又如何号令诸侯，厉公遂坚持迎战。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0575.md",
+      "number": 8,
+      "note_anchor": "reading-note-8",
+      "added_reading": [
+        "子反原准备抚整余军再战，晋军也担心楚能恢复；他却被侍者献酒而醉，无法应楚王召见。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0576.md",
+      "number": 10,
+      "note_anchor": "note-10",
+      "added_reading": [
+        "伯宗因屡次直言进谏招怨，其死又使国人对厉公离心。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0580.md",
+      "number": 8,
+      "note_anchor": "note-8",
+      "added_reading": [
+        "夹河盟后秦又联合狄谋晋，和议很快破裂。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0583.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "韩厥提醒景公赵衰、赵盾曾有功，不宜使宗祀断绝，赵武遂得继续赵氏祭祀并领回封邑。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0584.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "巫臣留在楚国的家族遭子反等清除，他写信誓使对方疲于奔命，再向晋请出使吴，教授车战并让儿子留吴任行人。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0588.md",
+      "number": 11,
+      "note_anchor": "note-11",
+      "added_reading": [
+        "齐顷公一度提议尊景公为王，景公辞让，仍承认周天子的名分。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0589.md",
+      "number": 1,
+      "note_anchor": "reading-note-1",
+      "added_reading": [
+        "鲁卫都借郤克向晋请求援军，郤克此前对齐的旧怨亦进入战争背景。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0589.md",
+      "number": 5,
+      "note_anchor": "reading-note-5",
+      "added_reading": [
+        "齐使以晋、齐国君之母同样尊贵反对索母为质，表示宁愿再战，也不肯把国母交出；议和最后没有按这一要求进行。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0589.md",
+      "number": 10,
+      "note_anchor": "reading-note-10",
+      "added_reading": [
+        "巫臣到晋后被授予邢地，任邢大夫。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0591.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "齐以公子彊赴晋为质，晋军因而撤回。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0592.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "郤克渡河时发誓报复，回国请求伐齐；景公认为不能为一人的私怨轻动国家，拒绝出兵。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0594.md",
+      "number": 2,
+      "note_anchor": "reading-note-2",
+      "added_reading": [
+        "伯宗认为楚势方盛，晋暂难与之争锋，故没有直接出兵解围。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0594.md",
+      "number": 3,
+      "note_anchor": "reading-note-3",
+      "added_reading": [
+        "解扬被郑截送楚，楚人以厚赐要求他改传“晋不救宋”；他表面应允，登高后却照传晋君原命。楚欲杀他，终又听劝放归。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0595.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "added_reading": [
+        "邲败以后楚庄王声势大振，晋对郑用兵也意在追究其助楚。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0596.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "先縠因主张渡河导致败军而惧罪，转与狄人谋晋；晋追究到这一联系，将其族诛。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0597.md",
+      "number": 4,
+      "note_anchor": "reading-note-4",
+      "added_reading": [
+        "荀林父统中军，士会统上军，赵朔统下军；郤克、栾书、先縠、韩厥、巩朔等参与军中指挥。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0597.md",
+      "number": 6,
+      "note_anchor": "reading-note-6",
+      "added_reading": [
+        "败军争船渡河，落水者和被伤者很多；知罃也在这一战被俘。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0597.md",
+      "number": 8,
+      "note_anchor": "reading-note-8",
+      "added_reading": [
+        "士会以楚杀子玉曾使晋文公欢喜为例，劝景公不要再杀荀林父、让楚得两重胜利，景公因此留任主将。"
+      ]
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0600.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "陈国因畏楚没有赴扈会，晋遂命中行桓子荀林父讨陈。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0604.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "郑国新君转而亲晋、疏楚，楚出兵进逼，晋派援军相救。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "厨师尸体被抬经朝廷，赵盾等因此再谏；灵公把劝谏看作威胁，转而谋杀正卿。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "鉏麑认为杀忠臣与违君命都获罪，最终触树自杀。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "number": 8,
+      "note_anchor": "note-8",
+      "added_reading": [
+        "董狐以赵盾身为正卿、出逃未出境、回来又不诛弑君者为由，把责任记在赵盾名下；实际动手者仍是赵穿。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0607.md",
+      "number": 9,
+      "note_anchor": "note-9",
+      "added_reading": [
+        "黑臀是文公少子，母亲为周女；回国后朝武宫完成新君礼仪。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0614.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "晋六卿担心士会继续为秦谋晋，故利用魏寿馀假叛，把士会诱回晋国。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0620.md",
+      "number": 3,
+      "note_anchor": "reading-note-3",
+      "added_reading": [
+        "秦康公想到文公入晋时护卫不足而发生吕、郤之乱，特意多给雍护兵。穆嬴却在朝廷及赵盾家抱子哭诉，强调襄公临终托孤，迫使大夫改议。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0621.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "太子夷皋年幼，晋人因局势多难，一度希望迎立年长公子。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0621.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "赵盾看重雍的年长、好善、先君宠爱与秦援；贾季则以辰嬴曾受宠、其子乐有望安众为理由。赵盾反驳乐的母族名分与陈国远小，双方分别派使到秦、陈迎人。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0624.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "added_reading": [
+        "秦渡河取王官并收葬殽地战死者，晋军惧而城守，不出应战。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0627.md",
+      "number": 2,
+      "note_anchor": "reading-note-2",
+      "added_reading": [
+        "弦高原准备到周地经商，遇秦军后以十二头牛犒劳，使对方以为郑已有备。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0627.md",
+      "number": 4,
+      "note_anchor": "reading-note-4",
+      "added_reading": [
+        "栾枝主张念秦助先君之恩，先轸则认为秦趁晋丧、侵伐同姓，已经不值得报德；晋于是决定截击归秦之师。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0627.md",
+      "number": 5,
+      "note_anchor": "reading-note-5",
+      "added_reading": [
+        "秦女向襄公说秦要取回三将治罪，襄公允其归。先轸闻讯责备襄公，襄公命阳处父追赶，三将已渡河上船，只遥拜而不肯回来。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0630.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "added_reading": [
+        "晋要求交出叔瞻，叔瞻为此自杀；郑用他的死答复，晋仍以取得郑君为满足，围势未解。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0630.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "added_reading": [
+        "郑使强调亡郑只会厚晋，秦若保存郑国，则可得到东方往来时的接待与援助。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 1,
+      "note_anchor": "reading-note-1",
+      "added_reading": [
+        "晋与齐还在敛盂结盟，卫侯请盟被拒；他想依楚，国人却希望取悦晋，遂迫使他出国。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 3,
+      "note_anchor": "reading-note-3",
+      "added_reading": [
+        "晋文公还责曹君不用僖负羁之言、让美女乘轩者多至三百；对僖氏家门的保护则是报答流亡时的馈赠。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 4,
+      "note_anchor": "reading-note-4",
+      "added_reading": [
+        "宋再次告急时，文公顾念楚、宋昔日均曾礼待，进退为难；先轸建议拘曹伯、把曹卫地分给宋，迫使楚转而救其附国。",
+        "楚成王本不愿与困而复国、已知险阻的重耳争战，只给坚持求战的子玉少量兵。宛春提出复卫、封曹以解宋围；晋方一面私许曹卫，一面拘使激怒子玉。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 6,
+      "note_anchor": "reading-note-6",
+      "added_reading": [
+        "回国行赏时文公以狐偃居首：先轸的作战办法带来一时胜利，狐偃劝守信则被认为能长久立国。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 7,
+      "note_anchor": "reading-note-7",
+      "added_reading": [
+        "胜后文公仍担心子玉在楚便会继续为患；听到子玉死讯才转忧为喜，认为再无人能这样危及自己。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 8,
+      "note_anchor": "reading-note-8",
+      "added_reading": [
+        "战后晋军到衡雍，并在践土营造王宫，为献俘和朝见作准备。",
+        "先前助楚的郑国在楚败后求晋盟，晋文公与郑伯订盟；郑由此转入战后的晋方秩序。",
+        "晋献楚俘、甲车百乘和徒兵千人，周使王子虎赐文公车服、弓矢、祭酒及虎贲。文公三辞后受命，王庭又举行诸侯盟誓。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 11,
+      "note_anchor": "reading-note-11",
+      "added_reading": [
+        "文公本想带诸侯朝周，又担心未能控制会众，便请周王以狩猎名义来河阳，让诸侯在此朝见。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 13,
+      "note_anchor": "reading-note-13",
+      "added_reading": [
+        "曹臣以晋、曹同为周室后裔劝说，指出齐桓公尚能保存异姓国家，晋不宜藉会诸侯灭同姓；曹伯因而恢复君位。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "number": 14,
+      "note_anchor": "reading-note-14",
+      "added_reading": [
+        "荀林父统中行，先蔑统左行，军制在三军以外又有调整。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0633.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "先轸把援宋视作报答流亡时礼遇、建立霸业的机会；狐偃建议牵动与楚亲近的曹、卫，让楚分兵，宋围便可能解除。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0633.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "三军设将佐，荀林父御戎、魏犫为右，冬季军队出太行以东；叙事在此又回顾此前勤王后赵衰受原邑的封赏。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0635.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "秦军已到河边准备迎王，赵衰指出晋与周同姓，及时尊王有利于号令诸侯；若让秦先行，晋便失去机会。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0636.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "晋军虽奉命抵挡秦军，许多人却暗愿迎重耳；吕甥、郤芮等惠公旧臣则反对。他这次结束了篇中所说十九年的流亡，入国时又被记为六十二岁。",
+        "渡河前狐偃请求离去，重耳投璧于河盟誓，表示返国后仍与他共享。秦围令狐，晋军驻庐柳，双方大夫盟于郇，重耳再入曲沃、朝武宫；怀公逃往高梁后被杀。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0636.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "寺人提醒文公，自己过去只是奉旧主之命，若不能像齐桓公接纳射钩的管仲那样放下旧怨，新祸仍会及身。文公听报后秘密去王城见秦穆公，叛党焚宫未得文公，逃走时被秦诱杀。夏季晋迎秦女为夫人，秦又送三千人护卫，以防再乱。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0636.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "added_reading": [
+        "介之推认为复国有天命和晋宗祀的缘故，不能尽归从亡者的私人功劳；既批评贪功，也不肯仿效求赏。他母亲劝过他求禄、至少使国君知道，见他坚持隐居，遂答应同行，至死不再出见。",
+        "传说另有人把一龙五蛇的隐喻写在宫门，为介之推不受赏鸣不平。文公读到后承认疏忽，求访不获，便以绵上山地记其过、旌其善，称介山。",
+        "壶叔也曾问为何三次行赏还没轮到自己。文公依次说明引导仁义、辅成事业、战阵劳苦和单纯服役的赏功等级，表示尚将及他；晋人因此称许。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "added_reading": [
+        "怀公给从亡者设归国期限，逾期将灭其家。狐突坚持两个儿子既已事重耳，不应教他们反复易主，因不肯召子被杀。",
+        "惠公九月去世，十一月下葬；十二月，晋国一些大夫得知重耳在秦，暗中劝他回国并准备内应。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "留齐期间，齐桓公死后继位纷争、诸侯用兵接踵而至，重耳仍不愿走。齐女得知随从谋行，杀了泄露谋议的侍者，责他不应只图安乐，便与赵衰等灌醉他、装车送走；重耳醒后欲杀舅父狐偃，经劝解才继续行程。",
+        "曹共公欲窥看重耳并胁，僖负羁劝以同姓与贤德礼待却未被采纳，便私赠食物并夹玉；重耳收食退玉。",
+        "到宋时，宋襄公虽刚遭泓战之败、仍以国礼相待；公孙固与狐偃交好，指出宋小而困，建议转求大国。",
+        "郑文公也不礼遇重耳。叔瞻强调其随从可为国相、周室同姓，劝他以礼相待；郑君不从，也拒绝叔瞻提出的另一极端办法——把重耳杀掉，放他继续前行。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "楚成王以诸侯之礼接待，赵衰劝重耳受礼，以摆脱小国轻慢的处境。被问将来如何回报时，重耳指出楚本多财物，自己只许两国若在中原遇兵，先退三舍；子玉请杀重耳，楚王以他贤能困久、随从皆可任国政为由拒绝。重耳在楚数月后，秦怨太子圉逃归而来召他，楚王又指出秦晋相邻、较便援立，厚礼送他赴秦。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "秦穆公把五名宗女嫁给重耳，其中包括圉的旧妻。重耳起初犹豫，司空季子劝他以返国大事为先。宴饮时赵衰歌《黍苗》，以百谷望雨比喻期待秦援，穆公领会其急欲回国之意。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0638.md",
+      "number": 8,
+      "note_anchor": "note-8",
+      "added_reading": [
+        "圉担心母家梁已亡、自己在秦轻微，晋中又有诸公子，若父亲病死便失去继承机会。秦女不肯同逃，也答应不告发；圉独自回晋。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0641.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "梁伯长期修城治沟、疲困民众，又反复制造秦兵将来的警报，使众人恐惑；秦最后乘其失政而灭梁。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0643.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "圉出生在夷吾流亡梁国期间，母亲是梁伯之女；他还有一位妹妹。梁伯据占卜所说儿子将为人臣、女儿将为人妾，给二人取名圉、妾。出生与命名是早年补叙，不是为质当年的新生子女。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0644.md",
+      "number": 8,
+      "note_anchor": "note-8",
+      "added_reading": [
+        "居狄期间，狄人攻咎如取得二女，二女分别与重耳、赵衰成婚，重耳得伯鯈、叔刘，赵衰得赵盾。这些家事发生在离狄以前，不能全定在动身之年。",
+        "重耳原只把近晋的狄地当作暂歇处，受追杀后转求齐国；临行请妻子等二十五年后再嫁，妻子以年老作答，仍愿等候。",
+        "途中卫文公不礼遇重耳；在五鹿乞食时乡人给土，他原本愤怒，赵衰却将土解释为将来得地，劝他拜受。",
+        "齐桓公以宗女嫁重耳，并赐马二十乘，重耳因而安于齐地生活。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0645.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "卜御、右本以庆郑为吉，惠公因厌其不逊而不用；车陷不能前时再召庆郑，又遭拒。晋人尝试截住秦穆公，反被秦军壮士救回，惠公最终成为俘虏。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0645.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "秦穆公又援引晋国不宜轻灭的旧传，在王城与惠公结盟，准他回国。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0645.md",
+      "number": 11,
+      "note_anchor": "note-11",
+      "added_reading": [
+        "惠公一度告国人自己无颜归国、宜择日立太子圉。吕甥向秦说明，国人既有人欲立嗣报仇，也有人承认晋君有罪而等待秦命；秦遂改善对惠公的待遇，馈以七牢。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0646.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "庆郑提醒惠公，即位与上次救饥都受过秦援，理应回报；虢射却把秦饥视为可乘之隙，惠公听从后一说。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0647.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "added_reading": [
+        "百里奚主张天灾流行、各国轮遇，应救灾恤邻；丕豹则要求趁机伐晋。穆公把晋君的过错与民众饥荒分开，决定出售粮食。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0649.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "丕郑之子豹逃往秦国，建议乘晋内乱出兵，秦穆公没有接受。",
+        "周使召公过来赐礼时，惠公态度倨傲，使者因而批评其失礼。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0650.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "added_reading": [
+        "惠公担心里克再迎重耳，借他先前杀两君与一大夫为由命其死。里克反问，若不经过废立，新君何以得国，随后自杀；丕郑尚在秦，暂未受害。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0650.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "added_reading": [
+        "改葬前太子以后，晋地传说狐突见到申生之鬼：申生起初想把晋交秦，听狐突担忧晋民无祀，又改称将罚有罪者；童谣后来也被用来解释韩原之败。此处是围绕改葬与继承创伤的神异叙事。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0650.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "惠公回国后说河西是先君土地，群臣反对割让，自己不敢专断，因而拒绝兑现对秦的许诺；对里克的封邑承诺也落空，旧臣权势被削。",
+        "丕郑在秦听闻里克死，主张贿赂吕甥、郤称、冀芮，逐惠公、迎重耳；秦于是遣人携厚礼返晋。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0651.md",
+      "number": 4,
+      "note_anchor": "reading-note-4",
+      "added_reading": [
+        "献公晚年的晋国西至河西、与秦相接，北邻狄，东达河内；这是他在位时期扩张后的概况，不表示这些区域全在去世之年新得。",
+        "献公曾准备赴葵丘会盟，途中因病落后，又听宰孔批评齐桓公远略而返国。病重时托荀息扶奚齐，荀息以守信答应。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0651.md",
+      "number": 6,
+      "note_anchor": "reading-note-6",
+      "added_reading": [
+        "悼子是骊姬妹妹所生，出生在此之前；经传常称他卓子。",
+        "有人劝荀息自保，荀息却以受先君托付、不能失信为由留下，终于与新君一同遭难。早年伐骊戎所得卜兆，也在后来被解释为眼前内乱的预告。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0651.md",
+      "number": 7,
+      "note_anchor": "reading-note-7",
+      "added_reading": [
+        "里克等先请重耳回国，重耳以违父命出亡、不能侍丧为由谢绝。夷吾转而通过郤芮许秦河西地，又许里克汾阳邑，以此争取送归。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0654.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "夷吾本想逃到狄，冀芮劝他避开重耳：晋若追讨，狄可能无法同时容纳兄弟；梁近秦，可借秦力谋返晋。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0655.md",
+      "number": 1,
+      "note_anchor": "reading-note-1",
+      "added_reading": [
+        "重耳越墙逃走，勃鞮追砍其衣袖；晋军另攻屈，一时未能攻下。",
+        "重耳选择母族所在的狄地暂避，五名主要随从以外，还有数十人同行。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0655.md",
+      "number": 6,
+      "note_anchor": "reading-note-6",
+      "added_reading": [
+        "宫之奇还指出，若同姓宗亲足以保障安全，晋君就不会残害桓、庄近族；虞不能仅凭与晋同宗便信其无害。虞君仍然许道，宫之奇于是带家族离开虞国。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0655.md",
+      "number": 7,
+      "note_anchor": "reading-note-7",
+      "added_reading": [
+        "荀息牵回早先送给虞国的良马献给献公，献公笑说马仍属晋，只是马齿长了。虞君及大夫被俘，一些俘虏后来又卷入秦晋婚姻往来，晋还延续了虞的祭祀。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0656.md",
+      "number": 7,
+      "note_anchor": "reading-note-7",
+      "added_reading": [
+        "构陷之前，献公曾私下表示想废申生、改立奚齐；骊姬表面哭谏，说太子已有名分、人心和军事声望，暗地却继续派人诋毁他。",
+        "骊姬以献公梦见齐姜催申生祭母，等祭肉送到后下毒，再利用献公返猎时的试毒构罪。太傅杜原款被杀。申生拒绝申辩，也不愿出逃：一方面怕使老父失去所宠，另一方面不愿带着弑父恶名求容于外。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0656.md",
+      "number": 8,
+      "note_anchor": "reading-note-8",
+      "added_reading": [
+        "此前士蒍筑蒲、屈城墙不尽力，夷吾向献公告发，士蒍受责，又以一国多主难安作歌讥刺。这是二公子据城以前的背景，非本年才同时兴建两城。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0658.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "added_reading": [
+        "献公追恨虢国过去帮助翼地晋君、接纳逃亡公子，担心留下后患，因而决定借虞道攻虢。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0660.md",
+      "number": 11,
+      "note_anchor": "reading-note-11",
+      "added_reading": [
+        "里克认为太子平日奉宗庙、侍父君，领军却要专断，若听命太多就无威、专断又易被指不孝。献公答称尚未决定继承人，里克劝太子尽职后称病不从军；申生仍奉命出征。赐衣与金玦也被随从看成危险信号。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0661.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "赵夙御戎，毕万为右；战后又为太子经营曲沃城。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0661.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "士蒍劝申生仿效太伯远避继承纷争，申生没有听从。卜偃以“万”“魏”的广大字义赞毕氏将盛，辛廖则从早年的占筮解释毕万会得土地、传及后世；这些都是人物预言。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0666.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "added_reading": [
+        "献公以曲沃有先祖宗庙、蒲邻秦、屈邻狄为理由派诸子外居，自己留在绛与骊姬母子相处。申生之母为齐姜；重耳、夷吾的母族与戎狄女子有关。",
+        "在这以前，重耳已经成年，以好士著称；赵衰、舅父狐偃、贾佗、先轸、魏武子等与他相从。被遣居蒲，是他从宫中公子转为边地守将的一步。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0669.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "added_reading": [
+        "清洗群公子的主张出自士蒍：他以公族人数众多、将来可能作乱说服献公。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0672.md",
+      "number": 10,
+      "note_anchor": "note-10",
+      "added_reading": [
+        "所得二女是姐妹，二人都受宠；后来奚齐、悼子的出生另作为宫廷继承的背景。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0677.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "武公称是穆侯曾孙、桓叔之孙、庄伯之子；他的在位数连同此前曲沃时期，合记三十九年。"
+      ]
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0678.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "曲沃一支凭征服、献器和王命，把原来分立的翼、曲沃合成同一晋国。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0704.md",
+      "number": 7,
+      "note_anchor": "note-7",
+      "added_reading": [
+        "曲沃武公退保曲沃；被王室扶立的缗是哀侯之弟。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0709.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "战败后翼地又立哀侯之子为小子侯，继续抵抗曲沃。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0710.md",
+      "number": 7,
+      "note_anchor": "reading-note-7",
+      "added_reading": [
+        "本年翼地晋军侵犯陉廷，陉廷因此与曲沃武公联络，成为次年汾水战事的直接背景。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0718.md",
+      "number": 5,
+      "note_anchor": "note-5",
+      "added_reading": [
+        "哀侯名光，是鄂侯之子，翼地另立新君与曲沃势力继续并存。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0724.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "庄伯杀晋孝侯后仍被晋人击退，只得回曲沃；翼地改立孝侯之子为鄂侯。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0745.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "成师号桓叔，靖侯庶孙栾宾辅佐他。曲沃城邑大于晋君所居的翼，成师得民众拥护，宗室旁支因而有了与本支争衡的基础；受封时他被记为五十八岁。"
+      ]
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0781.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "仇此前在父亲去世、叔父夺位时逃亡，如今率自己的部众袭击殇叔，恢复穆侯这一支的君位。"
+      ]
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0802.md",
+      "number": 1,
+      "note_anchor": "note-1",
+      "added_reading": [
+        "师服从嫡子名仇、少子名成师联想到嫡庶失序，担忧两个名字所表达的期待颠倒。这个预言作为当时人物的议论保存，后来曲沃争位不能仅用名字解释。"
+      ]
+    },
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "number": 11,
+      "note_anchor": "note-11",
+      "added_reading": [
+        "晋国唐叔虞之后，依次为燮、武侯宁族、成侯服人、厉侯福、靖侯宜臼，前几代缺少可逐年核对的在位数。"
+      ]
+    }
+  ],
+  "surgical_existing_body_corrections": [
+    {
+      "path": "years/bce-0700-0601/bce-0650.md",
+      "number": 5,
+      "old": "丕郑赴秦后谋划迎重耳入晋，事泄后其党多人被杀。",
+      "new": "丕郑赴秦后谋划迎重耳入晋；事泄后的杀丕郑及其党见[前649年](bce-0649.md#note-1)。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0349.md",
+      "number": 2,
+      "old": "《赵世家》在肃侯元年记，赵取走晋君在端氏的封地，把晋君迁到屯留。",
+      "new": "赵取走晋君在端氏的封地，把晋君迁到屯留。"
+    }
+  ],
+  "touched_reading_pages": [
+    "years/bce-0400-0301/bce-0349.md",
+    "years/bce-0400-0301/bce-0356.md",
+    "years/bce-0400-0301/bce-0376.md",
+    "years/bce-0400-0301/bce-0377.md",
+    "years/bce-0400-0301/bce-0378.md",
+    "years/bce-0400-0301/bce-0386.md",
+    "years/bce-0400-0301/bce-0392.md",
+    "years/bce-0400-0301/bce-0393.md",
+    "years/bce-0400-0301/bce-0395.md",
+    "years/bce-0500-0401/bce-0403.md",
+    "years/bce-0500-0401/bce-0420.md",
+    "years/bce-0500-0401/bce-0424.md",
+    "years/bce-0500-0401/bce-0437.md",
+    "years/bce-0500-0401/bce-0453.md",
+    "years/bce-0500-0401/bce-0454.md",
+    "years/bce-0500-0401/bce-0475.md",
+    "years/bce-0500-0401/bce-0479.md",
+    "years/bce-0500-0401/bce-0481.md",
+    "years/bce-0500-0401/bce-0482.md",
+    "years/bce-0500-0401/bce-0490.md",
+    "years/bce-0500-0401/bce-0497.md",
+    "years/bce-0500-0401/bce-0500.md",
+    "years/bce-0600-0501/bce-0501.md",
+    "years/bce-0600-0501/bce-0512.md",
+    "years/bce-0600-0501/bce-0514.md",
+    "years/bce-0600-0501/bce-0515.md",
+    "years/bce-0600-0501/bce-0517.md",
+    "years/bce-0600-0501/bce-0520.md",
+    "years/bce-0600-0501/bce-0526.md",
+    "years/bce-0600-0501/bce-0532.md",
+    "years/bce-0600-0501/bce-0536.md",
+    "years/bce-0600-0501/bce-0539.md",
+    "years/bce-0600-0501/bce-0544.md",
+    "years/bce-0600-0501/bce-0548.md",
+    "years/bce-0600-0501/bce-0550.md",
+    "years/bce-0600-0501/bce-0552.md",
+    "years/bce-0600-0501/bce-0555.md",
+    "years/bce-0600-0501/bce-0558.md",
+    "years/bce-0600-0501/bce-0559.md",
+    "years/bce-0600-0501/bce-0562.md",
+    "years/bce-0600-0501/bce-0569.md",
+    "years/bce-0600-0501/bce-0570.md",
+    "years/bce-0600-0501/bce-0572.md",
+    "years/bce-0600-0501/bce-0573.md",
+    "years/bce-0600-0501/bce-0574.md",
+    "years/bce-0600-0501/bce-0575.md",
+    "years/bce-0600-0501/bce-0576.md",
+    "years/bce-0600-0501/bce-0578.md",
+    "years/bce-0600-0501/bce-0580.md",
+    "years/bce-0600-0501/bce-0581.md",
+    "years/bce-0600-0501/bce-0583.md",
+    "years/bce-0600-0501/bce-0584.md",
+    "years/bce-0600-0501/bce-0586.md",
+    "years/bce-0600-0501/bce-0587.md",
+    "years/bce-0600-0501/bce-0588.md",
+    "years/bce-0600-0501/bce-0589.md",
+    "years/bce-0600-0501/bce-0591.md",
+    "years/bce-0600-0501/bce-0592.md",
+    "years/bce-0600-0501/bce-0593.md",
+    "years/bce-0600-0501/bce-0594.md",
+    "years/bce-0600-0501/bce-0595.md",
+    "years/bce-0600-0501/bce-0596.md",
+    "years/bce-0600-0501/bce-0597.md",
+    "years/bce-0600-0501/bce-0598.md",
+    "years/bce-0600-0501/bce-0599.md",
+    "years/bce-0600-0501/bce-0600.md",
+    "years/bce-0700-0601/bce-0601.md",
+    "years/bce-0700-0601/bce-0604.md",
+    "years/bce-0700-0601/bce-0606.md",
+    "years/bce-0700-0601/bce-0607.md",
+    "years/bce-0700-0601/bce-0609.md",
+    "years/bce-0700-0601/bce-0613.md",
+    "years/bce-0700-0601/bce-0614.md",
+    "years/bce-0700-0601/bce-0615.md",
+    "years/bce-0700-0601/bce-0617.md",
+    "years/bce-0700-0601/bce-0620.md",
+    "years/bce-0700-0601/bce-0621.md",
+    "years/bce-0700-0601/bce-0622.md",
+    "years/bce-0700-0601/bce-0623.md",
+    "years/bce-0700-0601/bce-0624.md",
+    "years/bce-0700-0601/bce-0625.md",
+    "years/bce-0700-0601/bce-0627.md",
+    "years/bce-0700-0601/bce-0628.md",
+    "years/bce-0700-0601/bce-0630.md",
+    "years/bce-0700-0601/bce-0632.md",
+    "years/bce-0700-0601/bce-0633.md",
+    "years/bce-0700-0601/bce-0635.md",
+    "years/bce-0700-0601/bce-0636.md",
+    "years/bce-0700-0601/bce-0637.md",
+    "years/bce-0700-0601/bce-0638.md",
+    "years/bce-0700-0601/bce-0641.md",
+    "years/bce-0700-0601/bce-0643.md",
+    "years/bce-0700-0601/bce-0644.md",
+    "years/bce-0700-0601/bce-0645.md",
+    "years/bce-0700-0601/bce-0646.md",
+    "years/bce-0700-0601/bce-0647.md",
+    "years/bce-0700-0601/bce-0649.md",
+    "years/bce-0700-0601/bce-0650.md",
+    "years/bce-0700-0601/bce-0651.md",
+    "years/bce-0700-0601/bce-0652.md",
+    "years/bce-0700-0601/bce-0654.md",
+    "years/bce-0700-0601/bce-0655.md",
+    "years/bce-0700-0601/bce-0656.md",
+    "years/bce-0700-0601/bce-0658.md",
+    "years/bce-0700-0601/bce-0660.md",
+    "years/bce-0700-0601/bce-0661.md",
+    "years/bce-0700-0601/bce-0666.md",
+    "years/bce-0700-0601/bce-0667.md",
+    "years/bce-0700-0601/bce-0668.md",
+    "years/bce-0700-0601/bce-0669.md",
+    "years/bce-0700-0601/bce-0672.md",
+    "years/bce-0700-0601/bce-0674.md",
+    "years/bce-0700-0601/bce-0675.md",
+    "years/bce-0700-0601/bce-0677.md",
+    "years/bce-0700-0601/bce-0678.md",
+    "years/bce-0700-0601/bce-0679.md",
+    "years/bce-0700-0601/bce-0686.md",
+    "years/bce-0800-0701/bce-0701.md",
+    "years/bce-0800-0701/bce-0704.md",
+    "years/bce-0800-0701/bce-0705.md",
+    "years/bce-0800-0701/bce-0709.md",
+    "years/bce-0800-0701/bce-0710.md",
+    "years/bce-0800-0701/bce-0712.md",
+    "years/bce-0800-0701/bce-0716.md",
+    "years/bce-0800-0701/bce-0718.md",
+    "years/bce-0800-0701/bce-0722.md",
+    "years/bce-0800-0701/bce-0724.md",
+    "years/bce-0800-0701/bce-0731.md",
+    "years/bce-0800-0701/bce-0739.md",
+    "years/bce-0800-0701/bce-0745.md",
+    "years/bce-0800-0701/bce-0746.md",
+    "years/bce-0800-0701/bce-0770.md",
+    "years/bce-0800-0701/bce-0771.md",
+    "years/bce-0800-0701/bce-0781.md",
+    "years/bce-0800-0701/bce-0782.md",
+    "years/bce-0800-0701/bce-0785.md",
+    "years/bce-0900-0801/bce-0802.md",
+    "years/bce-0900-0801/bce-0805.md",
+    "years/bce-0900-0801/bce-0808.md",
+    "years/bce-0900-0801/bce-0812.md",
+    "years/bce-0900-0801/bce-0823.md",
+    "years/bce-0900-0801/bce-0827.md",
+    "years/bce-0900-0801/bce-0840.md",
+    "years/bce-0900-0801/bce-0841.md",
+    "years/上古/06-商末与周初.md",
+    "years/上古/07-西周的治理与危机.md"
+  ],
+  "checks_status": "passed_author_validation",
+  "raw_source_quote_order_exact": true,
+  "supplemental_source_segments_order_exact": true,
+  "raw_lines_including_structure_covered": 177,
+  "all_substantive_raw_text_has_actual_quote_route": true,
+  "distinct_target_event_groups": 244,
+  "existing_explicit_anchors_preserved": true,
+  "existing_heading_entries_preserved": true,
+  "old_page_footer_navigation_unchanged": true,
+  "numbering_contiguous": true,
+  "new_local_links_checked": 1410,
+  "deferred_root_owned_paths": [
+    "meta/考证/史记-卷038至039-百科核对.md"
+  ],
+  "original_witness_hashes": [
+    {
+      "path": "sources/本地分卷/史记/史记-卷039.txt",
+      "sha256": "0de67e452ff3c531ee417e979910c6f31f8d8a9cbae4aca94faca4f0b39b2c60"
+    },
+    {
+      "path": "sources/本地分卷/史记/史记-卷039.md",
+      "sha256": "2b2fc03533124e71e8d67c863f23a4fbca8ba61059a441f1c5a82ee417de779d"
+    },
+    {
+      "path": "sources/史记三家注/卷039.md",
+      "sha256": "a8138a575c25dfbafd14ac8667a01918c0be73f9c37a8243768fdfdf165cc61d"
+    }
+  ],
+  "independent_semantic_review": "038作者逐项审阅全部初始277条安放；年代审查员复核景至静、原典漏句与多链；根代理复核实际引句与主要冲突。修订后引句284条，原卷全部实质字词均有实际同号引文。",
+  "scope": "卷039独立作者分支的核验快照；唐叔组在本分支为第14条，卷038、039合并后为第19条。合并后的编号、全站统计、目录和相邻导航以两卷整合核验为准。"
+}
