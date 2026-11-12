@@ -1,0 +1,757 @@
+{
+  "volume": "042",
+  "title": "郑世家",
+  "date": "2026-11-12",
+  "baseline_remote_commit": "af0adf03ea53778c62915436a9b29a2e54fa2cc6",
+  "baseline_local_commit": "dc66b48c6ad9850a728a71af2d80dd344cb4a258",
+  "prose_units": 59,
+  "raw_primary_paragraphs": 57,
+  "supplemental_paragraphs": 2,
+  "later_praise_units": 1,
+  "structure_markers": 0,
+  "chapter_markers": 1,
+  "raw_main_lines_covered": 58,
+  "raw_lines_including_structure_covered": 59,
+  "author_comments_in_prose": [
+    "P057"
+  ],
+  "supplemental_units": [
+    "S001",
+    "S002"
+  ],
+  "original_raw_bytes_sha256": "0a63d2bd06643434363a5e31a590bc3ea5736d90a84faa984eca70b0a55824a5",
+  "existing_raw_witness_files_modified": false,
+  "source_derivation": {
+    "full_book_line_start": 3768,
+    "full_book_line_end": 3826,
+    "raw_line_ending": "CRLF",
+    "bytes": 17760,
+    "three_commentaries_paragraphs": 62,
+    "full_book_and_raw_html_unchanged": true,
+    "missing_primary_paragraphs_restored": 2
+  },
+  "reading_pages_touched": 104,
+  "annual_pages_touched": 103,
+  "period_pages_touched": 1,
+  "new_annual_pages": [
+    "years/bce-0800-0701/bce-0774.md",
+    "years/bce-0800-0701/bce-0773.md"
+  ],
+  "new_period_pages": [
+    "years/bce-0800-0701/未定年-西周末与春秋初.md"
+  ],
+  "new_numbered_reading_groups": 11,
+  "new_numbered_group_pages": [
+    {
+      "path": "years/bce-0800-0701/bce-0774.md",
+      "number": 1,
+      "note_anchor": "sj042-huan-situ-note",
+      "body_anchor": "sj042-huan-situ-event",
+      "title": "郑桓公受任周司徒，安集周民。"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0773.md",
+      "number": 1,
+      "note_anchor": "sj042-huan-east-plan-note",
+      "body_anchor": "sj042-huan-east-plan-event",
+      "title": "桓公问史伯避乱之地，安排民众与家财东寄。"
+    },
+    {
+      "path": "years/bce-0800-0701/未定年-西周末与春秋初.md",
+      "number": 1,
+      "note_anchor": "sj042-east-territory-note",
+      "body_anchor": "sj042-east-territory-event",
+      "title": "郑在东寄的基础上逐步取得虢、郐周边土地。"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0744.md",
+      "number": 2,
+      "note_anchor": "sj042-wu-death-note",
+      "body_anchor": "sj042-wu-death-event",
+      "title": "郑武公去世，寤生承继君位。"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0682.md",
+      "number": 6,
+      "note_anchor": "sj042-jizhong-death-note",
+      "body_anchor": "sj042-jizhong-death-event",
+      "title": "郑国执政祭仲去世。"
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0649.md",
+      "number": 7,
+      "note_anchor": "sj042-lan-birth-note",
+      "body_anchor": "sj042-lan-birth-event",
+      "title": "燕姞生子兰，梦兰故事成为取名的来历。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0599.md",
+      "number": 13,
+      "note_anchor": "sj042-zijia-family-note",
+      "body_anchor": "sj042-zijia-family-event",
+      "title": "郑子家去世，族人遭追究灵公之乱。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0520.md",
+      "number": 10,
+      "note_anchor": "sj042-jian-death-note",
+      "body_anchor": "sj042-jian-death-event",
+      "title": "楚太子建谋袭郑败露，被杀之事暂系本年。"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0519.md",
+      "number": 15,
+      "note_anchor": "sj042-ding-visit-jin-note",
+      "body_anchor": "sj042-ding-visit-jin-event",
+      "title": "郑定公赴晋，参与商议周王室的乱局。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0455.md",
+      "number": 2,
+      "note_anchor": "sj042-ai-death-note",
+      "body_anchor": "sj042-ai-death-event",
+      "title": "郑哀公被弑，声公之弟丑被立为共公。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0424.md",
+      "number": 4,
+      "note_anchor": "sj042-gong-death-note",
+      "body_anchor": "sj042-gong-death-event",
+      "title": "郑共公去世，幽公承继君位。"
+    }
+  ],
+  "quote_placements": 152,
+  "primary_quote_placements": 149,
+  "control_quote_placements": 3,
+  "destination_bindings": 149,
+  "reading_pages": [
+    "years/bce-0400-0301/bce-0375.md",
+    "years/bce-0400-0301/bce-0385.md",
+    "years/bce-0400-0301/bce-0394.md",
+    "years/bce-0400-0301/bce-0395.md",
+    "years/bce-0400-0301/bce-0396.md",
+    "years/bce-0400-0301/bce-0398.md",
+    "years/bce-0400-0301/bce-0400.md",
+    "years/bce-0500-0401/bce-0403.md",
+    "years/bce-0500-0401/bce-0407.md",
+    "years/bce-0500-0401/bce-0408.md",
+    "years/bce-0500-0401/bce-0423.md",
+    "years/bce-0500-0401/bce-0424.md",
+    "years/bce-0500-0401/bce-0453.md",
+    "years/bce-0500-0401/bce-0455.md",
+    "years/bce-0500-0401/bce-0463.md",
+    "years/bce-0500-0401/bce-0464.md",
+    "years/bce-0500-0401/bce-0478.md",
+    "years/bce-0500-0401/bce-0479.md",
+    "years/bce-0500-0401/bce-0481.md",
+    "years/bce-0500-0401/bce-0487.md",
+    "years/bce-0500-0401/bce-0493.md",
+    "years/bce-0500-0401/bce-0497.md",
+    "years/bce-0600-0501/bce-0501.md",
+    "years/bce-0600-0501/bce-0514.md",
+    "years/bce-0600-0501/bce-0516.md",
+    "years/bce-0600-0501/bce-0519.md",
+    "years/bce-0600-0501/bce-0520.md",
+    "years/bce-0600-0501/bce-0522.md",
+    "years/bce-0600-0501/bce-0524.md",
+    "years/bce-0600-0501/bce-0526.md",
+    "years/bce-0600-0501/bce-0529.md",
+    "years/bce-0600-0501/bce-0530.md",
+    "years/bce-0600-0501/bce-0538.md",
+    "years/bce-0600-0501/bce-0539.md",
+    "years/bce-0600-0501/bce-0541.md",
+    "years/bce-0600-0501/bce-0543.md",
+    "years/bce-0600-0501/bce-0544.md",
+    "years/bce-0600-0501/bce-0547.md",
+    "years/bce-0600-0501/bce-0554.md",
+    "years/bce-0600-0501/bce-0562.md",
+    "years/bce-0600-0501/bce-0563.md",
+    "years/bce-0600-0501/bce-0564.md",
+    "years/bce-0600-0501/bce-0565.md",
+    "years/bce-0600-0501/bce-0566.md",
+    "years/bce-0600-0501/bce-0571.md",
+    "years/bce-0600-0501/bce-0572.md",
+    "years/bce-0600-0501/bce-0575.md",
+    "years/bce-0600-0501/bce-0581.md",
+    "years/bce-0600-0501/bce-0582.md",
+    "years/bce-0600-0501/bce-0585.md",
+    "years/bce-0600-0501/bce-0586.md",
+    "years/bce-0600-0501/bce-0587.md",
+    "years/bce-0600-0501/bce-0594.md",
+    "years/bce-0600-0501/bce-0595.md",
+    "years/bce-0600-0501/bce-0597.md",
+    "years/bce-0600-0501/bce-0598.md",
+    "years/bce-0600-0501/bce-0599.md",
+    "years/bce-0600-0501/bce-0600.md",
+    "years/bce-0700-0601/bce-0604.md",
+    "years/bce-0700-0601/bce-0605.md",
+    "years/bce-0700-0601/bce-0606.md",
+    "years/bce-0700-0601/bce-0607.md",
+    "years/bce-0700-0601/bce-0625.md",
+    "years/bce-0700-0601/bce-0626.md",
+    "years/bce-0700-0601/bce-0627.md",
+    "years/bce-0700-0601/bce-0628.md",
+    "years/bce-0700-0601/bce-0630.md",
+    "years/bce-0700-0601/bce-0632.md",
+    "years/bce-0700-0601/bce-0635.md",
+    "years/bce-0700-0601/bce-0636.md",
+    "years/bce-0700-0601/bce-0637.md",
+    "years/bce-0700-0601/bce-0649.md",
+    "years/bce-0700-0601/bce-0656.md",
+    "years/bce-0700-0601/bce-0673.md",
+    "years/bce-0700-0601/bce-0674.md",
+    "years/bce-0700-0601/bce-0675.md",
+    "years/bce-0700-0601/bce-0679.md",
+    "years/bce-0700-0601/bce-0680.md",
+    "years/bce-0700-0601/bce-0682.md",
+    "years/bce-0700-0601/bce-0686.md",
+    "years/bce-0700-0601/bce-0694.md",
+    "years/bce-0700-0601/bce-0695.md",
+    "years/bce-0700-0601/bce-0697.md",
+    "years/bce-0800-0701/bce-0701.md",
+    "years/bce-0800-0701/bce-0706.md",
+    "years/bce-0800-0701/bce-0707.md",
+    "years/bce-0800-0701/bce-0710.md",
+    "years/bce-0800-0701/bce-0715.md",
+    "years/bce-0800-0701/bce-0717.md",
+    "years/bce-0800-0701/bce-0719.md",
+    "years/bce-0800-0701/bce-0720.md",
+    "years/bce-0800-0701/bce-0721.md",
+    "years/bce-0800-0701/bce-0722.md",
+    "years/bce-0800-0701/bce-0743.md",
+    "years/bce-0800-0701/bce-0744.md",
+    "years/bce-0800-0701/bce-0754.md",
+    "years/bce-0800-0701/bce-0757.md",
+    "years/bce-0800-0701/bce-0761.md",
+    "years/bce-0800-0701/bce-0770.md",
+    "years/bce-0800-0701/bce-0771.md",
+    "years/bce-0800-0701/bce-0773.md",
+    "years/bce-0800-0701/bce-0774.md",
+    "years/bce-0800-0701/未定年-西周末与春秋初.md",
+    "years/bce-0900-0801/bce-0806.md"
+  ],
+  "unit_coverage": [
+    {
+      "id": "P001",
+      "raw_characters": 466,
+      "reading_characters": 441,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P002",
+      "raw_characters": 32,
+      "reading_characters": 117,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P003",
+      "raw_characters": 92,
+      "reading_characters": 124,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P004",
+      "raw_characters": 228,
+      "reading_characters": 231,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P005",
+      "raw_characters": 192,
+      "reading_characters": 239,
+      "bindings": 8,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P006",
+      "raw_characters": 104,
+      "reading_characters": 169,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P007",
+      "raw_characters": 49,
+      "reading_characters": 99,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P008",
+      "raw_characters": 120,
+      "reading_characters": 143,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P009",
+      "raw_characters": 137,
+      "reading_characters": 195,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P010",
+      "raw_characters": 56,
+      "reading_characters": 117,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P011",
+      "raw_characters": 106,
+      "reading_characters": 102,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P012",
+      "raw_characters": 205,
+      "reading_characters": 228,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P013",
+      "raw_characters": 39,
+      "reading_characters": 82,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P014",
+      "raw_characters": 202,
+      "reading_characters": 196,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P015",
+      "raw_characters": 13,
+      "reading_characters": 60,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P016",
+      "raw_characters": 83,
+      "reading_characters": 144,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P017",
+      "raw_characters": 44,
+      "reading_characters": 109,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "S001",
+      "raw_characters": 22,
+      "reading_characters": 79,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P018",
+      "raw_characters": 73,
+      "reading_characters": 124,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P019",
+      "raw_characters": 99,
+      "reading_characters": 142,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P020",
+      "raw_characters": 150,
+      "reading_characters": 179,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P021",
+      "raw_characters": 358,
+      "reading_characters": 263,
+      "bindings": 6,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P022",
+      "raw_characters": 18,
+      "reading_characters": 63,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P023",
+      "raw_characters": 93,
+      "reading_characters": 167,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P024",
+      "raw_characters": 70,
+      "reading_characters": 183,
+      "bindings": 5,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "S002",
+      "raw_characters": 19,
+      "reading_characters": 72,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P025",
+      "raw_characters": 187,
+      "reading_characters": 187,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P026",
+      "raw_characters": 50,
+      "reading_characters": 136,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P027",
+      "raw_characters": 60,
+      "reading_characters": 104,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P028",
+      "raw_characters": 314,
+      "reading_characters": 231,
+      "bindings": 6,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P029",
+      "raw_characters": 284,
+      "reading_characters": 241,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P030",
+      "raw_characters": 14,
+      "reading_characters": 45,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P031",
+      "raw_characters": 58,
+      "reading_characters": 96,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P032",
+      "raw_characters": 29,
+      "reading_characters": 59,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P033",
+      "raw_characters": 114,
+      "reading_characters": 134,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P034",
+      "raw_characters": 73,
+      "reading_characters": 100,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P035",
+      "raw_characters": 17,
+      "reading_characters": 52,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P036",
+      "raw_characters": 59,
+      "reading_characters": 116,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P037",
+      "raw_characters": 133,
+      "reading_characters": 172,
+      "bindings": 5,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P038",
+      "raw_characters": 41,
+      "reading_characters": 86,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P039",
+      "raw_characters": 167,
+      "reading_characters": 201,
+      "bindings": 5,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P040",
+      "raw_characters": 390,
+      "reading_characters": 371,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P041",
+      "raw_characters": 58,
+      "reading_characters": 118,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P042",
+      "raw_characters": 24,
+      "reading_characters": 69,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P043",
+      "raw_characters": 39,
+      "reading_characters": 101,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P044",
+      "raw_characters": 61,
+      "reading_characters": 103,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P045",
+      "raw_characters": 32,
+      "reading_characters": 94,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P046",
+      "raw_characters": 25,
+      "reading_characters": 107,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P047",
+      "raw_characters": 44,
+      "reading_characters": 115,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P048",
+      "raw_characters": 80,
+      "reading_characters": 155,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P049",
+      "raw_characters": 31,
+      "reading_characters": 78,
+      "bindings": 2,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P050",
+      "raw_characters": 44,
+      "reading_characters": 96,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P051",
+      "raw_characters": 15,
+      "reading_characters": 87,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P052",
+      "raw_characters": 91,
+      "reading_characters": 136,
+      "bindings": 5,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P053",
+      "raw_characters": 20,
+      "reading_characters": 55,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P054",
+      "raw_characters": 41,
+      "reading_characters": 84,
+      "bindings": 3,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P055",
+      "raw_characters": 68,
+      "reading_characters": 120,
+      "bindings": 4,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P056",
+      "raw_characters": 15,
+      "reading_characters": 66,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "P057",
+      "raw_characters": 83,
+      "reading_characters": 125,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    },
+    {
+      "id": "Z001",
+      "raw_characters": 88,
+      "reading_characters": 129,
+      "bindings": 1,
+      "unquoted_hanzi": "",
+      "pass_": true
+    }
+  ],
+  "semantic_review": {
+    "complete_original_paragraphs_read": true,
+    "complete_three_commentaries_read": true,
+    "two_missing_paragraphs_identified_before_character_coverage": true,
+    "existing_narrative_policy": "就地增补全部有效旧叙事；仅改有直接异证的亲属称谓和元年措辞，旧关系移同号说明",
+    "known_conflicts": [
+      "桓武东迁与取邑阶段",
+      "高渠弥亡归与被轘",
+      "叔詹尸聘与诸传",
+      "607主语疑缺与战向",
+      "缪氏身份",
+      "581暂立繻",
+      "563子孔动机",
+      "子产世系与卒年",
+      "太子建520暂系",
+      "519谋议与516入周",
+      "定公十三/十六",
+      "声公三十七/三十八",
+      "知伯三十六/二十六/年表464",
+      "共公三年灭智",
+      "康公二十/二十一",
+      "幽繻乙世系"
+    ]
+  },
+  "independent_root_validation": "根代理已反馈原文、引句覆盖均通过并逐条审读新增正文；独立年代代理已复看重点年页。最终联合索引、导航与合并核验由根代理完成。",
+  "quote_destination_reading_pages": 102,
+  "body_only_related_pages": [
+    "years/bce-0800-0701/bce-0770.md",
+    "years/bce-0400-0301/bce-0395.md"
+  ],
+  "author_validation": {
+    "volume_source_and_destinations_pass": true,
+    "original_58_lines_exact": true,
+    "source_hanzi_total": 4743,
+    "source_hanzi_covered": 4743,
+    "three_commentaries_62_paragraphs_exact": true,
+    "original_txt_bytes_and_full_book_match": true,
+    "numbering_backlinks_and_year_links_pass": true,
+    "old_anchor_preservation": "全部既有显式与自动标题锚保留，零丢失",
+    "guoyu_193_lines_exact": true,
+    "git_diff_check_pass": true
+  }
+}
