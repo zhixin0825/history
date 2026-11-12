@@ -1,0 +1,284 @@
+{
+  "volume": "041",
+  "title": "越王勾践世家",
+  "date": "2026-11-12",
+  "baseline_remote_commit": "25f47d4a0e72b395ce23bd8f63cb66fe6601b790",
+  "baseline_local_commit": "21888e403072e292e7f60d5c63d230faed1bd44f",
+  "prose_units": 27,
+  "raw_primary_paragraphs": 27,
+  "supplemental_paragraphs": 0,
+  "later_praise_units": 1,
+  "structure_markers": 0,
+  "chapter_markers": 1,
+  "raw_main_lines_covered": 28,
+  "raw_lines_including_structure_covered": 29,
+  "author_comments_in_prose": [
+    "P027"
+  ],
+  "supplemental_units": [],
+  "original_raw_bytes_sha256": "b45a50afbdd6f32d76103e5c3e21440bc7a0ea8df0733e60a0772ba09f11660b",
+  "existing_raw_witness_files_modified": false,
+  "source_derivation": {
+    "full_book_line_start": 3739,
+    "full_book_line_end": 3767,
+    "raw_line_ending": "CRLF",
+    "bytes": 13998,
+    "three_commentaries_paragraphs": 28,
+    "full_book_and_raw_html_unchanged": true,
+    "independent_root_source_comparison": "原分卷与整书字节完全相同，逐行MD零差异，三家注p0—p27文字零差异"
+  },
+  "reading_pages_touched": 17,
+  "annual_pages_touched": 16,
+  "period_pages_touched": 1,
+  "new_annual_pages": [
+    "years/bce-0500-0401/bce-0459.md"
+  ],
+  "new_period_pages": [
+    "years/bce-0500-0401/未定年-春秋末与战国初.md"
+  ],
+  "new_numbered_reading_groups": 16,
+  "new_numbered_group_pages": [
+    {
+      "path": "years/bce-0500-0401/bce-0494.md",
+      "number": 9,
+      "note_anchor": "sj041-note-9",
+      "body_anchor": "sj041-event-9",
+      "title": "会稽和议以后，越国节用养民，文种与范蠡分任内政、军事。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0473.md",
+      "number": 3,
+      "note_anchor": "sj041-note-3",
+      "body_anchor": "sj041-event-3",
+      "title": "灭吴以后，勾践渡淮会诸侯，贡周受伯命。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 1,
+      "note_anchor": "sj041-note-1",
+      "body_anchor": "sj041-event-1",
+      "title": "范蠡离越，拒绝以国土和威胁留住自己。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 2,
+      "note_anchor": "sj041-note-2",
+      "body_anchor": "sj041-event-2",
+      "title": "文种没有离越，后来被逼自尽。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 3,
+      "note_anchor": "sj041-note-3",
+      "body_anchor": "sj041-event-3",
+      "title": "范蠡在齐辞相散财，转到陶经营货殖。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 4,
+      "note_anchor": "sj041-note-4",
+      "body_anchor": "sj041-event-4",
+      "title": "朱公中子被囚楚，长子坚持代幼子前往救援。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 5,
+      "note_anchor": "sj041-note-5",
+      "body_anchor": "sj041-event-5",
+      "title": "楚王将施行赦令，长子却把千金取回。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 6,
+      "note_anchor": "sj041-note-6",
+      "body_anchor": "sj041-event-6",
+      "title": "楚王为避受赂之名，先杀朱公中子，次日才赦。"
+    },
+    {
+      "path": "years/bce-0500-0401/未定年-春秋末与战国初.md",
+      "number": 7,
+      "note_anchor": "sj041-note-7",
+      "body_anchor": "sj041-event-7",
+      "title": "朱公从两子的成长经历解释失败，晚年终老于陶。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0334.md",
+      "number": 6,
+      "note_anchor": "sj041-note-6",
+      "body_anchor": "sj041-event-6",
+      "title": "越转攻楚而败，旧吴地落入楚手，越族逐渐分据江海。"
+    },
+    {
+      "path": "years/bce-0300-0201/bce-0202.md",
+      "number": 24,
+      "note_anchor": "sj041-note-24",
+      "body_anchor": "sj041-event-24",
+      "title": "汉朝复立无诸为闽越王。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0465.md",
+      "number": 2,
+      "note_anchor": "sj041-note-2",
+      "body_anchor": "sj041-event-2",
+      "title": "勾践去世，儿子鼫与承继越王之位。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0459.md",
+      "number": 1,
+      "note_anchor": "sj041-note-1",
+      "body_anchor": "sj041-event-1",
+      "title": "越王鼫与去世，不寿承继。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0449.md",
+      "number": 4,
+      "note_anchor": "sj041-note-4",
+      "body_anchor": "sj041-event-4",
+      "title": "越王不寿被杀，翁承继君位。"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0412.md",
+      "number": 3,
+      "note_anchor": "sj041-note-3",
+      "body_anchor": "sj041-event-3",
+      "title": "越王翁去世，翳承继君位。"
+    },
+    {
+      "path": "years/bce-0400-0301/bce-0376.md",
+      "number": 5,
+      "note_anchor": "sj041-note-5",
+      "body_anchor": "sj041-event-5",
+      "title": "越王翳被弑，诸咎又被杀，越国陷入君位争夺。"
+    }
+  ],
+  "quote_placements": 48,
+  "primary_quote_placements": 41,
+  "control_quote_placements": 7,
+  "reused_existing_quote_placements": 0,
+  "changed_body_events": [
+    {
+      "path": "years/bce-0500-0401/bce-0496.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "old": "4. **越军在槜李击败吴军，阖庐伤重去世。** 五月，吴国攻越，勾践在槜李迎战。越军先遣死士冲击，未动摇吴阵，又使罪人列队自刭，吸引吴军目光，主力乘机进攻，击败吴军。灵姑浮击伤阖庐，阖庐退到陉去世。夫差继位后反复提醒自己不要忘记父亲之死，准备报越。 [[4]](#note-4)",
+      "new": "4. **越军在槜李击败吴军，阖庐伤重去世。** 允常此前已与阖庐相互攻伐，去世后由儿子勾践继承越君之位。越人的先世传说追溯到禹与少康庶子受封会稽、守奉禹祀，并记断发文身、开辟草莽；这些是登场以前的族源叙述，不据二十余世推定建国年份。五月，吴国攻越，勾践在槜李迎战。越军先遣死士冲击，未动摇吴阵，又使罪人列队自刭，吸引吴军目光，主力乘机进攻，击败吴军。灵姑浮击伤阖庐，阖庐退到陉去世。临死前，他要求夫差不要忘记父亲死于这场战争。夫差继位后整顿战射，伯嚭担任太宰，报复越国成为此后行动的主线。 [[4]](#note-4)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0494.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "old": "3. **夫差在夫椒击败越军，勾践退守会稽后求和。** 吴王夫差为槜李之败出兵，击败越军并进入越境。勾践带五千持盾甲士退守会稽，让文种通过吴太宰嚭求和。伍员反对保留越国，借少康复夏的旧事说明败者仍可能恢复力量；夫差没有听从，三月吴、越议和。越国战败，但没有在本年灭亡。 [[3]](#note-3)",
+      "new": "3. **夫差在夫椒击败越军，勾践退守会稽后求和。** 夫差整兵报越，勾践一度想先发制人；范蠡以战争凶险、争胜应是最后手段相劝，未能阻止。吴军在夫椒击败越军，勾践带五千甲士退保会稽，承认失策。范蠡主张顺应天时、借助人事、节制政事，卑辞厚礼求和，必要时君主本人臣事吴国。文种第一次求和愿勾践为臣、妻为妾，伍员反对。勾践遂想杀妻儿、焚宝器、率余众死战，文种劝止，携美女宝器贿赂伯嚭，再以越若死战吴也必受损相说。伍员借少康复夏提醒夫差，败者仍可能重新强大；夫差终于接受伯嚭主张，三月吴、越议和。会稽受困时，文种还以汤、文王、重耳、小白先受难而后兴起的旧事安慰勾践。越国在此战败，但没有灭亡。 [[3]](#note-3)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0484.md",
+      "number": 3,
+      "note_anchor": "note-3",
+      "old": "3. **鲁、吴伐齐，在艾陵大败齐军。** 为回应春季郊战，哀公再次会吴伐齐。联军克博、到嬴，吴王安排各军迎战。五月甲戌，双方战于艾陵：吴军一翼击败高无，齐国书一度击败胥门巢，吴王本军增援后扭转战局。国书及数名齐将被俘，战利品交给鲁君；鲁后来将国书的首级装匣送还齐国。 [[3]](#note-3)",
+      "new": "3. **鲁、吴伐齐，在艾陵大败齐军。** 为回应春季郊战，哀公再次会吴伐齐。联军克博、到嬴，吴王安排各军迎战。五月甲戌，双方战于艾陵：吴军一翼击败高无，齐国书一度击败胥门巢，吴王本军增援后扭转战局。国书及数名齐将被俘，战利品交给鲁君；鲁后来将国书的首级装匣送还齐国。吴军北伐得胜，却未因此消除越国在近旁积蓄力量的隐患。 [[3]](#note-3)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0484.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "old": "4. **伍员反对集中伐齐，出使归来后被命自尽。** 吴军准备北上攻齐时，勾践带部众和礼物来朝，伯嚭等人乐于接受。伍员却提醒夫差，越国就在吴旁边，勾践的顺服未必表示没有图谋；即使攻下齐地，也像得到无法耕种的石田，不如先解决近处的危险。夫差没有听从。 [[4]](#note-4)",
+      "new": "4. **伍员反对集中伐齐，出使归来后被命自尽。** 在吴向北用兵以前，越已经逐渐恢复财力和军备；逢同劝勾践隐蔽报仇意图，结齐、亲楚、附晋而厚事吴，等吴远征疲弊再动手。吴准备北上时，勾践带部众和礼物来朝，伯嚭等乐于接受。伍员警告越是近身大患，即使得到齐地也难以耕守，应先防越，夫差没有听从。《越王勾践世家》还记吴王凯旋后责备伍员，伍员劝他不要欢喜，一度想自杀而被吴王制止。文种又借向吴贷粟试探其态度，夫差不顾伍员反对而允借。伯嚭与逢同共同进谗，称伍员怨君、谋乱。伍员奉使齐国，把儿子托付鲍氏，归来后被赐属镂剑自尽。他大笑着追述自己辅佐阖庐、拥立夫差的功劳，说夫差原曾许分半国而自己没有接受，如今却因谗言被诛，要求在墓旁种树、把眼睛悬在吴东门看越兵入城。夫差听到遗言大怒，把尸体盛入革囊投入江中。吴国此后更加依赖伯嚭。 [[4]](#note-4)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0482.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "old": "4. **越军趁吴王在北，攻入吴国。** 六月，越军分路攻吴。吴国留守的太子友等先派兵迎战，初战曾擒获越将；勾践主力到后再次交战，大败吴军，太子友、王孙弥庸等被俘，越军进入吴国。消息传至北方会盟的夫差军中，夫差为压住败讯，杀了七名报信者。 [[4]](#note-4)",
+      "new": "4. **越军趁吴王在北，攻入吴国。** 在决定出兵以前，勾践曾因吴已杀伍员、逢迎者增多而问可否进攻，范蠡仍劝等待。等夫差率精兵北赴黄池、国内留下太子和老弱，范蠡才认为机会到了。六月，越军分路进攻；所述兵力包括习流二千、教士四万、君子六千、诸御千人。吴国太子友等先派兵迎战，初战擒获越将；勾践主力到后再战，吴军大败，太子友、王孙弥庸等被俘，越军进入吴国。夫差在北方会盟时收到急报，隐瞒败讯，并杀七名报信者。 [[4]](#note-4)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0482.md",
+      "number": 6,
+      "note_anchor": "note-6",
+      "old": "6. **哀公会后返鲁，吴、越入冬议和。** 哀公会后回鲁。吴军归程中粮食紧缺，申叔仪向公孙有山氏求粮；吴王还动过攻宋的念头，太宰嚭认为即使获胜也守不住，吴军最终回国。冬季，吴与越议和。 [[6]](#note-6)",
+      "new": "6. **哀公会后返鲁，吴、越入冬议和。** 哀公会后回鲁。吴军归程中粮食紧缺，申叔仪向公孙有山氏求粮；吴王还动过攻宋的念头，伯嚭认为即使获胜也守不住，吴军最终回国。吴王派使者带厚礼向越求和，越也判断自己尚不能一举灭吴，遂接受。冬季，吴与越议和，这次停战没有结束双方长期竞争。 [[6]](#note-6)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0478.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "old": "2. **越军在笠泽击败吴军。** 三月，越攻吴，双方隔水列阵。勾践先让左右两翼在夜间交替鼓噪前进，引吴军分兵迎击，自己率中军悄悄渡水，突然攻击吴军中央，吴军大乱败退。 [[2]](#note-2)",
+      "new": "2. **越军在笠泽击败吴军。** 三月，越攻吴，双方隔水列阵。勾践先让左右两翼在夜间交替鼓噪前进，引吴军分兵迎击，自己率中军悄悄渡水，突然攻击吴军中央，吴军大乱败退。吴国经过多年北上争强，军民已疲敝，越军由此进一步取得优势；围都直至灭国仍是此后几年的过程。 [[2]](#note-2)"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0473.md",
+      "number": 2,
+      "note_anchor": "note-2",
+      "old": "2. **越国灭吴，夫差拒绝安置于甬东而自尽。** 十一月丁卯，越军灭吴。越人提出让夫差到甬东居住，夫差以自己已老、不能再侍奉他君为由拒绝，自缢而死，越人将其带回。吴国多年的北上与吴越战争，在此达到灭国结局。 [[2]](#note-2)",
+      "new": "2. **越国灭吴，夫差拒绝安置于甬东而自尽。** 十一月丁卯，长期受围的吴国灭亡。夫差退守姑苏，派公孙雄袒胸膝行求和，借当年会稽赦越请求宽免。勾践一度不忍，范蠡劝他不要放弃多年准备，亲自催兵，拒绝使者。越仍愿把夫差安置到甬东，使统领百家；夫差以自己已老、不能再侍奉他君为由拒绝，自缢而死。他死前表示无颜见伍员，以帛遮面；越人为他办理葬事。 [[2]](#note-2)"
+    },
+    {
+      "path": "years/bce-0200-0101/bce-0192.md",
+      "number": 4,
+      "note_anchor": "note-4",
+      "old": "4. **五月，摇被立为东海王，都东瓯。** 他在秦亡时跟随诸侯作战，在越人中有基础；汉通过承认地方首领的王号维系东南关系。同年南越王赵佗称臣奉贡，京城都厩则发生火灾。 [[4]](#note-4)",
+      "new": "4. **五月，摇被立为东海王，都东瓯。** 摇和无诸的先世都追溯到勾践，秦并天下时其地曾置闽中郡，地方首领被降为君长；二人后来率越人助诸侯灭秦，又助汉击项羽。无诸已在汉五年受立为闽越王，本年朝廷再按高帝时的越人功劳，认定摇有功而民众亲附，立他为东海王，都东瓯，俗称东瓯王。同年南越王赵佗称臣奉贡，京城都厩发生火灾。 [[4]](#note-4)"
+    }
+  ],
+  "touched_reading_pages": [
+    "years/bce-0200-0101/bce-0192.md",
+    "years/bce-0300-0201/bce-0202.md",
+    "years/bce-0400-0301/bce-0333.md",
+    "years/bce-0400-0301/bce-0334.md",
+    "years/bce-0400-0301/bce-0376.md",
+    "years/bce-0500-0401/bce-0412.md",
+    "years/bce-0500-0401/bce-0449.md",
+    "years/bce-0500-0401/bce-0459.md",
+    "years/bce-0500-0401/bce-0465.md",
+    "years/bce-0500-0401/bce-0473.md",
+    "years/bce-0500-0401/bce-0475.md",
+    "years/bce-0500-0401/bce-0478.md",
+    "years/bce-0500-0401/bce-0482.md",
+    "years/bce-0500-0401/bce-0484.md",
+    "years/bce-0500-0401/bce-0494.md",
+    "years/bce-0500-0401/bce-0496.md",
+    "years/bce-0500-0401/未定年-春秋末与战国初.md"
+  ],
+  "checks_status": "passed_author_validation",
+  "raw_source_quote_order_exact": true,
+  "all_substantive_raw_text_has_actual_quote_route": true,
+  "substantive_han_characters_covered": 3757,
+  "distinct_target_event_groups": 27,
+  "existing_explicit_anchors_preserved": true,
+  "existing_heading_entries_preserved": true,
+  "old_page_footer_navigation_unchanged": true,
+  "numbering_contiguous": true,
+  "actual_quote_text_and_same_number_verified": true,
+  "new_local_links_checked": 468,
+  "deferred_root_owned_paths": [
+    "meta/考证/史记-卷040至041-百科核对.md",
+    "meta/来源/史料目录与许可.md"
+  ],
+  "original_witness_hashes": [
+    {
+      "path": "sources/二十四史/txt/01_shiji_full.txt",
+      "sha256": "5d14f1bb43b30fa18eda0580a35c99e82b9a0543567a34e2ed8f39de5dc992eb"
+    },
+    {
+      "path": "sources/史记三家注/原始HTML/041.htm",
+      "sha256": "2e89e7aee98ffbe41343352aeb516193f97d27f8682e4523ca0abd56e30e2609"
+    },
+    {
+      "path": "sources/本地分卷/史记/史记-卷041.txt",
+      "sha256": "b45a50afbdd6f32d76103e5c3e21440bc7a0ea8df0733e60a0772ba09f11660b"
+    }
+  ],
+  "independent_semantic_review": "年代审查员读全28单元、年度与时期正文，复核P008/P015补全及朱公独笑等修订；再次核算并读465、459、449、412、376五组，确认条件年链与起元说明一致。根代理独立核原始来源、逐字引文覆盖及全部七组时期正文。",
+  "conditional_chronology": {
+    "adopted_start": "晋出公元474与索隐出公十年，暂系勾践卒465",
+    "conditional_successor_deaths": [
+      459,
+      449,
+      412,
+      376
+    ],
+    "assumption": "普通承继次年起元；无余之及无颛以后再次分岔，不强推",
+    "alternative_sync": "王国维辑校另以鲁哀二十六对应晋出十年，与本站晋出公元474链不合；未冒称独立互证"
+  },
+  "scope": "卷041独立作者分支核验快照。根代理负责与卷040合并后的编号、全站索引、459新页邻接导航及联合百科报告。记录不宣布历史异说已被消除。"
+}
