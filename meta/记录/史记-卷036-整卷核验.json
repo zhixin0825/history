@@ -1,0 +1,953 @@
+{
+  "volume": "036",
+  "title": "陈杞世家",
+  "date": "2026-11-11",
+  "baseline_remote_commit": "9ca00e0528510be318c21e61679089003ab01223",
+  "scope": "卷036独立作者分支的原文、引句与阅读结构核验；共同来源、百科核对、相邻导航及索引由主审统一整合，合并后全站统计见本轮总记录。",
+  "prose_units": 32,
+  "author_comments_in_prose": [
+    "P029",
+    "P030",
+    "P031",
+    "P032"
+  ],
+  "later_praise_units": 1,
+  "structure_markers": 1,
+  "raw_main_lines_covered": 33,
+  "raw_source_quote_order_exact": true,
+  "original_raw_bytes_sha256": "a8872ac25bc8f93e57d844da34a6cb9cde37902024e7a521c843782968f66c6c",
+  "existing_raw_witness_files_modified": false,
+  "three_commentary_html_paragraphs": 33,
+  "supplement_units": 0,
+  "supplement_review": "主底本L3318—L3350与既有三家注p0—p32逐段相应，未发现需要补回的整段缺文；三家注异文与漏代解释另入注。",
+  "reading_pages_touched": 78,
+  "annual_pages_touched": 76,
+  "period_pages_touched": 2,
+  "new_annual_pages": [
+    "years/bce-0900-0801/bce-0832.md",
+    "years/bce-0800-0701/bce-0755.md"
+  ],
+  "new_numbered_reading_groups": 9,
+  "new_group_details": [
+    {
+      "path": "years/bce-0900-0801/bce-0832.md",
+      "number": 1,
+      "event_anchor": "sj036-chen-you-death-event",
+      "note_anchor": "sj036-chen-you-death-note",
+      "title": "陈幽公去世，釐公承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0796.md",
+      "number": 3,
+      "event_anchor": "sj036-chen-xi-death-event",
+      "note_anchor": "sj036-chen-xi-death-note",
+      "title": "陈釐公去世，武公承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0781.md",
+      "number": 2,
+      "event_anchor": "sj036-chen-wu-death-event",
+      "note_anchor": "sj036-chen-wu-death-note",
+      "title": "陈武公去世，夷公承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0778.md",
+      "number": 2,
+      "event_anchor": "sj036-chen-yi-death-event",
+      "note_anchor": "sj036-chen-yi-death-note",
+      "title": "陈夷公去世，弟弟平公承继"
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0755.md",
+      "number": 1,
+      "event_anchor": "sj036-chen-ping-death-event",
+      "note_anchor": "sj036-chen-ping-death-note",
+      "title": "陈平公去世，文公承继"
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0506.md",
+      "number": 16,
+      "event_anchor": "sj036-qi-yin-killed-event",
+      "note_anchor": "sj036-qi-yin-killed-note",
+      "title": "杞隐公被弟弟杀死，釐公接位"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0471.md",
+      "number": 7,
+      "event_anchor": "sj036-qi-min-killed-event",
+      "note_anchor": "sj036-qi-min-killed-note",
+      "title": "杞湣公被弟弟阏路杀死"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0461.md",
+      "number": 2,
+      "event_anchor": "sj036-qi-ai-death-event",
+      "note_anchor": "sj036-qi-ai-death-note",
+      "title": "杞哀公去世，出公承继"
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0449.md",
+      "number": 3,
+      "event_anchor": "sj036-qi-chu-death-event",
+      "note_anchor": "sj036-qi-chu-death-note",
+      "title": "杞出公去世，简公承继"
+    }
+  ],
+  "destination_bindings": 100,
+  "quote_placements": 100,
+  "quote_source_exact_substrings": 100,
+  "quote_placement_errors": [],
+  "all_existing_reading_anchors_preserved": true,
+  "standalone_branch_reading_scan": {
+    "pages": 780,
+    "year_pages": 773,
+    "period_pages": 7,
+    "events": 5016,
+    "notes": 5016,
+    "body_refs": 5016,
+    "backrefs": 5016,
+    "body_headings": 0,
+    "body_source_links": 0,
+    "external_links": 0,
+    "post_nav_pages": 0,
+    "structural_problems": [],
+    "bad_paths": [],
+    "bad_fragments": [],
+    "missing_local_fragment_targets": []
+  },
+  "chronology_review": "完整原文与白话、陈君初世年链、实际卒年与次年元年、陈佗与厉跃、陈惠追元、陈亡及孔子卒三层书证、杞成公漏代和桓公年数、杞晚世古代编年互证已由作者与独立考证交叉复核；已知争议保留。",
+  "unresolved_topics": [
+    "陈幽公十二／十四年与釐公五／六年",
+    "陈佗、五父、厉公跃及利公五月的传本混杂",
+    "陈完出生与占辞、婚姻叙事的时间层次",
+    "成公［二十］八年疑衍与哀公三十四／三十五年",
+    "前534经十月／传十一月、偃师姓名、使者及陈公人选",
+    "前529实际复陈与前533惠公追元、陈火十／七年异文",
+    "陈怀公拒吴故事与吴入楚先后",
+    "孔子适陈及艾陵同步语异年",
+    "陈湣公二十四年推478、年表二十三年记479、经传灭陈478与孔子卒479",
+    "杞成公漏代、桓公十七／七十及早期世系无法倒推",
+    "杞隐506、湣471、哀461、出449有据暂系而非经文直载",
+    "杞湣十五灭陈、简公一／四年与后陈三十四年的互斥或多解算链",
+    "伯翳与益数量重叠及其后句的释读边界"
+  ],
+  "integration_handoff": {
+    "shared_dependencies": [
+      "sources/补充阅读/杞国末世纪年-正义与分纪摘录.md",
+      "meta/考证/史记-卷036至037-百科核对.md"
+    ],
+    "shared_dependency_owner": "本轮主审统一提交；不在本卷作者提交内。",
+    "navigation_neighbors_to_update": [
+      "years/bce-0900-0801/bce-0834.md",
+      "years/bce-0900-0801/bce-0831.md",
+      "years/bce-0800-0701/bce-0756.md",
+      "years/bce-0800-0701/bce-0754.md"
+    ],
+    "shared_indexes": "README与世纪目录由主审合并两卷后统一更新。",
+    "standalone_full_integration_pass": false,
+    "reason": "作者工作范围内原文、引句、阅读格式和旧锚核验通过；全站导航及共同百科入口留待主审整合。"
+  },
+  "quote_checks": [
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p001",
+      "quote_characters": 105,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p002",
+      "quote_characters": 66,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0841.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p003",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0832.md",
+      "note_anchor": "sj036-chen-you-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0831.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0900-0801/bce-0827.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0796.md",
+      "note_anchor": "sj036-chen-xi-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0795.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0781.md",
+      "note_anchor": "sj036-chen-wu-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0780.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 22,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0778.md",
+      "note_anchor": "sj036-chen-yi-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0777.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0771.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 25,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0770.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p004",
+      "quote_characters": 25,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0755.md",
+      "note_anchor": "sj036-chen-ping-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p005",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0754.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p006",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0745.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p006",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0744.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p006",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0722.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p007",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0719.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p007",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0712.md",
+      "note_anchor": "note-10",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p007",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0707.md",
+      "note_anchor": "reading-note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p008",
+      "quote_characters": 65,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0706.md",
+      "note_anchor": "note-10",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p010",
+      "quote_characters": 76,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0800-0701/bce-0705.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p009",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0700.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p010",
+      "quote_characters": 26,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0699.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p010",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0693.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p010",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0692.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p010",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0690.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p011",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0676.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p011",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0672.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p012",
+      "quote_characters": 90,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0672.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p009",
+      "quote_characters": 97,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0672.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p012",
+      "quote_characters": 59,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0656.md",
+      "note_anchor": "reading-note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p013",
+      "quote_characters": 58,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0656.md",
+      "note_anchor": "reading-note-7",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p013",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0648.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 18,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0647.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 18,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0643.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 10,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "note_anchor": "reading-note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0632.md",
+      "note_anchor": "reading-note-15",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0631.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0626.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 23,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0621.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 9,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0614.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0613.md",
+      "note_anchor": "note-13",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p014",
+      "quote_characters": 15,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0613.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p015",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0608.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p015",
+      "quote_characters": 7,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0604.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p015",
+      "quote_characters": 8,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0600.md",
+      "note_anchor": "note-10",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p016",
+      "quote_characters": 70,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0599.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p016",
+      "quote_characters": 106,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0598.md",
+      "note_anchor": "reading-note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p017",
+      "quote_characters": 56,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0598.md",
+      "note_anchor": "reading-note-7",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p017",
+      "quote_characters": 164,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0591.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p018",
+      "quote_characters": 12,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0570.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p018",
+      "quote_characters": 10,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0569.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p018",
+      "quote_characters": 32,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0568.md",
+      "note_anchor": "note-12",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p018",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0566.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p019",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0541.md",
+      "note_anchor": "note-13",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p019",
+      "quote_characters": 21,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0534.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p020",
+      "quote_characters": 142,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0534.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p020",
+      "quote_characters": 7,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0534.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p020",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0534.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p021",
+      "quote_characters": 121,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0529.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p022",
+      "quote_characters": 78,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0524.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p023",
+      "quote_characters": 6,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0519.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p023",
+      "quote_characters": 21,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0506.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p023",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0506.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p023",
+      "quote_characters": 17,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0505.md",
+      "note_anchor": "note-14",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p024",
+      "quote_characters": 54,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0502.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p024",
+      "quote_characters": 44,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0501.md",
+      "note_anchor": "note-9",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p024",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0496.md",
+      "note_anchor": "sj014-audit-0496-confucius-chen-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 10,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0494.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0494.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p024",
+      "quote_characters": 54,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0489.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 47,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0487.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 8,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0484.md",
+      "note_anchor": "note-3",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 33,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0486.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 4,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0481.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0479.md",
+      "note_anchor": "note-5",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p025",
+      "quote_characters": 35,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0478.md",
+      "note_anchor": "note-4",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p026",
+      "quote_characters": 35,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0479.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p026",
+      "quote_characters": 7,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/06-商末与周初.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p027",
+      "quote_characters": 51,
+      "source_match": true
+    },
+    {
+      "path": "years/上古/07-西周的治理与危机.md",
+      "note_anchor": "note-11",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 38,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0700-0601/bce-0637.md",
+      "note_anchor": "note-8",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 25,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0567.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0550.md",
+      "note_anchor": "note-2",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 14,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0536.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0518.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0506.md",
+      "note_anchor": "note-6",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 31,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0487.md",
+      "note_anchor": "note-7",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 13,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0445.md",
+      "note_anchor": "note-1",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 88,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0445.md",
+      "note_anchor": "sj036-retrospect",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p029",
+      "quote_characters": 11,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0445.md",
+      "note_anchor": "sj036-retrospect",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p030",
+      "quote_characters": 250,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0445.md",
+      "note_anchor": "sj036-retrospect",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p031",
+      "quote_characters": 54,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0445.md",
+      "note_anchor": "sj036-retrospect",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p032",
+      "quote_characters": 93,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0445.md",
+      "note_anchor": "sj036-retrospect",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "z001",
+      "quote_characters": 88,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0600-0501/bce-0506.md",
+      "note_anchor": "sj036-qi-yin-killed-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 24,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0471.md",
+      "note_anchor": "sj036-qi-min-killed-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 20,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0461.md",
+      "note_anchor": "sj036-qi-ai-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 18,
+      "source_match": true
+    },
+    {
+      "path": "years/bce-0500-0401/bce-0449.md",
+      "note_anchor": "sj036-qi-chu-death-note",
+      "source_path": "sources/摘录/史记-卷036-陈杞世家.md",
+      "source_anchor": "p028",
+      "quote_characters": 13,
+      "source_match": true
+    }
+  ],
+  "pass": true
+}

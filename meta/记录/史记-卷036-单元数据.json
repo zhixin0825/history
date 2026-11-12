@@ -1,0 +1,952 @@
+{
+  "volume": "036",
+  "title": "陈杞世家",
+  "date": "2026-11-11",
+  "primary_witness": "sources/本地分卷/史记/史记-卷036.txt",
+  "structure_markers": [
+    {
+      "line": 3317,
+      "text": "*01-036*"
+    }
+  ],
+  "prose_units": 32,
+  "author_comments_included": [
+    "P029",
+    "P030",
+    "P031",
+    "P032"
+  ],
+  "later_praise_units": 1,
+  "units": [
+    {
+      "id": "P001",
+      "kind": "primary_paragraph",
+      "raw": "陳胡公滿者，虞帝舜之後也。昔舜為庶人時，堯妻之二女，居于媯汭，其後因為氏姓，姓媯氏。舜已崩，傳禹天下，而舜子商均為封國。夏后之時，或失或續。至于周武王克殷紂，乃復求舜後，得媯滿，封之於陳，以奉帝舜祀，是為胡公。",
+      "title": "妫满受封陈与舜后世系",
+      "reading": "陈胡公名满，被传世谱系视为虞舜后裔。舜还是平民时，尧把两个女儿嫁给他；舜住在妫汭，后代以妫为姓。舜禅位给禹后，儿子商均获得封国，此后祭祀和封国时续时断。周武王灭商后找到妫满，封于陈，延续祭舜，称胡公。这是宗族起源与周初分封的合叙，没有提供逐代可靠绝对年。",
+      "line": 3318,
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "note-11",
+          "placement_anchor": "sj036-cite-001",
+          "number": 11
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "kind": "primary_paragraph",
+      "raw": "胡公卒，子申公犀侯立。申公卒，弟相公皋羊立。相公卒，立申公子突，是為孝公。孝公卒，子慎公圉戎立。慎公當周厲王時。慎公卒，子幽公寧立。",
+      "title": "陈胡公至幽公的早期承继",
+      "reading": "胡公之后先由儿子犀侯继位，为申公；申公死后弟弟皋羊为相公，再回到申公之子突，为孝公。孝公之子圉戎为慎公，慎公之子宁为幽公。主文把慎公放在周厉王时，但没有写这些早期君主各自的在位数；不据世数向前平均分年。",
+      "line": 3319,
+      "destinations": [
+        {
+          "path": "years/上古/07-西周的治理与危机.md",
+          "note_anchor": "note-11",
+          "placement_anchor": "sj036-cite-002",
+          "number": 11
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "primary_paragraph",
+      "raw": "幽公十二年，周厲王奔于彘。",
+      "title": "陈幽公年下的厉王出奔",
+      "reading": "主文把周厉王奔彘放在陈幽公十二年。《十二诸侯年表》共和元年对应前841年，却列陈幽公十四年，两种国君年数相差二年。厉王出奔仍接前841年的共同事件，陈君年数差异保留在注中。",
+      "line": 3320,
+      "destinations": [
+        {
+          "path": "years/bce-0900-0801/bce-0841.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj036-cite-003",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "primary_paragraph",
+      "raw": "二十三年，幽公卒，子釐公孝立。釐公六年，周宣王即位。三十六年，釐公卒，子武公靈立。武公十五年卒，子夷公說立。是歲，周幽王即位。夷公三年卒，弟平公燮立。平公七年，周幽王為犬戎所殺，周東徙。秦始列為諸侯。",
+      "title": "陈幽釐武夷平诸公与周王年链",
+      "reading": "幽公二十三年死，儿子孝为釐公；釐公三十六年死，儿子灵为武公；武公十五年死，儿子说为夷公；夷公三年死，弟弟燮为平公。主文又以宣王即位、幽王即位和犬戎之乱作相对年代。年表的釐公五年已经对应前827宣王元年，主文却说六年；其余连续年行仍可分别核到幽公前832、釐公前796、武公前781、夷公前778年卒。幽王之死与随后东迁分读前771、770年。",
+      "line": 3321,
+      "destinations": [
+        {
+          "path": "years/bce-0900-0801/bce-0832.md",
+          "note_anchor": "sj036-chen-you-death-note",
+          "placement_anchor": "sj036-cite-004",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0900-0801/bce-0831.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-005",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0900-0801/bce-0827.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-006",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0796.md",
+          "note_anchor": "sj036-chen-xi-death-note",
+          "placement_anchor": "sj036-cite-007",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0795.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-008",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0781.md",
+          "note_anchor": "sj036-chen-wu-death-note",
+          "placement_anchor": "sj036-cite-009",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0780.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj036-cite-010",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0778.md",
+          "note_anchor": "sj036-chen-yi-death-note",
+          "placement_anchor": "sj036-cite-011",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0777.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-012",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0771.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-013",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0770.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-014",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "primary_paragraph",
+      "raw": "二十三年，平公卒，子文公圉立。",
+      "title": "陈平公去世与文公承继",
+      "reading": "平公在位二十三年去世，儿子圉继位，为文公。年表前755年列平公二十三年，前754年改列文公元年；卒年与翌年纪元分开。",
+      "line": 3322,
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0755.md",
+          "note_anchor": "sj036-chen-ping-death-note",
+          "placement_anchor": "sj036-cite-015",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "primary_paragraph",
+      "raw": "文公元年，取蔡女，生子佗。十年，文公卒，長子桓公鮑立。",
+      "title": "陈文公婚姻与桓公承继",
+      "reading": "主文在文公元年下记娶蔡国女子、生佗，十年文公去世，长子鲍继位，为桓公。婚姻与生子合叙于元年下，具体月日未载。文公卒事为前745年，桓公元年为前744年；佗及厉公的身份还须结合后文异说。",
+      "line": 3323,
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0754.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-016",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0745.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-017",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0744.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-018",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "primary_paragraph",
+      "raw": "桓公二十三年，魯隱公初立。二十六年，衛殺其君州吁。三十三年，魯弒其君隱公。",
+      "title": "陈桓公在位时的鲁卫大事",
+      "reading": "陈桓公二十三年对应鲁隐公开始摄政，二十六年卫人杀州吁，三十三年鲁隐公被杀。这三项分入前722、719、712年，不把三十余年的相对纪年写成同一年。",
+      "line": 3324,
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0722.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-019",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0719.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-020",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0800-0701/bce-0712.md",
+          "note_anchor": "note-10",
+          "placement_anchor": "sj036-cite-021",
+          "number": 10
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "primary_paragraph",
+      "raw": "三十八年正月甲戌己丑，桓公鮑卒。桓公弟佗，其母蔡女，故蔡人為佗殺五父及桓公太子免而立佗，是為厲公。桓公病而亂作，國人分散，故再赴。",
+      "title": "陈桓公之死与佗五父身份分歧",
+      "reading": "桓公三十八年去世，陈国发生继承内乱，因国中分裂而两次报丧。主文说桓公弟佗得到蔡人帮助，杀五父和太子免而为厉公；《左传》和《索隐》却以五父为佗本人、厉公为跃，指出这里把一人拆开又混淆谥号。正文依经传叙佗杀太子免、前706年蔡人杀佗，完整保存本篇异文。",
+      "line": 3325,
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0707.md",
+          "note_anchor": "reading-note-1",
+          "placement_anchor": "sj036-cite-022",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "primary_paragraph",
+      "raw": "厲公二年，生子敬仲完。周太史過陳，陳厲公使以《周易》筮之，卦得觀之否：「是為觀國之光，利用賓于王。此其代陳有國乎？不在此，其在異國？非此其身，在其子孫。若在異國，必姜姓。姜姓，太嶽之後。物莫能兩大，陳衰，此其昌乎？」",
+      "title": "陈完出生与观之否占辞",
+      "reading": "主文在厉公二年下记儿子完出生，又追叙周太史为他占得观之否，推言完的后代将兴起于异国、姜姓之国。出生沿年表置前705年；占辞只作为陈完前事附在前672年出奔处，未给未载年月的占卜另造确年，也不当作已被证实的预测。",
+      "line": 3326,
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0705.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-024",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-032",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "primary_paragraph",
+      "raw": "厲公取蔡女，蔡女與蔡人亂，厲公數如蔡淫。七年，厲公所殺桓公太子免之三弟，長曰躍，中曰林，少曰杵臼，共令蔡人誘厲公以好女，與蔡人共殺厲公而立躍，是為利公。利公者，桓公子也。利公立五月卒，立中弟林，是為莊公。莊公七年卒，少弟杵臼立，是為宣公。",
+      "title": "佗跃林杵臼之间的承继异传",
+      "reading": "主文说厉公频往蔡国，太子免的弟弟跃、林、杵臼联络蔡人将其杀死，再立跃为利公；跃仅在位五个月，死后林为庄公，庄公七年死后杵臼为宣公。经传则前706年已记蔡人杀佗，前700年记陈侯跃卒，前693年记陈侯林卒。本篇把佗、厉公跃和利公的名称、年数混杂，不能照此多造一次前700年佗死。",
+      "line": 3327,
+      "destinations": [
+        {
+          "path": "years/bce-0800-0701/bce-0706.md",
+          "note_anchor": "note-10",
+          "placement_anchor": "sj036-cite-023",
+          "number": 10
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0700.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-025",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0699.md",
+          "note_anchor": "note-9",
+          "placement_anchor": "sj036-cite-026",
+          "number": 9
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0693.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-027",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0692.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-028",
+          "number": 6
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "primary_paragraph",
+      "raw": "宣公三年，楚武王卒，楚始彊。十七年，周惠王娶陳女為后。",
+      "title": "陈宣公年下的楚王与周后",
+      "reading": "宣公三年记楚武王去世，十七年记周惠王娶陈国女子为后，分别接前690、676年。楚的扩张是跨年的趋势，“楚始强”不能另作本年新增战役。",
+      "line": 3328,
+      "destinations": [
+        {
+          "path": "years/bce-0700-0601/bce-0690.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-029",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0676.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj036-cite-030",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "primary_paragraph",
+      "raw": "二十一年，宣公後有嬖姬生子款，欲立之，乃殺其太子御寇。御寇素愛厲公子完，完懼禍及己，乃奔齊。齊桓公欲使陳完為卿，完曰：「羈旅之臣，幸得免負檐，君之惠也，不敢當高位。」桓公使為工正。齊懿仲欲妻陳敬仲，卜之，占曰：「是謂鳳皇于飛，和鳴鏘鏘。有媯之後，將育于姜。五世其昌，并于正卿。八世之後，莫之與京。」",
+      "title": "御寇被杀与陈完奔齐",
+      "reading": "陈宣公宠姬生款，想改立他，因而杀太子御寇。御寇向来亲近公子完，完担心受牵连而逃齐。齐桓公想任完为卿，完以流亡者身份推辞，最后任工正。懿仲准备把女儿嫁给他，占辞又以凤凰和鸣、妫后兴于姜姓解释其婚姻和后代兴盛；官职与卜辞分清事实叙事和后出预言层次。",
+      "line": 3329,
+      "destinations": [
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-031",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0672.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-033",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "primary_paragraph",
+      "raw": "三十七年，齊桓公伐蔡，蔡敗；南侵楚，至召陵，還過陳。陳大夫轅濤涂惡其過陳，詐齊令出東道。東道惡，桓公怒，執陳轅濤涂。是歲，晉獻公殺其太子申生。",
+      "title": "召陵回师与辕涛涂被执",
+      "reading": "齐桓公攻蔡后南向楚，军至召陵；回师时陈大夫辕涛涂想避免联军经过陈国，建议走东方，因道路不利被齐侯拘押。主文还把晋太子申生之死接在同年。相关事件均接前656年已有条目，齐军此后的再侵陈与释放辕涛涂依经传分清先后。",
+      "line": 3330,
+      "destinations": [
+        {
+          "path": "years/bce-0700-0601/bce-0656.md",
+          "note_anchor": "reading-note-4",
+          "placement_anchor": "sj036-cite-034",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0656.md",
+          "note_anchor": "reading-note-7",
+          "placement_anchor": "sj036-cite-035",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "kind": "primary_paragraph",
+      "raw": "四十五年，宣公卒，子款立，是為穆公。穆公五年，齊桓公卒。十六年，晉文公敗楚師于城濮。是歲，穆公卒，子共公朔立。共公六年，楚太子商臣弒其父成王代立，是為穆王。十一年，秦穆公卒。十八年，共公卒，子靈公平國立。",
+      "title": "陈宣穆共诸公的承继与列国大事",
+      "reading": "宣公四十五年死，款为穆公；穆公五年齐桓公死，十六年发生城濮之战，穆公也在这一年去世，子朔为共公。共公六年楚商臣弑成王，十一年秦穆公死，十八年共公死，儿子平国为灵公。卒事与元年逐项对读：宣公前648卒、穆公前647元；穆公前632卒、共公前631元；共公前614卒、灵公前613元。",
+      "line": 3331,
+      "destinations": [
+        {
+          "path": "years/bce-0700-0601/bce-0648.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-036",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0647.md",
+          "note_anchor": "note-9",
+          "placement_anchor": "sj036-cite-037",
+          "number": 9
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0643.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-038",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0632.md",
+          "note_anchor": "reading-note-6",
+          "placement_anchor": "sj036-cite-039",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0632.md",
+          "note_anchor": "reading-note-15",
+          "placement_anchor": "sj036-cite-040",
+          "number": 15
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0631.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-041",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0626.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-042",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0621.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-043",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0614.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-044",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0613.md",
+          "note_anchor": "note-13",
+          "placement_anchor": "sj036-cite-045",
+          "number": 13
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "kind": "primary_paragraph",
+      "raw": "靈公元年，楚莊王即位。六年，楚伐陳。十年，陳及楚平。",
+      "title": "陈灵公初年的楚陈关系",
+      "reading": "陈灵公元年与楚庄王开始纪年相对；六年楚伐陈，十年陈楚讲和。这些材料分别对应前613、608、604年，说明陈国在晋楚之间调整关系，不能把一次讲和当作永久结盟。",
+      "line": 3332,
+      "destinations": [
+        {
+          "path": "years/bce-0700-0601/bce-0613.md",
+          "note_anchor": "note-11",
+          "placement_anchor": "sj036-cite-046",
+          "number": 11
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0608.md",
+          "note_anchor": "note-7",
+          "placement_anchor": "sj036-cite-047",
+          "number": 7
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0604.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-048",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "kind": "primary_paragraph",
+      "raw": "十四年，靈公與其大夫孔寧、儀行父皆通於夏姬，衷其衣以戲於朝。泄冶諫曰：「君臣淫亂，民何效焉？」靈公以告二子，二子請殺泄冶，公弗禁，遂殺泄冶。十五年，靈公與二子飲於夏氏。公戲二子曰：「徵舒似汝。」二子曰：「亦似公。」徵舒怒。靈公罷酒出，徵舒伏弩廏門射殺靈公。孔寧、儀行父皆奔楚，靈公太子午奔晉。徵舒自立為陳侯。徵舒，故陳大夫也。夏姬，御叔之妻，舒之母也。",
+      "title": "泄冶被杀与夏徵舒弑灵公",
+      "reading": "灵公与孔宁、仪行父同夏姬私通，又拿她的衣物在朝廷嬉戏。泄冶劝谏，二臣请求杀他，灵公没有阻止。次年灵公与二臣在夏氏饮酒，拿夏徵舒的相貌相互嘲笑；徵舒伏弩于马厩门，射杀灵公，孔宁、仪行父逃楚。主文另说太子午奔晋、徵舒自立，须与经传在楚讨夏氏以前已经出现陈侯的叙事区别，不把古注所述相貌笑话当作确定父子关系。",
+      "line": 3333,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0600.md",
+          "note_anchor": "note-10",
+          "placement_anchor": "sj036-cite-049",
+          "number": 10
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0599.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-050",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "kind": "primary_paragraph",
+      "raw": "成公元年冬，楚莊王為夏徵舒殺靈公，率諸侯伐陳。謂陳曰：「無驚，吾誅徵舒而已。」已誅徵舒，因縣陳而有之，群臣畢賀。申叔時使於齊來還，獨不賀。莊王問其故，對曰：「鄙語有之，牽牛徑人田，田主奪之牛。徑則有罪矣，奪之牛，不亦甚乎？今王以徵舒為賊弒君，故徵兵諸侯，以義伐之，已而取之，以利其地，則後何以令於天下！是以不賀。」莊王曰：「善。」乃迎陳靈公太子午於晉而立之，復君陳如故，是為成公。孔子讀史記至楚復陳，曰：「賢哉楚莊王！輕千乘之國而重一言。」",
+      "title": "楚庄王讨夏氏与恢复陈国",
+      "reading": "楚庄王以讨伐弑君者为名攻陈，诛夏徵舒后把陈改为县。群臣祝贺，出使归来的申叔时独不贺，用行人牵牛践田、田主不可夺牛作比，批评楚借讨罪吞人国土。庄王接受劝告，恢复陈国。本篇把迎太子午于晋、立为成公连在此后；经传却在这年夏天辰陵之盟已记陈侯，首次拥立的时间不能照本篇叙述强定为冬。最后孔子的赞语是后来的读史评论，不是楚庄王在位时孔子已经在场。",
+      "line": 3334,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0598.md",
+          "note_anchor": "reading-note-6",
+          "placement_anchor": "sj036-cite-051",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0598.md",
+          "note_anchor": "reading-note-7",
+          "placement_anchor": "sj036-cite-052",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "kind": "primary_paragraph",
+      "raw": "［二十］八年，楚莊王卒。二十九年，陳倍楚盟。三十年，楚共王伐陳。是歲，成公卒，子哀公弱立。楚以陳喪，罷兵去。",
+      "title": "陈成公八年疑字及晚年背楚",
+      "reading": "底本保留“［二十］八年，楚庄王卒”，三家注主文作二十八年；与楚庄王前591年去世、陈成公前598年元年核对，应是第八年，“二十”为疑衍。后文二十九年陈背楚对应前570，三十年楚伐陈、成公去世对应前569，不能把这里的二十九、三十也删掉。楚闻丧暂缓进攻，并不等于此后整年无战事。",
+      "line": 3335,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0591.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-053",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0570.md",
+          "note_anchor": "note-7",
+          "placement_anchor": "sj036-cite-054",
+          "number": 7
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0569.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-055",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0568.md",
+          "note_anchor": "note-12",
+          "placement_anchor": "sj036-cite-056",
+          "number": 12
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "kind": "primary_paragraph",
+      "raw": "哀公三年，楚圍陳，復釋之。二十八年，楚公子圍弒其君郟敖自立，為靈王。",
+      "title": "陈哀公时的围陈与楚灵王夺位",
+      "reading": "哀公三年，楚军围陈后退去；二十八年，楚公子围杀郏敖自立为灵王。分别接前566、541年。陈哀公的年次与前面成公的长年链相承。",
+      "line": 3336,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0566.md",
+          "note_anchor": "note-9",
+          "placement_anchor": "sj036-cite-057",
+          "number": 9
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0541.md",
+          "note_anchor": "note-13",
+          "placement_anchor": "sj036-cite-058",
+          "number": 13
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "kind": "primary_paragraph",
+      "raw": "三十四年，初，哀公娶鄭，長姬生悼太子師，少姬生偃。二嬖妾，長妾生留，少妾生勝。留有寵哀公，哀公屬之其弟司徒招。哀公病，三月，招殺悼太子，立留為太子。哀公怒，欲誅招，招發兵圍守哀公，哀公自經殺。招卒立留為陳君。四月，陳使使赴楚。楚靈王聞陳亂，乃殺陳使者，使公子棄疾發兵伐陳，陳君留奔鄭。九月，楚圍陳。十一月，滅陳。使棄疾為陳公。",
+      "title": "陈哀公继承内乱与楚第一次灭陈",
+      "reading": "主文叙哀公宠爱公子留，将他托给弟弟司徒招；哀公病时，招杀太子、改立留，围逼哀公，哀公缢死。楚得知内乱后杀陈使、发兵，留逃郑，楚围陈并灭之。主文把悼太子“师”和“偃”拆为两人，又记三十四年、十一月灭陈和弃疾为陈公。太子姓名及哀公年次依经传与古注核读；灭陈经文作冬十月，传文作冬十一月，世家与传文相合；受命陈公在传文是穿封戌。正文依前534年的经传明条，分别留注。",
+      "line": 3337,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0534.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-059",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0534.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-060",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0534.md",
+          "note_anchor": "note-8",
+          "placement_anchor": "sj036-cite-061",
+          "number": 8
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "kind": "primary_paragraph",
+      "raw": "招之殺悼太子也，太子之子名吳，出奔晉。晉平公問太史趙曰：「陳遂亡乎？」對曰：「陳，顓頊之族。陳氏得政於齊，乃卒亡。自幕至于瞽瞍，無違命。舜重之以明德。至於遂，世世守之。及胡公，周賜之姓，使祀虞帝。且盛德之後，必百世祀。虞之世未也，其在齊乎？」",
+      "title": "太史赵论陈氏后裔",
+      "reading": "悼太子之子吴逃到晋国。晋平公问陈国是否从此断绝，太史赵以陈国出自舜后、先祖德泽未尽，推言其后裔将转盛于齐。原文的幕、瞽瞍、遂等世系解释在古注中也有分歧。这是一段以祖德解释后世兴亡的言论，不能据此把田氏后来代齐提前写在灭陈当年。",
+      "line": 3338,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0534.md",
+          "note_anchor": "note-8",
+          "placement_anchor": "sj036-cite-062",
+          "number": 8
+        }
+      ]
+    },
+    {
+      "id": "P022",
+      "kind": "primary_paragraph",
+      "raw": "楚靈王滅陳五歲，楚公子棄疾弒靈王代立，是為平王。平王初立，欲得和諸侯，乃求故陳悼太子師之子吳，立為陳侯，是為惠公。惠公立，探續哀公卒時年而為元，空籍五歲矣。",
+      "title": "楚平王复陈与惠公追记年次",
+      "reading": "楚灵王灭陈若干年后，主文说弃疾弑灵王而自立，为楚平王；前529年的《左传》则记灵王自缢，两种叙法不能混同。平王立悼太子之子吴为陈侯，即惠公，以修复和诸侯的关系。主文说惠公追接失国时期纪年，空记五年。实际复国在前529，年表把前533追列惠公元年；两种口径须分开，不能把前533误写成已经复国，也不能把“五岁”当作五个完整周年。",
+      "line": 3339,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0529.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-063",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P023",
+      "kind": "primary_paragraph",
+      "raw": "十年，陳火。十五年，吳王僚使公子光伐陳，取胡、沈而去。二十八年，吳王闔閭與子胥敗楚入郢。是年，惠公卒，子懷公柳立。",
+      "title": "陈火吴伐与陈惠公之死",
+      "reading": "本底本作惠公十年陈火，三家注作七年；经传在前533和前524各有陈地火灾，不能把两次火合并。十五年吴公子光伐陈、取胡沈，接前519；二十八年吴破楚入郢和惠公去世同在前506，但惠公二月已死、吴入郢在冬，不能读成他在入郢后才死。柳继位为怀公，翌年前505开始元年。",
+      "line": 3340,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0524.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj036-cite-064",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0519.md",
+          "note_anchor": "note-9",
+          "placement_anchor": "sj036-cite-065",
+          "number": 9
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0506.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-066",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0506.md",
+          "note_anchor": "note-11",
+          "placement_anchor": "sj036-cite-067",
+          "number": 11
+        }
+      ]
+    },
+    {
+      "id": "P024",
+      "kind": "primary_paragraph",
+      "raw": "懷公元年，吳破楚，在郢，召陳侯。陳侯欲往，大夫曰：「吳新得意；楚王雖亡，與陳有故，不可倍。」懷公乃以疾謝吳。四年，吳復召懷公。懷公恐，如吳。吳怒其前不往，留之，因卒吳。陳乃立懷公之子越，是為湣公。",
+      "title": "陈怀公拒吴赴吴与去世",
+      "reading": "主文说吴占郢时召陈侯，陈君听大夫劝告，以病推辞；四年再次被召，因惧赴吴，却被扣留并死于吴，儿子越为湣公。经传把第一次议论作为前494年伐陈的前因，追叙在前506吴入楚之际；本篇写怀公元年，存在先后与君名衔接问题，作为背景保留。怀公死与葬在前502，经传没有详写死于吴；湣公的名字又有越、周之异。",
+      "line": 3341,
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0505.md",
+          "note_anchor": "note-14",
+          "placement_anchor": "sj036-cite-068",
+          "number": 14
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0502.md",
+          "note_anchor": "note-8",
+          "placement_anchor": "sj036-cite-069",
+          "number": 8
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0501.md",
+          "note_anchor": "note-9",
+          "placement_anchor": "sj036-cite-070",
+          "number": 9
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0494.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-073",
+          "number": 6
+        }
+      ]
+    },
+    {
+      "id": "P025",
+      "kind": "primary_paragraph",
+      "raw": "湣公六年，孔子適陳。吳王夫差伐陳，取三邑而去。十三年，吳復來伐陳，陳告急楚，楚昭王來救，軍於城父，吳師去。是年，楚昭王卒於城父。時孔子在陳。十五年，宋滅曹。十六年，吳王夫差伐齊，敗之艾陵，使人召陳侯。陳侯恐，如吳。楚伐陳。二十一年，齊田常弒其君簡公。二十三年，楚之白公勝殺令尹子西、子綦，襲惠王。葉公攻敗白公，白公自殺。",
+      "title": "陈湣公时的孔子吴楚与列国变局",
+      "reading": "主文依次记孔子如陈、吴取陈三邑，楚昭王救陈并死于城父，宋灭曹，吴胜齐于艾陵，田常弑齐简公，白公胜作乱及败亡。这些分别跨前496、494、489、487、484、481、479年；湣公十六年直算前486，与艾陵前484不合，不能把整段仅按王年计算。孔子如陈的前496旧系与其他行迹推系有分歧，不假定他连续八年住陈。",
+      "line": 3342,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0496.md",
+          "note_anchor": "sj014-audit-0496-confucius-chen-note",
+          "placement_anchor": "sj036-cite-071",
+          "number": null
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0494.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-072",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0489.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-074",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0487.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-075",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0484.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj036-cite-076",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0486.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-077",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0481.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-078",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj036-cite-079",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "id": "P026",
+      "kind": "primary_paragraph",
+      "raw": "二十四年，楚惠王復國，以兵北伐，殺陳湣公，遂滅陳而有之。是歲，孔子卒。",
+      "title": "楚最终灭陈与孔子卒年分歧",
+      "reading": "主文将楚惠王恢复王位、杀陈湣公并灭陈系于湣公二十四年，又说孔子同年去世。以前501湣公元年相承，二十四年应为前478；《十二诸侯年表》却在前479陈栏写二十三年楚灭陈。经传独立记灭陈在前478、孔子卒在前479。正文采用经传的分年，世家年数、年表年行与“是岁孔子卒”三层差异都保留，不为凑同年移动史事。",
+      "line": 3343,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0478.md",
+          "note_anchor": "note-4",
+          "placement_anchor": "sj036-cite-080",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0479.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-081",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": "P027",
+      "kind": "primary_paragraph",
+      "raw": "杞東樓公者，夏后禹之後苗裔也。殷時或封或絕。周武王克殷紂，求禹之後，得東樓公，封之於杞，以奉夏后氏祀。",
+      "title": "东楼公受封杞与禹后祭祀",
+      "reading": "东楼公被视作夏禹后裔。商代封国时续时绝，周武王灭商后寻得禹后，封东楼公于杞，以延续夏后氏祭祀。初封地、后世东迁和春秋时的封爵称谓属于不同阶段，不把后来的迁徙都放到周初。",
+      "line": 3344,
+      "destinations": [
+        {
+          "path": "years/上古/06-商末与周初.md",
+          "note_anchor": "note-11",
+          "placement_anchor": "sj036-cite-082",
+          "number": 11
+        }
+      ]
+    },
+    {
+      "id": "P028",
+      "kind": "primary_paragraph",
+      "raw": "東樓公生西樓公，西樓公生題公，題公生謀娶公。謀娶公當周厲王時。謀娶公生武公。武公立四十七年卒，子靖公立。靖公二十三年卒，子共公立。共公八年卒，子德公立。德公十八年卒，弟桓公姑容立。桓公十七年卒，子孝公丐立。孝公十七年卒，弟文公益姑立。文公十四年卒，弟平公郁立。平公十八年卒，子悼公成立。悼公十二年卒，子隱公乞立。七月，隱公弟遂弒隱公自立，是為釐公。釐公十九年卒，子湣公維立。湣公十五年，楚惠王滅陳。十六年，湣公弟閼路弒湣公代立，是為哀公。哀公立十年卒，湣公子敕立，是為出公。出公十二年卒，子簡公春立。立一年，楚惠王之四十四年，滅杞。杞後陳亡三十四年。",
+      "title": "杞国世系与多处在位数分歧",
+      "reading": "本段从东楼、西楼、题、谋娶诸公说到武、靖、共、德、桓，再到孝、文、平、悼、隐、釐、湣、哀、出、简。古注指出德即惠，主文漏了成公一代；经传前637成公卒、前567桓公卒相隔七十年，不能采用桓公十七年的短链。孝、文、平、悼、釐等卒事分别与前550、536、518、506、487年核对。隐公前506被杀、湣公前471被杀、哀公前461卒、出公前449卒，可由《正义》引《谱》、《春秋分纪》及《七国统表》的年链互证而暂系。湣公十五年灭陈、简公一年灭杞等同步数字仍有矛盾，保留原文及不同推排，不用一条算式消除全部分歧。",
+      "line": 3345,
+      "destinations": [
+        {
+          "path": "years/上古/07-西周的治理与危机.md",
+          "note_anchor": "note-11",
+          "placement_anchor": "sj036-cite-083",
+          "number": 11
+        },
+        {
+          "path": "years/bce-0700-0601/bce-0637.md",
+          "note_anchor": "note-8",
+          "placement_anchor": "sj036-cite-084",
+          "number": 8
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0567.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-085",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0550.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj036-cite-086",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0536.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-087",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0518.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-088",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0506.md",
+          "note_anchor": "note-6",
+          "placement_anchor": "sj036-cite-089",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0487.md",
+          "note_anchor": "note-7",
+          "placement_anchor": "sj036-cite-090",
+          "number": 7
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0445.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj036-cite-091",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0600-0501/bce-0506.md",
+          "note_anchor": "sj036-qi-yin-killed-note",
+          "placement_anchor": "sj036-cite-097",
+          "number": 16
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0471.md",
+          "note_anchor": "sj036-qi-min-killed-note",
+          "placement_anchor": "sj036-cite-098",
+          "number": 7
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0461.md",
+          "note_anchor": "sj036-qi-ai-death-note",
+          "placement_anchor": "sj036-cite-099",
+          "number": 2
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0449.md",
+          "note_anchor": "sj036-qi-chu-death-note",
+          "placement_anchor": "sj036-cite-100",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "id": "P029",
+      "kind": "primary_paragraph",
+      "raw": "杞小微，其事不足稱述。",
+      "title": "史家的杞国材料限度说明",
+      "reading": "司马迁在此说杞国弱小，能够记述的史事不足。这是说明材料取舍的史家判断，不表示杞国除了列名的君主以外没有历史，也不能据它填补缺失世代和年数。",
+      "line": 3346,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0445.md",
+          "note_anchor": "sj036-retrospect",
+          "placement_anchor": "sj036-cite-092",
+          "number": null
+        }
+      ]
+    },
+    {
+      "id": "P030",
+      "kind": "primary_paragraph",
+      "raw": "舜之後，周武王封之陳，至楚惠王滅之，有世家言。禹之後，周武王封之杞，楚惠王滅之，有世家言。契之後為殷，殷有本紀言。殷破，周封其後於宋，齊湣王滅之，有世家言。后稷之後為周，秦昭王滅之，有本紀言。皋陶之後，或封英、六，楚穆王滅之，無譜。伯夷之後，至周武王復封於齊，曰太公望，陳氏滅之，有世家言。伯翳之後，至周平王時封為秦，項羽滅之，有本紀言。垂、益、夔、龍，其後不知所封，不見也。右十一人者，皆唐虞之際名有功德臣也；其五人之後皆至帝王，餘乃為顯諸侯。滕、薛、騶，夏、殷、周之閒封也，小，不足齒列，弗論也。",
+      "title": "唐虞功臣后裔与本纪世家的编纂范围",
+      "reading": "本段回顾舜、禹、契、后稷、皋陶、伯夷、伯翳以及垂、益、夔、龙等后裔：有的封为陈杞宋齐等国，有的成为王朝，还有的没有可用谱牒。它解释哪些写入本纪、世家，哪些因史料不足略去。十一人及五支帝王是篇章自身的分类；古注解释舜、禹本人为帝王，稷、契、翳的后代成为帝王；伯翳与益是否同人、英与蓼的关系，古注已经提出疑问，不把这份谱系当作无争议的血缘表。",
+      "line": 3347,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0445.md",
+          "note_anchor": "sj036-retrospect",
+          "placement_anchor": "sj036-cite-093",
+          "number": null
+        }
+      ]
+    },
+    {
+      "id": "P031",
+      "kind": "primary_paragraph",
+      "raw": "周武王時，侯伯尚千餘人。及幽、厲之後，諸侯力攻相并。江、黃、胡、沈之屬，不可勝數，故弗采著于傳（上）［云］。",
+      "title": "诸侯兼并与史料遗漏的编纂说明",
+      "reading": "主文概说周武王时侯伯尚有千余，幽、厉以后诸侯相互攻并，江、黄、胡、沈等小国很多，不能逐一写传。这里的千余是史家概述，不能由它计算具体某年的精确国数；“不采著”指篇章取舍，不等于这些国都在同年消失。",
+      "line": 3348,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0445.md",
+          "note_anchor": "sj036-retrospect",
+          "placement_anchor": "sj036-cite-094",
+          "number": null
+        }
+      ]
+    },
+    {
+      "id": "P032",
+      "kind": "primary_paragraph",
+      "raw": "太史公曰：舜之德可謂至矣！禪位於夏，而後世血食者歷三代。及楚滅陳，而田常得政於齊，卒為建國，百世不絕，苗裔茲茲，有土者不乏焉。至禹，於周則杞，微甚，不足數也。楚惠王滅杞，其後越王句踐興。",
+      "title": "太史公论舜禹后裔与末句年代问题",
+      "reading": "司马迁赞舜有德，虽禅位于夏，后裔祭祀仍历三代；陈国被楚灭后，陈氏又在齐国取得政权，终于建国。对禹后的杞国，他强调其衰弱。末句“其后越王句践兴”可作禹之后裔中越王勾践兴起理解，这是本轮释读，并非已核古注定论。勾践前473灭吴早于前445灭杞，不能把“其后”径读为杞亡以后勾践才崛起。",
+      "line": 3349,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0445.md",
+          "note_anchor": "sj036-retrospect",
+          "placement_anchor": "sj036-cite-095",
+          "number": null
+        }
+      ]
+    },
+    {
+      "id": "Z001",
+      "kind": "later_praise",
+      "raw": "【索隱述贊】盛德之祀，必及百世。舜、禹餘烈，陳、杞是繼。媯滿受封，東樓纂系。閼路篡逆，夏姬淫嬖。二國衰微，或興或替。前並後虜，皆亡楚惠。句踐勃興，田和吞噬。蟬聯血食，豈其苗裔？",
+      "title": "后出索隐述赞",
+      "reading": "唐代《索隐述赞》以祖德延续概括陈、杞两国，提到妫满、东楼、阏路、夏姬及田氏兴起。它是后出评论诗，不是司马迁正文，也不能以诗中“勾践勃兴”等排列推算新的年份；与太史公论末句的谱系承续及时间界限一并说明。",
+      "line": 3350,
+      "destinations": [
+        {
+          "path": "years/bce-0500-0401/bce-0445.md",
+          "note_anchor": "sj036-retrospect",
+          "placement_anchor": "sj036-cite-096",
+          "number": null
+        }
+      ]
+    }
+  ]
+}
