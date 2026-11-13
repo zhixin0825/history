@@ -1,0 +1,92 @@
+{
+  "base_main": "d744143e7c763aa986bda4d3a006d2a14a1c633e",
+  "volumes": {
+    "95": {
+      "title": "樊郦滕灌列传",
+      "html_paragraphs": 32,
+      "inline_annotations": 139,
+      "original_html_blob": "fe562878ee123e3efa31193105534ff8990357b8",
+      "annual_quotes": 111
+    },
+    "96": {
+      "title": "张丞相列传",
+      "html_paragraphs": 30,
+      "inline_annotations": 60,
+      "original_html_blob": "1e51a1e713c78bdcbcaf21732f89a7114368c58f",
+      "annual_quotes": 69
+    },
+    "97": {
+      "title": "郦生陆贾列传",
+      "html_paragraphs": 25,
+      "inline_annotations": 66,
+      "original_html_blob": "53e9ea80acf0b95179ec40a4411788651ca2fc56",
+      "annual_quotes": 18
+    },
+    "98": {
+      "title": "傅靳蒯成列传",
+      "html_paragraphs": 14,
+      "inline_annotations": 41,
+      "original_html_blob": "f12de5c8e4c40708be31f49ed3e605ece2e39778",
+      "annual_quotes": 35
+    },
+    "99": {
+      "title": "刘敬叔孙通列传",
+      "html_paragraphs": 21,
+      "inline_annotations": 50,
+      "original_html_blob": "f4f845378e45b67451c60f55a8576767c30bd033",
+      "annual_quotes": 25
+    },
+    "100": {
+      "title": "季布栾布列传",
+      "html_paragraphs": 12,
+      "inline_annotations": 25,
+      "original_html_blob": "7827d12ecab43c0b01e0f257753b0c96ed031e1b",
+      "annual_quotes": 12
+    },
+    "101": {
+      "title": "袁盎晁错列传",
+      "html_paragraphs": 23,
+      "inline_annotations": 52,
+      "original_html_blob": "4ae7d7fdd6d2f50dc5f226f059b1c1c6446bcc38",
+      "annual_quotes": 24
+    },
+    "102": {
+      "title": "张释之冯唐列传",
+      "html_paragraphs": 15,
+      "inline_annotations": 61,
+      "original_html_blob": "cf31d819514409abd273f22ec651a76ce6474aae",
+      "annual_quotes": 13
+    },
+    "103": {
+      "title": "万石张叔列传",
+      "html_paragraphs": 27,
+      "inline_annotations": 51,
+      "original_html_blob": "6c09daba149ce8257c1ede9d1ecfd08cf7e3863a",
+      "annual_quotes": 31
+    },
+    "104": {
+      "title": "田叔列传",
+      "html_paragraphs": 18,
+      "inline_annotations": 38,
+      "original_html_blob": "75001d7353bd5b5663293a2ae880b612ecebafda",
+      "annual_quotes": 10
+    }
+  },
+  "html_paragraphs": 217,
+  "inline_annotations": 583,
+  "year_pages": 88,
+  "year_quotes": 348,
+  "existing_numbered_groups": 183,
+  "new_groups": 21,
+  "promoted_groups": 15,
+  "period_pages": 10,
+  "period_groups": 70,
+  "period_quotes": 146,
+  "exact_html_main_and_annotated": true,
+  "local_links_checked": 3841,
+  "local_text_witness_links": 219,
+  "annual_pages_total": 780,
+  "period_pages_total": 69,
+  "new_external_links": 0,
+  "pdf_page_visual_review": false
+}
