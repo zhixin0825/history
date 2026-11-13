@@ -1,0 +1,22 @@
+{
+  "base_main": "2dccbab176d7c44207677d905088514a0192957c",
+  "paragraphs": 115,
+  "period_new": 1,
+  "added_original": 169,
+  "years": 15,
+  "new_events": 20,
+  "existing_events": 209,
+  "reused_original": 87,
+  "reused_period_pages": 1,
+  "annual_pages_total": 781,
+  "period_pages_total": 97,
+  "year_source_routes": 254,
+  "year_added_original": 167,
+  "year_reused_original": 87,
+  "existing_period_source_routes": 2,
+  "new_period_source_routes": 2,
+  "new_external_links": 0,
+  "new_local_links_checked": 1353,
+  "source_sha256": "4fd2c97ce5c7e6a94c46741897fca72bb84a7e4748096c6d0ab60c392061fd44",
+  "verified": true
+}
