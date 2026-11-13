@@ -1,0 +1,46 @@
+{
+  "date_local": "2026-11-13",
+  "repo": "zhixin0825/history",
+  "scope": "史记卷072至075",
+  "base_from_prev": "卷071",
+  "source_paragraphs": {
+    "072": 12,
+    "073": 16,
+    "074": 15,
+    "075": 20
+  },
+  "source_total": 63,
+  "year_inserts": {
+    "072": 12,
+    "073": 20,
+    "074": 4,
+    "075": 9
+  },
+  "year_total_insertions": 45,
+  "year_page_counts": {
+    "072": 12,
+    "073": 18,
+    "074": 4,
+    "075": 9
+  },
+  "unique_year_pages": 40,
+  "period_event_counts": {
+    "072": 5,
+    "073": 5,
+    "074": 11,
+    "075": 8
+  },
+  "new_period_pages": 5,
+  "period_event_total": 29,
+  "years_all": 780,
+  "periods_all": 37,
+  "reading_pages_all": 817,
+  "source_exact_match": true,
+  "citations_verbatim": true,
+  "link_files_checked": 17,
+  "internal_links_checked": 653,
+  "missing_local_targets": 0,
+  "additional_external_links": 0,
+  "source_of_truth": "GitHub main, 本地三家注原始HTML及已有编年页",
+  "caveat": "未做用户初始PDF逐页视觉对照与历史争议终裁"
+}
