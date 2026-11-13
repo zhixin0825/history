@@ -1,0 +1,104 @@
+{
+  "volume": "064",
+  "title": "司马穰苴列传",
+  "baseline_commit": "e4045bd9d84415e7df31863e2f647f546df2843c",
+  "verification_date": "2026-11-12",
+  "status": "passed_after_independent_and_integrated_review",
+  "checks": {
+    "primary_paragraphs_exact": 4,
+    "tang_praise_supplement": 1,
+    "editorial_labels_exact": 1,
+    "all_units": 5,
+    "commentary_paragraphs_read": 5,
+    "registered_quotes": 14,
+    "reused_existing_quotes": 0,
+    "destinations": 11,
+    "source_hanzi": 811,
+    "covered_hanzi": 811,
+    "all_source_characters_covered": true,
+    "years_pages_checked": 5,
+    "new_period_pages": 1,
+    "old_explicit_anchors_preserved": 133,
+    "old_heading_entries_preserved": 66,
+    "old_blockquote_lines_preserved": 146,
+    "new_relative_links_checked_batch": 361
+  },
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷064.txt": "62a7ae1e6e1466fe3009911a067bd5c08235092d48cb3de69c035ce67b12c33c",
+    "sources/本地分卷/史记/史记-卷064.md": "7b79793dd9c8c27ded977a72343cc998d8acecc3ae78451c727e8a4e18733a34",
+    "sources/史记三家注/原始HTML/064.htm": "67b90885db501e935d292907e65f65800361c4e07767398caf4f0159e45fa07b",
+    "sources/史记三家注/卷064.md": "6149e461c9c9261a97e9d02f48c6491ce4bf8a8592840a5a5fa68ab43544a03f",
+    "sources/摘录/史记-卷064-司马穰苴列传.md": "f04ebf4ad157b3302931704ba53074651dcbc36fd074a92a362aa9ef5cdd07f2",
+    "meta/记录/史记-卷064-单元数据.json": "5c36609b43d155a932370ea6e5e69998926db9664096ba5436d8f66ec1b99ca6"
+  },
+  "errors": [],
+  "text_layers": {
+    "篇本文叙事": 2,
+    "篇本文跨代总叙；含田和与威王错接": 1,
+    "太史公论说": 1,
+    "唐代司马贞《索隐述赞》；非司马迁": 1
+  },
+  "touched_pages": [
+    "years/bce-0400-0301/bce-0356.md",
+    "years/bce-0400-0301/bce-0386.md",
+    "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+    "years/bce-0500-0401/bce-0481.md",
+    "years/bce-0600-0501/未定年-晏婴相政与知人故事.md"
+  ],
+  "author_content_review": {
+    "primary_and_supplement_units_read": 5,
+    "commentary_paragraphs_read": 5,
+    "full_record": "meta/记录/史记-卷064-逐段全读.json",
+    "modern_reference_record": "meta/记录/史记-卷064-百科与研究核对.json",
+    "scope_boundary": "作者完整原文和白话核读；不冒称独立复核。"
+  },
+  "independent_content_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author061062（卷065—066作者）",
+      "volumes": [
+        63,
+        64
+      ],
+      "scope": "卷063—064全部29P、2Z、33段三家注及13张新改阅读页的相关正文、同号说明与3份本地补充材料。",
+      "result": "通过；粥权的指向歧义已修并从881dea2读回。",
+      "author_fixed_commit": "0d81a8bc9f6e86d4cb44e474217b22b07704e65a",
+      "report_file": "independent-review-063064.json",
+      "report_sha256": "2d7dbb0e443c5f5eaf725298430ceacba0b6a6d3e55bc50ff06aa7cf01c313b2"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "unresolved_source_issues": [
+    "景公与湣王时代说不能仅凭同名或左传不载直接解决。",
+    "斩庄贾无独立年，网上531及二手528未采用。",
+    "仆／仆车两种断法涉及是否杀御者，主TXT与索隐各存。",
+    "田和与齐威王错接据索隐明辨，田常灭高国具体范围年月不强定。",
+    "古司马法、穰苴之法和威王编集分层，今本与古本关系未冒称已全考。"
+  ],
+  "limitations": [
+    "原始TXT、逐行MD、HTML和可读三家注均未回写。",
+    "字符覆盖、编号和旧锚保全不证明历史疑难已消除。",
+    "时期页位置与章节顺序均不替代未知事件年、著作年。",
+    "共同页在作者提交时的计数与编号为此处统计，最终整合变更由整合者复核。"
+  ],
+  "author_status_at_fixed_commit": "author_checks_passed_pending_integrated_review",
+  "integrated_validation": {
+    "status": "passed",
+    "date": "2026-11-12",
+    "original_prose_units": 4,
+    "later_praise_units": 1,
+    "registered_quotes": 14,
+    "whole_source_covered": true,
+    "old_quotes_and_anchors_preserved": true,
+    "current_source_hashes": {
+      "sources/本地分卷/史记/史记-卷064.txt": "62a7ae1e6e1466fe3009911a067bd5c08235092d48cb3de69c035ce67b12c33c",
+      "sources/本地分卷/史记/史记-卷064.md": "7b79793dd9c8c27ded977a72343cc998d8acecc3ae78451c727e8a4e18733a34",
+      "sources/史记三家注/原始HTML/064.htm": "67b90885db501e935d292907e65f65800361c4e07767398caf4f0159e45fa07b",
+      "sources/史记三家注/卷064.md": "6149e461c9c9261a97e9d02f48c6491ce4bf8a8592840a5a5fa68ab43544a03f",
+      "sources/摘录/史记-卷064-司马穰苴列传.md": "f04ebf4ad157b3302931704ba53074651dcbc36fd074a92a362aa9ef5cdd07f2",
+      "meta/记录/史记-卷064-单元数据.json": "5c36609b43d155a932370ea6e5e69998926db9664096ba5436d8f66ec1b99ca6"
+    },
+    "snapshot_note": "作者原核验及其哈希保留为固定提交时记录；本字段登记最后整合。正式发布前还须检查全部新增元数据。"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "volume": "067",
+  "title": "仲尼弟子列传",
+  "baseline_commit": "e4045bd9d84415e7df31863e2f647f546df2843c",
+  "verification_date": "2026-11-12",
+  "status": "passed_after_independent_and_integrated_review",
+  "checks": {
+    "primary_paragraphs_exact": 152,
+    "raw_existing_tang_praise_exact": 1,
+    "commentary_paragraphs_read": 89,
+    "supplement_from_commentary": 0,
+    "editorial_labels_exact": 37,
+    "all_units": 153,
+    "registered_quotes": 178,
+    "destinations": 164,
+    "source_hanzi": 5306,
+    "covered_hanzi": 5306,
+    "all_characters_covered": true,
+    "reading_pages_checked": 12,
+    "new_period_pages": 2,
+    "old_explicit_anchors_preserved": 487,
+    "old_heading_lines_preserved": 228,
+    "old_blockquote_lines_preserved": 495,
+    "old_numbered_body_paragraphs_preserved": 105,
+    "name_rows": 77,
+    "main_relative_age_entries": 23,
+    "derived_birth_years": 0,
+    "relative_links_checked": 2576,
+    "markdown_files_checked": 19,
+    "old_pages_preservation_pass": true,
+    "relative_links_pass": true
+  },
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷067.txt": "ef339b5cb67b2e5a55310b5c61fb83b6f304f45a92e30962dc1ea57ac54aa792",
+    "sources/本地分卷/史记/史记-卷067.md": "6267f1489295500694351022f795e70593c8fa1c4e1ee6d87c04a3ce0708ae66",
+    "sources/史记三家注/原始HTML/067.htm": "d95655844e0b3f4f3221a216e6e6f2fb4b042fcd7b186f1d9e1ee24bb83af14e",
+    "sources/史记三家注/卷067.md": "c30029f42c4f1763644be6b8cd080fb34f801966e7f8b01f51c51cbff7d87867",
+    "sources/摘录/史记-卷067-仲尼弟子列传.md": "450442cb55821a7e517ba3cb9ac58298c87a6e0258af378bd7b7fe870e56fa17",
+    "sources/补充古籍/阅读本/五帝德-宰予问答对读.md": "3369474d3020dda37261895e4ed607057fe5b9f9ba5aa5a81b8437a6882652bb",
+    "sources/补充古籍/阅读本/孔子家语-弟子年数与叔仲会对读.md": "08b43038ef58b9ba72c2ce91e0025ba862070df8900d973a4a48fe7d591b160d"
+  },
+  "text_layers": {
+    "primary_P_units": 152,
+    "sima_qian_argument_units": [
+      "P152"
+    ],
+    "tang_praise_units": [
+      "Z001"
+    ],
+    "cross_generation_yi_lineage": [
+      "P083"
+    ],
+    "long_diplomatic_narrative": [
+      "P040",
+      "P041",
+      "P042",
+      "P043",
+      "P044",
+      "P045",
+      "P046",
+      "P047"
+    ],
+    "short_name_list_units": [
+      "P110",
+      "P111",
+      "P112",
+      "P113",
+      "P114",
+      "P115",
+      "P116",
+      "P117",
+      "P118",
+      "P119",
+      "P120",
+      "P121",
+      "P122",
+      "P123",
+      "P124",
+      "P125",
+      "P126",
+      "P127",
+      "P128",
+      "P129",
+      "P130",
+      "P131",
+      "P132",
+      "P133",
+      "P134",
+      "P135",
+      "P136",
+      "P137",
+      "P138",
+      "P139",
+      "P140",
+      "P141",
+      "P142",
+      "P143",
+      "P144",
+      "P145",
+      "P146",
+      "P147",
+      "P148",
+      "P149",
+      "P150",
+      "P151"
+    ],
+    "commentary_supplement_units": 0
+  },
+  "touched_pages": [
+    "years/bce-0500-0401/bce-0407.md",
+    "years/bce-0500-0401/bce-0473.md",
+    "years/bce-0500-0401/bce-0480.md",
+    "years/bce-0500-0401/bce-0481.md",
+    "years/bce-0500-0401/bce-0482.md",
+    "years/bce-0500-0401/bce-0484.md",
+    "years/bce-0500-0401/bce-0489.md",
+    "years/bce-0500-0401/bce-0493.md",
+    "years/bce-0500-0401/bce-0496.md",
+    "years/bce-0500-0401/未定年-子贡游说五国.md",
+    "years/bce-0500-0401/未定年-孔门弟子的问学与传承.md",
+    "years/bce-0600-0501/未定年-春秋晚期求学与问政.md"
+  ],
+  "author_content_review": {
+    "primary_and_praise_units_read": 153,
+    "commentary_paragraphs_read": 89,
+    "full_record": "meta/记录/史记-卷067-逐段全读.json",
+    "page_scope": "完整通读本卷全部原文、白话、古注以及45组新时期正文及同号说明；旧页新增/改写正文、引用及相关既有事件作对应阅读，未冒称本轮全面重新考证所有无关旧史事。",
+    "modern_reference_reading": [
+      {
+        "site": "百度百科可读bkso页",
+        "title": "仲尼弟子列传",
+        "opened": true,
+        "read_scope": "介绍与目录、原文开头至冉求、子路宰予子贡相邻原文及末尾赏析片段；未连续通读现代译文和注释",
+        "used_as": "章法与字面辅助回查，不抄用现代译文"
+      },
+      {
+        "site": "维基百科",
+        "title": "子贡（端木赐重定向）",
+        "opened": true,
+        "read_scope": "基本资料、生平田常攻鲁、孔子卒后附述、口才与孔子评价",
+        "used_as": "页面提示来源不足；精确生卒年和公历卒日未采"
+      },
+      {
+        "site": "瑶湖读史转载于搜狐",
+        "title": "王刚：海昏侯墓“孔子衣镜”所见孔门弟子问题初探",
+        "opened": true,
+        "read_scope": "摘要、第一节部分和第二节孔门弟子数问题全节",
+        "limitation": "转载略注；未通读第三节、全部注释或纸本PDF",
+        "used_as": "七十七与七十二及文本层次的研究意见"
+      },
+      {
+        "site": "澎湃新闻",
+        "title": "林屋公子：子贡的游说真的改变了鲁、齐、吴、晋、越的历史走向吗？",
+        "opened": true,
+        "read_scope": "故事概述、韩非子比较及转引苏辙疑问部分",
+        "limitation": "未连续读完全篇，不冒称直接读苏辙原著",
+        "used_as": "寻疑线索；转述献甲十二与主本二十不同，未采用"
+      }
+    ],
+    "additional_primary_reading": [
+      {
+        "path": "sources/补充古籍/阅读本/五帝德-宰予问答对读.md",
+        "scope": "直接打开大戴五帝德页重点连续读篇首、颛顼及篇尾；直接打开家语五帝德全章，重点核篇尾呼名和自承不足",
+        "purpose": "P033予按宰予姓名释读，原主文不改"
+      },
+      {
+        "path": "sources/补充古籍/阅读本/孔子家语-弟子年数与叔仲会对读.md",
+        "scope": "直接打开识典七十二弟子解并通读所呈全章与名录，节存八个条目；未核纸本版本系统",
+        "purpose": "区分今读电子家语与古注转引的年差、容貌和孟武伯问答"
+      }
+    ]
+  },
+  "independent_content_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author058059（卷063—064作者）",
+      "volumes": [
+        67
+      ],
+      "scope": "卷067全部152P、1Z、89段三家注、37标签、2张新时期页45组、10张旧页相关内容及77人互校表。",
+      "result": "通过；秦姓笔误与年龄表锚已在固定稿修复，正文边界及最后23文件已读回。",
+      "author_fixed_commit": "5b0f19f60d51ab96712a0a9aa88d9033172198d8",
+      "report_file": "independent-review-067.json",
+      "report_sha256": "150710057421cc8b17932c53a3769e37dbe3cf47b6befc768975923d05e8670f"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "unresolved_source_issues": [
+    "七十七／七十二及35／42与家语37人分组、名单替换并存，未裁成同一名籍。",
+    "23条主文相对年龄及古注、今读家语电子见证年差均保留，没有由此生成绝对生年。",
+    "颜回二十九为发白年龄，古注三十二卒与今读家语三十一卒不同；绝对卒年仍不强定。",
+    "子路卫乱依哀十五年前480，与哀十六续经从告分层；出公十二年仍有一年差。",
+    "子贡外交连缀田常、齐景公、吴越晋多年事情，田常／田乞世次、伍员之死、黄池吴晋关系及越灭吴过程不能并成某一年的确案。",
+    "宰予临淄作乱与阚止字子我疑相涉；公孙龙门人不与战国名家同名者合一；南宫括与南宫敬叔同人未强定。",
+    "屡空、不受命、绘事后素等解释取舍注明古注，不无说明揉合不同读法。",
+    "叔仲会见而放之为本地注中字面，今读家语为孟武伯问学，不强译为放逐；搜索片段所见訪字未据以改原本。",
+    "原亢籍主本连写，按古注明亢为名、籍为字；原文字形不改。",
+    "传易八人直至汉代，汉中大夫按汉朝中大夫解释；不均分世代年数。"
+  ],
+  "corrections_after_feedback": [
+    "P006门人益亲改为弟子更亲近孔子。",
+    "P033予非其人也据直接五帝德问答改为呼宰予之名。",
+    "子路死亡和子贡使齐均依哀十五年前480分组；次年从告不作死亡另年。",
+    "叔仲会见而放之保留疑字，不强译放逐；直接家语问答另存。"
+  ],
+  "limitations": [
+    "原始TXT、逐行MD、HTML和三家注可读见证未回写。",
+    "结构检查和全部汉字覆盖只证明来源和落点，不证明史源争议已消除。",
+    "百科、研究及补充原典按来源记录实际范围读取；未读取的PDF、网页部分不冒称全文。",
+    "时期页目录位置不等于每则故事的发生年或论赞写作年。",
+    "共享年页最后显示号与全局导航由整合者统一；本记录保留作者提交时口径。"
+  ],
+  "errors": [],
+  "author_status_at_fixed_commit": "author_verification_passed",
+  "integrated_validation": {
+    "status": "passed",
+    "date": "2026-11-12",
+    "original_prose_units": 152,
+    "later_praise_units": 1,
+    "registered_quotes": 178,
+    "whole_source_covered": true,
+    "old_quotes_and_anchors_preserved": true,
+    "current_source_hashes": {
+      "sources/本地分卷/史记/史记-卷067.txt": "ef339b5cb67b2e5a55310b5c61fb83b6f304f45a92e30962dc1ea57ac54aa792",
+      "sources/本地分卷/史记/史记-卷067.md": "6267f1489295500694351022f795e70593c8fa1c4e1ee6d87c04a3ce0708ae66",
+      "sources/史记三家注/原始HTML/067.htm": "d95655844e0b3f4f3221a216e6e6f2fb4b042fcd7b186f1d9e1ee24bb83af14e",
+      "sources/史记三家注/卷067.md": "c30029f42c4f1763644be6b8cd080fb34f801966e7f8b01f51c51cbff7d87867",
+      "sources/摘录/史记-卷067-仲尼弟子列传.md": "450442cb55821a7e517ba3cb9ac58298c87a6e0258af378bd7b7fe870e56fa17",
+      "sources/补充古籍/阅读本/五帝德-宰予问答对读.md": "3369474d3020dda37261895e4ed607057fe5b9f9ba5aa5a81b8437a6882652bb",
+      "sources/补充古籍/阅读本/孔子家语-弟子年数与叔仲会对读.md": "08b43038ef58b9ba72c2ce91e0025ba862070df8900d973a4a48fe7d591b160d"
+    },
+    "snapshot_note": "作者原核验及其哈希保留为固定提交时记录；本字段登记最后整合。正式发布前还须检查全部新增元数据。"
+  }
+}

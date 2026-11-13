@@ -1,0 +1,174 @@
+{
+  "volume": "065",
+  "title": "孙子吴起列传",
+  "baseline_commit": "e4045bd9d84415e7df31863e2f647f546df2843c",
+  "baseline_remote_commit": "5e38c07cdcf482dd01aff9f78352e5cde1b926c3",
+  "verification_date": "2026-11-12",
+  "continuation_utc": "2026-11-13",
+  "status": "passed_after_independent_and_integrated_review",
+  "checks": {
+    "primary_paragraphs_exact": 15,
+    "editorial_labels_exact": 2,
+    "commentary_paragraphs_read": 16,
+    "supplement_from_commentary": 1,
+    "all_units": 16,
+    "registered_quotes": 19,
+    "reused_existing_quotes": 9,
+    "destinations": 19,
+    "source_hanzi": 2305,
+    "covered_hanzi": 2305,
+    "all_characters_covered": true,
+    "years_pages_with_quotes": 5,
+    "additional_scope_link_only_pages": 2,
+    "new_period_pages": 1,
+    "old_explicit_anchors_preserved": 190,
+    "old_blockquote_lines_preserved": 165,
+    "original_witness_files_unchanged": 4
+  },
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷065.txt": "2c69d1ebbd7dc965a28cbb9f932b791c697ab2410c978c14af04f9ae74b38c7e",
+    "sources/本地分卷/史记/史记-卷065.md": "58c905bcbe62de332930d0791dbe750be8777dc2d42f50faf0834ef2d36cfcaa",
+    "sources/史记三家注/卷065.md": "373a76e395f261812437fec0fc7bcc01b74a5b42b81dc05b2b68bfa83aa9678f",
+    "sources/史记三家注/原始HTML/065.htm": "a9c97c86175f910688eca55203b9312ee2cab21ee7d3f8b3cce34222b1a4c0b9",
+    "sources/摘录/史记-卷065-孙子吴起列传.md": "15121f4115afe562e9b9790535e03beab7bc4eb5f987b28697ae9d05b1f6a3ee",
+    "meta/记录/史记-卷065-单元数据.json": "d4712c69ccad4f508b26cfab91d59f39c7b86a4c280488e96c071593cfad735e"
+  },
+  "text_layers": {
+    "primary_P_units": 15,
+    "main_narrative_or_overview_units": [
+      "P001",
+      "P002",
+      "P003",
+      "P004",
+      "P005",
+      "P006",
+      "P007",
+      "P008",
+      "P009",
+      "P010",
+      "P011",
+      "P012",
+      "P013",
+      "P014"
+    ],
+    "sima_qian_argument_units": [
+      "P015"
+    ],
+    "tang_praise_supplement": "Z001",
+    "editorial_labels": [
+      "吳起",
+      "評論"
+    ]
+  },
+  "touched_pages": [
+    "years/bce-0400-0301/bce-0341.md",
+    "years/bce-0400-0301/bce-0353.md",
+    "years/bce-0400-0301/bce-0381.md",
+    "years/bce-0400-0301/bce-0387.md",
+    "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+    "years/bce-0500-0401/bce-0403.md",
+    "years/bce-0600-0501/bce-0512.md"
+  ],
+  "author_content_review": {
+    "primary_and_supplement_units_read": 16,
+    "commentary_paragraphs_read": 16,
+    "full_record": "meta/记录/史记-卷065-逐段全读.json",
+    "page_scope": "各本卷相关历史组、同号原引和说明，以及新增分层附读；既有页中与两卷无关的全部条目不冒称重新考证。",
+    "modern_reference_reading": [
+      {
+        "site": "维基百科",
+        "title": "孙武",
+        "opened": true,
+        "read_scope": "身份、资料栏、生平与宫女练兵相关段",
+        "used_as": "核对通行叙述，不据网页给见王及试兵确年"
+      },
+      {
+        "site": "维基百科",
+        "title": "孙膑",
+        "opened": true,
+        "read_scope": "身份、世系、受刑、入齐、赛马、桂陵及马陵段",
+        "used_as": "异说线索；庞涓释放说未作为史实采用"
+      },
+      {
+        "site": "维基百科",
+        "title": "吴起",
+        "opened": true,
+        "read_scope": "身份、早年、事鲁、入魏及西河任职相关段",
+        "used_as": "网页412/409/408等系年不能替代原典证据"
+      },
+      {
+        "site": "百度百科bkso可读页",
+        "title": "孙子吴起列传",
+        "opened": true,
+        "read_scope": "简介及显示的孙武、孙膑受刑、赛马、桂陵原文段",
+        "limitation": "未冒称全网页所有译文均显示或全部读过"
+      },
+      {
+        "site": "公开PDF镜像",
+        "title": "李零署名孙膑兵法、孙子兵法百科条目",
+        "opened": true,
+        "read_scope": "两条正文与署名全文",
+        "limitation": "未核纸本印次页码，不作为全学界一致意见"
+      },
+      {
+        "site": "济南大学文学院",
+        "title": "银雀山汉墓简牍集成贰成果介绍",
+        "opened": true,
+        "read_scope": "2022-02-02介绍正文",
+        "limitation": "未取得2021整理本图版和释文，未冒称核过新缀合"
+      }
+    ]
+  },
+  "independent_content_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author060（卷067作者）",
+      "volumes": [
+        65,
+        66
+      ],
+      "scope": "卷065—066全部39P、2Z、41段三家注；27张年度落点页、吴起时期页8组及2张转接页的相关内容，66处实际原引。",
+      "result": "通过；如梁、减灶异数来源、白公计年三项已修并从d5d5261读回，后续说明和链接亦已确认。",
+      "author_fixed_commit": "27ddf33124b20f7d5d85127610068d087f5840cc",
+      "report_file": "independent-review-065066.json",
+      "report_sha256": "e15e9f41e08d4f3264c46d93dc6c9575c7bf501a3493114493a0cace5996786d"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "unresolved_source_issues": [
+    "孙武见王、宫女教战无篇中确年，末功业为跨期总述。",
+    "孙膑与孙武世系、两孙兵书成书及桂陵马陵年距仍有异说。",
+    "桂陵禽庞涓与马陵自刭分别保留，不新增未经核实的释放事件。",
+    "吴起曾子身份、鲁魏任职及田文公叔故事不能全部确年。",
+    "主TXT两处脱文和一处将军断句依三家注补释而原字不改。",
+    "唐赞相魏和死后留权不用于另造任相或制度延续事件。"
+  ],
+  "limitations": [
+    "原TXT、原HTML及派生逐行见证未回写。",
+    "字符覆盖和锚点核验不能证明历史争议已消除。",
+    "未定年故事不配确年；分层附读的位置不等于文献撰作年代。",
+    "旧标题URL、全局导航、跨卷编号和全库链接由整合者统一处理，本作者未扩大通用测试。"
+  ],
+  "errors": [],
+  "author_check_scope": "本作者固定提交口径；整合后的显示号、共享页与独立内容复核以批次记录为准。",
+  "author_status_at_fixed_commit": "passed_author_checks",
+  "integrated_validation": {
+    "status": "passed",
+    "date": "2026-11-12",
+    "original_prose_units": 15,
+    "later_praise_units": 1,
+    "registered_quotes": 19,
+    "whole_source_covered": true,
+    "old_quotes_and_anchors_preserved": true,
+    "current_source_hashes": {
+      "sources/本地分卷/史记/史记-卷065.txt": "2c69d1ebbd7dc965a28cbb9f932b791c697ab2410c978c14af04f9ae74b38c7e",
+      "sources/本地分卷/史记/史记-卷065.md": "58c905bcbe62de332930d0791dbe750be8777dc2d42f50faf0834ef2d36cfcaa",
+      "sources/史记三家注/卷065.md": "373a76e395f261812437fec0fc7bcc01b74a5b42b81dc05b2b68bfa83aa9678f",
+      "sources/史记三家注/原始HTML/065.htm": "a9c97c86175f910688eca55203b9312ee2cab21ee7d3f8b3cce34222b1a4c0b9",
+      "sources/摘录/史记-卷065-孙子吴起列传.md": "c52c9eb715c2cd31d07064ac2e716ec7e770025ee9ef3fc5f32b40482fe6cff0",
+      "meta/记录/史记-卷065-单元数据.json": "fd8d5db0ad85d7944c7269702f382462850cac8b3b1a3309dc99dad5b3ddc73b"
+    },
+    "snapshot_note": "作者原核验及其哈希保留为固定提交时记录；本字段登记最后整合。正式发布前还须检查全部新增元数据。"
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "volume": "065",
+  "title": "孙子吴起列传",
+  "date": "2026-11-12",
+  "continuation_utc": "2026-11-13",
+  "reader_role": "author",
+  "status": "passed_after_independent_and_integrated_review",
+  "scope_boundary": "原文、全部古注、完整自撰白话及所有本轮新增/改写正文与同号说明的作者实读自检；不冒称独立审读。自动字符覆盖只验证原字去向。",
+  "primary_units": [
+    {
+      "unit": "P001",
+      "line": 4642,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4642",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "孙武见阖闾、宫中教战与后来功业",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/bce-0512.md",
+          "note_anchor": "note-7",
+          "placement_anchor": "sj065-cite-001",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "unit": "P002",
+      "line": 4643,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4643",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "孙膑的世系叙述与在魏受刑",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-3",
+          "placement_anchor": "sj065-cite-003",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "unit": "P003",
+      "line": 4644,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4644",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "逃魏入齐、田忌赛马与受荐",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-4",
+          "placement_anchor": "sj065-cite-004",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-5",
+          "placement_anchor": "sj065-cite-005",
+          "number": 5
+        }
+      ],
+      "author_reading_sha256_at_fixed_commit": "35b78bbd6bd696fe94fb132528a59c05a8b6a63c7044c4097f48ffdb59b75f2c",
+      "reading_sha256_after_integrated_correction": "927fa247b314efb93fef1837d53878522d1db9ae7d56b8b7823bc2342ece8384",
+      "integrated_correction": {
+        "reason": "原文如梁与本页旧迁都说明互校，撤回魏都大梁这一过度确定的释词。",
+        "result": "白话为来到梁（魏国），前353第4组为来到魏国；不据此确定迁都或入齐年。"
+      }
+    },
+    {
+      "unit": "P004",
+      "line": 4645,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4645",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "救赵、趋梁与桂陵之战",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0353.md",
+          "note_anchor": "reading-note-1",
+          "placement_anchor": "sj065-cite-002",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P005",
+      "line": 4646,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4646",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "救韩、减灶与马陵之战",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-1",
+          "placement_anchor": "sj065-cite-006",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0341.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj065-cite-007",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P006",
+      "line": 4648,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4648",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "吴起事鲁、杀妻与击齐",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-1",
+          "placement_anchor": "sj065-cite-010",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P007",
+      "line": 4649,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4649",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "鲁人的指斥、早年回叙与离鲁",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-2",
+          "placement_anchor": "sj065-cite-011",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P008",
+      "line": 4650,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4650",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "入魏、李克评议与拔秦五城",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-3",
+          "placement_anchor": "sj065-cite-012",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "unit": "P009",
+      "line": 4651,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4651",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "同甘苦、吮疽与士卒母亲的悲泣",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-4",
+          "placement_anchor": "sj065-cite-013",
+          "number": 4
+        }
+      ]
+    },
+    {
+      "unit": "P010",
+      "line": 4652,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4652",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "受任西河守",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-5",
+          "placement_anchor": "sj065-cite-014",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "unit": "P011",
+      "line": 4653,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4653",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "魏武侯泛河与在德不在险",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-6",
+          "placement_anchor": "sj065-cite-015",
+          "number": 6
+        }
+      ]
+    },
+    {
+      "unit": "P012",
+      "line": 4654,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4654",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "吴起与田文论相位",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-7",
+          "placement_anchor": "sj065-cite-016",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "unit": "P013",
+      "line": 4655,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4655",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "公叔设局与吴起离魏",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-wuqi-note-8",
+          "placement_anchor": "sj065-cite-017",
+          "number": 8
+        }
+      ]
+    },
+    {
+      "unit": "P014",
+      "line": 4656,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4656",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "吴起相楚、改革与悼王丧中的遇害",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0381.md",
+          "note_anchor": "reading-note-1",
+          "placement_anchor": "sj065-cite-008",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0381.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj065-cite-009",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P015",
+      "line": 4658,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4658",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "司马迁论兵书与言行的反差",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-author-review",
+          "placement_anchor": "sj065-cite-018",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "Z001",
+      "line": null,
+      "source_path": "sources/史记三家注/卷065.md",
+      "source_anchor": "p15",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "唐代司马贞述赞",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+          "note_anchor": "sj065-tang-review",
+          "placement_anchor": "sj065-cite-019",
+          "number": null
+        }
+      ]
+    }
+  ],
+  "editorial_labels": [
+    {
+      "raw": "吳起",
+      "line": 4647,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4647",
+      "excerpt_anchor": "editorial-wuqi",
+      "reading": "主TXT的编者分节标签，照原字保存，不算独立史事。"
+    },
+    {
+      "raw": "評論",
+      "line": 4657,
+      "source_path": "sources/本地分卷/史记/史记-卷065.md",
+      "source_anchor": "L4657",
+      "excerpt_anchor": "editorial-comment",
+      "reading": "主TXT的编者分节标签，照原字保存，不算独立史事。"
+    }
+  ],
+  "three_commentaries": {
+    "source_path": "sources/史记三家注/卷065.md",
+    "paragraph_count": 16,
+    "paragraphs": [
+      {
+        "anchor": "p0",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P001"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "074d75c2d8d6565b95428419f66386544991ff9c186c09112641cb5c9bcb9959",
+        "focus_and_disposition": "孙武籍贯、十三篇、宫女练兵全程及任将；注中身份、号令与后来功业分层，见王和试兵未定年。"
+      },
+      {
+        "anchor": "p1",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P002"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "7f8ab19b4b19e9135472737ea12f2f7ade2a42f175df481e1d4c4ea351b487f5",
+        "focus_and_disposition": "孙膑后世子孙与百余岁概数、阿鄄地名、髌刑与黥刑；不从概数推生卒年，不添鬼谷子为师。"
+      },
+      {
+        "anchor": "p2",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P003"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "973fa5c619de9e48044cf8584022180ce93066ec5a8f94d97fc9485897c89eb7",
+        "focus_and_disposition": "齐使秘密载归、田忌宾礼、三等马队及千金赌赛；注中射为博赛，不改为射箭。"
+      },
+      {
+        "anchor": "p3",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P004"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "ecf45a7927654c65bfabee1f3032624f2ea7be20eb2dc8b128d82e27d1f87273",
+        "focus_and_disposition": "救赵、辎车军师、解纷控捲之拳义、趋梁与桂陵；与竹书擒庞涓见证分别说明。"
+      },
+      {
+        "anchor": "p4",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P005"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "2aa4c341c21c361c59cab3b6df2a189844c6280550f1045d5f9b8b95e1d876cd",
+        "focus_and_disposition": "主TXT十三年、注本十五年及索隐纪年相互不合；太子申结局及世传其兵法补词。另对照前341同号《通鉴》原引的末次二万灶，与本篇三万相异；二万并非本段三家注所列异文。",
+        "author_focus_at_fixed_commit": "主TXT十三年、注本十五年及索隐纪年相互不合；减灶三万/二万、太子申结局及世传其兵法补词。"
+      },
+      {
+        "anchor": "p5",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P006"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "afcb78f366c23b36c4c29a1f8f3098e11724b1808e0904000319d552c414e5f4",
+        "focus_and_disposition": "吴起卫人、曾子及鲁穆公相关古注；杀妻为将先是篇本文叙，不全转成鲁人发言。"
+      },
+      {
+        "anchor": "p6",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P007"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "4c191ce35c557b3650327008cc42b2dceeac0547c17251f7af3da1625e0cb2ab",
+        "focus_and_disposition": "鲁人攻讦的千金散尽、杀乡人、啮臂、不归母丧与鲁卫兄弟国；保留说话人边界。"
+      },
+      {
+        "anchor": "p7",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P008"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "20019da621e553c600f0ccb7c25b9f8a34d2ac463231114fa1953688ab6653fc",
+        "focus_and_disposition": "李克身份与贪/廉解释、攻秦五城；古注的协调解释不冒充原句唯一义。"
+      },
+      {
+        "anchor": "p8",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P009"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "e01296020b310723f8f553371b4cf7200bdd1b1d609bc2f6c2f57dfdfff9e696",
+        "focus_and_disposition": "同衣食、卧不设席、不乘骑、裹粮、吮疽与母泣父死完整对白；将军被误断句依注本连读。"
+      },
+      {
+        "anchor": "p9",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P010"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "c7bae7fefcabb6ccc1d3673d85b8bf6f708f8ba730da85ae294143ead261ffd8",
+        "focus_and_disposition": "文侯任西河守、据士心与拒秦韩；地望和官名据注释读，不从制度名称硬推出任职日。"
+      },
+      {
+        "anchor": "p10",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P011"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "1120880417f8871558e7f99018c7cb99ba1537171bf4b1efa5cd0197c2fb6901",
+        "focus_and_disposition": "文侯卒后武侯泛河、三苗夏桀殷纣三个德险例证及地名注；相对时代与古史论据分开。"
+      },
+      {
+        "anchor": "p11",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P012"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "14ff0bf6b9a485b4656082245c88b8ee9157f1d9dd29f1d73b30d061ce34166a",
+        "focus_and_disposition": "田文三问三答与少主未附、吴起自认不如；商文异名及括注即封不另造任守、任相。"
+      },
+      {
+        "anchor": "p12",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P013"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "bb30db2832706a1a64bdc82b5ddb63d9f35624ac34e26f833961410bee045983",
+        "focus_and_disposition": "公叔娶公主、仆人设计试婚、公主轻相、吴起辞婚离魏；谋划提案与随后实行情节分清。"
+      },
+      {
+        "anchor": "p13",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P014"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "334fe22edeb972c299ecab044f506caf0645dcf39cc856bc689112b44db14dd1",
+        "focus_and_disposition": "楚悼王改革与疏远公族待遇、陈蔡古国问题、贵戚反攻、伏王尸及七十余家之诛；长期改革与381死事分组。"
+      },
+      {
+        "anchor": "p14",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "P015"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "7e43d09566f8a01881c777a7fa747f67a1a34e3580b5c8762a0b95433934e8dc",
+        "focus_and_disposition": "太史公谈孙子十三篇及吴起兵法、能言能行与两人言行评议；主本脱词据注本补释。"
+      },
+      {
+        "anchor": "p15",
+        "source_path": "sources/史记三家注/卷065.md",
+        "linked_units": [
+          "Z001"
+        ],
+        "read_status": "full_paragraph_and_all_commentary_read",
+        "raw_sha256": "7285101d00e6f7ae5cd1a2a68ff76bdcac6a16d7d98a458089017121d519a607",
+        "focus_and_disposition": "唐赞十三篇、宫女、孙膑与吴起全赞；相魏与正文职位有张力、死后留权暂作王尸事件余势解。"
+      }
+    ]
+  },
+  "reading_pages": [
+    "years/bce-0400-0301/bce-0341.md",
+    "years/bce-0400-0301/bce-0353.md",
+    "years/bce-0400-0301/bce-0381.md",
+    "years/bce-0400-0301/未定年-吴起在鲁魏任职与轶事.md",
+    "years/bce-0600-0501/bce-0512.md"
+  ],
+  "page_reading_scope": "各本卷相关历史组、同号原引和说明，以及新增分层附读；既有页中与两卷无关的全部条目不冒称重新考证。",
+  "modern_auxiliary_reading": [
+    {
+      "site": "维基百科",
+      "title": "孙武",
+      "opened": true,
+      "read_scope": "身份、资料栏、生平与宫女练兵相关段",
+      "used_as": "核对通行叙述，不据网页给见王及试兵确年"
+    },
+    {
+      "site": "维基百科",
+      "title": "孙膑",
+      "opened": true,
+      "read_scope": "身份、世系、受刑、入齐、赛马、桂陵及马陵段",
+      "used_as": "异说线索；庞涓释放说未作为史实采用"
+    },
+    {
+      "site": "维基百科",
+      "title": "吴起",
+      "opened": true,
+      "read_scope": "身份、早年、事鲁、入魏及西河任职相关段",
+      "used_as": "网页412/409/408等系年不能替代原典证据"
+    },
+    {
+      "site": "百度百科bkso可读页",
+      "title": "孙子吴起列传",
+      "opened": true,
+      "read_scope": "简介及显示的孙武、孙膑受刑、赛马、桂陵原文段",
+      "limitation": "未冒称全网页所有译文均显示或全部读过"
+    },
+    {
+      "site": "公开PDF镜像",
+      "title": "李零署名孙膑兵法、孙子兵法百科条目",
+      "opened": true,
+      "read_scope": "两条正文与署名全文",
+      "limitation": "未核纸本印次页码，不作为全学界一致意见"
+    },
+    {
+      "site": "济南大学文学院",
+      "title": "银雀山汉墓简牍集成贰成果介绍",
+      "opened": true,
+      "read_scope": "2022-02-02介绍正文",
+      "limitation": "未取得2021整理本图版和释文，未冒称核过新缀合"
+    }
+  ],
+  "modern_provenance_record": "sources/补充阅读/史记065-两孙兵书与百科核对.md",
+  "independent_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author060（卷067作者）",
+      "volumes": [
+        65,
+        66
+      ],
+      "scope": "卷065—066全部39P、2Z、41段三家注；27张年度落点页、吴起时期页8组及2张转接页的相关内容，66处实际原引。",
+      "result": "通过；如梁、减灶异数来源、白公计年三项已修并从d5d5261读回，后续说明和链接亦已确认。",
+      "author_fixed_commit": "27ddf33124b20f7d5d85127610068d087f5840cc",
+      "report_file": "independent-review-065066.json",
+      "report_sha256": "e15e9f41e08d4f3264c46d93dc6c9575c7bf501a3493114493a0cace5996786d"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "additional_primary_reading": [
+    {
+      "path": "sources/补充阅读/史记065-两孙兵书与百科核对.md",
+      "scope": "实际打开古文岛《擒庞涓第一》网页全篇；仅末段原字本地节录",
+      "limitation": "公开转录未标整理版本，不冒称竹简图版或2021新释全文"
+    },
+    {
+      "path": "sources/本地分卷/资治通鉴/资治通鉴-卷001.md",
+      "scope": "第一卷吴起相关前后段与古注，含前403长回叙及前387事下前史；相关旧页引文一并对读",
+      "limitation": "未重读《通鉴》全书或全部第一卷无关条目"
+    }
+  ],
+  "author_status_at_fixed_commit": "author_full_reading_completed",
+  "author_independent_review_at_fixed_commit": "由整合者另记；本文件是作者实读记录，不替代外部交叉审读",
+  "integrated_review_note": "原作者逐段通读范围与固定稿状态保留；独立复核及整合修订在本字段和所链记录另记，不把程序覆盖检查冒作人工阅读。"
+}

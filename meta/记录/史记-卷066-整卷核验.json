@@ -1,0 +1,187 @@
+{
+  "volume": "066",
+  "title": "伍子胥列传",
+  "baseline_commit": "e4045bd9d84415e7df31863e2f647f546df2843c",
+  "baseline_remote_commit": "5e38c07cdcf482dd01aff9f78352e5cde1b926c3",
+  "verification_date": "2026-11-12",
+  "continuation_utc": "2026-11-13",
+  "status": "passed_after_independent_and_integrated_review",
+  "checks": {
+    "primary_paragraphs_exact": 24,
+    "editorial_labels_exact": 1,
+    "commentary_paragraphs_read": 25,
+    "supplement_from_commentary": 1,
+    "all_units": 25,
+    "registered_quotes": 47,
+    "reused_existing_quotes": 35,
+    "destinations": 47,
+    "source_hanzi": 3240,
+    "covered_hanzi": 3240,
+    "all_characters_covered": true,
+    "years_pages_with_quotes": 24,
+    "additional_scope_link_only_pages": 0,
+    "new_period_pages": 0,
+    "old_explicit_anchors_preserved": 1112,
+    "old_blockquote_lines_preserved": 1147,
+    "original_witness_files_unchanged": 4
+  },
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷066.txt": "b77dfd9dcb1bbc2f9b09e6eec0655272f6f881495edb337908ad4312490c19c6",
+    "sources/本地分卷/史记/史记-卷066.md": "8535ed2fa4840689303ef864bc9ac0d6cf4d803fffeeec36a1122e6ae7c61565",
+    "sources/史记三家注/卷066.md": "40aec279b6b6aa7ea3e4f8a217c3fed1db296890df9a0a94b892506fa46b315d",
+    "sources/史记三家注/原始HTML/066.htm": "6f7036c838b28896455d9afe24f89f211f34e4d0e4370cd729006cda43b9cd56",
+    "sources/摘录/史记-卷066-伍子胥列传.md": "3af7f6835c0c328a0191fc2fe94e498e2a87c4ad26976789b3041d7e830f2d14",
+    "meta/记录/史记-卷066-单元数据.json": "da2b3bccc9c47a835370200194524a804cc1fda26e36e1e7e6e4e3c1ada617ac"
+  },
+  "text_layers": {
+    "primary_P_units": 24,
+    "main_narrative_or_overview_units": [
+      "P001",
+      "P002",
+      "P003",
+      "P004",
+      "P005",
+      "P006",
+      "P007",
+      "P008",
+      "P009",
+      "P010",
+      "P011",
+      "P012",
+      "P013",
+      "P014",
+      "P015",
+      "P016",
+      "P017",
+      "P018",
+      "P019",
+      "P020",
+      "P021",
+      "P022",
+      "P023"
+    ],
+    "sima_qian_argument_units": [
+      "P024"
+    ],
+    "tang_praise_supplement": "Z001",
+    "editorial_labels": [
+      "評論"
+    ]
+  },
+  "touched_pages": [
+    "years/bce-0500-0401/bce-0473.md",
+    "years/bce-0500-0401/bce-0479.md",
+    "years/bce-0500-0401/bce-0482.md",
+    "years/bce-0500-0401/bce-0483.md",
+    "years/bce-0500-0401/bce-0484.md",
+    "years/bce-0500-0401/bce-0485.md",
+    "years/bce-0500-0401/bce-0487.md",
+    "years/bce-0500-0401/bce-0494.md",
+    "years/bce-0500-0401/bce-0496.md",
+    "years/bce-0500-0401/bce-0500.md",
+    "years/bce-0600-0501/bce-0504.md",
+    "years/bce-0600-0501/bce-0505.md",
+    "years/bce-0600-0501/bce-0506.md",
+    "years/bce-0600-0501/bce-0508.md",
+    "years/bce-0600-0501/bce-0510.md",
+    "years/bce-0600-0501/bce-0511.md",
+    "years/bce-0600-0501/bce-0512.md",
+    "years/bce-0600-0501/bce-0514.md",
+    "years/bce-0600-0501/bce-0515.md",
+    "years/bce-0600-0501/bce-0516.md",
+    "years/bce-0600-0501/bce-0518.md",
+    "years/bce-0600-0501/bce-0520.md",
+    "years/bce-0600-0501/bce-0522.md",
+    "years/bce-0600-0501/bce-0523.md"
+  ],
+  "author_content_review": {
+    "primary_and_supplement_units_read": 25,
+    "commentary_paragraphs_read": 25,
+    "full_record": "meta/记录/史记-卷066-逐段全读.json",
+    "page_scope": "各本卷相关历史组、同号原引和说明，以及新增分层附读；既有页中与两卷无关的全部条目不冒称重新考证。",
+    "modern_reference_reading": [
+      {
+        "site": "维基百科",
+        "title": "伍子胥",
+        "opened": true,
+        "read_scope": "身份、父兄、奔吴、政变、伐楚鞭尸及辅佐夫差段",
+        "used_as": "入郢年月回核经传，不用网页次年四月说"
+      },
+      {
+        "site": "百度百科bkso可读页",
+        "title": "伍子胥列传",
+        "opened": true,
+        "read_scope": "作品介绍、作者与人物形象相关显示段",
+        "limitation": "未冒称读完所有译文，未抄用现代译文"
+      },
+      {
+        "site": "复旦大学出土文献与古文字研究中心",
+        "title": "刘钊关于孟子一处词语训释和理解的辨正",
+        "opened": true,
+        "read_scope": "题署、版本说明及复楚、鞭墓、鞭尸相关连续论证段",
+        "limitation": "引用会注考证等属于论文转引，未冒称核原书；不是全篇一切例证复核"
+      },
+      {
+        "site": "参考网与中华伍氏网转载",
+        "title": "吴恩培伍子胥掘墓鞭尸及其证伪",
+        "opened": true,
+        "read_scope": "参考网题名摘要开头；另在转载实际阅读史料层次、古注和顾炎武论证部分",
+        "limitation": "没有取得原刊影印页，末部社会评价未作为依据；证伪题名不作定论"
+      }
+    ]
+  },
+  "independent_content_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author060（卷067作者）",
+      "volumes": [
+        65,
+        66
+      ],
+      "scope": "卷065—066全部39P、2Z、41段三家注；27张年度落点页、吴起时期页8组及2张转接页的相关内容，66处实际原引。",
+      "result": "通过；如梁、减灶异数来源、白公计年三项已修并从d5d5261读回，后续说明和链接亦已确认。",
+      "author_fixed_commit": "27ddf33124b20f7d5d85127610068d087f5840cc",
+      "report_file": "independent-review-065066.json",
+      "report_sha256": "e15e9f41e08d4f3264c46d93dc6c9575c7bf501a3493114493a0cace5996786d"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "unresolved_source_issues": [
+    "出亡旅程起于522并延至建死以后；建死520与子产卒522相冲突。",
+    "荐专诸在左传与本传叙次不同，仍保留同一次荐举。",
+    "郤宛、伯州犁死亡不同年，本传柏举日期语序、囊瓦公子等仍按见证保存。",
+    "掘墓鞭尸、鞭墓及复楚/覆楚不同文献层次未宣称已证伪或有唯一结论。",
+    "孔子相鲁与前后四五年不连续机械累加；艾陵与伍员之死依经传同年。",
+    "悼公即阳生；鲍牧487已死与寄子矛盾；吴太子死获、夫差死法及伯嚭473/471结局并存。",
+    "白公召者、居地及救王者歧文按原文和经传分别说明。",
+    "身后立祠、晋代移庙和唐赞不作484年事件，抉眼弃德主语未定。"
+  ],
+  "limitations": [
+    "原TXT、原HTML及派生逐行见证未回写。",
+    "字符覆盖和锚点核验不能证明历史争议已消除。",
+    "未定年故事不配确年；分层附读的位置不等于文献撰作年代。",
+    "旧标题URL、全局导航、跨卷编号和全库链接由整合者统一处理，本作者未扩大通用测试。"
+  ],
+  "errors": [],
+  "author_check_scope": "本作者固定提交口径；整合后的显示号、共享页与独立内容复核以批次记录为准。",
+  "author_status_at_fixed_commit": "passed_author_checks",
+  "integrated_validation": {
+    "status": "passed",
+    "date": "2026-11-12",
+    "original_prose_units": 24,
+    "later_praise_units": 1,
+    "registered_quotes": 47,
+    "whole_source_covered": true,
+    "old_quotes_and_anchors_preserved": true,
+    "current_source_hashes": {
+      "sources/本地分卷/史记/史记-卷066.txt": "b77dfd9dcb1bbc2f9b09e6eec0655272f6f881495edb337908ad4312490c19c6",
+      "sources/本地分卷/史记/史记-卷066.md": "8535ed2fa4840689303ef864bc9ac0d6cf4d803fffeeec36a1122e6ae7c61565",
+      "sources/史记三家注/卷066.md": "40aec279b6b6aa7ea3e4f8a217c3fed1db296890df9a0a94b892506fa46b315d",
+      "sources/史记三家注/原始HTML/066.htm": "6f7036c838b28896455d9afe24f89f211f34e4d0e4370cd729006cda43b9cd56",
+      "sources/摘录/史记-卷066-伍子胥列传.md": "3af7f6835c0c328a0191fc2fe94e498e2a87c4ad26976789b3041d7e830f2d14",
+      "meta/记录/史记-卷066-单元数据.json": "da2b3bccc9c47a835370200194524a804cc1fda26e36e1e7e6e4e3c1ada617ac"
+    },
+    "snapshot_note": "作者原核验及其哈希保留为固定提交时记录；本字段登记最后整合。正式发布前还须检查全部新增元数据。"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "volume": "063",
+  "title": "老子韩非列传",
+  "baseline_commit": "e4045bd9d84415e7df31863e2f647f546df2843c",
+  "verification_date": "2026-11-12",
+  "status": "passed_after_independent_and_integrated_review",
+  "checks": {
+    "primary_paragraphs_exact": 25,
+    "tang_praise_supplement": 1,
+    "editorial_labels_exact": 4,
+    "all_units": 26,
+    "commentary_paragraphs_read": 28,
+    "registered_quotes": 38,
+    "reused_existing_quotes": 4,
+    "destinations": 27,
+    "source_hanzi": 2234,
+    "covered_hanzi": 2234,
+    "all_source_characters_covered": true,
+    "years_pages_checked": 9,
+    "new_period_pages": 3,
+    "old_explicit_anchors_preserved": 259,
+    "old_heading_entries_preserved": 87,
+    "old_blockquote_lines_preserved": 152,
+    "new_relative_links_checked_batch": 361
+  },
+  "source_hashes": {
+    "sources/本地分卷/史记/史记-卷063.txt": "6d0555e75d0e0353997b609e89a5569829b22b79da047ae80d5be882a02393bc",
+    "sources/本地分卷/史记/史记-卷063.md": "a36fb5d5c7cd64b69161e77cd198f693e5de47f19a7a15a8f19a3935247f1ba7",
+    "sources/史记三家注/原始HTML/063.htm": "7451c7986c9eecd3c16055a2d80b7815d3605711650adcd6b29def4ceb381bf3",
+    "sources/史记三家注/卷063.md": "c927178c91f2c80cd3a968e896dbc11f7a606e53dadc54a7001fae32e5444376",
+    "sources/摘录/史记-卷063-老子韩非列传.md": "040c82c4f9d04af177e9fd6a9ee9b1201a94883bfe5b727fee169d0878725dbf",
+    "meta/记录/史记-卷063-单元数据.json": "00fcc4561ae898c819c93440fcc641b72e6b2b026af17e2fd145033218e54c41"
+  },
+  "errors": [],
+  "text_layers": {
+    "篇本文叙事": 9,
+    "篇本文并列传闻与身份异说": 3,
+    "太史公篇中论说": 1,
+    "篇本文预叙结局": 1,
+    "篇本文所引韩非《说难》；论辩与寓言": 9,
+    "篇本文叙事及太史公第一人称感叹": 1,
+    "太史公总论": 1,
+    "唐代司马贞《索隐述赞》；非司马迁": 1
+  },
+  "touched_pages": [
+    "years/bce-0200-0101/未定年-老子后裔在汉代的传述.md",
+    "years/bce-0300-0201/bce-0233.md",
+    "years/bce-0300-0201/bce-0237.md",
+    "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+    "years/bce-0400-0301/bce-0337.md",
+    "years/bce-0400-0301/bce-0351.md",
+    "years/bce-0400-0301/bce-0374.md",
+    "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+    "years/bce-0600-0501/未定年-春秋晚期求学与问政.md"
+  ],
+  "author_content_review": {
+    "primary_and_supplement_units_read": 26,
+    "commentary_paragraphs_read": 28,
+    "full_record": "meta/记录/史记-卷063-逐段全读.json",
+    "modern_reference_record": "meta/记录/史记-卷063-百科与研究核对.json",
+    "scope_boundary": "作者完整原文和白话核读；不冒称独立复核。"
+  },
+  "independent_content_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author061062（卷065—066作者）",
+      "volumes": [
+        63,
+        64
+      ],
+      "scope": "卷063—064全部29P、2Z、33段三家注及13张新改阅读页的相关正文、同号说明与3份本地补充材料。",
+      "result": "通过；粥权的指向歧义已修并从881dea2读回。",
+      "author_fixed_commit": "0d81a8bc9f6e86d4cb44e474217b22b07704e65a",
+      "report_file": "independent-review-063064.json",
+      "report_sha256": "2d7dbb0e443c5f5eaf725298430ceacba0b6a6d3e55bc50ff06aa7cf01c313b2"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "unresolved_source_issues": [
+    "李耳、老聃、老莱子、太史儋身份未定；字、谥异写分别保存。",
+    "孔子死后129／119年与太史儋前374的年链不合，周秦预言离合和数字亦异。",
+    "老子寿数传闻、关口地点和后出神异行迹不确年；宫玄孙不缩代。",
+    "庄周蒙地、生卒年和楚威王聘相年只限原文可证精度。",
+    "申不害十五年与现代355—338等年链另存；无侵韩不作逐年统计。",
+    "说难空书名、显有所出、知尽之难、所设等字句保留疑义；寓言不造实年。",
+    "韩非王安五年与秦十四年的一岁年差、获罪动机不同叙事层次未强合。"
+  ],
+  "limitations": [
+    "原始TXT、逐行MD、HTML和可读三家注均未回写。",
+    "字符覆盖、编号和旧锚保全不证明历史疑难已消除。",
+    "时期页位置与章节顺序均不替代未知事件年、著作年。",
+    "共同页在作者提交时的计数与编号为此处统计，最终整合变更由整合者复核。"
+  ],
+  "author_status_at_fixed_commit": "author_checks_passed_pending_integrated_review",
+  "integrated_validation": {
+    "status": "passed",
+    "date": "2026-11-12",
+    "original_prose_units": 25,
+    "later_praise_units": 1,
+    "registered_quotes": 38,
+    "whole_source_covered": true,
+    "old_quotes_and_anchors_preserved": true,
+    "current_source_hashes": {
+      "sources/本地分卷/史记/史记-卷063.txt": "6d0555e75d0e0353997b609e89a5569829b22b79da047ae80d5be882a02393bc",
+      "sources/本地分卷/史记/史记-卷063.md": "a36fb5d5c7cd64b69161e77cd198f693e5de47f19a7a15a8f19a3935247f1ba7",
+      "sources/史记三家注/原始HTML/063.htm": "7451c7986c9eecd3c16055a2d80b7815d3605711650adcd6b29def4ceb381bf3",
+      "sources/史记三家注/卷063.md": "c927178c91f2c80cd3a968e896dbc11f7a606e53dadc54a7001fae32e5444376",
+      "sources/摘录/史记-卷063-老子韩非列传.md": "dd0e67bfec6b67e02a2d86dc154f448a8843586c5bcbdbb6972ee4088491d61d",
+      "meta/记录/史记-卷063-单元数据.json": "fe5b2b1b3a0191d534c4ef06a9ab6f1be087d82c96fcfeb022bb4674cfd0e0a4"
+    },
+    "snapshot_note": "作者原核验及其哈希保留为固定提交时记录；本字段登记最后整合。正式发布前还须检查全部新增元数据。"
+  }
+}

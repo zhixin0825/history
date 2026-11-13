@@ -1,0 +1,683 @@
+{
+  "volume": "063",
+  "title": "老子韩非列传",
+  "date": "2026-11-12",
+  "reader_role": "author",
+  "status": "passed_after_independent_and_integrated_review",
+  "scope_boundary": "逐段完整实读原文、古注并自撰白话；机械覆盖只是另一个验证，不替代阅读，也不冒称独立复核。",
+  "primary_units": [
+    {
+      "unit": "P001",
+      "line": 4606,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4606",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "老子的籍贯、姓名与职掌",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "b1317b1ddbe45f837544048e7a9d9bb9f9e90089afd4fe4bfd7e7ddeba3ea488",
+      "reading_sha256": "f393e35bc7131b617b50440d25493be7ec8a6d6184e3e07dc03bfe45d2215af0",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-zhou-note",
+          "placement_anchor": "sj063-cite-001",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P002",
+      "line": 4607,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4607",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "孔子问礼与犹龙之叹",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "d0b3b5e3262e4f76a5ffda486a6a443a5670ae2832173c7d593ba9098e1127db",
+      "reading_sha256": "0fce8a3c86ac94345f3cd76ef3ae6b757483320f4988ab949114ca979a451434",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj047-zhou-note",
+          "placement_anchor": "sj063-cite-002",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P003",
+      "line": 4608,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4608",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "离周、出关与五千余言",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "5a699a24d62708367db65163139b61949d63dabc49e8b80b9834e5b443f58879",
+      "reading_sha256": "9eeddc0ea74dec8d3dc8f71ecdb2633c118dbd4f0101a3773b63678cca7398a5",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj063-laozi-leaves-note",
+          "placement_anchor": "sj063-cite-003",
+          "number": 31
+        }
+      ]
+    },
+    {
+      "unit": "P004",
+      "line": 4609,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4609",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "老莱子的另一传说",
+      "text_layer": "篇本文并列传闻与身份异说",
+      "raw_sha256": "19decfd26f054e880fea2354d01e65716292ef6e2476662e640b331f8e6567cd",
+      "reading_sha256": "19f2556ac62062fa216558874d0021d676144f5c76d6a85df40a22ad578d2ca8",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj063-laozi-variants-note",
+          "placement_anchor": "sj063-cite-004",
+          "number": 32
+        }
+      ]
+    },
+    {
+      "unit": "P005",
+      "line": 4610,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4610",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "老子寿数的传闻",
+      "text_layer": "篇本文并列传闻与身份异说",
+      "raw_sha256": "3ea83d35aac18dad0efd579dc911d141206a5c9cafa5a394b698d90018ea62c9",
+      "reading_sha256": "cb007810b151f3336665b619bf0a098546b16c3ce1867d5b9868205e6a15a75e",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj063-laozi-variants-note",
+          "placement_anchor": "sj063-cite-005",
+          "number": 32
+        }
+      ]
+    },
+    {
+      "unit": "P006",
+      "line": 4611,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4611",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "太史儋见秦献公与身份疑问",
+      "text_layer": "篇本文并列传闻与身份异说",
+      "raw_sha256": "24b00698a595f15cc17f1e4ce0704b07b0837618f61aaba4ab1e99aded1f50e7",
+      "reading_sha256": "f1f78880a8ade5fbd371026457bfc873f6450539e81100a09e0404ada924bc1c",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0374.md",
+          "note_anchor": "reading-note-2",
+          "placement_anchor": "sj063-cite-007",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P007",
+      "line": 4612,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4612",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "宗至假、解的后裔世系",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "d3db72644cea26b96cdd257484480f97b969396141e3f4dbfb9e3fc2d497193f",
+      "reading_sha256": "51a2286292e086d16581b742d6a1f3d80bf271497439a70f57e0aec3e1328c5c",
+      "destinations": [
+        {
+          "path": "years/bce-0200-0101/未定年-老子后裔在汉代的传述.md",
+          "note_anchor": "sj063-descendants-note",
+          "placement_anchor": "sj063-cite-009",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P008",
+      "line": 4613,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4613",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "儒老相斥与无为清静",
+      "text_layer": "太史公篇中论说",
+      "raw_sha256": "13c8e6fd629f928af99a8fd1cd576d8a5e480bb92b4c7d0fcafac21a14d5480f",
+      "reading_sha256": "4ea1b361a826bf926414d57a21a967ea0aa869bff3bf1b0e80c62a8cf8dd45f2",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-春秋晚期求学与问政.md",
+          "note_anchor": "sj063-laozi-variants-note",
+          "placement_anchor": "sj063-cite-006",
+          "number": 32
+        }
+      ]
+    },
+    {
+      "unit": "P009",
+      "line": 4615,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4615",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "庄周的经历、著述与寓言",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "c3e350ccf06551db3c2031281c720c8941f9b9a7046233a5c1da015cc03f776e",
+      "reading_sha256": "6c09718140b4019ec8194a6a91e351d474ddf5337cca1a6cea4a31b82a8b93af",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+          "note_anchor": "sj063-zhuangzi-life-note",
+          "placement_anchor": "sj063-cite-010",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P010",
+      "line": 4616,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4616",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "庄周拒绝楚王聘相",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "ce30d5327d9410fc08333bf642091ca5d314ab7809cdcc112dce2b7e26795353",
+      "reading_sha256": "48f14f9968e6c81a79fbd7bdc0bc40c1d454ba403996445090629591abe71d00",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+          "note_anchor": "sj063-zhuangzi-refuses-note",
+          "placement_anchor": "sj063-cite-011",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P011",
+      "line": 4618,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4618",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "申不害相韩与刑名著述",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "4a3fcab49f1de7e9fbf2575d4848c701fa2242ba5c6d3cf75bf867fd65247623",
+      "reading_sha256": "7f67a5be92713e0e6bff1500f2296cb75b45dcb354cfc70e4cc6ee2a5636d8f6",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/bce-0351.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj063-cite-013",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P012",
+      "line": 4620,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4620",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "韩非的公族出身、口吃与师承",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "912c93cb3f1f9ac13bbc524f9cb69f58becb92864b30d37d3c81ec96d47d153c",
+      "reading_sha256": "c546dea1579ec1936b649cdef981a78e40e06e6447748c717e45a5f96c303411",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0237.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj063-cite-016",
+          "number": 3
+        },
+        {
+          "path": "years/bce-0300-0201/bce-0233.md",
+          "note_anchor": "note-3",
+          "placement_anchor": "sj063-cite-018",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "unit": "P013",
+      "line": 4621,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4621",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "谏韩不用与著书的缘由",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "85fc625e3c87bd9fb48a856b841587d5ffa56f820967d65ee2a49ee804433b22",
+      "reading_sha256": "dd16cba9a39e93fe40c677a03b5aa85fe151f6dbfe91b7af75a5596955337422",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-hanfei-writings-note",
+          "placement_anchor": "sj063-cite-019",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "unit": "P014",
+      "line": 4622,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4622",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "熟知说难而未能自救的预叙",
+      "text_layer": "篇本文预叙结局",
+      "raw_sha256": "67a6d2de4c55cf8edaee22c5d968bbd24d398d53b68cce4df8402334db7906e8",
+      "reading_sha256": "570b24e42d4013f347c88d2f829e70d014169b2007edf632e2301ccd787b9633",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0233.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj063-cite-034",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P015",
+      "line": 4623,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4623",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "说难引文的篇名",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "dcadfed3656a20b261c217ba0cdc6562aff4d65f2f3e40e909766bd08bdeb2df",
+      "reading_sha256": "c37394df76ae5c54a4133e4f4a7e1fb1c3c2b2310b838cd6c997db7a2dc72709",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-shuinan-intro-note",
+          "placement_anchor": "sj063-cite-021",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P016",
+      "line": 4624,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4624",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "游说的难处在揣知对方心意",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "3ab3260e08bdaa38ffcbd677e25ff7542448e663681dfee3443f25d3fd1a3cfa",
+      "reading_sha256": "fb5d3674c81016d973f444c9b240236791280ce1966f6caae1af4979c1dfa59a",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-shuinan-intro-note",
+          "placement_anchor": "sj063-cite-022",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P017",
+      "line": 4625,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4625",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "名声与利益的不同诉求",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "98775f4e9a7f8e7e292644e044da7ca47a5e8e60d4789ab8b09deab3319bc2ed",
+      "reading_sha256": "78afa131b7cd9c01c39a386b6ac159a8e25507ca9fc7631425623722a402b448",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-name-profit-note",
+          "placement_anchor": "sj063-cite-023",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "unit": "P018",
+      "line": 4626,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4626",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "泄密、争功与触忤的多种危险",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "baf68064d2178c4e230385314bb9de929444a8acc89e0c78d25efdb0f85a4ca5",
+      "reading_sha256": "6b7c0a5a45437dbaed88278f971eee8b7ac067a455b33bae4ccc009b0f219694",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-risks-note",
+          "placement_anchor": "sj063-cite-024",
+          "number": 4
+        }
+      ],
+      "author_reading_sha256_at_fixed_commit": "fa115554d85bdc64aabfaf75a18db3881b3bafc168dfcab43695ea403350dea6",
+      "integrated_correction": "独立复核后由整合者明确粥权是君主权势；完整读本与单元同步，原文未改。"
+    },
+    {
+      "unit": "P019",
+      "line": 4627,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4627",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "取得信任、尽言与进谏的分寸",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "75ca8b9cd963b7396a8b5cbae279a8e0be13eaee9c820b6400a691cb85ee735b",
+      "reading_sha256": "1bddba715a7041844c3cff1297f21f77c5c93305845eb17d4914120a76b664c0",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-trust-note",
+          "placement_anchor": "sj063-cite-026",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "unit": "P020",
+      "line": 4628,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4628",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "伊尹、百里奚作为进身的例子",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "4b32d428b1053449145397c75b64f263fd5a0e0b37ae7f96a1bda3ea1d0ae1d6",
+      "reading_sha256": "81786eed210acfbd6cb1fc1e0fcfb54caf1adeb8683069234d865ae556d2d3f7",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-humble-entry-note",
+          "placement_anchor": "sj063-cite-028",
+          "number": 6
+        }
+      ]
+    },
+    {
+      "unit": "P021",
+      "line": 4629,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4629",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "富人疑邻与郑武公伐胡两则说例",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "42347b962d18ec8560a33c778739912fab05ae14e068c5e20f66dd5a443e712a",
+      "reading_sha256": "f93a29965b92427361d8e9c2598925ffc3d5cdf344c6085d3ac7ae39d692e355",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-two-examples-note",
+          "placement_anchor": "sj063-cite-030",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "unit": "P022",
+      "line": 4630,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4630",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "弥子瑕的余桃与爱憎变化",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "4ab3e7d2444cd8fe8c3fa0dbd3c0bf61924f6844015f0f0dbfbe652fc4195282",
+      "reading_sha256": "6a55ecd0209d5c4ac9ae705fee5f0e7449e14137d1fcacf9e6c00148c9b0ebd1",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-mizi-note",
+          "placement_anchor": "sj063-cite-032",
+          "number": 8
+        }
+      ]
+    },
+    {
+      "unit": "P023",
+      "line": 4631,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4631",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "以龙的逆鳞比拟人主禁忌",
+      "text_layer": "篇本文所引韩非《说难》；论辩与寓言",
+      "raw_sha256": "f25b4da8631c9467701ea5003fe38fc1902f7069691389068d1bb531cae9334c",
+      "reading_sha256": "6314caac73328a56d63ca4af5b97df4af8c3152b35c6d2f4d7b4a3921c113eb9",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-dragon-note",
+          "placement_anchor": "sj063-cite-033",
+          "number": 9
+        }
+      ]
+    },
+    {
+      "unit": "P024",
+      "line": 4632,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4632",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "韩非使秦、入狱与死亡；史家的惋惜",
+      "text_layer": "篇本文叙事及太史公第一人称感叹",
+      "raw_sha256": "9ab6779c57db872a2bbb5f6d9e60ded66104ed92f78842b89c50109488b79107",
+      "reading_sha256": "9fe232a6e486d093f68830c94d10f047acad1c9871032e63d2ba229ae031caae",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/bce-0233.md",
+          "note_anchor": "note-2",
+          "placement_anchor": "sj063-cite-035",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "unit": "P025",
+      "line": 4634,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4634",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "太史公总论老庄申韩",
+      "text_layer": "太史公总论",
+      "raw_sha256": "86cb6a3703e6a009a68dfa4d60c5583161e06790181c79d9603053722d6159bf",
+      "reading_sha256": "9a7a5375f8a97276e3d6d04954a94967a943012bb95eb868dc524e7ee44b254b",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-author-review",
+          "placement_anchor": "sj063-cite-037",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "Z001",
+      "line": null,
+      "source_path": "sources/史记三家注/卷063.md",
+      "source_anchor": "p27",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "司马贞述赞",
+      "text_layer": "唐代司马贞《索隐述赞》；非司马迁",
+      "raw_sha256": "132ffde4d25a9514a1a3266a07700e43368fbc0baaa781e7c079ad2af348a561",
+      "reading_sha256": "67b3f880efdbfeafe99d1f96614528629eced55d4d9e543f8a5321878914693c",
+      "destinations": [
+        {
+          "path": "years/bce-0300-0201/未定年-韩非著述与说难寓言.md",
+          "note_anchor": "sj063-author-review",
+          "placement_anchor": "sj063-cite-038",
+          "number": null
+        }
+      ]
+    }
+  ],
+  "editorial_labels": [
+    {
+      "raw": "莊子",
+      "line": 4614,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4614",
+      "excerpt_anchor": "label-zhuangzi",
+      "kind": "原转录分节标签；不计作司马迁实质段"
+    },
+    {
+      "raw": "申不害",
+      "line": 4617,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4617",
+      "excerpt_anchor": "label-shenbuhai",
+      "kind": "原转录分节标签；不计作司马迁实质段"
+    },
+    {
+      "raw": "韓非",
+      "line": 4619,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4619",
+      "excerpt_anchor": "label-hanfei",
+      "kind": "原转录分节标签；不计作司马迁实质段"
+    },
+    {
+      "raw": "評論",
+      "line": 4633,
+      "source_path": "sources/本地分卷/史记/史记-卷063.md",
+      "source_anchor": "L4633",
+      "excerpt_anchor": "label-comment",
+      "kind": "原转录分节标签；不计作司马迁实质段"
+    }
+  ],
+  "commentary_record": "meta/记录/史记-卷063-三家注逐段核读.json",
+  "commentary_paragraphs_read": 28,
+  "additional_primary_readings": [
+    {
+      "path": "sources/补充阅读/史记-卷063-说难古籍对读.md",
+      "read_scope": "维基文库韩非子说难全篇已读；本地只保存相关五处",
+      "limitation": "不是独立善本或现代点校校勘记"
+    },
+    {
+      "path": "sources/本地分卷/史记/史记-卷006.md",
+      "source_anchor": "L354",
+      "read_scope": "李斯下韩、韩王与韩非谋弱秦及相邻本纪句",
+      "limitation": "不声称本轮重新审读全卷006"
+    }
+  ],
+  "modern_reference_reading": [
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "维基百科",
+      "title": "老子",
+      "url": "https://zh.wikipedia.org/wiki/老子",
+      "read_scope": "身份论争和家族相关段",
+      "used_as": "不把李耳、老聃、太史儋和网页增补谱系自动合并"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "百度百科移动可读页",
+      "title": "老子",
+      "url": "https://wapbaike.baidu.com/item/%E3%80%8A%E8%80%81%E5%AD%90%E3%80%8B/5448",
+      "read_scope": "概要、基本资料及生平年次相关段",
+      "used_as": "约571与确定卒年、任史问礼年表均不作本卷已证年次"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "Stanford Encyclopedia of Philosophy",
+      "title": "Laozi",
+      "url": "https://plato.stanford.edu/entries/laozi/",
+      "read_scope": "导言及第1节The Laozi Story",
+      "limitation": "未声明通读思想史后续全部章节",
+      "used_as": "区分传记、神仙传说与现代身份研究；仍保留未决"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "维基百科",
+      "title": "庄子",
+      "url": "https://zh.wikipedia.org/wiki/莊子",
+      "read_scope": "生平及著述相关段",
+      "used_as": "生卒估计不替代原传同时范围"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "百度百科",
+      "title": "庄子",
+      "url": "https://wapbaike.baidu.com/item/庄子/8074",
+      "read_scope": "文学、生卒与籍贯争议相关段",
+      "used_as": "不定现代蒙地；括地志引文署名回原注核为正义"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "维基百科",
+      "title": "申不害",
+      "url": "https://zh.wikipedia.org/wiki/申不害",
+      "read_scope": "生平正文及其引文注释",
+      "used_as": "近二十年与所引十五年有差异，不直接改原年链"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "百度百科可读页",
+      "title": "申不害",
+      "url": "https://bkso.baidu.com/item/申不害/1407321",
+      "read_scope": "生平年次相关段",
+      "used_as": "355—338与十五年不直接相合，保留另说"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "维基百科",
+      "title": "韩非",
+      "url": "https://zh.wikipedia.org/wiki/韩非",
+      "read_scope": "生平、出生年及师承相关段",
+      "used_as": "不同生年推定和求学精确年不采用"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "百度百科可读页",
+      "title": "韩非",
+      "url": "https://bkso.baidu.com/item/韩非/1111",
+      "read_scope": "概要与主要生平正文",
+      "used_as": "王安三年235／234内部不一；早年细表和口吃程度不采用"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "中正大学中文学术年刊",
+      "title": "王奕然：试论先秦诸子寓言中的宋人形象",
+      "url": "https://humanities.ccu.edu.tw/var/file/56/1056/img/1319/13_04.pdf",
+      "read_scope": "摘要、前言、页90相关小节与结论",
+      "limitation": "未称14页全文逐页通读",
+      "used_as": "把宋富人例置于寓言论证，不配作确年史事"
+    }
+  ],
+  "page_scope": "全部本卷新增及改写正文、所附原引与注释；既有年页读取相关事件和归年说明，不声明重新考证所有无关旧条。",
+  "author_revisions": [
+    "按根独立读稿建议，用漏壶滴水计时；237前事明示此前；玄孙解释移同号注；穰苴御者异读留注，正文题头简为景公时期。"
+  ],
+  "independent_content_review": {
+    "status": "not_claimed_by_author",
+    "record_to_be_completed_by": "项目整合者"
+  },
+  "author_status_at_fixed_commit": "author_full_reading_completed",
+  "author_independent_review_at_fixed_commit": null,
+  "independent_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author061062（卷065—066作者）",
+      "volumes": [
+        63,
+        64
+      ],
+      "scope": "卷063—064全部29P、2Z、33段三家注及13张新改阅读页的相关正文、同号说明与3份本地补充材料。",
+      "result": "通过；粥权的指向歧义已修并从881dea2读回。",
+      "author_fixed_commit": "0d81a8bc9f6e86d4cb44e474217b22b07704e65a",
+      "report_file": "independent-review-063064.json",
+      "report_sha256": "2d7dbb0e443c5f5eaf725298430ceacba0b6a6d3e55bc50ff06aa7cf01c313b2"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "integrated_review_note": "原作者逐段通读范围与固定稿状态保留；独立复核及整合修订在本字段和所链记录另记，不把程序覆盖检查冒作人工阅读。"
+}

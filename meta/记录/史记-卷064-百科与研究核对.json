@@ -1,0 +1,44 @@
+{
+  "volume": "064",
+  "date": "2026-11-12",
+  "reader_role": "author",
+  "local_summary": "sources/补充阅读/史记-卷063至064-现代核对摘要.md",
+  "entries": [
+    {
+      "opened": true,
+      "site": "维基百科",
+      "title": "田穰苴",
+      "url": "https://zh.wikipedia.org/wiki/司馬穰苴",
+      "read_scope": "主要正文",
+      "used_as": "与景公传述对照，仆字和田和／威王均回原文古注核"
+    },
+    {
+      "opened": true,
+      "site": "百度百科可读页",
+      "title": "田穰苴",
+      "url": "https://bkso.baidu.com/item/田穰苴/0?fromModule=lemma_inlink",
+      "read_scope": "概要",
+      "limitation": "未声称该页全部正文通读",
+      "used_as": "生卒不详；杀御者的通俗断法不能替代注本比较"
+    },
+    {
+      "opened": true,
+      "site": "国家图书馆出版社",
+      "title": "子藏·兵家部·六韬卷（附司马法 尉缭子）",
+      "url": "https://www.nlcpress.com/ProductView.aspx?Id=11066",
+      "read_scope": "书目与所载司马法前言",
+      "limitation": "未读该套书正文或尉缭子全部前言",
+      "used_as": "时代二说与编集层次概述，不代表学界无争议"
+    },
+    {
+      "opened": true,
+      "site": "山东地方志资料镜像",
+      "title": "生平主要活动",
+      "url": "https://shandong-chorography.org/database/zzmj/section/18/article/4/",
+      "read_scope": "该条可见全文",
+      "limitation": "只见杨善群孙子评传245页的二手转引，未读原书该页",
+      "used_as": "约528仅作追索线索，不用来确定斩庄贾年"
+    }
+  ],
+  "rule": "只声明实际访问和实际读到的范围；二手转引不等于阅读原书；未采用现代译文"
+}

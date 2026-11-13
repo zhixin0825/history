@@ -1,0 +1,242 @@
+{
+  "volume": "064",
+  "title": "司马穰苴列传",
+  "date": "2026-11-12",
+  "reader_role": "author",
+  "status": "passed_after_independent_and_integrated_review",
+  "scope_boundary": "逐段完整实读原文、古注并自撰白话；机械覆盖只是另一个验证，不替代阅读，也不冒称独立复核。",
+  "primary_units": [
+    {
+      "unit": "P001",
+      "line": 4636,
+      "source_path": "sources/本地分卷/史记/史记-卷064.md",
+      "source_anchor": "L4636",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "晏婴荐将、斩庄贾与退敌",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "aa362fb93874a97aa994a2f74e89947daa01005fd3e2c6f9a509c9b76d5bc7c0",
+      "reading_sha256": "891c5475e9025c849a9d7d285779660c91d069c4c1045b15f5d99a81ebb36cc9",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-晏婴相政与知人故事.md",
+          "note_anchor": "sj064-recommend-note",
+          "placement_anchor": "sj064-cite-001",
+          "number": 4
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-晏婴相政与知人故事.md",
+          "note_anchor": "sj064-zhuangjia-note",
+          "placement_anchor": "sj064-cite-003",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-晏婴相政与知人故事.md",
+          "note_anchor": "sj064-messenger-note",
+          "placement_anchor": "sj064-cite-004",
+          "number": 6
+        },
+        {
+          "path": "years/bce-0600-0501/未定年-晏婴相政与知人故事.md",
+          "note_anchor": "sj064-army-note",
+          "placement_anchor": "sj064-cite-006",
+          "number": 7
+        }
+      ]
+    },
+    {
+      "unit": "P002",
+      "line": 4637,
+      "source_path": "sources/本地分卷/史记/史记-卷064.md",
+      "source_anchor": "L4637",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "穰苴遭谗与田氏后来的兴起",
+      "text_layer": "篇本文跨代总叙；含田和与威王错接",
+      "raw_sha256": "6b43f3855e4a0724bb18e70600bc60e294f74cdac5bec15c062377c962a2736c",
+      "reading_sha256": "bc1544eead7f762b21048d2542fcf6ef9f9b3dd865bd74efe41061680ffe4e8f",
+      "destinations": [
+        {
+          "path": "years/bce-0600-0501/未定年-晏婴相政与知人故事.md",
+          "note_anchor": "sj064-dismissed-note",
+          "placement_anchor": "sj064-cite-007",
+          "number": 8
+        },
+        {
+          "path": "years/bce-0500-0401/bce-0481.md",
+          "note_anchor": "note-5",
+          "placement_anchor": "sj064-cite-008",
+          "number": 5
+        },
+        {
+          "path": "years/bce-0400-0301/bce-0386.md",
+          "note_anchor": "note-1",
+          "placement_anchor": "sj064-cite-009",
+          "number": 1
+        },
+        {
+          "path": "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+          "note_anchor": "sj064-military-book-note",
+          "placement_anchor": "sj064-cite-011",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "unit": "P003",
+      "line": 4638,
+      "source_path": "sources/本地分卷/史记/史记-卷064.md",
+      "source_anchor": "L4638",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "齐威王追论兵法",
+      "text_layer": "篇本文叙事",
+      "raw_sha256": "1e15beaabf6ad4ad3ce27265646f373fb89c2e03bd629da452b5a98c5cc8c241",
+      "reading_sha256": "06953d29780592ab0c3eb1865e5d5f6b3e97fdf0c19419107a25feef46c3ce5f",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+          "note_anchor": "sj064-military-book-note",
+          "placement_anchor": "sj064-cite-012",
+          "number": 3
+        }
+      ]
+    },
+    {
+      "unit": "P004",
+      "line": 4640,
+      "source_path": "sources/本地分卷/史记/史记-卷064.md",
+      "source_anchor": "L4640",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "太史公论司马兵法与列传取材",
+      "text_layer": "太史公论说",
+      "raw_sha256": "cad96ec15cecae0899db8c6182c4880789f57b8003c334c05992ce66cbdd409a",
+      "reading_sha256": "7e526589c4d5ed1a4088c08c851862cd384f805f364ca7fe0e3271430a559dee",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+          "note_anchor": "sj064-author-review",
+          "placement_anchor": "sj064-cite-013",
+          "number": null
+        }
+      ]
+    },
+    {
+      "unit": "Z001",
+      "line": null,
+      "source_path": "sources/史记三家注/卷064.md",
+      "source_anchor": "p4",
+      "read_status": "entire_original_and_authored_reading_compared",
+      "title": "司马贞述赞",
+      "text_layer": "唐代司马贞《索隐述赞》；非司马迁",
+      "raw_sha256": "add1e8acaf9d804db7e3384c3066546995c9ca3ae21dd40e09ea3c2b7e167f71",
+      "reading_sha256": "5768664fdd8c8870e03666bb5648c915ea6027070033bd008b81d56201d18f2d",
+      "destinations": [
+        {
+          "path": "years/bce-0400-0301/未定年-战国诸子与兵学传承.md",
+          "note_anchor": "sj064-author-review",
+          "placement_anchor": "sj064-cite-014",
+          "number": null
+        }
+      ]
+    }
+  ],
+  "editorial_labels": [
+    {
+      "raw": "評論",
+      "line": 4639,
+      "source_path": "sources/本地分卷/史记/史记-卷064.md",
+      "source_anchor": "L4639",
+      "excerpt_anchor": "label-comment",
+      "kind": "原转录分节标签；不计作司马迁实质段"
+    }
+  ],
+  "commentary_record": "meta/记录/史记-卷064-三家注逐段核读.json",
+  "commentary_paragraphs_read": 5,
+  "additional_primary_readings": [
+    {
+      "path": "sources/补充阅读/史记-卷064-时代争议古籍节录.md",
+      "source_anchor": "siku-critique",
+      "read_scope": "四库本卷末考证全文",
+      "limitation": "为转引苏辙、叶适，未亲读古史、习学记言全书"
+    },
+    {
+      "path": "sources/补充阅读/史记-卷064-时代争议古籍节录.md",
+      "source_anchor": "qiliu-minwang",
+      "read_scope": "战国策齐六对应章湣王失政至燕攻齐、奔莒及襄王承接的可见段",
+      "limitation": "未声称战国策全书通读"
+    },
+    {
+      "path": "sources/补充阅读/史记-卷064-时代争议古籍节录.md",
+      "source_anchor": "yanzi-night",
+      "read_scope": "晏子春秋卷五第十二章景公夜饮移访及君子评语",
+      "limitation": "只作时代互见，不提供庄贾受斩年"
+    }
+  ],
+  "modern_reference_reading": [
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "维基百科",
+      "title": "田穰苴",
+      "url": "https://zh.wikipedia.org/wiki/司馬穰苴",
+      "read_scope": "主要正文",
+      "used_as": "与景公传述对照，仆字和田和／威王均回原文古注核"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "百度百科可读页",
+      "title": "田穰苴",
+      "url": "https://bkso.baidu.com/item/田穰苴/0?fromModule=lemma_inlink",
+      "read_scope": "概要",
+      "limitation": "未声称该页全部正文通读",
+      "used_as": "生卒不详；杀御者的通俗断法不能替代注本比较"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "国家图书馆出版社",
+      "title": "子藏·兵家部·六韬卷（附司马法 尉缭子）",
+      "url": "https://www.nlcpress.com/ProductView.aspx?Id=11066",
+      "read_scope": "书目与所载司马法前言",
+      "limitation": "未读该套书正文或尉缭子全部前言",
+      "used_as": "时代二说与编集层次概述，不代表学界无争议"
+    },
+    {
+      "opened": true,
+      "date": "2026-11-12",
+      "site": "山东地方志资料镜像",
+      "title": "生平主要活动",
+      "url": "https://shandong-chorography.org/database/zzmj/section/18/article/4/",
+      "read_scope": "该条可见全文",
+      "limitation": "只见杨善群孙子评传245页的二手转引，未读原书该页",
+      "used_as": "约528仅作追索线索，不用来确定斩庄贾年"
+    }
+  ],
+  "page_scope": "全部本卷新增及改写正文、所附原引与注释；既有年页读取相关事件和归年说明，不声明重新考证所有无关旧条。",
+  "author_revisions": [
+    "按根独立读稿建议，用漏壶滴水计时；237前事明示此前；玄孙解释移同号注；穰苴御者异读留注，正文题头简为景公时期。"
+  ],
+  "independent_content_review": {
+    "status": "not_claimed_by_author",
+    "record_to_be_completed_by": "项目整合者"
+  },
+  "author_status_at_fixed_commit": "author_full_reading_completed",
+  "author_independent_review_at_fixed_commit": null,
+  "independent_review": {
+    "status": "passed",
+    "review": {
+      "reviewer": "author061062（卷065—066作者）",
+      "volumes": [
+        63,
+        64
+      ],
+      "scope": "卷063—064全部29P、2Z、33段三家注及13张新改阅读页的相关正文、同号说明与3份本地补充材料。",
+      "result": "通过；粥权的指向歧义已修并从881dea2读回。",
+      "author_fixed_commit": "0d81a8bc9f6e86d4cb44e474217b22b07704e65a",
+      "report_file": "independent-review-063064.json",
+      "report_sha256": "2d7dbb0e443c5f5eaf725298430ceacba0b6a6d3e55bc50ff06aa7cf01c313b2"
+    },
+    "record": "meta/记录/史记-卷063至067-独立内容复核.md",
+    "integrated_record": "meta/记录/2026-11-12-史记卷063至067整合核验.json"
+  },
+  "integrated_review_note": "原作者逐段通读范围与固定稿状态保留；独立复核及整合修订在本字段和所链记录另记，不把程序覆盖检查冒作人工阅读。"
+}
