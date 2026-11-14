@@ -1,0 +1,38 @@
+{
+  "base": "12450009b73d3d20bce29eac313ac4a4f874bdb5",
+  "volumes": 65,
+  "stats": {
+    "gloss_sections": 340,
+    "text_only_lines": 0,
+    "nonempty_text_lines": 3015,
+    "volumes_with_reading_notes": 65,
+    "manual_routes": 714,
+    "new_witnesses": 65,
+    "existing_year_pages": 44,
+    "new_events": 1525,
+    "exact_quotes_added": 2049,
+    "merged_routes": 533,
+    "exact_quotes_reused": 9,
+    "new_year_pages": 55,
+    "period_pages": 6,
+    "period_sections": 309,
+    "local_links_checked": 13430,
+    "verified_routes": 2058,
+    "verified_byte_exact_slices": 65,
+    "verified_orig_lines": 3015,
+    "total_canonical_years": 1085,
+    "new_external_links": 0
+  },
+  "sha256": "ca6885accbadbe4da4e09428ad2410a8b6f1cebb88f833827b121f62b222ec07",
+  "primary_year_range": [
+    184,
+    280
+  ],
+  "annual_pdf_style_sample_pages": [
+    18,
+    19,
+    20
+  ],
+  "source": "sources/二十四史/txt/04_sanguozhi_full.txt",
+  "verified": true
+}
