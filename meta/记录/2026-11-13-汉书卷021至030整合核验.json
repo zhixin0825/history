@@ -1,0 +1,91 @@
+{
+  "base": "140dafb6c4848dd52c2fcc17ce550d40686c0994",
+  "stats": {
+    "existing_years": 319,
+    "new_quotes": 742,
+    "existing_events": 337,
+    "reused_quotes": 73,
+    "new_events": 311,
+    "new_years": 4
+  },
+  "volumes": {
+    "21": {
+      "groups": 80,
+      "lines": 251,
+      "routes": 23
+    },
+    "22": {
+      "groups": 61,
+      "lines": 81,
+      "routes": 32
+    },
+    "23": {
+      "groups": 30,
+      "lines": 32,
+      "routes": 26
+    },
+    "24": {
+      "groups": 55,
+      "lines": 103,
+      "routes": 66
+    },
+    "25": {
+      "groups": 54,
+      "lines": 129,
+      "routes": 123
+    },
+    "26": {
+      "groups": 39,
+      "lines": 157,
+      "routes": 76
+    },
+    "27": {
+      "groups": 65,
+      "lines": 424,
+      "routes": 340
+    },
+    "28": {
+      "groups": 132,
+      "lines": 246,
+      "routes": 107
+    },
+    "29": {
+      "groups": 32,
+      "lines": 32,
+      "routes": 21
+    },
+    "30": {
+      "groups": 58,
+      "lines": 700,
+      "routes": 1
+    }
+  },
+  "year_paths": {
+    "19": "years/ce-0001-0100/ce-0019.md",
+    "40": "years/ce-0001-0100/ce-0040.md",
+    "56": "years/ce-0001-0100/ce-0056.md",
+    "59": "years/ce-0001-0100/ce-0059.md"
+  },
+  "all_years": 840,
+  "periods": {
+    "years/bce-0200-0101/时期-汉书律历度量衡与三统历.md": 78,
+    "years/bce-0200-0101/时期-汉书礼乐制度与郊庙歌辞.md": 55,
+    "years/bce-0200-0101/时期-汉书刑制源流与未确年材料.md": 26,
+    "years/bce-0200-0101/时期-汉书食货制度与财计议论.md": 54,
+    "years/bce-0200-0101/时期-汉书郊祀制度与异闻.md": 54,
+    "years/bce-0200-0101/时期-汉书天文星官与占候.md": 39,
+    "years/bce-0200-0101/时期-汉书五行分类与未确年灾异.md": 64,
+    "years/bce-0100-0001/时期-汉书地理志的政区户籍与风俗.md": 132,
+    "years/bce-0200-0101/时期-汉书沟洫志的河道与水利议论.md": 17,
+    "years/bce-0100-0001/时期-汉书艺文志的书目与学术源流.md": 58
+  },
+  "ws_year_rows": 0,
+  "txt_source_sha256": "4fd2c97ce5c7e6a94c46741897fca72bb84a7e4748096c6d0ab60c392061fd44",
+  "year_routes_checked": 815,
+  "new_local_links_checked": 7927,
+  "new_external_links": 0,
+  "markdown_files_checked": 376,
+  "existing_txt_modified": false,
+  "pdf_visual_comparison_performed": false,
+  "verified": true
+}
