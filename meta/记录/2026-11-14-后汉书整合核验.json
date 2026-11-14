@@ -1,0 +1,38 @@
+{
+  "base": "4cd1bb97e74824514c4c256bf7fa7ecdc2bda626",
+  "volumes": 120,
+  "stats": {
+    "gloss_sections": 494,
+    "text_only_lines": 0,
+    "nonempty_text_lines": 9031,
+    "volumes_with_reading_notes": 120,
+    "manual_routes": 872,
+    "new_witnesses": 119,
+    "existing_year_pages": 33,
+    "merged_routes": 497,
+    "exact_quotes_added": 4638,
+    "new_events": 4216,
+    "exact_quotes_reused": 75,
+    "new_year_pages": 183,
+    "period_pages": 10,
+    "period_sections": 475,
+    "local_links_checked": 29999,
+    "verified_routes": 4713,
+    "verified_byte_exact_slices": 120,
+    "verified_orig_lines": 9031,
+    "total_canonical_years": 1030,
+    "new_external_links": 0
+  },
+  "sha256": "f4a174cd85dad3124813299c8c3216de4b27d33dbc12a71180eebf7c90e5e35f",
+  "annual_pdf_style_sample_pages": [
+    18,
+    19,
+    20
+  ],
+  "source": "sources/二十四史/txt/03_houhanshu_full.txt",
+  "verified": true,
+  "primary_year_range": [
+    22,
+    220
+  ]
+}
