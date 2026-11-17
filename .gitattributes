@@ -1,5 +1,4 @@
-sources/** -text
-meta/** text eol=lf
-meta/来源/原始记录/** -text
+史书/** -text
+拆分史书/** -text
 years/** text eol=lf
 README.md text eol=lf

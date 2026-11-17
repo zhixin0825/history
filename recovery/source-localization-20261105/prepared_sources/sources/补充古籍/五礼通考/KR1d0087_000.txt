@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 五禮通考
-#+DATE: 2015-08-24 22:11:59.077145
-#+PROPERTY: ID KR1d0087
-#+PROPERTY: BASEEDITION WYG    
